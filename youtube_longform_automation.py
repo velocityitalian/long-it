@@ -750,7 +750,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     py_line_h = 60
     py_total_h = len(py_lines) * py_line_h
 
-    total_content_h = en_total_h + cn_total_h + py_total_h + (GAP * 2)
+    total_content_h = en_total_h + it_total_h + py_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
