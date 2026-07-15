@@ -49,7 +49,7 @@ CATEGORIES_ENGLISH = [
 ]
 
 # Italian translations for display
-CATEGORIES_ITALIAN = {
+CATEGORIES_Italian = {
     "Motivation": "Motivazione",
     "Love": "Amore",
     "Success": "Successo",
@@ -79,7 +79,7 @@ CATEGORIES_ITALIAN = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-ITALIAN_VOICE = "it-IT-ElsaNeural"
+Italian_VOICE = "it-IT-ElsaNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "italian": phrase["italian"],
+            "Italian": phrase["Italian"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_italian = CATEGORIES_ITALIAN[category_english]
+    category_Italian = CATEGORIES_Italian[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -259,7 +259,7 @@ For each phrase:
 3. Phonetic pronunciation guide (with tone marks, e.g., "nǐ hǎo")
 
 Return as JSON array:
-[{{"english": "...", "italian": "...", "phonetic": "..."}}]
+[{{"english": "...", "Italian": "...", "phonetic": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "italian": "Credi in te stesso.", "phonetic": "KREH-dee in teh STEH-zoh."},
-            {"english": "You are capable of amazing things.", "italian": "Sei capace di cose straordinarie.", "phonetic": "SEH-ee kah-PAH-cheh dee KOH-zeh strah-ohr-dee-NAH-ree-eh."},
-            {"english": "Dream big, start small.", "italian": "Sogna in grande, inizia piccolo.", "phonetic": "SOH-nyah een GRAHN-deh, ee-NEE-tsah PEE-koh-loh."},
-            {"english": "Your future is created by your actions.", "italian": "Il tuo futuro e creato dalle tue azioni.", "phonetic": "eel TOO-oh foo-TOO-roh eh kreh-AH-toh DAH-leh TOO-eh aht-TSYOH-nee."},
-            {"english": "Never give up on your dreams.", "italian": "Non mollare mai i tuoi sogni.", "phonetic": "non mol-LAH-reh mah-ee too-OY SOH-nyee."},
-            {"english": "Small steps lead to big changes.", "italian": "Piccoli passi portano a grandi cambiamenti.", "phonetic": "pee-KOH-lee PAHS-see por-TAH-noh ah GRAHN-dee kahm-byah-MEHN-tee."},
-            {"english": "You are stronger than you think.", "italian": "Sei piu forte di quanto pensi.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh PEN-see."},
+            {"english": "Believe in yourself.", "Italian": "Credi in te stesso.", "phonetic": "KREH-dee in teh STEH-zoh."},
+            {"english": "You are capable of amazing things.", "Italian": "Sei capace di cose straordinarie.", "phonetic": "SEH-ee kah-PAH-cheh dee KOH-zeh strah-ohr-dee-NAH-ree-eh."},
+            {"english": "Dream big, start small.", "Italian": "Sogna in grande, inizia piccolo.", "phonetic": "SOH-nyah een GRAHN-deh, ee-NEE-tsah PEE-koh-loh."},
+            {"english": "Your future is created by your actions.", "Italian": "Il tuo futuro e creato dalle tue azioni.", "phonetic": "eel TOO-oh foo-TOO-roh eh kreh-AH-toh DAH-leh TOO-eh aht-TSYOH-nee."},
+            {"english": "Never give up on your dreams.", "Italian": "Non mollare mai i tuoi sogni.", "phonetic": "non mol-LAH-reh mah-ee too-OY SOH-nyee."},
+            {"english": "Small steps lead to big changes.", "Italian": "Piccoli passi portano a grandi cambiamenti.", "phonetic": "pee-KOH-lee PAHS-see por-TAH-noh ah GRAHN-dee kahm-byah-MEHN-tee."},
+            {"english": "You are stronger than you think.", "Italian": "Sei piu forte di quanto pensi.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh PEN-see."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "italian": "Ama te stesso prima.", "phonetic": "AH-mah teh STEH-zoh PREE-mah."},
-            {"english": "Love makes everything possible.", "italian": "L'amore rende tutto possibile.", "phonetic": "lah-MAH-reh REN-deh TOOT-toh pos-SEE-bee-leh."},
-            {"english": "My heart beats for you.", "italian": "Il mio cuore batte per te.", "phonetic": "eel MEE-oh KWOH-reh BAHT-teh per teh."},
-            {"english": "You are my everything.", "italian": "Sei il mio tutto.", "phonetic": "SEH-ee eel MEE-oh TOOT-toh."},
-            {"english": "Together forever, hand in hand.", "italian": "Insieme per sempre, mano nella mano.", "phonetic": "een-SYEH-meh per SEM-preh, MAH-noh NEL-lah MAH-noh."},
+            {"english": "Love yourself first.", "Italian": "Ama te stesso prima.", "phonetic": "AH-mah teh STEH-zoh PREE-mah."},
+            {"english": "Love makes everything possible.", "Italian": "L'amore rende tutto possibile.", "phonetic": "lah-MAH-reh REN-deh TOOT-toh pos-SEE-bee-leh."},
+            {"english": "My heart beats for you.", "Italian": "Il mio cuore batte per te.", "phonetic": "eel MEE-oh KWOH-reh BAHT-teh per teh."},
+            {"english": "You are my everything.", "Italian": "Sei il mio tutto.", "phonetic": "SEH-ee eel MEE-oh TOOT-toh."},
+            {"english": "Together forever, hand in hand.", "Italian": "Insieme per sempre, mano nella mano.", "phonetic": "een-SYEH-meh per SEM-preh, MAH-noh NEL-lah MAH-noh."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "italian": "Il successo viene dal duro lavoro.", "phonetic": "eel soo-CHEH-soh VYEH-neh dahl DOO-roh lah-VOH-roh."},
-            {"english": "Keep going, you're getting there.", "italian": "Continua, ci stai arrivando.", "phonetic": "kon-TEE-nwah, chee STAH-ee ahr-ree-VAHN-doh."},
-            {"english": "Winners never quit.", "italian": "I vincenti non si arrendono mai.", "phonetic": "ee veen-CHEN-tee non see ahr-REN-doh-noh mah-ee."},
-            {"english": "Your effort will pay off.", "italian": "I tuoi sforzi verranno premiati.", "phonetic": "ee too-OY SFOR-tsee ver-RAHN-noh preh-myah-TEE."},
+            {"english": "Success comes from hard work.", "Italian": "Il successo viene dal duro lavoro.", "phonetic": "eel soo-CHEH-soh VYEH-neh dahl DOO-roh lah-VOH-roh."},
+            {"english": "Keep going, you're getting there.", "Italian": "Continua, ci stai arrivando.", "phonetic": "kon-TEE-nwah, chee STAH-ee ahr-ree-VAHN-doh."},
+            {"english": "Winners never quit.", "Italian": "I vincenti non si arrendono mai.", "phonetic": "ee veen-CHEN-tee non see ahr-REN-doh-noh mah-ee."},
+            {"english": "Your effort will pay off.", "Italian": "I tuoi sforzi verranno premiati.", "phonetic": "ee too-OY SFOR-tsee ver-RAHN-noh preh-myah-TEE."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "italian": "La conoscenza e potere.", "phonetic": "lah koh-noh-SHEN-tsah eh poh-TEH-reh."},
-            {"english": "Learn from yesterday, live for today.", "italian": "Impara da ieri, vivi per oggi.", "phonetic": "eem-PAH-rah dah YEH-ree, VEE-vee per OH-jee."},
-            {"english": "Think before you act.", "italian": "Pensa prima di agire.", "phonetic": "PEN-sah PREE-mah dee ah-JEE-reh."},
-            {"english": "Experience is the best teacher.", "italian": "L'esperienza e la migliore maestra.", "phonetic": "leh-speh-ree-EN-tsah eh lah meel-YOH-reh mah-EH-strah."},
+            {"english": "Knowledge is power.", "Italian": "La conoscenza e potere.", "phonetic": "lah koh-noh-SHEN-tsah eh poh-TEH-reh."},
+            {"english": "Learn from yesterday, live for today.", "Italian": "Impara da ieri, vivi per oggi.", "phonetic": "eem-PAH-rah dah YEH-ree, VEE-vee per OH-jee."},
+            {"english": "Think before you act.", "Italian": "Pensa prima di agire.", "phonetic": "PEN-sah PREE-mah dee ah-JEE-reh."},
+            {"english": "Experience is the best teacher.", "Italian": "L'esperienza e la migliore maestra.", "phonetic": "leh-speh-ree-EN-tsah eh lah meel-YOH-reh mah-EH-strah."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "italian": "La felicita e una scelta.", "phonetic": "lah feh-lee-chee-TAH eh OO-nah SHEL-tah."},
-            {"english": "Find joy in the little things.", "italian": "Trova gioia nelle piccole cose.", "phonetic": "TROH-vah JOH-yah NEL-leh PEE-koh-leh KOH-zeh."},
-            {"english": "Smile, it makes others happy.", "italian": "Sorridi, rende felici gli altri.", "phonetic": "sor-REE-dee, REN-deh FEH-lee-chee lyee AHL-tree."},
-            {"english": "Today is a gift.", "italian": "Oggi e un regalo.", "phonetic": "OH-jee eh oon reh-GAH-loh."},
+            {"english": "Happiness is a choice.", "Italian": "La felicita e una scelta.", "phonetic": "lah feh-lee-chee-TAH eh OO-nah SHEL-tah."},
+            {"english": "Find joy in the little things.", "Italian": "Trova gioia nelle piccole cose.", "phonetic": "TROH-vah JOH-yah NEL-leh PEE-koh-leh KOH-zeh."},
+            {"english": "Smile, it makes others happy.", "Italian": "Sorridi, rende felici gli altri.", "phonetic": "sor-REE-dee, REN-deh FEH-lee-chee lyee AHL-tree."},
+            {"english": "Today is a gift.", "Italian": "Oggi e un regalo.", "phonetic": "OH-jee eh oon reh-GAH-loh."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "italian": "Sii migliore di ieri.", "phonetic": "SEE meel-YOH-reh dee YEH-ree."},
-            {"english": "Grow through what you go through.", "italian": "Cresci attraverso cio che attraversi.", "phonetic": "KREH-shee ah-trah-VER-soh choh keh ah-trah-VER-see."},
-            {"english": "Invest in yourself daily.", "italian": "Investi in te stesso ogni giorno.", "phonetic": "een-VEHS-tee in teh STEH-zoh OH-nyee JOR-noh."},
+            {"english": "Be better than yesterday.", "Italian": "Sii migliore di ieri.", "phonetic": "SEE meel-YOH-reh dee YEH-ree."},
+            {"english": "Grow through what you go through.", "Italian": "Cresci attraverso cio che attraversi.", "phonetic": "KREH-shee ah-trah-VER-soh choh keh ah-trah-VER-see."},
+            {"english": "Invest in yourself daily.", "Italian": "Investi in te stesso ogni giorno.", "phonetic": "een-VEHS-tee in teh STEH-zoh OH-nyee JOR-noh."},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "italian": "Grazie di tutto.", "phonetic": "GRAH-tsyeh dee TOOT-toh."},
-            {"english": "I appreciate your help.", "italian": "Apprezzo il tuo aiuto.", "phonetic": "ahp-PRET-soh eel TOO-oh ah-YOO-toh."},
-            {"english": "Grateful for this moment.", "italian": "Grato per questo momento.", "phonetic": "GRAH-toh per KWEH-stoh moh-MEN-toh."},
+            {"english": "Thank you for everything.", "Italian": "Grazie di tutto.", "phonetic": "GRAH-tsyeh dee TOOT-toh."},
+            {"english": "I appreciate your help.", "Italian": "Apprezzo il tuo aiuto.", "phonetic": "ahp-PRET-soh eel TOO-oh ah-YOO-toh."},
+            {"english": "Grateful for this moment.", "Italian": "Grato per questo momento.", "phonetic": "GRAH-toh per KWEH-stoh moh-MEN-toh."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "italian": "Amici per sempre, non importa cosa.", "phonetic": "ah-MEE-chee per SEM-preh, non eem-POR-tah KOH-zah."},
-            {"english": "You are my best friend.", "italian": "Sei il mio migliore amico.", "phonetic": "SEH-ee eel MEE-oh meel-YOH-reh ah-MEE-koh."},
-            {"english": "True friends stick together.", "italian": "I veri amici restano insieme.", "phonetic": "ee VEH-ree ah-MEE-chee REH-stah-noh een-SYEH-meh."},
+            {"english": "Friends forever, no matter what.", "Italian": "Amici per sempre, non importa cosa.", "phonetic": "ah-MEE-chee per SEM-preh, non eem-POR-tah KOH-zah."},
+            {"english": "You are my best friend.", "Italian": "Sei il mio migliore amico.", "phonetic": "SEH-ee eel MEE-oh meel-YOH-reh ah-MEE-koh."},
+            {"english": "True friends stick together.", "Italian": "I veri amici restano insieme.", "phonetic": "ee VEH-ree ah-MEE-chee REH-stah-noh een-SYEH-meh."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "italian": "C'e sempre speranza.", "phonetic": "cheh SEM-preh speh-RAHN-tsah."},
-            {"english": "Better days are coming.", "italian": "Giorni migliori stanno arrivando.", "phonetic": "JOR-nee meel-YOH-ree STAHN-noh ahr-ree-VAHN-doh."},
-            {"english": "Keep faith, keep going.", "italian": "Mantieni la fede, continua.", "phonetic": "mahn-tee-EH-nee lah FEH-deh, kon-TEE-nwah."},
+            {"english": "There is always hope.", "Italian": "C'e sempre speranza.", "phonetic": "cheh SEM-preh speh-RAHN-tsah."},
+            {"english": "Better days are coming.", "Italian": "Giorni migliori stanno arrivando.", "phonetic": "JOR-nee meel-YOH-ree STAHN-noh ahr-ree-VAHN-doh."},
+            {"english": "Keep faith, keep going.", "Italian": "Mantieni la fede, continua.", "phonetic": "mahn-tee-EH-nee lah FEH-deh, kon-TEE-nwah."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "italian": "Crea qualcosa di bello oggi.", "phonetic": "KREH-ah KWAL-koh-zah dee BEL-loh OH-jee."},
-            {"english": "Your imagination is unlimited.", "italian": "La tua immaginazione e illimitata.", "phonetic": "lah TOO-ah eem-mah-jee-nah-TSYOH-neh eh eel-lee-mee-TAH-tah."},
-            {"english": "Art comes from the heart.", "italian": "L'arte viene dal cuore.", "phonetic": "LAHR-teh VYEH-neh dahl KWOH-reh."},
-            {"english": "Express yourself freely.", "italian": "Esprimi te stesso liberamente.", "phonetic": "eh-SPREE-mee teh STEH-zoh lee-beh-rah-MEN-teh."},
-            {"english": "Innovation starts with curiosity.", "italian": "L'innovazione inizia con la curiosita.", "phonetic": "lee-noh-vah-TSYOH-neh ee-NEE-tsah kohn lah koo-ree-oh-see-TAH."},
+            {"english": "Create something beautiful today.", "Italian": "Crea qualcosa di bello oggi.", "phonetic": "KREH-ah KWAL-koh-zah dee BEL-loh OH-jee."},
+            {"english": "Your imagination is unlimited.", "Italian": "La tua immaginazione e illimitata.", "phonetic": "lah TOO-ah eem-mah-jee-nah-TSYOH-neh eh eel-lee-mee-TAH-tah."},
+            {"english": "Art comes from the heart.", "Italian": "L'arte viene dal cuore.", "phonetic": "LAHR-teh VYEH-neh dahl KWOH-reh."},
+            {"english": "Express yourself freely.", "Italian": "Esprimi te stesso liberamente.", "phonetic": "eh-SPREE-mee teh STEH-zoh lee-beh-rah-MEN-teh."},
+            {"english": "Innovation starts with curiosity.", "Italian": "L'innovazione inizia con la curiosita.", "phonetic": "lee-noh-vah-TSYOH-neh ee-NEE-tsah kohn lah koo-ree-oh-see-TAH."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "italian": "Trova la pace dentro di te.", "phonetic": "TROH-vah lah PAH-cheh DEN-troh dee teh."},
-            {"english": "Breathe, relax, let go.", "italian": "Respira, rilassati, lascia andare.", "phonetic": "reh-SPEE-rah, ree-lahs-SAH-tee, LAH-shah ahn-DAH-reh."},
-            {"english": "Calm mind, happy heart.", "italian": "Mente calma, cuore felice.", "phonetic": "MEN-teh KAHL-mah, KWOH-reh FEH-lee-cheh."},
+            {"english": "Find peace within yourself.", "Italian": "Trova la pace dentro di te.", "phonetic": "TROH-vah lah PAH-cheh DEN-troh dee teh."},
+            {"english": "Breathe, relax, let go.", "Italian": "Respira, rilassati, lascia andare.", "phonetic": "reh-SPEE-rah, ree-lahs-SAH-tee, LAH-shah ahn-DAH-reh."},
+            {"english": "Calm mind, happy heart.", "Italian": "Mente calma, cuore felice.", "phonetic": "MEN-teh KAHL-mah, KWOH-reh FEH-lee-cheh."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "italian": "Sei abbastanza, proprio cosi come sei.", "phonetic": "SEH-ee ahb-bah-STAHN-tsah, PROH-pree-oh koh-ZEE koh-meh SEH-ee."},
-            {"english": "Stand tall, speak up.", "italian": "Stai dritto, parla forte.", "phonetic": "STAH-ee DREET-toh, PAHR-lah FOR-teh."},
-            {"english": "Believe in your abilities.", "italian": "Credi nelle tue capacita.", "phonetic": "KREH-dee NEL-leh TOO-eh kah-pah-chee-TAH."},
+            {"english": "You are enough, just as you are.", "Italian": "Sei abbastanza, proprio cosi come sei.", "phonetic": "SEH-ee ahb-bah-STAHN-tsah, PROH-pree-oh koh-ZEE koh-meh SEH-ee."},
+            {"english": "Stand tall, speak up.", "Italian": "Stai dritto, parla forte.", "phonetic": "STAH-ee DREET-toh, PAHR-lah FOR-teh."},
+            {"english": "Believe in your abilities.", "Italian": "Credi nelle tue capacita.", "phonetic": "KREH-dee NEL-leh TOO-eh kah-pah-chee-TAH."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "italian": "Non arrenderti mai, continua a spingere.", "phonetic": "non ahr-REN-dehr-tee mah-ee, kon-TEE-nwah ah speen-JEH-reh."},
-            {"english": "Storms make trees take deeper roots.", "italian": "Le tempeste fanno prendere radici piu profonde alle piante.", "phonetic": "leh tem-PEH-steh FAHN-noh PREN-deh-rah rah-DEE-chee pyoo proh-FOHN-deh AH-leh PEE-ahn-teh."},
-            {"english": "Patience and persistence win.", "italian": "Pazienza e perseveranza vincono.", "phonetic": "pah-tee-EN-tsah eh per-seh-veh-RAHN-tsah VEEN-koh-noh."},
+            {"english": "Never give up, keep pushing.", "Italian": "Non arrenderti mai, continua a spingere.", "phonetic": "non ahr-REN-dehr-tee mah-ee, kon-TEE-nwah ah speen-JEH-reh."},
+            {"english": "Storms make trees take deeper roots.", "Italian": "Le tempeste fanno prendere radici piu profonde alle piante.", "phonetic": "leh tem-PEH-steh FAHN-noh PREN-deh-rah rah-DEE-chee pyoo proh-FOHN-deh AH-leh PEE-ahn-teh."},
+            {"english": "Patience and persistence win.", "Italian": "Pazienza e perseveranza vincono.", "phonetic": "pah-tee-EN-tsah eh per-seh-veh-RAHN-tsah VEEN-koh-noh."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "italian": "Lascia che la tua luce brilli.", "phonetic": "LAH-shah keh lah TOO-ah LOO-cheh BREEL-lee."},
-            {"english": "Inspire others by your actions.", "italian": "Ispira gli altri con le tue azioni.", "phonetic": "ee-SPEE-rah lyee AHL-tree kohn leh TOO-eh aht-TSYOH-nee."},
-            {"english": "Be the change you want to see.", "italian": "Sii il cambiamento che vuoi vedere.", "phonetic": "SEE eel kahm-byah-MEN-toh keh VWOY VEH-deh-reh."},
+            {"english": "Let your light shine bright.", "Italian": "Lascia che la tua luce brilli.", "phonetic": "LAH-shah keh lah TOO-ah LOO-cheh BREEL-lee."},
+            {"english": "Inspire others by your actions.", "Italian": "Ispira gli altri con le tue azioni.", "phonetic": "ee-SPEE-rah lyee AHL-tree kohn leh TOO-eh aht-TSYOH-nee."},
+            {"english": "Be the change you want to see.", "Italian": "Sii il cambiamento che vuoi vedere.", "phonetic": "SEE eel kahm-byah-MEN-toh keh VWOY VEH-deh-reh."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "italian": "Scegli la positivita ogni giorno.", "phonetic": "SHEH-lyee lah poh-zee-tee-vee-TAH OH-nyee JOR-noh."},
-            {"english": "Good vibes only.", "italian": "Solo buone vibrazioni.", "phonetic": "SOH-loh BWOH-neh vee-brah-TSYOH-nee."},
-            {"english": "Life is what you make it.", "italian": "La vita e cio che ne fai.", "phonetic": "lah VEE-tah eh CHOH keh neh FAH-ee."},
+            {"english": "Choose positivity every day.", "Italian": "Scegli la positivita ogni giorno.", "phonetic": "SHEH-lyee lah poh-zee-tee-vee-TAH OH-nyee JOR-noh."},
+            {"english": "Good vibes only.", "Italian": "Solo buone vibrazioni.", "phonetic": "SOH-loh BWOH-neh vee-brah-TSYOH-nee."},
+            {"english": "Life is what you make it.", "Italian": "La vita e cio che ne fai.", "phonetic": "lah VEE-tah eh CHOH keh neh FAH-ee."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "italian": "Sii coraggioso, fai il primo passo.", "phonetic": "SEE koh-rah-JOH-soh, FAH-ee eel PREE-moh PAHS-soh."},
-            {"english": "Courage is not the absence of fear.", "italian": "Il coraggio non e l'assenza di paura.", "phonetic": "eel koh-RAH-joh non eh lah-SEN-tsah dee POW-rah."},
-            {"english": "Face your fears head on.", "italian": "Affronta le tue paure.", "phonetic": "ah-FROHN-tah leh TOO-eh POW-reh."},
+            {"english": "Be brave, take the first step.", "Italian": "Sii coraggioso, fai il primo passo.", "phonetic": "SEE koh-rah-JOH-soh, FAH-ee eel PREE-moh PAHS-soh."},
+            {"english": "Courage is not the absence of fear.", "Italian": "Il coraggio non e l'assenza di paura.", "phonetic": "eel koh-RAH-joh non eh lah-SEN-tsah dee POW-rah."},
+            {"english": "Face your fears head on.", "Italian": "Affronta le tue paure.", "phonetic": "ah-FROHN-tah leh TOO-eh POW-reh."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "italian": "Sii gentile con tutti quelli che incontri.", "phonetic": "SEE jen-TEE-leh kohn TOOT-tee KWEL-lee keh een-KOHN-tree."},
-            {"english": "Kindness costs nothing, means everything.", "italian": "La gentilezza non costa nulla, significa tutto.", "phonetic": "lah jen-tee-LET-tsah non KOH-stah NOOL-lah, seen-YEE-fee-kah TOOT-toh."},
-            {"english": "Spread kindness wherever you go.", "italian": "Diffondi gentilezza ovunque vai.", "phonetic": "dee-FON-dee jen-tee-LET-tsah oh-VOON-kweh vah-ee."},
+            {"english": "Be kind to everyone you meet.", "Italian": "Sii gentile con tutti quelli che incontri.", "phonetic": "SEE jen-TEE-leh kohn TOOT-tee KWEL-lee keh een-KOHN-tree."},
+            {"english": "Kindness costs nothing, means everything.", "Italian": "La gentilezza non costa nulla, significa tutto.", "phonetic": "lah jen-tee-LET-tsah non KOH-stah NOOL-lah, seen-YEE-fee-kah TOOT-toh."},
+            {"english": "Spread kindness wherever you go.", "Italian": "Diffondi gentilezza ovunque vai.", "phonetic": "dee-FON-dee jen-tee-LET-tsah oh-VOON-kweh vah-ee."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "italian": "Le cose buone richiedono tempo.", "phonetic": "leh KOH-zeh BWOH-neh ree-KYEH-doh-noh TEM-poh."},
-            {"english": "Wait patiently, trust the process.", "italian": "Aspetta pazientemente, fidati del processo.", "phonetic": "ah-SPET-tah pah-tee-ent-teh-MEN-teh, fee-DAH-tee del pro-CHESS-soh."},
-            {"english": "Rome wasn't built in a day.", "italian": "Roma non e stata costruita in un giorno.", "phonetic": "ROH-mah non eh STAH-tah koh-stroo-EE-tah een oon JOR-noh."},
+            {"english": "Good things take time.", "Italian": "Le cose buone richiedono tempo.", "phonetic": "leh KOH-zeh BWOH-neh ree-KYEH-doh-noh TEM-poh."},
+            {"english": "Wait patiently, trust the process.", "Italian": "Aspetta pazientemente, fidati del processo.", "phonetic": "ah-SPET-tah pah-tee-ent-teh-MEN-teh, fee-DAH-tee del pro-CHESS-soh."},
+            {"english": "Rome wasn't built in a day.", "Italian": "Roma non e stata costruita in un giorno.", "phonetic": "ROH-mah non eh STAH-tah koh-stroo-EE-tah een oon JOR-noh."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "italian": "Perdona e liberati.", "phonetic": "per-DOH-nah eh lee-beh-RAH-tee."},
-            {"english": "Let go of grudges, find peace.", "italian": "Lascia andare i rancori, trova la pace.", "phonetic": "LAH-shah ahn-DAH-reh ee rahn-KOH-ree, TROH-vah lah PAH-cheh."},
-            {"english": "Forgiveness is a gift to yourself.", "italian": "Il perdono e un regalo per te stesso.", "phonetic": "eel per-DOH-noh eh oon reh-GAH-loh per teh STEH-zoh."},
+            {"english": "Forgive and set yourself free.", "Italian": "Perdona e liberati.", "phonetic": "per-DOH-nah eh lee-beh-RAH-tee."},
+            {"english": "Let go of grudges, find peace.", "Italian": "Lascia andare i rancori, trova la pace.", "phonetic": "LAH-shah ahn-DAH-reh ee rahn-KOH-ree, TROH-vah lah PAH-cheh."},
+            {"english": "Forgiveness is a gift to yourself.", "Italian": "Il perdono e un regalo per te stesso.", "phonetic": "eel per-DOH-noh eh oon reh-GAH-loh per teh STEH-zoh."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "italian": "Sei piu forte di quanto tu sappia.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh too SAHP-pyah."},
-            {"english": "Inner strength comes from within.", "italian": "La forza interiore viene da dentro.", "phonetic": "lah FOR-tsah een-teh-ree-OH-reh VYEH-neh dah DEN-troh."},
-            {"english": "Challenges make you stronger.", "italian": "Le sfide ti rendono piu forte.", "phonetic": "leh SFEE-deh tee REN-doh-noh pyoo FOR-teh."},
+            {"english": "You are stronger than you know.", "Italian": "Sei piu forte di quanto tu sappia.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh too SAHP-pyah."},
+            {"english": "Inner strength comes from within.", "Italian": "La forza interiore viene da dentro.", "phonetic": "lah FOR-tsah een-teh-ree-OH-reh VYEH-neh dah DEN-troh."},
+            {"english": "Challenges make you stronger.", "Italian": "Le sfide ti rendono piu forte.", "phonetic": "leh SFEE-deh tee REN-doh-noh pyoo FOR-teh."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "italian": "Trova gioia in ogni momento.", "phonetic": "TROH-vah JOH-yah een OH-nyee moh-MEN-toh."},
-            {"english": "Joy is contagious, spread it.", "italian": "La gioia e contagiosa, diffondila.", "phonetic": "lah JOH-yah eh kon-tah-JOH-zah, dee-FON-dee-lah."},
-            {"english": "Dance like nobody's watching.", "italian": "Balla come se nessuno ti guardasse.", "phonetic": "BAHL-lah KOH-meh seh nes-SOO-noh tee gwahr-DAH-seh."},
+            {"english": "Find joy in every moment.", "Italian": "Trova gioia in ogni momento.", "phonetic": "TROH-vah JOH-yah een OH-nyee moh-MEN-toh."},
+            {"english": "Joy is contagious, spread it.", "Italian": "La gioia e contagiosa, diffondila.", "phonetic": "lah JOH-yah eh kon-tah-JOH-zah, dee-FON-dee-lah."},
+            {"english": "Dance like nobody's watching.", "Italian": "Balla come se nessuno ti guardasse.", "phonetic": "BAHL-lah KOH-meh seh nes-SOO-noh tee gwahr-DAH-seh."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "italian": "Trova equilibrio nella tua vita.", "phonetic": "TROH-vah eh-kwee-LEE-bree-oh NEL-lah TOO-ah VEE-tah."},
-            {"english": "Work hard, rest well.", "italian": "Lavora sodo, riposa bene.", "phonetic": "lah-VOH-rah SOH-doh, ree-POH-zah BEH-neh."},
-            {"english": "Too much of anything is not good.", "italian": "Troppo di tutto non fa bene.", "phonetic": "TROHP-poh dee TOOT-toh non fah BEH-neh."},
+            {"english": "Find balance in your life.", "Italian": "Trova equilibrio nella tua vita.", "phonetic": "TROH-vah eh-kwee-LEE-bree-oh NEL-lah TOO-ah VEE-tah."},
+            {"english": "Work hard, rest well.", "Italian": "Lavora sodo, riposa bene.", "phonetic": "lah-VOH-rah SOH-doh, ree-POH-zah BEH-neh."},
+            {"english": "Too much of anything is not good.", "Italian": "Troppo di tutto non fa bene.", "phonetic": "TROHP-poh dee TOOT-toh non fah BEH-neh."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "italian": "La crescita avviene fuori dalla tua zona di comfort.", "phonetic": "lah KRES-see-tah ah-VYEH-neh FWOR-ree DAL-lah TOO-ah DZOH-nah dee KOM-fort."},
-            {"english": "Embrace change, grow stronger.", "italian": "Abbraccia il cambiamento, diventa piu forte.", "phonetic": "ahb-BRAHT-chah eel kahm-byah-MEN-toh, dee-VEN-tah pyoo FOR-teh."},
-            {"english": "Every challenge is a chance to grow.", "italian": "Ogni sfida e un'opportunita per crescere.", "phonetic": "OH-nyee SFEE-dah eh oon-noh-por-too-nee-TAH per KREH-sheh-reh."},
+            {"english": "Growth happens outside your comfort zone.", "Italian": "La crescita avviene fuori dalla tua zona di comfort.", "phonetic": "lah KRES-see-tah ah-VYEH-neh FWOR-ree DAL-lah TOO-ah DZOH-nah dee KOM-fort."},
+            {"english": "Embrace change, grow stronger.", "Italian": "Abbraccia il cambiamento, diventa piu forte.", "phonetic": "ahb-BRAHT-chah eel kahm-byah-MEN-toh, dee-VEN-tah pyoo FOR-teh."},
+            {"english": "Every challenge is a chance to grow.", "Italian": "Ogni sfida e un'opportunita per crescere.", "phonetic": "OH-nyee SFEE-dah eh oon-noh-por-too-nee-TAH per KREH-sheh-reh."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "italian": "Trova il tuo scopo, seguilo.", "phonetic": "TROH-vah eel TOO-oh SKOH-poh, seh-GWEE-loh."},
-            {"english": "Your life has meaning.", "italian": "La tua vita ha un significato.", "phonetic": "lah TOO-ah VEE-tah ah oon seen-yee-fee-KAH-toh."},
-            {"english": "Live with intention, not accident.", "italian": "Vivi con intenzione, non per caso.", "phonetic": "VEE-vee kohn een-ten-TSYOH-neh, non per KAH-zoh."},
+            {"english": "Find your purpose, follow it.", "Italian": "Trova il tuo scopo, seguilo.", "phonetic": "TROH-vah eel TOO-oh SKOH-poh, seh-GWEE-loh."},
+            {"english": "Your life has meaning.", "Italian": "La tua vita ha un significato.", "phonetic": "lah TOO-ah VEE-tah ah oon seen-yee-fee-KAH-toh."},
+            {"english": "Live with intention, not accident.", "Italian": "Vivi con intenzione, non per caso.", "phonetic": "VEE-vee kohn een-ten-TSYOH-neh, non per KAH-zoh."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "italian": "Sii presente in questo momento.", "phonetic": "SEE preh-ZEN-teh een KWEH-stoh moh-MEN-toh."},
-            {"english": "Breathe deeply, stay grounded.", "italian": "Respira profondamente, resta con i piedi per terra.", "phonetic": "reh-SPEE-rah proh-fon-dah-MEN-teh, REH-stah kohn ee PYEH-dee per TER-rah."},
-            {"english": "Notice the little things around you.", "italian": "Nota le piccole cose intorno a te.", "phonetic": "NOH-tah leh PEE-koh-leh KOH-zeh een-TOR-noh ah teh."},
+            {"english": "Be present in this moment.", "Italian": "Sii presente in questo momento.", "phonetic": "SEE preh-ZEN-teh een KWEH-stoh moh-MEN-toh."},
+            {"english": "Breathe deeply, stay grounded.", "Italian": "Respira profondamente, resta con i piedi per terra.", "phonetic": "reh-SPEE-rah proh-fon-dah-MEN-teh, REH-stah kohn ee PYEH-dee per TER-rah."},
+            {"english": "Notice the little things around you.", "Italian": "Nota le piccole cose intorno a te.", "phonetic": "NOH-tah leh PEE-koh-leh KOH-zeh een-TOR-noh ah teh."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        italian_file = output_dir / f"italian_{i}.mp3"
+        Italian_file = output_dir / f"Italian_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -522,14 +522,14 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Italian audio
-        it_success = asyncio.run(generate_single_audio(phrase["italian"], ITALIAN_VOICE, str(italian_file)))
+        it_success = asyncio.run(generate_single_audio(phrase["Italian"], Italian_VOICE, str(Italian_file)))
         if not it_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(italian_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Italian_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        it_duration = get_audio_duration(str(italian_file))
+        it_duration = get_audio_duration(str(Italian_file))
 
         # Add pause between English and Italian
         pause_between = 0.5
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(italian_file),
+            "-i", str(Italian_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{italian_file.as_posix()}'\n")
+                f.write(f"file '{Italian_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "italian": str(italian_file),
+            "Italian": str(Italian_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    italian_font_paths = [
+    Italian_font_paths = [
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -681,12 +681,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_italian = load_font(italian_font_paths, 82)
-    font_phonetic = load_font(italian_font_paths, 48)
+    font_Italian = load_font(Italian_font_paths, 82)
+    font_phonetic = load_font(Italian_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    italian_text = phrase_data.get("italian", "")
+    Italian_text = phrase_data.get("Italian", "")
     phonetic = phrase_data.get("phonetic", "")
 
     def wrap_text(text, font, max_width):
@@ -740,7 +740,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Italian Box
-    it_lines = wrap_text(italian_text, font_italian, VIDEO_WIDTH - 300)
+    it_lines = wrap_text(Italian_text, font_Italian, VIDEO_WIDTH - 300)
     it_line_h = 100
     it_total_h = len(it_lines) * it_line_h
     
@@ -777,7 +777,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     for i, line in enumerate(it_lines):
         draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * it_line_h) + it_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_italian, anchor="mm")
+                  line, fill=(255, 255, 255), font=font_Italian, anchor="mm")
 
     y_cursor += it_box_h + (GAP // 2)
 
@@ -795,7 +795,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_phonetic, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY ITALIAN"
+    brand_text = "VELOCITY Italian"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -811,7 +811,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_italian: str, output_path: str):
+def generate_thumbnail(category_english: str, category_Italian: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -826,7 +826,7 @@ def generate_thumbnail(category_english: str, category_italian: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
-    italian_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
+    Italian_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -835,12 +835,12 @@ def generate_thumbnail(category_english: str, category_italian: str, output_path
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(italian_font_paths, 110)
+    font_main = load_font(Italian_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER ITALIAN", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Italian", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -853,7 +853,7 @@ def generate_thumbnail(category_english: str, category_italian: str, output_path
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
     # Italian Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_italian, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_Italian, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -865,7 +865,7 @@ def generate_thumbnail(category_english: str, category_italian: str, output_path
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY ITALIAN", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Italian", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -900,13 +900,13 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_italian: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_Italian: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Italian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_italian})",
-        f"60 Italian Phrases for {category_english} | Speak Italian Like a Native! ({category_italian})",
+        f"Learn Italian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Italian})",
+        f"60 Italian Phrases for {category_english} | Speak Italian Like a Native! ({category_Italian})",
         f"Master Italian {category_english} | 60 Essential Italian Phrases with Phonetic | Velocity Italian",
         f"Italian Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
         f"Speak Italian Fluently | {category_english} Phrases | English + Italian + Phonetic",
@@ -915,7 +915,7 @@ def generate_title_description(category_english: str, category_italian: str, phr
     # Generate comprehensive description
     description = f"""🇮🇹 Learn Italian with Velocity Italian! 🇮🇹
 
-In this video, you'll learn 60 essential Italian phrases about {category_english} ({category_italian}).
+In this video, you'll learn 60 essential Italian phrases about {category_english} ({category_Italian}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
@@ -944,7 +944,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Italian: {phrase['italian']}
+   Italian: {phrase['Italian']}
    Phonetic: {phrase['phonetic']}
 """
 
@@ -967,7 +967,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY ITALIAN:
+📱 FOLLOW VELOCITY Italian:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -1035,7 +1035,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_italian": category_italian,
+        "category_Italian": category_Italian,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1139,7 +1139,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_ITALIAN[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Italian[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1152,7 +1152,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['italian']}")
+        print(f"  {i}. {phrase['english']} → {phrase['Italian']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1169,15 +1169,15 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     thumbnail_path = video_dir / "thumbnail.jpg"
     try:
         from generate_thumbnail import generate_scenic_image
-        result = generate_scenic_image(category_english, CATEGORIES_ITALIAN[category_english], str(thumbnail_path))
+        result = generate_scenic_image(category_english, CATEGORIES_Italian[category_english], str(thumbnail_path))
         if result and Path(result).exists():
             print(f"  ✅ gpt-image-2 thumbnail saved")
         else:
             print(f"  ⚠️ gpt-image-2 failed, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ITALIAN[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_Italian[category_english], str(thumbnail_path))
     except Exception as e:
         print(f"  ⚠️ Thumbnail error: {e}, using built-in")
-        generate_thumbnail(category_english, CATEGORIES_ITALIAN[category_english], str(thumbnail_path))
+        generate_thumbnail(category_english, CATEGORIES_Italian[category_english], str(thumbnail_path))
     
     # Also extract a frame from the final video as alternative thumbnail (done after video creation)
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
@@ -1214,7 +1214,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_metadata = generate_title_description(
         category_english,
-        CATEGORIES_ITALIAN[category_english],
+        CATEGORIES_Italian[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1223,7 +1223,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     # Save metadata
     metadata = {
         "category_english": category_english,
-        "category_italian": CATEGORIES_ITALIAN[category_english],
+        "category_Italian": CATEGORIES_Italian[category_english],
         "timestamp": timestamp,
         "target_phrases": phrases_count,
         "actual_duration_seconds": total_duration,
@@ -1248,7 +1248,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         "description": title_metadata["description"],
         "tags": title_metadata["tags"],
         "category_english": category_english,
-        "category_italian": CATEGORIES_ITALIAN[category_english],
+        "category_Italian": CATEGORIES_Italian[category_english],
         "phrases_count": len(phrases),
         "duration_minutes": total_duration / 60
     }
@@ -1296,7 +1296,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇮🇹 VELOCITY ITALIAN - YOUTUBE LONG-FORM AUTOMATION 🇮🇹")
+    print("🇮🇹 VELOCITY Italian - YOUTUBE LONG-FORM AUTOMATION 🇮🇹")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1308,7 +1308,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_ITALIAN[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_Italian[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
