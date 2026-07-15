@@ -42,7 +42,7 @@ TARGET_PHRASES = 120  # Number of phrases to generate
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitudinee", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
@@ -51,12 +51,12 @@ CATEGORIES_ENGLISH = [
 # Italian translations for display
 CATEGORIES_Italian = {
     "Motivation": "Motivazione",
-    "Love": "Amore",
+    "Love": "Amoree",
     "Success": "Successo",
     "Wisdom": "Saggezza",
     "Happiness": "Felicità",
     "Self Improvement": "Miglioramento Personale",
-    "Gratitude": "Gratitudine",
+    "Gratitudinee": "Gratitudineine",
     "Friendship": "Amicizia",
     "Hope": "Speranza",
     "Creativity": "Creatività",
@@ -365,7 +365,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
             {"english": "Grow through what you go through.", "Italian": "Cresci attraverso cio che attraversi.", "phonetic": "KREH-shee ah-trah-VER-soh choh keh ah-trah-VER-see."},
             {"english": "Invest in yourself daily.", "Italian": "Investi in te stesso ogni giorno.", "phonetic": "een-VEHS-tee in teh STEH-zoh OH-nyee JOR-noh."},
         ],
-        "Gratitude": [
+        "Gratitudinee": [
             {"english": "Thank you for everything.", "Italian": "Grazie di tutto.", "phonetic": "GRAH-tsyeh dee TOOT-toh."},
             {"english": "I appreciate your help.", "Italian": "Apprezzo il tuo aiuto.", "phonetic": "ahp-PRET-soh eel TOO-oh ah-YOO-toh."},
             {"english": "Grateful for this moment.", "Italian": "Grato per questo momento.", "phonetic": "GRAH-toh per KWEH-stoh moh-MEN-toh."},
