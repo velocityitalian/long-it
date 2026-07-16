@@ -1439,7 +1439,727 @@
       "italian": "Condividi il tuo pane.",
       "category": "Wisdom",
       "generated_at": "2026-07-15T03:57:16.505077"
+    },
+    {
+      "english": "Be good, have fun.",
+      "Italian": "Sii buono, divertiti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380207"
+    },
+    {
+      "english": "Listen well, learn more.",
+      "Italian": "Ascolta bene, impara di più.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380221"
+    },
+    {
+      "english": "Help others, feel great.",
+      "Italian": "Aiuta gli altri, sentiti bene.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380223"
+    },
+    {
+      "english": "Say please, say thanks.",
+      "Italian": "Dì per favore, dì grazie.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380225"
+    },
+    {
+      "english": "Share your toys, make friends.",
+      "Italian": "Condividi i tuoi giochi, fai amicizia.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380226"
+    },
+    {
+      "english": "Be polite, be kind.",
+      "Italian": "Sii educato, sii gentile.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380227"
+    },
+    {
+      "english": "Give a compliment, lift spirits.",
+      "Italian": "Fai un complimento, alza gli animi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380228"
+    },
+    {
+      "english": "Apologize truly, heal wounds.",
+      "Italian": "Scusati sinceramente, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380231"
+    },
+    {
+      "english": "Forgive quickly, live freely.",
+      "Italian": "Perdona in fretta, vivi libero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380233"
+    },
+    {
+      "english": "Offer a seat, show respect.",
+      "Italian": "Offri un posto, mostra rispetto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380234"
+    },
+    {
+      "english": "Be patient, wait your turn.",
+      "Italian": "Sii paziente, aspetta il tuo turno.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380235"
+    },
+    {
+      "english": "Encourage effort, praise progress.",
+      "Italian": "Incoraggia lo sforzo, loda i progressi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380237"
+    },
+    {
+      "english": "Smile often, spread joy.",
+      "Italian": "Sorridi spesso, diffondi allegria.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380238"
+    },
+    {
+      "english": "Offer help, be a friend.",
+      "Italian": "Offri aiuto, sii un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380239"
+    },
+    {
+      "english": "Listen with empathy, understand feelings.",
+      "Italian": "Ascolta con empatia, capisci i sentimenti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380240"
+    },
+    {
+      "english": "Speak softly, be gentle.",
+      "Italian": "Parla piano, sii delicato.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380241"
+    },
+    {
+      "english": "Share your thoughts, be heard.",
+      "Italian": "Condividi i tuoi pensieri, fatti sentire.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380242"
+    },
+    {
+      "english": "Be honest, be true.",
+      "Italian": "Sii onesto, sii vero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380243"
+    },
+    {
+      "english": "Give your best, no regrets.",
+      "Italian": "Dai il tuo meglio, senza rimpianti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380244"
+    },
+    {
+      "english": "Accept differences, build bridges.",
+      "Italian": "Accetta le differenze, costruisci ponti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380245"
+    },
+    {
+      "english": "Celebrate small wins, feel proud.",
+      "Italian": "Celebra le piccole vittorie, sentiti orgoglioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380246"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Italian": "Sii coraggioso, prova cose nuove.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380247"
+    },
+    {
+      "english": "Offer forgiveness, find peace.",
+      "Italian": "Offri perdono, trova pace.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380248"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "Italian": "Sii un buon ascoltatore, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380249"
+    },
+    {
+      "english": "Show gratitude, be thankful.",
+      "Italian": "Mostra gratitudine, sii riconoscente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380250"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "Italian": "Condividi una risata, alleggerisci i cuori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380251"
+    },
+    {
+      "english": "Be considerate, think ahead.",
+      "Italian": "Sii premuroso, pensa prima.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380252"
+    },
+    {
+      "english": "Offer a kind word, it matters.",
+      "Italian": "Offri una parola gentile, conta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380253"
+    },
+    {
+      "english": "Be understanding, be patient.",
+      "Italian": "Sii comprensivo, sii paziente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380253"
+    },
+    {
+      "english": "Help a neighbor, build community.",
+      "Italian": "Aiuta un vicino, costruisci comunità.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380255"
+    },
+    {
+      "english": "Show compassion, feel connected.",
+      "Italian": "Mostra compassione, sentiti connesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380256"
+    },
+    {
+      "english": "Be humble, accept mistakes.",
+      "Italian": "Sii umile, accetta gli errori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380257"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "Italian": "Di' la verità, dolcemente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380258"
+    },
+    {
+      "english": "Offer comfort, be a light.",
+      "Italian": "Offri conforto, sii una luce.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380259"
+    },
+    {
+      "english": "Be generous, share freely.",
+      "Italian": "Sii generoso, condividi liberamente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380260"
+    },
+    {
+      "english": "Support dreams, inspire hope.",
+      "Italian": "Supporta i sogni, ispira speranza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380261"
+    },
+    {
+      "english": "Practice empathy, walk in shoes.",
+      "Italian": "Pratica empatia, cammina nei panni.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380262"
+    },
+    {
+      "english": "Be kind to yourself, too.",
+      "Italian": "Sii gentile anche con te stesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380263"
+    },
+    {
+      "english": "Spread positivity, not negativity.",
+      "Italian": "Diffondi positività, non negatività.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380264"
+    },
+    {
+      "english": "Offer a hand, lend support.",
+      "Italian": "Offri una mano, dai supporto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380264"
+    },
+    {
+      "english": "Be good, have fun.",
+      "Italian": "Sii buono, divertiti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380266"
+    },
+    {
+      "english": "Listen well, learn more.",
+      "Italian": "Ascolta bene, impara di più.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380276"
+    },
+    {
+      "english": "Help others, feel great.",
+      "Italian": "Aiuta gli altri, sentiti bene.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380277"
+    },
+    {
+      "english": "Say please, say thanks.",
+      "Italian": "Dì per favore, dì grazie.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380278"
+    },
+    {
+      "english": "Share your toys, make friends.",
+      "Italian": "Condividi i tuoi giochi, fai amicizia.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380279"
+    },
+    {
+      "english": "Be polite, be kind.",
+      "Italian": "Sii educato, sii gentile.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380280"
+    },
+    {
+      "english": "Give a compliment, lift spirits.",
+      "Italian": "Fai un complimento, alza gli animi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380281"
+    },
+    {
+      "english": "Apologize truly, heal wounds.",
+      "Italian": "Scusati sinceramente, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380282"
+    },
+    {
+      "english": "Forgive quickly, live freely.",
+      "Italian": "Perdona in fretta, vivi libero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380283"
+    },
+    {
+      "english": "Offer a seat, show respect.",
+      "Italian": "Offri un posto, mostra rispetto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380284"
+    },
+    {
+      "english": "Be patient, wait your turn.",
+      "Italian": "Sii paziente, aspetta il tuo turno.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380285"
+    },
+    {
+      "english": "Encourage effort, praise progress.",
+      "Italian": "Incoraggia lo sforzo, loda i progressi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380286"
+    },
+    {
+      "english": "Smile often, spread joy.",
+      "Italian": "Sorridi spesso, diffondi allegria.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380287"
+    },
+    {
+      "english": "Offer help, be a friend.",
+      "Italian": "Offri aiuto, sii un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380288"
+    },
+    {
+      "english": "Listen with empathy, understand feelings.",
+      "Italian": "Ascolta con empatia, capisci i sentimenti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380289"
+    },
+    {
+      "english": "Speak softly, be gentle.",
+      "Italian": "Parla piano, sii delicato.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380290"
+    },
+    {
+      "english": "Share your thoughts, be heard.",
+      "Italian": "Condividi i tuoi pensieri, fatti sentire.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380291"
+    },
+    {
+      "english": "Be honest, be true.",
+      "Italian": "Sii onesto, sii vero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380292"
+    },
+    {
+      "english": "Give your best, no regrets.",
+      "Italian": "Dai il tuo meglio, senza rimpianti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380293"
+    },
+    {
+      "english": "Accept differences, build bridges.",
+      "Italian": "Accetta le differenze, costruisci ponti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380294"
+    },
+    {
+      "english": "Celebrate small wins, feel proud.",
+      "Italian": "Celebra le piccole vittorie, sentiti orgoglioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380295"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Italian": "Sii coraggioso, prova cose nuove.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380296"
+    },
+    {
+      "english": "Offer forgiveness, find peace.",
+      "Italian": "Offri perdono, trova pace.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380297"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "Italian": "Sii un buon ascoltatore, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380298"
+    },
+    {
+      "english": "Show gratitude, be thankful.",
+      "Italian": "Mostra gratitudine, sii riconoscente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380299"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "Italian": "Condividi una risata, alleggerisci i cuori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380300"
+    },
+    {
+      "english": "Be considerate, think ahead.",
+      "Italian": "Sii premuroso, pensa prima.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380301"
+    },
+    {
+      "english": "Offer a kind word, it matters.",
+      "Italian": "Offri una parola gentile, conta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380302"
+    },
+    {
+      "english": "Be understanding, be patient.",
+      "Italian": "Sii comprensivo, sii paziente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380303"
+    },
+    {
+      "english": "Help a neighbor, build community.",
+      "Italian": "Aiuta un vicino, costruisci comunità.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380305"
+    },
+    {
+      "english": "Show compassion, feel connected.",
+      "Italian": "Mostra compassione, sentiti connesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380306"
+    },
+    {
+      "english": "Be humble, accept mistakes.",
+      "Italian": "Sii umile, accetta gli errori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380307"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "Italian": "Di' la verità, dolcemente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380308"
+    },
+    {
+      "english": "Offer comfort, be a light.",
+      "Italian": "Offri conforto, sii una luce.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380309"
+    },
+    {
+      "english": "Be generous, share freely.",
+      "Italian": "Sii generoso, condividi liberamente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380310"
+    },
+    {
+      "english": "Support dreams, inspire hope.",
+      "Italian": "Supporta i sogni, ispira speranza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380311"
+    },
+    {
+      "english": "Practice empathy, walk in shoes.",
+      "Italian": "Pratica empatia, cammina nei panni.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380312"
+    },
+    {
+      "english": "Be kind to yourself, too.",
+      "Italian": "Sii gentile anche con te stesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380313"
+    },
+    {
+      "english": "Spread positivity, not negativity.",
+      "Italian": "Diffondi positività, non negatività.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380314"
+    },
+    {
+      "english": "Offer a hand, lend support.",
+      "Italian": "Offri una mano, dai supporto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380315"
+    },
+    {
+      "english": "Be good, have fun.",
+      "Italian": "Sii buono, divertiti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380316"
+    },
+    {
+      "english": "Listen well, learn more.",
+      "Italian": "Ascolta bene, impara di più.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380317"
+    },
+    {
+      "english": "Help others, feel great.",
+      "Italian": "Aiuta gli altri, sentiti bene.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380318"
+    },
+    {
+      "english": "Say please, say thanks.",
+      "Italian": "Dì per favore, dì grazie.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380319"
+    },
+    {
+      "english": "Share your toys, make friends.",
+      "Italian": "Condividi i tuoi giochi, fai amicizia.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380320"
+    },
+    {
+      "english": "Be polite, be kind.",
+      "Italian": "Sii educato, sii gentile.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380321"
+    },
+    {
+      "english": "Give a compliment, lift spirits.",
+      "Italian": "Fai un complimento, alza gli animi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380322"
+    },
+    {
+      "english": "Apologize truly, heal wounds.",
+      "Italian": "Scusati sinceramente, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380323"
+    },
+    {
+      "english": "Forgive quickly, live freely.",
+      "Italian": "Perdona in fretta, vivi libero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380324"
+    },
+    {
+      "english": "Offer a seat, show respect.",
+      "Italian": "Offri un posto, mostra rispetto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380325"
+    },
+    {
+      "english": "Be patient, wait your turn.",
+      "Italian": "Sii paziente, aspetta il tuo turno.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380326"
+    },
+    {
+      "english": "Encourage effort, praise progress.",
+      "Italian": "Incoraggia lo sforzo, loda i progressi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380327"
+    },
+    {
+      "english": "Smile often, spread joy.",
+      "Italian": "Sorridi spesso, diffondi allegria.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380328"
+    },
+    {
+      "english": "Offer help, be a friend.",
+      "Italian": "Offri aiuto, sii un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380329"
+    },
+    {
+      "english": "Listen with empathy, understand feelings.",
+      "Italian": "Ascolta con empatia, capisci i sentimenti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380330"
+    },
+    {
+      "english": "Speak softly, be gentle.",
+      "Italian": "Parla piano, sii delicato.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380331"
+    },
+    {
+      "english": "Share your thoughts, be heard.",
+      "Italian": "Condividi i tuoi pensieri, fatti sentire.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380332"
+    },
+    {
+      "english": "Be honest, be true.",
+      "Italian": "Sii onesto, sii vero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380333"
+    },
+    {
+      "english": "Give your best, no regrets.",
+      "Italian": "Dai il tuo meglio, senza rimpianti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380334"
+    },
+    {
+      "english": "Accept differences, build bridges.",
+      "Italian": "Accetta le differenze, costruisci ponti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380335"
+    },
+    {
+      "english": "Celebrate small wins, feel proud.",
+      "Italian": "Celebra le piccole vittorie, sentiti orgoglioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380336"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Italian": "Sii coraggioso, prova cose nuove.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380337"
+    },
+    {
+      "english": "Offer forgiveness, find peace.",
+      "Italian": "Offri perdono, trova pace.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380338"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "Italian": "Sii un buon ascoltatore, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380339"
+    },
+    {
+      "english": "Show gratitude, be thankful.",
+      "Italian": "Mostra gratitudine, sii riconoscente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380342"
+    },
+    {
+      "english": "Share a laugh, lighten hearts.",
+      "Italian": "Condividi una risata, alleggerisci i cuori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380343"
+    },
+    {
+      "english": "Be considerate, think ahead.",
+      "Italian": "Sii premuroso, pensa prima.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380344"
+    },
+    {
+      "english": "Offer a kind word, it matters.",
+      "Italian": "Offri una parola gentile, conta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380345"
+    },
+    {
+      "english": "Be understanding, be patient.",
+      "Italian": "Sii comprensivo, sii paziente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380346"
+    },
+    {
+      "english": "Help a neighbor, build community.",
+      "Italian": "Aiuta un vicino, costruisci comunità.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380347"
+    },
+    {
+      "english": "Show compassion, feel connected.",
+      "Italian": "Mostra compassione, sentiti connesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380348"
+    },
+    {
+      "english": "Be humble, accept mistakes.",
+      "Italian": "Sii umile, accetta gli errori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380351"
+    },
+    {
+      "english": "Speak truth, gently.",
+      "Italian": "Di' la verità, dolcemente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380374"
+    },
+    {
+      "english": "Offer comfort, be a light.",
+      "Italian": "Offri conforto, sii una luce.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380376"
+    },
+    {
+      "english": "Be generous, share freely.",
+      "Italian": "Sii generoso, condividi liberamente.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380377"
+    },
+    {
+      "english": "Support dreams, inspire hope.",
+      "Italian": "Supporta i sogni, ispira speranza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380378"
+    },
+    {
+      "english": "Practice empathy, walk in shoes.",
+      "Italian": "Pratica empatia, cammina nei panni.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380379"
+    },
+    {
+      "english": "Be kind to yourself, too.",
+      "Italian": "Sii gentile anche con te stesso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380380"
+    },
+    {
+      "english": "Spread positivity, not negativity.",
+      "Italian": "Diffondi positività, non negatività.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380380"
+    },
+    {
+      "english": "Offer a hand, lend support.",
+      "Italian": "Offri una mano, dai supporto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-16T03:59:50.380381"
     }
   ],
-  "last_updated": "2026-07-15T03:57:16.505079"
+  "last_updated": "2026-07-16T03:59:50.380383"
 }
