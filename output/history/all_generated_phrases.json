@@ -2879,7 +2879,727 @@
       "Italian": "Il mio amore per te, è reale.",
       "category": "Love",
       "generated_at": "2026-07-17T04:05:41.429083"
+    },
+    {
+      "english": "Little steps, lead far.",
+      "Italian": "Piccoli passi, portano lontano.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836925"
+    },
+    {
+      "english": "Today is a gift, appreciate it.",
+      "Italian": "Oggi è un dono, apprezzalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836936"
+    },
+    {
+      "english": "Be kind, always. It matters.",
+      "Italian": "Sii gentile, sempre. Conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836937"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "Italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836938"
+    },
+    {
+      "english": "Trust your gut, instincts.",
+      "Italian": "Fidati del tuo istinto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836940"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "Italian": "Gli errori sono lezioni, impara.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836941"
+    },
+    {
+      "english": "Good friends, are gold.",
+      "Italian": "I buoni amici, sono oro.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836942"
+    },
+    {
+      "english": "Enjoy the small things, always.",
+      "Italian": "Goditi le piccole cose, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836945"
+    },
+    {
+      "english": "Share your smile, it's free.",
+      "Italian": "Condividi il tuo sorriso, è gratis.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836947"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Italian": "La pazienza, è una virtù.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836948"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "Italian": "Perdona in fretta, ama profondamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836949"
+    },
+    {
+      "english": "Stay curious, my friend.",
+      "Italian": "Rimani curioso, amico mio.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836951"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "Italian": "Credi in te stesso, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836952"
+    },
+    {
+      "english": "Make time, for what matters.",
+      "Italian": "Trova il tempo, per ciò che conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836953"
+    },
+    {
+      "english": "Be the reason, someone smiles.",
+      "Italian": "Sii la ragione, di un sorriso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836954"
+    },
+    {
+      "english": "A good book, opens worlds.",
+      "Italian": "Un buon libro, apre mondi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836955"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "Italian": "Dì la tua verità, con gentilezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836956"
+    },
+    {
+      "english": "Help others, when you can.",
+      "Italian": "Aiuta gli altri, quando puoi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836957"
+    },
+    {
+      "english": "Your health, is wealth.",
+      "Italian": "La tua salute, è ricchezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836958"
+    },
+    {
+      "english": "Travel often, it's good.",
+      "Italian": "Viaggia spesso, fa bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836959"
+    },
+    {
+      "english": "Share your food, with friends.",
+      "Italian": "Condividi il cibo, con gli amici.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836960"
+    },
+    {
+      "english": "Always forgive, yourself too.",
+      "Italian": "Perdona sempre, anche te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836961"
+    },
+    {
+      "english": "A little progress, every day.",
+      "Italian": "Un piccolo progresso, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836962"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "Italian": "Sii grato, per tutto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836963"
+    },
+    {
+      "english": "Never stop dreaming, big.",
+      "Italian": "Non smettere mai di sognare, in grande.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836965"
+    },
+    {
+      "english": "Listen to your heart, guide.",
+      "Italian": "Ascolta il tuo cuore, guida.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836966"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Italian": "Sii felice, con meno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836967"
+    },
+    {
+      "english": "Do good, feel good.",
+      "Italian": "Fai del bene, sentiti bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836968"
+    },
+    {
+      "english": "Love your family, fiercely.",
+      "Italian": "Ama la tua famiglia, con passione.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836969"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "Italian": "Ogni giorno, una nuova possibilità.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836970"
+    },
+    {
+      "english": "Keep moving forward, always.",
+      "Italian": "Continua ad andare avanti, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836971"
+    },
+    {
+      "english": "Simple joys, are the best.",
+      "Italian": "Le gioie semplici, sono le migliori.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836972"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "Italian": "Ridi spesso, guarisce.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836973"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "Italian": "Scegli la pace, non il conflitto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836974"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "Italian": "Sii onesto, con te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836975"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "Italian": "Le parole gentili, non costano nulla.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836976"
+    },
+    {
+      "english": "Little steps, lead far.",
+      "Italian": "Piccoli passi, portano lontano.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836977"
+    },
+    {
+      "english": "Today is a gift, appreciate it.",
+      "Italian": "Oggi è un dono, apprezzalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836978"
+    },
+    {
+      "english": "Be kind, always. It matters.",
+      "Italian": "Sii gentile, sempre. Conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836980"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "Italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836981"
+    },
+    {
+      "english": "Trust your gut, instincts.",
+      "Italian": "Fidati del tuo istinto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836982"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "Italian": "Gli errori sono lezioni, impara.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836984"
+    },
+    {
+      "english": "Good friends, are gold.",
+      "Italian": "I buoni amici, sono oro.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836985"
+    },
+    {
+      "english": "Enjoy the small things, always.",
+      "Italian": "Goditi le piccole cose, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836986"
+    },
+    {
+      "english": "Share your smile, it's free.",
+      "Italian": "Condividi il tuo sorriso, è gratis.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836987"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Italian": "La pazienza, è una virtù.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836988"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "Italian": "Perdona in fretta, ama profondamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836989"
+    },
+    {
+      "english": "Stay curious, my friend.",
+      "Italian": "Rimani curioso, amico mio.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836990"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "Italian": "Credi in te stesso, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836991"
+    },
+    {
+      "english": "Make time, for what matters.",
+      "Italian": "Trova il tempo, per ciò che conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836992"
+    },
+    {
+      "english": "Be the reason, someone smiles.",
+      "Italian": "Sii la ragione, di un sorriso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836993"
+    },
+    {
+      "english": "A good book, opens worlds.",
+      "Italian": "Un buon libro, apre mondi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836994"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "Italian": "Dì la tua verità, con gentilezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836995"
+    },
+    {
+      "english": "Help others, when you can.",
+      "Italian": "Aiuta gli altri, quando puoi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836997"
+    },
+    {
+      "english": "Your health, is wealth.",
+      "Italian": "La tua salute, è ricchezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.836998"
+    },
+    {
+      "english": "Travel often, it's good.",
+      "Italian": "Viaggia spesso, fa bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837003"
+    },
+    {
+      "english": "Share your food, with friends.",
+      "Italian": "Condividi il cibo, con gli amici.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837005"
+    },
+    {
+      "english": "Always forgive, yourself too.",
+      "Italian": "Perdona sempre, anche te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837006"
+    },
+    {
+      "english": "A little progress, every day.",
+      "Italian": "Un piccolo progresso, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837007"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "Italian": "Sii grato, per tutto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837008"
+    },
+    {
+      "english": "Never stop dreaming, big.",
+      "Italian": "Non smettere mai di sognare, in grande.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837009"
+    },
+    {
+      "english": "Listen to your heart, guide.",
+      "Italian": "Ascolta il tuo cuore, guida.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837010"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Italian": "Sii felice, con meno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837011"
+    },
+    {
+      "english": "Do good, feel good.",
+      "Italian": "Fai del bene, sentiti bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837012"
+    },
+    {
+      "english": "Love your family, fiercely.",
+      "Italian": "Ama la tua famiglia, con passione.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837013"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "Italian": "Ogni giorno, una nuova possibilità.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837014"
+    },
+    {
+      "english": "Keep moving forward, always.",
+      "Italian": "Continua ad andare avanti, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837016"
+    },
+    {
+      "english": "Simple joys, are the best.",
+      "Italian": "Le gioie semplici, sono le migliori.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837017"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "Italian": "Ridi spesso, guarisce.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837018"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "Italian": "Scegli la pace, non il conflitto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837019"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "Italian": "Sii onesto, con te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837020"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "Italian": "Le parole gentili, non costano nulla.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837021"
+    },
+    {
+      "english": "Little steps, lead far.",
+      "Italian": "Piccoli passi, portano lontano.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837022"
+    },
+    {
+      "english": "Today is a gift, appreciate it.",
+      "Italian": "Oggi è un dono, apprezzalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837024"
+    },
+    {
+      "english": "Be kind, always. It matters.",
+      "Italian": "Sii gentile, sempre. Conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837025"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "Italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837026"
+    },
+    {
+      "english": "Trust your gut, instincts.",
+      "Italian": "Fidati del tuo istinto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837027"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "Italian": "Gli errori sono lezioni, impara.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837028"
+    },
+    {
+      "english": "Good friends, are gold.",
+      "Italian": "I buoni amici, sono oro.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837029"
+    },
+    {
+      "english": "Enjoy the small things, always.",
+      "Italian": "Goditi le piccole cose, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837030"
+    },
+    {
+      "english": "Share your smile, it's free.",
+      "Italian": "Condividi il tuo sorriso, è gratis.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837031"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Italian": "La pazienza, è una virtù.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837032"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "Italian": "Perdona in fretta, ama profondamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837033"
+    },
+    {
+      "english": "Stay curious, my friend.",
+      "Italian": "Rimani curioso, amico mio.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837034"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "Italian": "Credi in te stesso, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837035"
+    },
+    {
+      "english": "Make time, for what matters.",
+      "Italian": "Trova il tempo, per ciò che conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837036"
+    },
+    {
+      "english": "Be the reason, someone smiles.",
+      "Italian": "Sii la ragione, di un sorriso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837038"
+    },
+    {
+      "english": "A good book, opens worlds.",
+      "Italian": "Un buon libro, apre mondi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837039"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "Italian": "Dì la tua verità, con gentilezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837040"
+    },
+    {
+      "english": "Help others, when you can.",
+      "Italian": "Aiuta gli altri, quando puoi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837041"
+    },
+    {
+      "english": "Your health, is wealth.",
+      "Italian": "La tua salute, è ricchezza.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837042"
+    },
+    {
+      "english": "Travel often, it's good.",
+      "Italian": "Viaggia spesso, fa bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837043"
+    },
+    {
+      "english": "Share your food, with friends.",
+      "Italian": "Condividi il cibo, con gli amici.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837044"
+    },
+    {
+      "english": "Always forgive, yourself too.",
+      "Italian": "Perdona sempre, anche te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837045"
+    },
+    {
+      "english": "A little progress, every day.",
+      "Italian": "Un piccolo progresso, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837046"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "Italian": "Sii grato, per tutto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837047"
+    },
+    {
+      "english": "Never stop dreaming, big.",
+      "Italian": "Non smettere mai di sognare, in grande.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837048"
+    },
+    {
+      "english": "Listen to your heart, guide.",
+      "Italian": "Ascolta il tuo cuore, guida.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837049"
+    },
+    {
+      "english": "Be happy, with less.",
+      "Italian": "Sii felice, con meno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837050"
+    },
+    {
+      "english": "Do good, feel good.",
+      "Italian": "Fai del bene, sentiti bene.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837051"
+    },
+    {
+      "english": "Love your family, fiercely.",
+      "Italian": "Ama la tua famiglia, con passione.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837052"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "Italian": "Ogni giorno, una nuova possibilità.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837053"
+    },
+    {
+      "english": "Keep moving forward, always.",
+      "Italian": "Continua ad andare avanti, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837054"
+    },
+    {
+      "english": "Simple joys, are the best.",
+      "Italian": "Le gioie semplici, sono le migliori.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837055"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "Italian": "Ridi spesso, guarisce.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837056"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "Italian": "Scegli la pace, non il conflitto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837057"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "Italian": "Sii onesto, con te stesso.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837058"
+    },
+    {
+      "english": "Kind words, cost nothing.",
+      "Italian": "Le parole gentili, non costano nulla.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837059"
+    },
+    {
+      "english": "Little steps, lead far.",
+      "Italian": "Piccoli passi, portano lontano.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837060"
+    },
+    {
+      "english": "Today is a gift, appreciate it.",
+      "Italian": "Oggi è un dono, apprezzalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837061"
+    },
+    {
+      "english": "Be kind, always. It matters.",
+      "Italian": "Sii gentile, sempre. Conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837062"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "Italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837063"
+    },
+    {
+      "english": "Trust your gut, instincts.",
+      "Italian": "Fidati del tuo istinto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837064"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "Italian": "Gli errori sono lezioni, impara.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837066"
+    },
+    {
+      "english": "Good friends, are gold.",
+      "Italian": "I buoni amici, sono oro.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837067"
+    },
+    {
+      "english": "Enjoy the small things, always.",
+      "Italian": "Goditi le piccole cose, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837068"
+    },
+    {
+      "english": "Share your smile, it's free.",
+      "Italian": "Condividi il tuo sorriso, è gratis.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837101"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Italian": "La pazienza, è una virtù.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837102"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "Italian": "Perdona in fretta, ama profondamente.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837105"
+    },
+    {
+      "english": "Stay curious, my friend.",
+      "Italian": "Rimani curioso, amico mio.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:53:45.837108"
     }
   ],
-  "last_updated": "2026-07-17T04:05:41.429085"
+  "last_updated": "2026-07-18T03:53:45.837110"
 }
