@@ -3599,7 +3599,727 @@
       "Italian": "Rimani curioso, amico mio.",
       "category": "Wisdom",
       "generated_at": "2026-07-18T03:53:45.837108"
+    },
+    {
+      "english": "Action speaks, louder.",
+      "Italian": "L'azione parla, più forte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838688"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "Italian": "Abbraccia la sfida, cresci.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838700"
+    },
+    {
+      "english": "Your journey, starts now.",
+      "Italian": "Il tuo viaggio, inizia ora.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838702"
+    },
+    {
+      "english": "Focus on your goal, always.",
+      "Italian": "Concentrati sul tuo obiettivo, sempre.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838703"
+    },
+    {
+      "english": "Persistence wins, the race.",
+      "Italian": "La persistenza vince, la gara.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838704"
+    },
+    {
+      "english": "Make each moment, count.",
+      "Italian": "Rendi ogni momento, prezioso.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838705"
+    },
+    {
+      "english": "Adapt and overcome, always.",
+      "Italian": "Adattati e supera, sempre.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838706"
+    },
+    {
+      "english": "Create your own, path.",
+      "Italian": "Crea il tuo percorso, da solo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838710"
+    },
+    {
+      "english": "Strive for progress, not perfection.",
+      "Italian": "Punta al progresso, non alla perfezione.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838711"
+    },
+    {
+      "english": "Ignite your passion, fiercely.",
+      "Italian": "Accendi la tua passione, intensamente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838712"
+    },
+    {
+      "english": "Master your craft, daily.",
+      "Italian": "Padroneggia la tua arte, ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838713"
+    },
+    {
+      "english": "Visualize your success, clearly.",
+      "Italian": "Visualizza il tuo successo, chiaramente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838714"
+    },
+    {
+      "english": "Build momentum, strong.",
+      "Italian": "Costruisci slancio, con forza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838716"
+    },
+    {
+      "english": "Overcome obstacles, bravely.",
+      "Italian": "Supera gli ostacoli, coraggiosamente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838756"
+    },
+    {
+      "english": "Execute with purpose, always.",
+      "Italian": "Esegui con scopo, sempre.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838757"
+    },
+    {
+      "english": "Unleash your potential, now.",
+      "Italian": "Scatena il tuo potenziale, ora.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838758"
+    },
+    {
+      "english": "Take the leap, believe.",
+      "Italian": "Fai il salto, credici.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838759"
+    },
+    {
+      "english": "Cultivate a winner's, mindset.",
+      "Italian": "Coltiva una mentalità vincente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838760"
+    },
+    {
+      "english": "Achieve your dreams, boldly.",
+      "Italian": "Raggiungi i tuoi sogni, audacemente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838761"
+    },
+    {
+      "english": "Forge your destiny, strong.",
+      "Italian": "Forgia il tuo destino, con forza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838762"
+    },
+    {
+      "english": "Embrace effort, with joy.",
+      "Italian": "Accetta lo sforzo, con gioia.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838763"
+    },
+    {
+      "english": "Rise above, challenges.",
+      "Italian": "Sorgi al di sopra, delle sfide.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838764"
+    },
+    {
+      "english": "Win your battles, daily.",
+      "Italian": "Vinci le tue battaglie, ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838764"
+    },
+    {
+      "english": "Push your limits, further.",
+      "Italian": "Spingi i tuoi limiti, più lontano.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838765"
+    },
+    {
+      "english": "Seize the opportunity, now.",
+      "Italian": "Cogli l'opportunità, ora.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838766"
+    },
+    {
+      "english": "Embrace hard work, reward.",
+      "Italian": "Abbraccia il duro lavoro, ricompensa.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838767"
+    },
+    {
+      "english": "Transform your vision, into reality.",
+      "Italian": "Trasforma la tua visione, in realtà.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838768"
+    },
+    {
+      "english": "Conquer your fears, boldly.",
+      "Italian": "Conquista le tue paure, coraggiosamente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838769"
+    },
+    {
+      "english": "Rise to the occasion, always.",
+      "Italian": "Sii all'altezza della situazione, sempre.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838770"
+    },
+    {
+      "english": "Own your mistakes, learn.",
+      "Italian": "Ammetti i tuoi errori, impara.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838771"
+    },
+    {
+      "english": "Aspire to greatness, daily.",
+      "Italian": "Aspira alla grandezza, ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838772"
+    },
+    {
+      "english": "Make your mark, proudly.",
+      "Italian": "Lascia il tuo segno, con orgoglio.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838772"
+    },
+    {
+      "english": "Build something, lasting.",
+      "Italian": "Costruisci qualcosa, di duraturo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838773"
+    },
+    {
+      "english": "Embrace the journey, enjoy.",
+      "Italian": "Abbraccia il viaggio, goditelo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838774"
+    },
+    {
+      "english": "Your efforts, compound.",
+      "Italian": "I tuoi sforzi, si accumulano.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838775"
+    },
+    {
+      "english": "Never settle, for less.",
+      "Italian": "Non accontentarti, di meno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838776"
+    },
+    {
+      "english": "Lead by example, always.",
+      "Italian": "Guida con l'esempio, sempre.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838777"
+    },
+    {
+      "english": "Achieve it, your way.",
+      "Italian": "Raggiungilo, a modo tuo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838778"
+    },
+    {
+      "english": "Success is earned, daily.",
+      "Italian": "Il successo si guadagna, ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838779"
+    },
+    {
+      "english": "A seed of thought, sprouts an idea.",
+      "Italian": "Un seme di pensiero, fa germogliare un'idea.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838780"
+    },
+    {
+      "english": "The path is made, by walking.",
+      "Italian": "Il cammino si fa, camminando.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838781"
+    },
+    {
+      "english": "From tiny drops, a vast ocean.",
+      "Italian": "Da piccole gocce, un vasto oceano.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838782"
+    },
+    {
+      "english": "A spark of courage, ignites change.",
+      "Italian": "Una scintilla di coraggio, accende il cambiamento.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838783"
+    },
+    {
+      "english": "The story unfolds, with each word.",
+      "Italian": "La storia si svela, con ogni parola.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838784"
+    },
+    {
+      "english": "Build on solid ground, brick by brick.",
+      "Italian": "Costruisci su terra solida, mattone dopo mattone.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838785"
+    },
+    {
+      "english": "A listening ear, opens the mind.",
+      "Italian": "Un orecchio attento, apre la mente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838786"
+    },
+    {
+      "english": "The journey begins, with the first step.",
+      "Italian": "Il viaggio inizia, con il primo passo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838787"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Italian": "Una mente calma, vede chiaramente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838792"
+    },
+    {
+      "english": "Practice makes perfect, they say.",
+      "Italian": "La pratica rende perfetti, si dice.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838794"
+    },
+    {
+      "english": "Plant a smile, harvest joy.",
+      "Italian": "Pianta un sorriso, raccogli gioia.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838795"
+    },
+    {
+      "english": "The river flows, to the sea.",
+      "Italian": "Il fiume scorre, verso il mare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838796"
+    },
+    {
+      "english": "A warm greeting, builds bridges.",
+      "Italian": "Un saluto caloroso, costruisce ponti.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838796"
+    },
+    {
+      "english": "Wisdom grows, with experience.",
+      "Italian": "La saggezza cresce, con l'esperienza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838797"
+    },
+    {
+      "english": "Embrace the unknown, for growth.",
+      "Italian": "Abbraccia l'ignoto, per crescere.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838798"
+    },
+    {
+      "english": "A shared meal, strengthens bonds.",
+      "Italian": "Un pasto condiviso, rafforza i legami.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838799"
+    },
+    {
+      "english": "The quiet moment, brings clarity.",
+      "Italian": "Il momento di quiete, porta chiarezza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838800"
+    },
+    {
+      "english": "A hand extended, offers help.",
+      "Italian": "Una mano tesa, offre aiuto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838801"
+    },
+    {
+      "english": "True strength, lies within.",
+      "Italian": "La vera forza, risiede dentro.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838802"
+    },
+    {
+      "english": "Let your actions, speak loudest.",
+      "Italian": "Lascia che le tue azioni, parlino più forte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838803"
+    },
+    {
+      "english": "A simple 'thank you', means much.",
+      "Italian": "Un semplice 'grazie', vale molto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838803"
+    },
+    {
+      "english": "The sun rises, anew each day.",
+      "Italian": "Il sole sorge, di nuovo ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838804"
+    },
+    {
+      "english": "Listen more, speak less, learn all.",
+      "Italian": "Ascolta di più, parla meno, impara tutto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838805"
+    },
+    {
+      "english": "Good intentions, pave the way.",
+      "Italian": "Le buone intenzioni, aprono la strada.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838806"
+    },
+    {
+      "english": "Your voice matters, use it well.",
+      "Italian": "La tua voce conta, usala bene.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838807"
+    },
+    {
+      "english": "A moment of peace, refreshes the soul.",
+      "Italian": "Un momento di pace, rinfresca l'anima.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838808"
+    },
+    {
+      "english": "The past informs, the future builds.",
+      "Italian": "Il passato informa, il futuro costruisce.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838809"
+    },
+    {
+      "english": "Share a dream, inspire hope.",
+      "Italian": "Condividi un sogno, ispira speranza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838810"
+    },
+    {
+      "english": "A humble heart, is a strong heart.",
+      "Italian": "Un cuore umile, è un cuore forte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838811"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "Italian": "Cerca la comprensione, non solo risposte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838812"
+    },
+    {
+      "english": "Small acts of kindness, ripple outward.",
+      "Italian": "Piccoli gesti di gentilezza, si propagano all'esterno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838813"
+    },
+    {
+      "english": "Embrace the challenge, you will learn.",
+      "Italian": "Affronta la sfida, imparerai.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838814"
+    },
+    {
+      "english": "A focused mind, achieves goals.",
+      "Italian": "Una mente concentrata, raggiunge obiettivi.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838815"
+    },
+    {
+      "english": "The dawn breaks, for new beginnings.",
+      "Italian": "L'alba sorge, per nuovi inizi.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838815"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "Italian": "Apri la tua mente, a nuove idee.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838819"
+    },
+    {
+      "english": "Effort today, rewards tomorrow.",
+      "Italian": "L'impegno oggi, ricompensa domani.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838820"
+    },
+    {
+      "english": "The joy of learning, is lifelong.",
+      "Italian": "La gioia di imparare, dura tutta la vita.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838821"
+    },
+    {
+      "english": "Stand tall, believe in yourself.",
+      "Italian": "Stai in piedi dritto, credi in te stesso.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838821"
+    },
+    {
+      "english": "Create your own luck, with work.",
+      "Italian": "Crea la tua fortuna, con il lavoro.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838822"
+    },
+    {
+      "english": "A seed of thought, sprouts an idea.",
+      "Italian": "Un seme di pensiero, fa germogliare un'idea.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838823"
+    },
+    {
+      "english": "The path is made, by walking.",
+      "Italian": "Il cammino si fa, camminando.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838824"
+    },
+    {
+      "english": "From tiny drops, a vast ocean.",
+      "Italian": "Da piccole gocce, un vasto oceano.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838825"
+    },
+    {
+      "english": "A spark of courage, ignites change.",
+      "Italian": "Una scintilla di coraggio, accende il cambiamento.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838826"
+    },
+    {
+      "english": "The story unfolds, with each word.",
+      "Italian": "La storia si svela, con ogni parola.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838827"
+    },
+    {
+      "english": "Build on solid ground, brick by brick.",
+      "Italian": "Costruisci su terra solida, mattone dopo mattone.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838828"
+    },
+    {
+      "english": "A listening ear, opens the mind.",
+      "Italian": "Un orecchio attento, apre la mente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838829"
+    },
+    {
+      "english": "The journey begins, with the first step.",
+      "Italian": "Il viaggio inizia, con il primo passo.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838830"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "Italian": "Una mente calma, vede chiaramente.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838831"
+    },
+    {
+      "english": "Practice makes perfect, they say.",
+      "Italian": "La pratica rende perfetti, si dice.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838831"
+    },
+    {
+      "english": "Plant a smile, harvest joy.",
+      "Italian": "Pianta un sorriso, raccogli gioia.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838832"
+    },
+    {
+      "english": "The river flows, to the sea.",
+      "Italian": "Il fiume scorre, verso il mare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838833"
+    },
+    {
+      "english": "A warm greeting, builds bridges.",
+      "Italian": "Un saluto caloroso, costruisce ponti.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838834"
+    },
+    {
+      "english": "Wisdom grows, with experience.",
+      "Italian": "La saggezza cresce, con l'esperienza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838835"
+    },
+    {
+      "english": "Embrace the unknown, for growth.",
+      "Italian": "Abbraccia l'ignoto, per crescere.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838836"
+    },
+    {
+      "english": "A shared meal, strengthens bonds.",
+      "Italian": "Un pasto condiviso, rafforza i legami.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838837"
+    },
+    {
+      "english": "The quiet moment, brings clarity.",
+      "Italian": "Il momento di quiete, porta chiarezza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838838"
+    },
+    {
+      "english": "A hand extended, offers help.",
+      "Italian": "Una mano tesa, offre aiuto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838839"
+    },
+    {
+      "english": "True strength, lies within.",
+      "Italian": "La vera forza, risiede dentro.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838841"
+    },
+    {
+      "english": "Let your actions, speak loudest.",
+      "Italian": "Lascia che le tue azioni, parlino più forte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838842"
+    },
+    {
+      "english": "A simple 'thank you', means much.",
+      "Italian": "Un semplice 'grazie', vale molto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838843"
+    },
+    {
+      "english": "The sun rises, anew each day.",
+      "Italian": "Il sole sorge, di nuovo ogni giorno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838844"
+    },
+    {
+      "english": "Listen more, speak less, learn all.",
+      "Italian": "Ascolta di più, parla meno, impara tutto.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838845"
+    },
+    {
+      "english": "Good intentions, pave the way.",
+      "Italian": "Le buone intenzioni, aprono la strada.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838846"
+    },
+    {
+      "english": "Your voice matters, use it well.",
+      "Italian": "La tua voce conta, usala bene.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838847"
+    },
+    {
+      "english": "A moment of peace, refreshes the soul.",
+      "Italian": "Un momento di pace, rinfresca l'anima.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838848"
+    },
+    {
+      "english": "The past informs, the future builds.",
+      "Italian": "Il passato informa, il futuro costruisce.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838849"
+    },
+    {
+      "english": "Share a dream, inspire hope.",
+      "Italian": "Condividi un sogno, ispira speranza.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838849"
+    },
+    {
+      "english": "A humble heart, is a strong heart.",
+      "Italian": "Un cuore umile, è un cuore forte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838850"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "Italian": "Cerca la comprensione, non solo risposte.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838851"
+    },
+    {
+      "english": "Small acts of kindness, ripple outward.",
+      "Italian": "Piccoli gesti di gentilezza, si propagano all'esterno.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838852"
+    },
+    {
+      "english": "Embrace the challenge, you will learn.",
+      "Italian": "Affronta la sfida, imparerai.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838853"
+    },
+    {
+      "english": "A focused mind, achieves goals.",
+      "Italian": "Una mente concentrata, raggiunge obiettivi.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838855"
+    },
+    {
+      "english": "The dawn breaks, for new beginnings.",
+      "Italian": "L'alba sorge, per nuovi inizi.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838856"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "Italian": "Apri la tua mente, a nuove idee.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838857"
+    },
+    {
+      "english": "Effort today, rewards tomorrow.",
+      "Italian": "L'impegno oggi, ricompensa domani.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838858"
+    },
+    {
+      "english": "The joy of learning, is lifelong.",
+      "Italian": "La gioia di imparare, dura tutta la vita.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838858"
+    },
+    {
+      "english": "Stand tall, believe in yourself.",
+      "Italian": "Stai in piedi dritto, credi in te stesso.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838859"
+    },
+    {
+      "english": "Create your own luck, with work.",
+      "Italian": "Crea la tua fortuna, con il lavoro.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838860"
+    },
+    {
+      "english": "A seed of thought, sprouts an idea.",
+      "Italian": "Un seme di pensiero, fa germogliare un'idea.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838861"
+    },
+    {
+      "english": "The path is made, by walking.",
+      "Italian": "Il cammino si fa, camminando.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838862"
+    },
+    {
+      "english": "From tiny drops, a vast ocean.",
+      "Italian": "Da piccole gocce, un vasto oceano.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:24:04.838863"
     }
   ],
-  "last_updated": "2026-07-18T03:53:45.837110"
+  "last_updated": "2026-07-19T04:24:04.838865"
 }
