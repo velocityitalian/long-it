@@ -5759,7 +5759,727 @@
       "Italian": "Pace interiore, vera forza.",
       "category": "Strength",
       "generated_at": "2026-07-21T04:14:11.623129"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "Italian": "Respira a fondo, trova calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280584"
+    },
+    {
+      "english": "Steady hands, steady life.",
+      "Italian": "Mani ferme, vita stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280596"
+    },
+    {
+      "english": "Find your center, feel peace.",
+      "Italian": "Trova il tuo centro, senti pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280597"
+    },
+    {
+      "english": "Walk the line, with grace.",
+      "Italian": "Cammina sulla linea, con grazia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280598"
+    },
+    {
+      "english": "Even keel, my friend.",
+      "Italian": "Mare calmo, amico mio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280599"
+    },
+    {
+      "english": "Keep your feet, on the ground.",
+      "Italian": "Tieni i piedi, per terra.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280600"
+    },
+    {
+      "english": "Good rhythm, good life.",
+      "Italian": "Ritmo buono, vita buona.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280601"
+    },
+    {
+      "english": "Ground yourself, truly.",
+      "Italian": "Radicati, veramente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280604"
+    },
+    {
+      "english": "Balance, is a feeling.",
+      "Italian": "L'equilibrio, è un sentire.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280605"
+    },
+    {
+      "english": "Right and left, find harmony.",
+      "Italian": "Destra e sinistra, trovan armonia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280606"
+    },
+    {
+      "english": "Steady does it, slow.",
+      "Italian": "Piano piano, ci vuole calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280607"
+    },
+    {
+      "english": "Not too much, not too little.",
+      "Italian": "Non troppo, non poco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280627"
+    },
+    {
+      "english": "Find your flow, naturally.",
+      "Italian": "Trova il tuo flusso, naturale.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280629"
+    },
+    {
+      "english": "Center yourself, now.",
+      "Italian": "Centrati, adesso.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280632"
+    },
+    {
+      "english": "One foot, then the other.",
+      "Italian": "Un piede, poi l'altro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280634"
+    },
+    {
+      "english": "Stay grounded, my dear.",
+      "Italian": "Resta a terra, cara.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280636"
+    },
+    {
+      "english": "Perfect middle, that's it.",
+      "Italian": "Giusto mezzo, ecco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280637"
+    },
+    {
+      "english": "Light and dark, together.",
+      "Italian": "Luce e ombra, insieme.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280639"
+    },
+    {
+      "english": "Hold steady, breathe.",
+      "Italian": "Tieni saldo, respira.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280640"
+    },
+    {
+      "english": "Find the quiet, inside.",
+      "Italian": "Trova il quieto, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280642"
+    },
+    {
+      "english": "Even stride, matters.",
+      "Italian": "Passo pari, conta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280644"
+    },
+    {
+      "english": "Listen close, feel the pull.",
+      "Italian": "Ascolta bene, senti la spinta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280646"
+    },
+    {
+      "english": "Between two worlds, find peace.",
+      "Italian": "Tra due mondi, trova pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280647"
+    },
+    {
+      "english": "Smooth sailing, always.",
+      "Italian": "Navigare sereni, sempre.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280649"
+    },
+    {
+      "english": "Your own pace, is best.",
+      "Italian": "Il tuo ritmo, è il migliore.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280650"
+    },
+    {
+      "english": "A moment, to reset.",
+      "Italian": "Un momento, per resettare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280651"
+    },
+    {
+      "english": "Gentle sway, finding it.",
+      "Italian": "Dondolio leggero, trovandolo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280652"
+    },
+    {
+      "english": "Anchor down, feel secure.",
+      "Italian": "Ancora giù, senti sicuro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280652"
+    },
+    {
+      "english": "Side to side, find the middle.",
+      "Italian": "Lato a lato, trova il mezzo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280653"
+    },
+    {
+      "english": "Up and down, stay stable.",
+      "Italian": "Su e giù, stai stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280654"
+    },
+    {
+      "english": "Quiet mind, calm body.",
+      "Italian": "Mente quieta, corpo calmo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280654"
+    },
+    {
+      "english": "Steady rhythm, keeps you going.",
+      "Italian": "Ritmo costante, ti fa andare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280655"
+    },
+    {
+      "english": "Hold your pose, gently.",
+      "Italian": "Tieni la posa, dolcemente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280656"
+    },
+    {
+      "english": "Find the stillness, within.",
+      "Italian": "Trova la quiete, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280657"
+    },
+    {
+      "english": "Forward, backward, balanced.",
+      "Italian": "Avanti, indietro, in equilibrio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280657"
+    },
+    {
+      "english": "A gentle push, and pull.",
+      "Italian": "Una spinta, e un tiro dolce.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280658"
+    },
+    {
+      "english": "Move with purpose, softly.",
+      "Italian": "Muoviti con scopo, piano.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280659"
+    },
+    {
+      "english": "Center your energy, now.",
+      "Italian": "Centra la tua energia, subito.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280660"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "Italian": "Respira a fondo, trova calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280661"
+    },
+    {
+      "english": "Steady hands, steady life.",
+      "Italian": "Mani ferme, vita stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280662"
+    },
+    {
+      "english": "Find your center, feel peace.",
+      "Italian": "Trova il tuo centro, senti pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280662"
+    },
+    {
+      "english": "Walk the line, with grace.",
+      "Italian": "Cammina sulla linea, con grazia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280663"
+    },
+    {
+      "english": "Even keel, my friend.",
+      "Italian": "Mare calmo, amico mio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280664"
+    },
+    {
+      "english": "Keep your feet, on the ground.",
+      "Italian": "Tieni i piedi, per terra.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280665"
+    },
+    {
+      "english": "Good rhythm, good life.",
+      "Italian": "Ritmo buono, vita buona.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280666"
+    },
+    {
+      "english": "Ground yourself, truly.",
+      "Italian": "Radicati, veramente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280667"
+    },
+    {
+      "english": "Balance, is a feeling.",
+      "Italian": "L'equilibrio, è un sentire.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280667"
+    },
+    {
+      "english": "Right and left, find harmony.",
+      "Italian": "Destra e sinistra, trovan armonia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280668"
+    },
+    {
+      "english": "Steady does it, slow.",
+      "Italian": "Piano piano, ci vuole calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280669"
+    },
+    {
+      "english": "Not too much, not too little.",
+      "Italian": "Non troppo, non poco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280670"
+    },
+    {
+      "english": "Find your flow, naturally.",
+      "Italian": "Trova il tuo flusso, naturale.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280671"
+    },
+    {
+      "english": "Center yourself, now.",
+      "Italian": "Centrati, adesso.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280671"
+    },
+    {
+      "english": "One foot, then the other.",
+      "Italian": "Un piede, poi l'altro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280672"
+    },
+    {
+      "english": "Stay grounded, my dear.",
+      "Italian": "Resta a terra, cara.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280673"
+    },
+    {
+      "english": "Perfect middle, that's it.",
+      "Italian": "Giusto mezzo, ecco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280674"
+    },
+    {
+      "english": "Light and dark, together.",
+      "Italian": "Luce e ombra, insieme.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280675"
+    },
+    {
+      "english": "Hold steady, breathe.",
+      "Italian": "Tieni saldo, respira.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280676"
+    },
+    {
+      "english": "Find the quiet, inside.",
+      "Italian": "Trova il quieto, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280676"
+    },
+    {
+      "english": "Even stride, matters.",
+      "Italian": "Passo pari, conta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280677"
+    },
+    {
+      "english": "Listen close, feel the pull.",
+      "Italian": "Ascolta bene, senti la spinta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280678"
+    },
+    {
+      "english": "Between two worlds, find peace.",
+      "Italian": "Tra due mondi, trova pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280679"
+    },
+    {
+      "english": "Smooth sailing, always.",
+      "Italian": "Navigare sereni, sempre.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280679"
+    },
+    {
+      "english": "Your own pace, is best.",
+      "Italian": "Il tuo ritmo, è il migliore.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280680"
+    },
+    {
+      "english": "A moment, to reset.",
+      "Italian": "Un momento, per resettare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280681"
+    },
+    {
+      "english": "Gentle sway, finding it.",
+      "Italian": "Dondolio leggero, trovandolo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280682"
+    },
+    {
+      "english": "Anchor down, feel secure.",
+      "Italian": "Ancora giù, senti sicuro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280682"
+    },
+    {
+      "english": "Side to side, find the middle.",
+      "Italian": "Lato a lato, trova il mezzo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280683"
+    },
+    {
+      "english": "Up and down, stay stable.",
+      "Italian": "Su e giù, stai stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280684"
+    },
+    {
+      "english": "Quiet mind, calm body.",
+      "Italian": "Mente quieta, corpo calmo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280685"
+    },
+    {
+      "english": "Steady rhythm, keeps you going.",
+      "Italian": "Ritmo costante, ti fa andare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280685"
+    },
+    {
+      "english": "Hold your pose, gently.",
+      "Italian": "Tieni la posa, dolcemente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280686"
+    },
+    {
+      "english": "Find the stillness, within.",
+      "Italian": "Trova la quiete, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280687"
+    },
+    {
+      "english": "Forward, backward, balanced.",
+      "Italian": "Avanti, indietro, in equilibrio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280688"
+    },
+    {
+      "english": "A gentle push, and pull.",
+      "Italian": "Una spinta, e un tiro dolce.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280689"
+    },
+    {
+      "english": "Move with purpose, softly.",
+      "Italian": "Muoviti con scopo, piano.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280689"
+    },
+    {
+      "english": "Center your energy, now.",
+      "Italian": "Centra la tua energia, subito.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280690"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "Italian": "Respira a fondo, trova calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280691"
+    },
+    {
+      "english": "Steady hands, steady life.",
+      "Italian": "Mani ferme, vita stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280692"
+    },
+    {
+      "english": "Find your center, feel peace.",
+      "Italian": "Trova il tuo centro, senti pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280693"
+    },
+    {
+      "english": "Walk the line, with grace.",
+      "Italian": "Cammina sulla linea, con grazia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280694"
+    },
+    {
+      "english": "Even keel, my friend.",
+      "Italian": "Mare calmo, amico mio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280695"
+    },
+    {
+      "english": "Keep your feet, on the ground.",
+      "Italian": "Tieni i piedi, per terra.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280695"
+    },
+    {
+      "english": "Good rhythm, good life.",
+      "Italian": "Ritmo buono, vita buona.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280696"
+    },
+    {
+      "english": "Ground yourself, truly.",
+      "Italian": "Radicati, veramente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280697"
+    },
+    {
+      "english": "Balance, is a feeling.",
+      "Italian": "L'equilibrio, è un sentire.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280698"
+    },
+    {
+      "english": "Right and left, find harmony.",
+      "Italian": "Destra e sinistra, trovan armonia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280698"
+    },
+    {
+      "english": "Steady does it, slow.",
+      "Italian": "Piano piano, ci vuole calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280699"
+    },
+    {
+      "english": "Not too much, not too little.",
+      "Italian": "Non troppo, non poco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280700"
+    },
+    {
+      "english": "Find your flow, naturally.",
+      "Italian": "Trova il tuo flusso, naturale.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280701"
+    },
+    {
+      "english": "Center yourself, now.",
+      "Italian": "Centrati, adesso.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280701"
+    },
+    {
+      "english": "One foot, then the other.",
+      "Italian": "Un piede, poi l'altro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280702"
+    },
+    {
+      "english": "Stay grounded, my dear.",
+      "Italian": "Resta a terra, cara.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280703"
+    },
+    {
+      "english": "Perfect middle, that's it.",
+      "Italian": "Giusto mezzo, ecco.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280703"
+    },
+    {
+      "english": "Light and dark, together.",
+      "Italian": "Luce e ombra, insieme.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280704"
+    },
+    {
+      "english": "Hold steady, breathe.",
+      "Italian": "Tieni saldo, respira.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280705"
+    },
+    {
+      "english": "Find the quiet, inside.",
+      "Italian": "Trova il quieto, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280706"
+    },
+    {
+      "english": "Even stride, matters.",
+      "Italian": "Passo pari, conta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280706"
+    },
+    {
+      "english": "Listen close, feel the pull.",
+      "Italian": "Ascolta bene, senti la spinta.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280707"
+    },
+    {
+      "english": "Between two worlds, find peace.",
+      "Italian": "Tra due mondi, trova pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280708"
+    },
+    {
+      "english": "Smooth sailing, always.",
+      "Italian": "Navigare sereni, sempre.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280709"
+    },
+    {
+      "english": "Your own pace, is best.",
+      "Italian": "Il tuo ritmo, è il migliore.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280710"
+    },
+    {
+      "english": "A moment, to reset.",
+      "Italian": "Un momento, per resettare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280710"
+    },
+    {
+      "english": "Gentle sway, finding it.",
+      "Italian": "Dondolio leggero, trovandolo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280711"
+    },
+    {
+      "english": "Anchor down, feel secure.",
+      "Italian": "Ancora giù, senti sicuro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280712"
+    },
+    {
+      "english": "Side to side, find the middle.",
+      "Italian": "Lato a lato, trova il mezzo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280713"
+    },
+    {
+      "english": "Up and down, stay stable.",
+      "Italian": "Su e giù, stai stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280714"
+    },
+    {
+      "english": "Quiet mind, calm body.",
+      "Italian": "Mente quieta, corpo calmo.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280715"
+    },
+    {
+      "english": "Steady rhythm, keeps you going.",
+      "Italian": "Ritmo costante, ti fa andare.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280715"
+    },
+    {
+      "english": "Hold your pose, gently.",
+      "Italian": "Tieni la posa, dolcemente.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280716"
+    },
+    {
+      "english": "Find the stillness, within.",
+      "Italian": "Trova la quiete, dentro.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280717"
+    },
+    {
+      "english": "Forward, backward, balanced.",
+      "Italian": "Avanti, indietro, in equilibrio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280718"
+    },
+    {
+      "english": "A gentle push, and pull.",
+      "Italian": "Una spinta, e un tiro dolce.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280719"
+    },
+    {
+      "english": "Move with purpose, softly.",
+      "Italian": "Muoviti con scopo, piano.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280719"
+    },
+    {
+      "english": "Center your energy, now.",
+      "Italian": "Centra la tua energia, subito.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280720"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "Italian": "Respira a fondo, trova calma.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280721"
+    },
+    {
+      "english": "Steady hands, steady life.",
+      "Italian": "Mani ferme, vita stabile.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280722"
+    },
+    {
+      "english": "Find your center, feel peace.",
+      "Italian": "Trova il tuo centro, senti pace.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280722"
+    },
+    {
+      "english": "Walk the line, with grace.",
+      "Italian": "Cammina sulla linea, con grazia.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280723"
+    },
+    {
+      "english": "Even keel, my friend.",
+      "Italian": "Mare calmo, amico mio.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280724"
+    },
+    {
+      "english": "Keep your feet, on the ground.",
+      "Italian": "Tieni i piedi, per terra.",
+      "category": "Balance",
+      "generated_at": "2026-07-22T04:16:07.280725"
     }
   ],
-  "last_updated": "2026-07-21T04:14:11.623131"
+  "last_updated": "2026-07-22T04:16:07.280729"
 }
