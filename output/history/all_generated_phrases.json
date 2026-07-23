@@ -6479,7 +6479,727 @@
       "Italian": "Tieni i piedi, per terra.",
       "category": "Balance",
       "generated_at": "2026-07-22T04:16:07.280725"
+    },
+    {
+      "english": "Be kind, always, to everyone.",
+      "Italian": "Sii gentile, sempre, a tutti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541536"
+    },
+    {
+      "english": "Share joy, spread laughter.",
+      "Italian": "Condividi gioia, diffondi risate.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541548"
+    },
+    {
+      "english": "A little help, goes far.",
+      "Italian": "Un piccolo aiuto, fa molta strada.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541550"
+    },
+    {
+      "english": "Forgive quickly, forget grudges.",
+      "Italian": "Perdona in fretta, dimentica rancori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541551"
+    },
+    {
+      "english": "Offer a compliment, it's free!",
+      "Italian": "Offri un complimento, è gratis!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541552"
+    },
+    {
+      "english": "Be a good friend, truly.",
+      "Italian": "Sii un buon amico, davvero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541553"
+    },
+    {
+      "english": "Help a stranger, no reason needed.",
+      "Italian": "Aiuta uno sconosciuto, nessuna ragione.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541554"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Italian": "Diffondi gentilezza, come coriandoli.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541557"
+    },
+    {
+      "english": "Empathy is superpower, use it.",
+      "Italian": "L'empatia è un superpotere, usalo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541559"
+    },
+    {
+      "english": "Small acts, big impact.",
+      "Italian": "Piccoli gesti, grande impatto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541561"
+    },
+    {
+      "english": "Be patient with others.",
+      "Italian": "Sii paziente con gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541562"
+    },
+    {
+      "english": "A warm hug, heals wounds.",
+      "Italian": "Un abbraccio caldo, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541563"
+    },
+    {
+      "english": "Share your umbrella, it's raining!",
+      "Italian": "Condividi il tuo ombrello, piove!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541564"
+    },
+    {
+      "english": "Cheer someone up, today.",
+      "Italian": "Tira su il morale a qualcuno, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541565"
+    },
+    {
+      "english": "Kindness costs nothing, give it.",
+      "Italian": "La gentilezza non costa nulla, falla.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541566"
+    },
+    {
+      "english": "Respect everyone, always.",
+      "Italian": "Rispetta tutti, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541568"
+    },
+    {
+      "english": "Lift others up, don't push.",
+      "Italian": "Solleva gli altri, non spingere.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541569"
+    },
+    {
+      "english": "A happy thought, for you.",
+      "Italian": "Un pensiero felice, per te.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541570"
+    },
+    {
+      "english": "Offer a seat, to someone tired.",
+      "Italian": "Offri un posto, a chi è stanco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541571"
+    },
+    {
+      "english": "Good vibes only, please.",
+      "Italian": "Solo buone vibrazioni, per favore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541572"
+    },
+    {
+      "english": "Hold the door, be chivalrous.",
+      "Italian": "Tieni la porta, sii cavalleresco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541573"
+    },
+    {
+      "english": "Share a cookie, make a friend.",
+      "Italian": "Condividi un biscotto, fai un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541576"
+    },
+    {
+      "english": "Be thoughtful, in small ways.",
+      "Italian": "Sii premuroso, in piccole cose.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541577"
+    },
+    {
+      "english": "Give a little, with love.",
+      "Italian": "Dai un po', con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541578"
+    },
+    {
+      "english": "Spread sunshine, today.",
+      "Italian": "Diffondi il sole, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541579"
+    },
+    {
+      "english": "A hug is like coffee, warm.",
+      "Italian": "Un abbraccio è come il caffè, caldo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541580"
+    },
+    {
+      "english": "Be a helper, not a hinderer.",
+      "Italian": "Sii un aiuto, non un ostacolo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541581"
+    },
+    {
+      "english": "Say thank you, always.",
+      "Italian": "Di' grazie, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541582"
+    },
+    {
+      "english": "Random acts, of kindness.",
+      "Italian": "Atti casuali, di gentilezza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541583"
+    },
+    {
+      "english": "Share a joke, lighten the mood.",
+      "Italian": "Racconta una battuta, alleggerisci.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541584"
+    },
+    {
+      "english": "Be friendly, wave hello.",
+      "Italian": "Sii amichevole, saluta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541585"
+    },
+    {
+      "english": "A listening ear, is precious.",
+      "Italian": "Un orecchio attento, è prezioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541586"
+    },
+    {
+      "english": "Make someone's day, better.",
+      "Italian": "Rendi la giornata di qualcuno, migliore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541587"
+    },
+    {
+      "english": "Kindness is cool, be it.",
+      "Italian": "La gentilezza è figa, sii tu.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541588"
+    },
+    {
+      "english": "Share kindness, always forward.",
+      "Italian": "Diffondi gentilezza, sempre avanti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541589"
+    },
+    {
+      "english": "Be kind, always, to everyone.",
+      "Italian": "Sii gentile, sempre, a tutti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541590"
+    },
+    {
+      "english": "Share joy, spread laughter.",
+      "Italian": "Condividi gioia, diffondi risate.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541591"
+    },
+    {
+      "english": "A little help, goes far.",
+      "Italian": "Un piccolo aiuto, fa molta strada.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541593"
+    },
+    {
+      "english": "Forgive quickly, forget grudges.",
+      "Italian": "Perdona in fretta, dimentica rancori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541594"
+    },
+    {
+      "english": "Offer a compliment, it's free!",
+      "Italian": "Offri un complimento, è gratis!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541595"
+    },
+    {
+      "english": "Be a good friend, truly.",
+      "Italian": "Sii un buon amico, davvero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541596"
+    },
+    {
+      "english": "Help a stranger, no reason needed.",
+      "Italian": "Aiuta uno sconosciuto, nessuna ragione.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541597"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Italian": "Diffondi gentilezza, come coriandoli.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541598"
+    },
+    {
+      "english": "Empathy is superpower, use it.",
+      "Italian": "L'empatia è un superpotere, usalo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541599"
+    },
+    {
+      "english": "Small acts, big impact.",
+      "Italian": "Piccoli gesti, grande impatto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541600"
+    },
+    {
+      "english": "Be patient with others.",
+      "Italian": "Sii paziente con gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541601"
+    },
+    {
+      "english": "A warm hug, heals wounds.",
+      "Italian": "Un abbraccio caldo, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541602"
+    },
+    {
+      "english": "Share your umbrella, it's raining!",
+      "Italian": "Condividi il tuo ombrello, piove!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541603"
+    },
+    {
+      "english": "Cheer someone up, today.",
+      "Italian": "Tira su il morale a qualcuno, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541603"
+    },
+    {
+      "english": "Kindness costs nothing, give it.",
+      "Italian": "La gentilezza non costa nulla, falla.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541604"
+    },
+    {
+      "english": "Respect everyone, always.",
+      "Italian": "Rispetta tutti, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541605"
+    },
+    {
+      "english": "Lift others up, don't push.",
+      "Italian": "Solleva gli altri, non spingere.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541606"
+    },
+    {
+      "english": "A happy thought, for you.",
+      "Italian": "Un pensiero felice, per te.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541607"
+    },
+    {
+      "english": "Offer a seat, to someone tired.",
+      "Italian": "Offri un posto, a chi è stanco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541609"
+    },
+    {
+      "english": "Good vibes only, please.",
+      "Italian": "Solo buone vibrazioni, per favore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541610"
+    },
+    {
+      "english": "Hold the door, be chivalrous.",
+      "Italian": "Tieni la porta, sii cavalleresco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541610"
+    },
+    {
+      "english": "Share a cookie, make a friend.",
+      "Italian": "Condividi un biscotto, fai un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541611"
+    },
+    {
+      "english": "Be thoughtful, in small ways.",
+      "Italian": "Sii premuroso, in piccole cose.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541616"
+    },
+    {
+      "english": "Give a little, with love.",
+      "Italian": "Dai un po', con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541617"
+    },
+    {
+      "english": "Spread sunshine, today.",
+      "Italian": "Diffondi il sole, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541618"
+    },
+    {
+      "english": "A hug is like coffee, warm.",
+      "Italian": "Un abbraccio è come il caffè, caldo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541619"
+    },
+    {
+      "english": "Be a helper, not a hinderer.",
+      "Italian": "Sii un aiuto, non un ostacolo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541620"
+    },
+    {
+      "english": "Say thank you, always.",
+      "Italian": "Di' grazie, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541621"
+    },
+    {
+      "english": "Random acts, of kindness.",
+      "Italian": "Atti casuali, di gentilezza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541622"
+    },
+    {
+      "english": "Share a joke, lighten the mood.",
+      "Italian": "Racconta una battuta, alleggerisci.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541623"
+    },
+    {
+      "english": "Be friendly, wave hello.",
+      "Italian": "Sii amichevole, saluta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541624"
+    },
+    {
+      "english": "A listening ear, is precious.",
+      "Italian": "Un orecchio attento, è prezioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541625"
+    },
+    {
+      "english": "Make someone's day, better.",
+      "Italian": "Rendi la giornata di qualcuno, migliore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541626"
+    },
+    {
+      "english": "Kindness is cool, be it.",
+      "Italian": "La gentilezza è figa, sii tu.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541627"
+    },
+    {
+      "english": "Share kindness, always forward.",
+      "Italian": "Diffondi gentilezza, sempre avanti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541628"
+    },
+    {
+      "english": "Be kind, always, to everyone.",
+      "Italian": "Sii gentile, sempre, a tutti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541630"
+    },
+    {
+      "english": "Share joy, spread laughter.",
+      "Italian": "Condividi gioia, diffondi risate.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541631"
+    },
+    {
+      "english": "A little help, goes far.",
+      "Italian": "Un piccolo aiuto, fa molta strada.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541632"
+    },
+    {
+      "english": "Forgive quickly, forget grudges.",
+      "Italian": "Perdona in fretta, dimentica rancori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541633"
+    },
+    {
+      "english": "Offer a compliment, it's free!",
+      "Italian": "Offri un complimento, è gratis!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541634"
+    },
+    {
+      "english": "Be a good friend, truly.",
+      "Italian": "Sii un buon amico, davvero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541635"
+    },
+    {
+      "english": "Help a stranger, no reason needed.",
+      "Italian": "Aiuta uno sconosciuto, nessuna ragione.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541636"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Italian": "Diffondi gentilezza, come coriandoli.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541637"
+    },
+    {
+      "english": "Empathy is superpower, use it.",
+      "Italian": "L'empatia è un superpotere, usalo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541638"
+    },
+    {
+      "english": "Small acts, big impact.",
+      "Italian": "Piccoli gesti, grande impatto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541639"
+    },
+    {
+      "english": "Be patient with others.",
+      "Italian": "Sii paziente con gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541640"
+    },
+    {
+      "english": "A warm hug, heals wounds.",
+      "Italian": "Un abbraccio caldo, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541641"
+    },
+    {
+      "english": "Share your umbrella, it's raining!",
+      "Italian": "Condividi il tuo ombrello, piove!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541642"
+    },
+    {
+      "english": "Cheer someone up, today.",
+      "Italian": "Tira su il morale a qualcuno, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541643"
+    },
+    {
+      "english": "Kindness costs nothing, give it.",
+      "Italian": "La gentilezza non costa nulla, falla.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541644"
+    },
+    {
+      "english": "Respect everyone, always.",
+      "Italian": "Rispetta tutti, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541645"
+    },
+    {
+      "english": "Lift others up, don't push.",
+      "Italian": "Solleva gli altri, non spingere.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541646"
+    },
+    {
+      "english": "A happy thought, for you.",
+      "Italian": "Un pensiero felice, per te.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541647"
+    },
+    {
+      "english": "Offer a seat, to someone tired.",
+      "Italian": "Offri un posto, a chi è stanco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541650"
+    },
+    {
+      "english": "Good vibes only, please.",
+      "Italian": "Solo buone vibrazioni, per favore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541651"
+    },
+    {
+      "english": "Hold the door, be chivalrous.",
+      "Italian": "Tieni la porta, sii cavalleresco.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541652"
+    },
+    {
+      "english": "Share a cookie, make a friend.",
+      "Italian": "Condividi un biscotto, fai un amico.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541653"
+    },
+    {
+      "english": "Be thoughtful, in small ways.",
+      "Italian": "Sii premuroso, in piccole cose.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541654"
+    },
+    {
+      "english": "Give a little, with love.",
+      "Italian": "Dai un po', con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541655"
+    },
+    {
+      "english": "Spread sunshine, today.",
+      "Italian": "Diffondi il sole, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541656"
+    },
+    {
+      "english": "A hug is like coffee, warm.",
+      "Italian": "Un abbraccio è come il caffè, caldo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541657"
+    },
+    {
+      "english": "Be a helper, not a hinderer.",
+      "Italian": "Sii un aiuto, non un ostacolo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541658"
+    },
+    {
+      "english": "Say thank you, always.",
+      "Italian": "Di' grazie, sempre.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541660"
+    },
+    {
+      "english": "Random acts, of kindness.",
+      "Italian": "Atti casuali, di gentilezza.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541660"
+    },
+    {
+      "english": "Share a joke, lighten the mood.",
+      "Italian": "Racconta una battuta, alleggerisci.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541661"
+    },
+    {
+      "english": "Be friendly, wave hello.",
+      "Italian": "Sii amichevole, saluta.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541662"
+    },
+    {
+      "english": "A listening ear, is precious.",
+      "Italian": "Un orecchio attento, è prezioso.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541663"
+    },
+    {
+      "english": "Make someone's day, better.",
+      "Italian": "Rendi la giornata di qualcuno, migliore.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541664"
+    },
+    {
+      "english": "Kindness is cool, be it.",
+      "Italian": "La gentilezza è figa, sii tu.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541677"
+    },
+    {
+      "english": "Share kindness, always forward.",
+      "Italian": "Diffondi gentilezza, sempre avanti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541678"
+    },
+    {
+      "english": "Be kind, always, to everyone.",
+      "Italian": "Sii gentile, sempre, a tutti.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541679"
+    },
+    {
+      "english": "Share joy, spread laughter.",
+      "Italian": "Condividi gioia, diffondi risate.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541680"
+    },
+    {
+      "english": "A little help, goes far.",
+      "Italian": "Un piccolo aiuto, fa molta strada.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541681"
+    },
+    {
+      "english": "Forgive quickly, forget grudges.",
+      "Italian": "Perdona in fretta, dimentica rancori.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541682"
+    },
+    {
+      "english": "Offer a compliment, it's free!",
+      "Italian": "Offri un complimento, è gratis!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541683"
+    },
+    {
+      "english": "Be a good friend, truly.",
+      "Italian": "Sii un buon amico, davvero.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541684"
+    },
+    {
+      "english": "Help a stranger, no reason needed.",
+      "Italian": "Aiuta uno sconosciuto, nessuna ragione.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541685"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Italian": "Diffondi gentilezza, come coriandoli.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541686"
+    },
+    {
+      "english": "Empathy is superpower, use it.",
+      "Italian": "L'empatia è un superpotere, usalo.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541687"
+    },
+    {
+      "english": "Small acts, big impact.",
+      "Italian": "Piccoli gesti, grande impatto.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541688"
+    },
+    {
+      "english": "Be patient with others.",
+      "Italian": "Sii paziente con gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541689"
+    },
+    {
+      "english": "A warm hug, heals wounds.",
+      "Italian": "Un abbraccio caldo, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541690"
+    },
+    {
+      "english": "Share your umbrella, it's raining!",
+      "Italian": "Condividi il tuo ombrello, piove!",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541690"
+    },
+    {
+      "english": "Cheer someone up, today.",
+      "Italian": "Tira su il morale a qualcuno, oggi.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541691"
+    },
+    {
+      "english": "Kindness costs nothing, give it.",
+      "Italian": "La gentilezza non costa nulla, falla.",
+      "category": "Kindness",
+      "generated_at": "2026-07-23T04:13:52.541692"
     }
   ],
-  "last_updated": "2026-07-22T04:16:07.280729"
+  "last_updated": "2026-07-23T04:13:52.541696"
 }
