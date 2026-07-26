@@ -7919,7 +7919,727 @@
       "Italian": "Coltiva le tue idee selvagge, potrebbero volare.",
       "category": "Creativity",
       "generated_at": "2026-07-24T04:13:13.613294"
+    },
+    {
+      "english": "Speak a little, listen a lot.",
+      "Italian": "Parla poco, ascolta tanto.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249453"
+    },
+    {
+      "english": "Try one new word, daily.",
+      "Italian": "Prova una parola nuova, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249466"
+    },
+    {
+      "english": "Point and name, it works.",
+      "Italian": "Indica e nomina, funziona.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249468"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "Italian": "Non temere errori, impara da essi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249469"
+    },
+    {
+      "english": "Watch Italian shows, with subtitles.",
+      "Italian": "Guarda serie italiane, con sottotitoli.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249471"
+    },
+    {
+      "english": "Sing along, with Italian songs.",
+      "Italian": "Canta con noi, le canzoni italiane.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249472"
+    },
+    {
+      "english": "Taste the culture, speak more.",
+      "Italian": "Assaggia la cultura, parla di più.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249473"
+    },
+    {
+      "english": "Write down verbs, you use often.",
+      "Italian": "Scrivi i verbi, che usi spesso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249476"
+    },
+    {
+      "english": "Repeat phrases, out loud.",
+      "Italian": "Ripeti le frasi, ad alta voce.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249477"
+    },
+    {
+      "english": "Ask 'why', understand better.",
+      "Italian": "Chiedi 'perché', capisci meglio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249479"
+    },
+    {
+      "english": "Order coffee, in Italian.",
+      "Italian": "Ordina il caffè, in italiano.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249480"
+    },
+    {
+      "english": "Read simple stories, slowly.",
+      "Italian": "Leggi storie semplici, lentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249481"
+    },
+    {
+      "english": "Make flashcards, fun ones.",
+      "Italian": "Crea flashcard, quelle divertenti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249482"
+    },
+    {
+      "english": "Listen to Italian radio, passively.",
+      "Italian": "Ascolta radio italiana, passivamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249484"
+    },
+    {
+      "english": "Travel, and try to converse.",
+      "Italian": "Viaggia, e prova a conversare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249485"
+    },
+    {
+      "english": "Eat local food, learn names.",
+      "Italian": "Mangia locale, impara i nomi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249486"
+    },
+    {
+      "english": "Use gesture, with your words.",
+      "Italian": "Usa gesti, con le tue parole.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249487"
+    },
+    {
+      "english": "Journal your progress, daily.",
+      "Italian": "Annota i tuoi progressi, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249488"
+    },
+    {
+      "english": "Find a language partner, online.",
+      "Italian": "Trova un compagno linguistico, online.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249489"
+    },
+    {
+      "english": "Think in Italian, first.",
+      "Italian": "Pensa in italiano, prima.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249490"
+    },
+    {
+      "english": "Label objects, in your home.",
+      "Italian": "Etichetta gli oggetti, in casa.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249491"
+    },
+    {
+      "english": "Watch cooking videos, Italian.",
+      "Italian": "Guarda video di cucina, italiani.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249492"
+    },
+    {
+      "english": "Mimic native speakers, closely.",
+      "Italian": "Imita i madrelingua, attentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249493"
+    },
+    {
+      "english": "Don't be shy, just start talking.",
+      "Italian": "Non essere timido, inizia a parlare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249494"
+    },
+    {
+      "english": "Learn common greetings, perfect them.",
+      "Italian": "Impara saluti comuni, perfezionali.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249495"
+    },
+    {
+      "english": "Use translation apps, wisely.",
+      "Italian": "Usa app traduzione, con giudizio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249496"
+    },
+    {
+      "english": "Listen to children's stories.",
+      "Italian": "Ascolta le storie dei bambini.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249496"
+    },
+    {
+      "english": "Practice pronunciation, daily.",
+      "Italian": "Esercita la pronuncia, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249497"
+    },
+    {
+      "english": "Immerse yourself, in the sound.",
+      "Italian": "Immergiti, nel suono.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249498"
+    },
+    {
+      "english": "Combine words, create sentences.",
+      "Italian": "Unisci parole, crea frasi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249499"
+    },
+    {
+      "english": "Say it again, differently.",
+      "Italian": "Dillo ancora, in modo diverso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249500"
+    },
+    {
+      "english": "Notice sentence structure, you hear.",
+      "Italian": "Nota la struttura, che senti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249501"
+    },
+    {
+      "english": "What does that mean? Ask why.",
+      "Italian": "Cosa significa? Chiedi perché.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249502"
+    },
+    {
+      "english": "Be a mimic, a confident mimic.",
+      "Italian": "Sii un imitatore, un imitatore sicuro.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249503"
+    },
+    {
+      "english": "Repeat, until it feels natural.",
+      "Italian": "Ripeti, finché non diventa naturale.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249504"
+    },
+    {
+      "english": "Change one word, adjust meaning.",
+      "Italian": "Cambia una parola, modifica il senso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249505"
+    },
+    {
+      "english": "Listen, then respond, simply.",
+      "Italian": "Ascolta, poi rispondi, semplicemente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249506"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "Italian": "La tua voce conta, usala.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249520"
+    },
+    {
+      "english": "Progress is progress, celebrate it.",
+      "Italian": "Il progresso è progresso, festeggialo.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249522"
+    },
+    {
+      "english": "Speak a little, listen a lot.",
+      "Italian": "Parla poco, ascolta tanto.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249523"
+    },
+    {
+      "english": "Try one new word, daily.",
+      "Italian": "Prova una parola nuova, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249524"
+    },
+    {
+      "english": "Point and name, it works.",
+      "Italian": "Indica e nomina, funziona.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249525"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "Italian": "Non temere errori, impara da essi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249527"
+    },
+    {
+      "english": "Watch Italian shows, with subtitles.",
+      "Italian": "Guarda serie italiane, con sottotitoli.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249528"
+    },
+    {
+      "english": "Sing along, with Italian songs.",
+      "Italian": "Canta con noi, le canzoni italiane.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249529"
+    },
+    {
+      "english": "Taste the culture, speak more.",
+      "Italian": "Assaggia la cultura, parla di più.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249560"
+    },
+    {
+      "english": "Write down verbs, you use often.",
+      "Italian": "Scrivi i verbi, che usi spesso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249562"
+    },
+    {
+      "english": "Repeat phrases, out loud.",
+      "Italian": "Ripeti le frasi, ad alta voce.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249563"
+    },
+    {
+      "english": "Ask 'why', understand better.",
+      "Italian": "Chiedi 'perché', capisci meglio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249564"
+    },
+    {
+      "english": "Order coffee, in Italian.",
+      "Italian": "Ordina il caffè, in italiano.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249565"
+    },
+    {
+      "english": "Read simple stories, slowly.",
+      "Italian": "Leggi storie semplici, lentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249566"
+    },
+    {
+      "english": "Make flashcards, fun ones.",
+      "Italian": "Crea flashcard, quelle divertenti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249567"
+    },
+    {
+      "english": "Listen to Italian radio, passively.",
+      "Italian": "Ascolta radio italiana, passivamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249568"
+    },
+    {
+      "english": "Travel, and try to converse.",
+      "Italian": "Viaggia, e prova a conversare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249569"
+    },
+    {
+      "english": "Eat local food, learn names.",
+      "Italian": "Mangia locale, impara i nomi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249570"
+    },
+    {
+      "english": "Use gesture, with your words.",
+      "Italian": "Usa gesti, con le tue parole.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249573"
+    },
+    {
+      "english": "Journal your progress, daily.",
+      "Italian": "Annota i tuoi progressi, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249574"
+    },
+    {
+      "english": "Find a language partner, online.",
+      "Italian": "Trova un compagno linguistico, online.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249575"
+    },
+    {
+      "english": "Think in Italian, first.",
+      "Italian": "Pensa in italiano, prima.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249577"
+    },
+    {
+      "english": "Label objects, in your home.",
+      "Italian": "Etichetta gli oggetti, in casa.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249578"
+    },
+    {
+      "english": "Watch cooking videos, Italian.",
+      "Italian": "Guarda video di cucina, italiani.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249579"
+    },
+    {
+      "english": "Mimic native speakers, closely.",
+      "Italian": "Imita i madrelingua, attentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249580"
+    },
+    {
+      "english": "Don't be shy, just start talking.",
+      "Italian": "Non essere timido, inizia a parlare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249581"
+    },
+    {
+      "english": "Learn common greetings, perfect them.",
+      "Italian": "Impara saluti comuni, perfezionali.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249582"
+    },
+    {
+      "english": "Use translation apps, wisely.",
+      "Italian": "Usa app traduzione, con giudizio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249583"
+    },
+    {
+      "english": "Listen to children's stories.",
+      "Italian": "Ascolta le storie dei bambini.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249584"
+    },
+    {
+      "english": "Practice pronunciation, daily.",
+      "Italian": "Esercita la pronuncia, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249585"
+    },
+    {
+      "english": "Immerse yourself, in the sound.",
+      "Italian": "Immergiti, nel suono.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249586"
+    },
+    {
+      "english": "Combine words, create sentences.",
+      "Italian": "Unisci parole, crea frasi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249587"
+    },
+    {
+      "english": "Say it again, differently.",
+      "Italian": "Dillo ancora, in modo diverso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249588"
+    },
+    {
+      "english": "Notice sentence structure, you hear.",
+      "Italian": "Nota la struttura, che senti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249589"
+    },
+    {
+      "english": "What does that mean? Ask why.",
+      "Italian": "Cosa significa? Chiedi perché.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249590"
+    },
+    {
+      "english": "Be a mimic, a confident mimic.",
+      "Italian": "Sii un imitatore, un imitatore sicuro.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249591"
+    },
+    {
+      "english": "Repeat, until it feels natural.",
+      "Italian": "Ripeti, finché non diventa naturale.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249592"
+    },
+    {
+      "english": "Change one word, adjust meaning.",
+      "Italian": "Cambia una parola, modifica il senso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249593"
+    },
+    {
+      "english": "Listen, then respond, simply.",
+      "Italian": "Ascolta, poi rispondi, semplicemente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249594"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "Italian": "La tua voce conta, usala.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249595"
+    },
+    {
+      "english": "Progress is progress, celebrate it.",
+      "Italian": "Il progresso è progresso, festeggialo.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249596"
+    },
+    {
+      "english": "Speak a little, listen a lot.",
+      "Italian": "Parla poco, ascolta tanto.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249597"
+    },
+    {
+      "english": "Try one new word, daily.",
+      "Italian": "Prova una parola nuova, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249598"
+    },
+    {
+      "english": "Point and name, it works.",
+      "Italian": "Indica e nomina, funziona.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249599"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "Italian": "Non temere errori, impara da essi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249600"
+    },
+    {
+      "english": "Watch Italian shows, with subtitles.",
+      "Italian": "Guarda serie italiane, con sottotitoli.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249601"
+    },
+    {
+      "english": "Sing along, with Italian songs.",
+      "Italian": "Canta con noi, le canzoni italiane.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249602"
+    },
+    {
+      "english": "Taste the culture, speak more.",
+      "Italian": "Assaggia la cultura, parla di più.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249604"
+    },
+    {
+      "english": "Write down verbs, you use often.",
+      "Italian": "Scrivi i verbi, che usi spesso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249607"
+    },
+    {
+      "english": "Repeat phrases, out loud.",
+      "Italian": "Ripeti le frasi, ad alta voce.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249610"
+    },
+    {
+      "english": "Ask 'why', understand better.",
+      "Italian": "Chiedi 'perché', capisci meglio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249613"
+    },
+    {
+      "english": "Order coffee, in Italian.",
+      "Italian": "Ordina il caffè, in italiano.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249614"
+    },
+    {
+      "english": "Read simple stories, slowly.",
+      "Italian": "Leggi storie semplici, lentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249615"
+    },
+    {
+      "english": "Make flashcards, fun ones.",
+      "Italian": "Crea flashcard, quelle divertenti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249616"
+    },
+    {
+      "english": "Listen to Italian radio, passively.",
+      "Italian": "Ascolta radio italiana, passivamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249617"
+    },
+    {
+      "english": "Travel, and try to converse.",
+      "Italian": "Viaggia, e prova a conversare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249618"
+    },
+    {
+      "english": "Eat local food, learn names.",
+      "Italian": "Mangia locale, impara i nomi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249620"
+    },
+    {
+      "english": "Use gesture, with your words.",
+      "Italian": "Usa gesti, con le tue parole.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249621"
+    },
+    {
+      "english": "Journal your progress, daily.",
+      "Italian": "Annota i tuoi progressi, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249622"
+    },
+    {
+      "english": "Find a language partner, online.",
+      "Italian": "Trova un compagno linguistico, online.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249623"
+    },
+    {
+      "english": "Think in Italian, first.",
+      "Italian": "Pensa in italiano, prima.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249624"
+    },
+    {
+      "english": "Label objects, in your home.",
+      "Italian": "Etichetta gli oggetti, in casa.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249625"
+    },
+    {
+      "english": "Watch cooking videos, Italian.",
+      "Italian": "Guarda video di cucina, italiani.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249626"
+    },
+    {
+      "english": "Mimic native speakers, closely.",
+      "Italian": "Imita i madrelingua, attentamente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249627"
+    },
+    {
+      "english": "Don't be shy, just start talking.",
+      "Italian": "Non essere timido, inizia a parlare.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249628"
+    },
+    {
+      "english": "Learn common greetings, perfect them.",
+      "Italian": "Impara saluti comuni, perfezionali.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249629"
+    },
+    {
+      "english": "Use translation apps, wisely.",
+      "Italian": "Usa app traduzione, con giudizio.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249630"
+    },
+    {
+      "english": "Listen to children's stories.",
+      "Italian": "Ascolta le storie dei bambini.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249631"
+    },
+    {
+      "english": "Practice pronunciation, daily.",
+      "Italian": "Esercita la pronuncia, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249632"
+    },
+    {
+      "english": "Immerse yourself, in the sound.",
+      "Italian": "Immergiti, nel suono.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249633"
+    },
+    {
+      "english": "Combine words, create sentences.",
+      "Italian": "Unisci parole, crea frasi.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249634"
+    },
+    {
+      "english": "Say it again, differently.",
+      "Italian": "Dillo ancora, in modo diverso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249637"
+    },
+    {
+      "english": "Notice sentence structure, you hear.",
+      "Italian": "Nota la struttura, che senti.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249638"
+    },
+    {
+      "english": "What does that mean? Ask why.",
+      "Italian": "Cosa significa? Chiedi perché.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249639"
+    },
+    {
+      "english": "Be a mimic, a confident mimic.",
+      "Italian": "Sii un imitatore, un imitatore sicuro.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249640"
+    },
+    {
+      "english": "Repeat, until it feels natural.",
+      "Italian": "Ripeti, finché non diventa naturale.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249641"
+    },
+    {
+      "english": "Change one word, adjust meaning.",
+      "Italian": "Cambia una parola, modifica il senso.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249642"
+    },
+    {
+      "english": "Listen, then respond, simply.",
+      "Italian": "Ascolta, poi rispondi, semplicemente.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249643"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "Italian": "La tua voce conta, usala.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249644"
+    },
+    {
+      "english": "Progress is progress, celebrate it.",
+      "Italian": "Il progresso è progresso, festeggialo.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249645"
+    },
+    {
+      "english": "Speak a little, listen a lot.",
+      "Italian": "Parla poco, ascolta tanto.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249646"
+    },
+    {
+      "english": "Try one new word, daily.",
+      "Italian": "Prova una parola nuova, ogni giorno.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249649"
+    },
+    {
+      "english": "Point and name, it works.",
+      "Italian": "Indica e nomina, funziona.",
+      "category": "Growth",
+      "generated_at": "2026-07-26T04:24:28.249650"
     }
   ],
-  "last_updated": "2026-07-24T04:13:13.613296"
+  "last_updated": "2026-07-26T04:24:28.249653"
 }
