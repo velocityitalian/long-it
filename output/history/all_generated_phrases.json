@@ -8639,7 +8639,727 @@
       "Italian": "Indica e nomina, funziona.",
       "category": "Growth",
       "generated_at": "2026-07-26T04:24:28.249650"
+    },
+    {
+      "english": "Let's begin, right now.",
+      "Italian": "Cominciamo, adesso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245480"
+    },
+    {
+      "english": "I want to learn, more.",
+      "Italian": "Voglio imparare, di più.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245491"
+    },
+    {
+      "english": "This is our goal, okay?",
+      "Italian": "Questo è il nostro obiettivo, va bene?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245493"
+    },
+    {
+      "english": "We can do this, together.",
+      "Italian": "Possiamo farlo, insieme.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245495"
+    },
+    {
+      "english": "Let's make it fun, shall we?",
+      "Italian": "Facciamolo divertente, vuoi?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245496"
+    },
+    {
+      "english": "What's the word, again?",
+      "Italian": "Qual è la parola, di nuovo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245497"
+    },
+    {
+      "english": "I need practice, urgently.",
+      "Italian": "Ho bisogno di pratica, urgente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245498"
+    },
+    {
+      "english": "Listen carefully, then speak.",
+      "Italian": "Ascolta attentamente, poi parla.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245504"
+    },
+    {
+      "english": "Say it slowly, please.",
+      "Italian": "Dillo lentamente, per favore.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245506"
+    },
+    {
+      "english": "My Italian is improving, yes!",
+      "Italian": "Il mio italiano migliora, sì!",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245507"
+    },
+    {
+      "english": "Let's learn a new phrase, today.",
+      "Italian": "Impariamo una frase nuova, oggi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245508"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "Italian": "Puoi ripeterlo, per favore?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245510"
+    },
+    {
+      "english": "I'm ready, to try.",
+      "Italian": "Sono pronto, a provare.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245511"
+    },
+    {
+      "english": "Let's focus, on basics.",
+      "Italian": "Concentriamoci, sulle basi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245512"
+    },
+    {
+      "english": "What does this mean, exactly?",
+      "Italian": "Cosa significa questo, esattamente?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245513"
+    },
+    {
+      "english": "We are building, our fluency.",
+      "Italian": "Stiamo costruendo, la nostra fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245514"
+    },
+    {
+      "english": "Listen to the rhythm, feel it.",
+      "Italian": "Ascolta il ritmo, sentilo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245515"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "Italian": "Parla dal cuore, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245517"
+    },
+    {
+      "english": "This will help, a lot.",
+      "Italian": "Questo aiuterà, molto.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245518"
+    },
+    {
+      "english": "Let's make mistakes, and learn.",
+      "Italian": "Facciamo errori, e impariamo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245519"
+    },
+    {
+      "english": "Understand the context, key.",
+      "Italian": "Comprendi il contesto, fondamentale.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245520"
+    },
+    {
+      "english": "Speak with confidence, try.",
+      "Italian": "Parla con sicurezza, prova.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245521"
+    },
+    {
+      "english": "We're creating, our Italian story.",
+      "Italian": "Stiamo creando, la nostra storia italiana.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245523"
+    },
+    {
+      "english": "Let's celebrate, small wins.",
+      "Italian": "Celebriamo, le piccole vittorie.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245524"
+    },
+    {
+      "english": "The goal is clarity, first.",
+      "Italian": "L'obiettivo è la chiarezza, prima.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245525"
+    },
+    {
+      "english": "What's the right way, to say?",
+      "Italian": "Qual è il modo giusto, per dirlo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245526"
+    },
+    {
+      "english": "We want to sound, natural.",
+      "Italian": "Vogliamo suonare, naturali.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245527"
+    },
+    {
+      "english": "Listen for the emphasis, listen.",
+      "Italian": "Ascolta l'enfasi, ascolta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245529"
+    },
+    {
+      "english": "Let's connect, with people.",
+      "Italian": "Connettiamoci, con le persone.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245530"
+    },
+    {
+      "english": "This makes Italian, easier.",
+      "Italian": "Questo rende l'italiano, più facile.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245531"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Italian": "Lento e costante, vince.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245532"
+    },
+    {
+      "english": "We are motivated, always.",
+      "Italian": "Siamo motivati, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245533"
+    },
+    {
+      "english": "Let's build, strong sentences.",
+      "Italian": "Costruiamo, frasi forti.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245534"
+    },
+    {
+      "english": "Understand the feeling, behind.",
+      "Italian": "Comprendi il sentimento, dietro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245535"
+    },
+    {
+      "english": "We can achieve, fluency.",
+      "Italian": "Possiamo raggiungere, la fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245536"
+    },
+    {
+      "english": "Speak from experience, bravely.",
+      "Italian": "Parla dall'esperienza, coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245537"
+    },
+    {
+      "english": "This is the key, to progress.",
+      "Italian": "Questa è la chiave, per il progresso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245538"
+    },
+    {
+      "english": "Let's hear the native sound.",
+      "Italian": "Ascoltiamo il suono nativo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245539"
+    },
+    {
+      "english": "We love Italian, truly.",
+      "Italian": "Amiamo l'italiano, davvero.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245540"
+    },
+    {
+      "english": "My Italian journey, starts.",
+      "Italian": "Il mio viaggio italiano, inizia.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245542"
+    },
+    {
+      "english": "Let's master, this phrase.",
+      "Italian": "Padroneggiamo, questa frase.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245543"
+    },
+    {
+      "english": "Let's begin, right now.",
+      "Italian": "Cominciamo, adesso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245544"
+    },
+    {
+      "english": "I want to learn, more.",
+      "Italian": "Voglio imparare, di più.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245546"
+    },
+    {
+      "english": "This is our goal, okay?",
+      "Italian": "Questo è il nostro obiettivo, va bene?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245547"
+    },
+    {
+      "english": "We can do this, together.",
+      "Italian": "Possiamo farlo, insieme.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245548"
+    },
+    {
+      "english": "Let's make it fun, shall we?",
+      "Italian": "Facciamolo divertente, vuoi?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245549"
+    },
+    {
+      "english": "What's the word, again?",
+      "Italian": "Qual è la parola, di nuovo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245550"
+    },
+    {
+      "english": "I need practice, urgently.",
+      "Italian": "Ho bisogno di pratica, urgente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245551"
+    },
+    {
+      "english": "Listen carefully, then speak.",
+      "Italian": "Ascolta attentamente, poi parla.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245552"
+    },
+    {
+      "english": "Say it slowly, please.",
+      "Italian": "Dillo lentamente, per favore.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245553"
+    },
+    {
+      "english": "My Italian is improving, yes!",
+      "Italian": "Il mio italiano migliora, sì!",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245554"
+    },
+    {
+      "english": "Let's learn a new phrase, today.",
+      "Italian": "Impariamo una frase nuova, oggi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245555"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "Italian": "Puoi ripeterlo, per favore?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245557"
+    },
+    {
+      "english": "I'm ready, to try.",
+      "Italian": "Sono pronto, a provare.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245558"
+    },
+    {
+      "english": "Let's focus, on basics.",
+      "Italian": "Concentriamoci, sulle basi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245559"
+    },
+    {
+      "english": "What does this mean, exactly?",
+      "Italian": "Cosa significa questo, esattamente?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245560"
+    },
+    {
+      "english": "We are building, our fluency.",
+      "Italian": "Stiamo costruendo, la nostra fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245561"
+    },
+    {
+      "english": "Listen to the rhythm, feel it.",
+      "Italian": "Ascolta il ritmo, sentilo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245564"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "Italian": "Parla dal cuore, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245565"
+    },
+    {
+      "english": "This will help, a lot.",
+      "Italian": "Questo aiuterà, molto.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245566"
+    },
+    {
+      "english": "Let's make mistakes, and learn.",
+      "Italian": "Facciamo errori, e impariamo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245567"
+    },
+    {
+      "english": "Understand the context, key.",
+      "Italian": "Comprendi il contesto, fondamentale.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245568"
+    },
+    {
+      "english": "Speak with confidence, try.",
+      "Italian": "Parla con sicurezza, prova.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245569"
+    },
+    {
+      "english": "We're creating, our Italian story.",
+      "Italian": "Stiamo creando, la nostra storia italiana.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245570"
+    },
+    {
+      "english": "Let's celebrate, small wins.",
+      "Italian": "Celebriamo, le piccole vittorie.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245571"
+    },
+    {
+      "english": "The goal is clarity, first.",
+      "Italian": "L'obiettivo è la chiarezza, prima.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245572"
+    },
+    {
+      "english": "What's the right way, to say?",
+      "Italian": "Qual è il modo giusto, per dirlo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245573"
+    },
+    {
+      "english": "We want to sound, natural.",
+      "Italian": "Vogliamo suonare, naturali.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245574"
+    },
+    {
+      "english": "Listen for the emphasis, listen.",
+      "Italian": "Ascolta l'enfasi, ascolta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245575"
+    },
+    {
+      "english": "Let's connect, with people.",
+      "Italian": "Connettiamoci, con le persone.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245576"
+    },
+    {
+      "english": "This makes Italian, easier.",
+      "Italian": "Questo rende l'italiano, più facile.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245577"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Italian": "Lento e costante, vince.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245579"
+    },
+    {
+      "english": "We are motivated, always.",
+      "Italian": "Siamo motivati, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245580"
+    },
+    {
+      "english": "Let's build, strong sentences.",
+      "Italian": "Costruiamo, frasi forti.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245581"
+    },
+    {
+      "english": "Understand the feeling, behind.",
+      "Italian": "Comprendi il sentimento, dietro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245582"
+    },
+    {
+      "english": "We can achieve, fluency.",
+      "Italian": "Possiamo raggiungere, la fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245583"
+    },
+    {
+      "english": "Speak from experience, bravely.",
+      "Italian": "Parla dall'esperienza, coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245584"
+    },
+    {
+      "english": "This is the key, to progress.",
+      "Italian": "Questa è la chiave, per il progresso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245585"
+    },
+    {
+      "english": "Let's hear the native sound.",
+      "Italian": "Ascoltiamo il suono nativo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245586"
+    },
+    {
+      "english": "We love Italian, truly.",
+      "Italian": "Amiamo l'italiano, davvero.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245587"
+    },
+    {
+      "english": "My Italian journey, starts.",
+      "Italian": "Il mio viaggio italiano, inizia.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245588"
+    },
+    {
+      "english": "Let's master, this phrase.",
+      "Italian": "Padroneggiamo, questa frase.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245589"
+    },
+    {
+      "english": "Let's begin, right now.",
+      "Italian": "Cominciamo, adesso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245590"
+    },
+    {
+      "english": "I want to learn, more.",
+      "Italian": "Voglio imparare, di più.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245591"
+    },
+    {
+      "english": "This is our goal, okay?",
+      "Italian": "Questo è il nostro obiettivo, va bene?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245592"
+    },
+    {
+      "english": "We can do this, together.",
+      "Italian": "Possiamo farlo, insieme.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245593"
+    },
+    {
+      "english": "Let's make it fun, shall we?",
+      "Italian": "Facciamolo divertente, vuoi?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245594"
+    },
+    {
+      "english": "What's the word, again?",
+      "Italian": "Qual è la parola, di nuovo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245595"
+    },
+    {
+      "english": "I need practice, urgently.",
+      "Italian": "Ho bisogno di pratica, urgente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245596"
+    },
+    {
+      "english": "Listen carefully, then speak.",
+      "Italian": "Ascolta attentamente, poi parla.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245598"
+    },
+    {
+      "english": "Say it slowly, please.",
+      "Italian": "Dillo lentamente, per favore.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245599"
+    },
+    {
+      "english": "My Italian is improving, yes!",
+      "Italian": "Il mio italiano migliora, sì!",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245600"
+    },
+    {
+      "english": "Let's learn a new phrase, today.",
+      "Italian": "Impariamo una frase nuova, oggi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245601"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "Italian": "Puoi ripeterlo, per favore?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245602"
+    },
+    {
+      "english": "I'm ready, to try.",
+      "Italian": "Sono pronto, a provare.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245603"
+    },
+    {
+      "english": "Let's focus, on basics.",
+      "Italian": "Concentriamoci, sulle basi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245604"
+    },
+    {
+      "english": "What does this mean, exactly?",
+      "Italian": "Cosa significa questo, esattamente?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245605"
+    },
+    {
+      "english": "We are building, our fluency.",
+      "Italian": "Stiamo costruendo, la nostra fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245606"
+    },
+    {
+      "english": "Listen to the rhythm, feel it.",
+      "Italian": "Ascolta il ritmo, sentilo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245607"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "Italian": "Parla dal cuore, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245608"
+    },
+    {
+      "english": "This will help, a lot.",
+      "Italian": "Questo aiuterà, molto.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245609"
+    },
+    {
+      "english": "Let's make mistakes, and learn.",
+      "Italian": "Facciamo errori, e impariamo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245611"
+    },
+    {
+      "english": "Understand the context, key.",
+      "Italian": "Comprendi il contesto, fondamentale.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245612"
+    },
+    {
+      "english": "Speak with confidence, try.",
+      "Italian": "Parla con sicurezza, prova.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245614"
+    },
+    {
+      "english": "We're creating, our Italian story.",
+      "Italian": "Stiamo creando, la nostra storia italiana.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245615"
+    },
+    {
+      "english": "Let's celebrate, small wins.",
+      "Italian": "Celebriamo, le piccole vittorie.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245616"
+    },
+    {
+      "english": "The goal is clarity, first.",
+      "Italian": "L'obiettivo è la chiarezza, prima.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245617"
+    },
+    {
+      "english": "What's the right way, to say?",
+      "Italian": "Qual è il modo giusto, per dirlo?",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245618"
+    },
+    {
+      "english": "We want to sound, natural.",
+      "Italian": "Vogliamo suonare, naturali.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245620"
+    },
+    {
+      "english": "Listen for the emphasis, listen.",
+      "Italian": "Ascolta l'enfasi, ascolta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245621"
+    },
+    {
+      "english": "Let's connect, with people.",
+      "Italian": "Connettiamoci, con le persone.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245622"
+    },
+    {
+      "english": "This makes Italian, easier.",
+      "Italian": "Questo rende l'italiano, più facile.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245623"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Italian": "Lento e costante, vince.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245624"
+    },
+    {
+      "english": "We are motivated, always.",
+      "Italian": "Siamo motivati, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245627"
+    },
+    {
+      "english": "Let's build, strong sentences.",
+      "Italian": "Costruiamo, frasi forti.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245628"
+    },
+    {
+      "english": "Understand the feeling, behind.",
+      "Italian": "Comprendi il sentimento, dietro.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245629"
+    },
+    {
+      "english": "We can achieve, fluency.",
+      "Italian": "Possiamo raggiungere, la fluidità.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245630"
+    },
+    {
+      "english": "Speak from experience, bravely.",
+      "Italian": "Parla dall'esperienza, coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245631"
+    },
+    {
+      "english": "This is the key, to progress.",
+      "Italian": "Questa è la chiave, per il progresso.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245632"
+    },
+    {
+      "english": "Let's hear the native sound.",
+      "Italian": "Ascoltiamo il suono nativo.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:41:18.245633"
     }
   ],
-  "last_updated": "2026-07-26T04:24:28.249653"
+  "last_updated": "2026-07-27T04:41:18.245635"
 }
