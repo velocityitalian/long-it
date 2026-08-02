@@ -10799,7 +10799,727 @@
       "italian": "Una scintilla felice, nella mia mente.",
       "category": "Joy",
       "generated_at": "2026-08-01T04:19:53.538601"
+    },
+    {
+      "english": "Balance work, and play.",
+      "italian": "Equilibra lavoro, e divertimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546092"
+    },
+    {
+      "english": "Find peace, within chaos.",
+      "italian": "Trova pace, nel caos.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546103"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "italian": "Respira a fondo, poi parla.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546104"
+    },
+    {
+      "english": "Small steps, big results.",
+      "italian": "Piccoli passi, grandi risultati.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546105"
+    },
+    {
+      "english": "Action, meets reaction.",
+      "italian": "Azione, incontra reazione.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546107"
+    },
+    {
+      "english": "Give and, take wisely.",
+      "italian": "Dai e, prendi saggiamente.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546107"
+    },
+    {
+      "english": "Still water, runs deep.",
+      "italian": "Acqua ferma, scorre profonda.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546108"
+    },
+    {
+      "english": "Push and, pull together.",
+      "italian": "Spingi e, tira insieme.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546111"
+    },
+    {
+      "english": "Silence has, its own power.",
+      "italian": "Il silenzio ha, il suo potere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546112"
+    },
+    {
+      "english": "Observe first, then move.",
+      "italian": "Osserva prima, poi muoviti.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546113"
+    },
+    {
+      "english": "Ground yourself, before flying.",
+      "italian": "Radicati, prima di volare.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546113"
+    },
+    {
+      "english": "Flow like, water.",
+      "italian": "Scorri come, l'acqua.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546114"
+    },
+    {
+      "english": "Moderation, is key.",
+      "italian": "Moderazione, è la chiave.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546115"
+    },
+    {
+      "english": "Rhythm in, motion.",
+      "italian": "Ritmo nel, movimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546116"
+    },
+    {
+      "english": "Center yourself, in the storm.",
+      "italian": "Centrati, nella tempesta.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546117"
+    },
+    {
+      "english": "Easy come, easy go.",
+      "italian": "Facile viene, facile va.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546117"
+    },
+    {
+      "english": "Find your, footing.",
+      "italian": "Trova il tuo, appoggio.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546118"
+    },
+    {
+      "english": "Pause, to reflect.",
+      "italian": "Pausa, per riflettere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546119"
+    },
+    {
+      "english": "Inner calm, outer strength.",
+      "italian": "Calma interiore, forza esteriore.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546120"
+    },
+    {
+      "english": "Let go, and grow.",
+      "italian": "Lascia andare, e cresci.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546121"
+    },
+    {
+      "english": "Weight lift, energy gain.",
+      "italian": "Peso sollevato, energia guadagnata.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546121"
+    },
+    {
+      "english": "Nature’s rhythm, guides us.",
+      "italian": "Il ritmo della natura, ci guida.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546122"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "italian": "Adattati, e supera.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546123"
+    },
+    {
+      "english": "Harmony, in contrast.",
+      "italian": "Armonia, nel contrasto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546123"
+    },
+    {
+      "english": "Hold steady, on the edge.",
+      "italian": "Tieni fermo, sul bordo.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546124"
+    },
+    {
+      "english": "Seed to, full bloom.",
+      "italian": "Seme a, piena fioritura.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546125"
+    },
+    {
+      "english": "Rest earned, effort paid.",
+      "italian": "Riposo meritato, sforzo ripagato.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546126"
+    },
+    {
+      "english": "Find your, center point.",
+      "italian": "Trova il tuo, punto centrale.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546126"
+    },
+    {
+      "english": "Gentle push, strong hold.",
+      "italian": "Spinta gentile, presa forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546127"
+    },
+    {
+      "english": "Every extreme, has its calm.",
+      "italian": "Ogni estremo, ha la sua calma.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546128"
+    },
+    {
+      "english": "Swing, with the tide.",
+      "italian": "Ondeggia, con la marea.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546128"
+    },
+    {
+      "english": "Patience, and persistence.",
+      "italian": "Pazienza, e perseveranza.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546129"
+    },
+    {
+      "english": "Rooted firm, branches sway.",
+      "italian": "Radicato saldo, i rami ondeggiano.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546130"
+    },
+    {
+      "english": "The pause, before the leap.",
+      "italian": "La pausa, prima del salto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546130"
+    },
+    {
+      "english": "Grounding energy, uplifts you.",
+      "italian": "Energia che radica, ti solleva.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546131"
+    },
+    {
+      "english": "Life’s curve, embrace it.",
+      "italian": "La curva della vita, abbracciala.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546132"
+    },
+    {
+      "english": "Stay centered, find your way.",
+      "italian": "Rimani centrato, trova la tua via.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546133"
+    },
+    {
+      "english": "Action, and stillness.",
+      "italian": "Azione, e quiete.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546133"
+    },
+    {
+      "english": "Soften your grip, hold on.",
+      "italian": "Addolcisci la presa, tieni forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546134"
+    },
+    {
+      "english": "Balance work, and play.",
+      "italian": "Equilibra lavoro, e divertimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546135"
+    },
+    {
+      "english": "Find peace, within chaos.",
+      "italian": "Trova pace, nel caos.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546136"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "italian": "Respira a fondo, poi parla.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546137"
+    },
+    {
+      "english": "Small steps, big results.",
+      "italian": "Piccoli passi, grandi risultati.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546137"
+    },
+    {
+      "english": "Action, meets reaction.",
+      "italian": "Azione, incontra reazione.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546138"
+    },
+    {
+      "english": "Give and, take wisely.",
+      "italian": "Dai e, prendi saggiamente.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546139"
+    },
+    {
+      "english": "Still water, runs deep.",
+      "italian": "Acqua ferma, scorre profonda.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546140"
+    },
+    {
+      "english": "Push and, pull together.",
+      "italian": "Spingi e, tira insieme.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546141"
+    },
+    {
+      "english": "Silence has, its own power.",
+      "italian": "Il silenzio ha, il suo potere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546142"
+    },
+    {
+      "english": "Observe first, then move.",
+      "italian": "Osserva prima, poi muoviti.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546142"
+    },
+    {
+      "english": "Ground yourself, before flying.",
+      "italian": "Radicati, prima di volare.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546143"
+    },
+    {
+      "english": "Flow like, water.",
+      "italian": "Scorri come, l'acqua.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546144"
+    },
+    {
+      "english": "Moderation, is key.",
+      "italian": "Moderazione, è la chiave.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546145"
+    },
+    {
+      "english": "Rhythm in, motion.",
+      "italian": "Ritmo nel, movimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546145"
+    },
+    {
+      "english": "Center yourself, in the storm.",
+      "italian": "Centrati, nella tempesta.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546146"
+    },
+    {
+      "english": "Easy come, easy go.",
+      "italian": "Facile viene, facile va.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546147"
+    },
+    {
+      "english": "Find your, footing.",
+      "italian": "Trova il tuo, appoggio.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546148"
+    },
+    {
+      "english": "Pause, to reflect.",
+      "italian": "Pausa, per riflettere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546148"
+    },
+    {
+      "english": "Inner calm, outer strength.",
+      "italian": "Calma interiore, forza esteriore.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546149"
+    },
+    {
+      "english": "Let go, and grow.",
+      "italian": "Lascia andare, e cresci.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546150"
+    },
+    {
+      "english": "Weight lift, energy gain.",
+      "italian": "Peso sollevato, energia guadagnata.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546151"
+    },
+    {
+      "english": "Nature’s rhythm, guides us.",
+      "italian": "Il ritmo della natura, ci guida.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546152"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "italian": "Adattati, e supera.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546152"
+    },
+    {
+      "english": "Harmony, in contrast.",
+      "italian": "Armonia, nel contrasto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546153"
+    },
+    {
+      "english": "Hold steady, on the edge.",
+      "italian": "Tieni fermo, sul bordo.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546154"
+    },
+    {
+      "english": "Seed to, full bloom.",
+      "italian": "Seme a, piena fioritura.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546155"
+    },
+    {
+      "english": "Rest earned, effort paid.",
+      "italian": "Riposo meritato, sforzo ripagato.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546156"
+    },
+    {
+      "english": "Find your, center point.",
+      "italian": "Trova il tuo, punto centrale.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546156"
+    },
+    {
+      "english": "Gentle push, strong hold.",
+      "italian": "Spinta gentile, presa forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546157"
+    },
+    {
+      "english": "Every extreme, has its calm.",
+      "italian": "Ogni estremo, ha la sua calma.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546158"
+    },
+    {
+      "english": "Swing, with the tide.",
+      "italian": "Ondeggia, con la marea.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546159"
+    },
+    {
+      "english": "Patience, and persistence.",
+      "italian": "Pazienza, e perseveranza.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546160"
+    },
+    {
+      "english": "Rooted firm, branches sway.",
+      "italian": "Radicato saldo, i rami ondeggiano.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546160"
+    },
+    {
+      "english": "The pause, before the leap.",
+      "italian": "La pausa, prima del salto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546161"
+    },
+    {
+      "english": "Grounding energy, uplifts you.",
+      "italian": "Energia che radica, ti solleva.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546162"
+    },
+    {
+      "english": "Life’s curve, embrace it.",
+      "italian": "La curva della vita, abbracciala.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546163"
+    },
+    {
+      "english": "Stay centered, find your way.",
+      "italian": "Rimani centrato, trova la tua via.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546163"
+    },
+    {
+      "english": "Action, and stillness.",
+      "italian": "Azione, e quiete.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546164"
+    },
+    {
+      "english": "Soften your grip, hold on.",
+      "italian": "Addolcisci la presa, tieni forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546165"
+    },
+    {
+      "english": "Balance work, and play.",
+      "italian": "Equilibra lavoro, e divertimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546166"
+    },
+    {
+      "english": "Find peace, within chaos.",
+      "italian": "Trova pace, nel caos.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546166"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "italian": "Respira a fondo, poi parla.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546167"
+    },
+    {
+      "english": "Small steps, big results.",
+      "italian": "Piccoli passi, grandi risultati.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546168"
+    },
+    {
+      "english": "Action, meets reaction.",
+      "italian": "Azione, incontra reazione.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546169"
+    },
+    {
+      "english": "Give and, take wisely.",
+      "italian": "Dai e, prendi saggiamente.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546170"
+    },
+    {
+      "english": "Still water, runs deep.",
+      "italian": "Acqua ferma, scorre profonda.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546182"
+    },
+    {
+      "english": "Push and, pull together.",
+      "italian": "Spingi e, tira insieme.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546185"
+    },
+    {
+      "english": "Silence has, its own power.",
+      "italian": "Il silenzio ha, il suo potere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546186"
+    },
+    {
+      "english": "Observe first, then move.",
+      "italian": "Osserva prima, poi muoviti.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546186"
+    },
+    {
+      "english": "Ground yourself, before flying.",
+      "italian": "Radicati, prima di volare.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546187"
+    },
+    {
+      "english": "Flow like, water.",
+      "italian": "Scorri come, l'acqua.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546188"
+    },
+    {
+      "english": "Moderation, is key.",
+      "italian": "Moderazione, è la chiave.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546189"
+    },
+    {
+      "english": "Rhythm in, motion.",
+      "italian": "Ritmo nel, movimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546190"
+    },
+    {
+      "english": "Center yourself, in the storm.",
+      "italian": "Centrati, nella tempesta.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546190"
+    },
+    {
+      "english": "Easy come, easy go.",
+      "italian": "Facile viene, facile va.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546191"
+    },
+    {
+      "english": "Find your, footing.",
+      "italian": "Trova il tuo, appoggio.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546192"
+    },
+    {
+      "english": "Pause, to reflect.",
+      "italian": "Pausa, per riflettere.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546193"
+    },
+    {
+      "english": "Inner calm, outer strength.",
+      "italian": "Calma interiore, forza esteriore.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546194"
+    },
+    {
+      "english": "Let go, and grow.",
+      "italian": "Lascia andare, e cresci.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546195"
+    },
+    {
+      "english": "Weight lift, energy gain.",
+      "italian": "Peso sollevato, energia guadagnata.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546196"
+    },
+    {
+      "english": "Nature’s rhythm, guides us.",
+      "italian": "Il ritmo della natura, ci guida.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546196"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "italian": "Adattati, e supera.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546197"
+    },
+    {
+      "english": "Harmony, in contrast.",
+      "italian": "Armonia, nel contrasto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546198"
+    },
+    {
+      "english": "Hold steady, on the edge.",
+      "italian": "Tieni fermo, sul bordo.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546199"
+    },
+    {
+      "english": "Seed to, full bloom.",
+      "italian": "Seme a, piena fioritura.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546200"
+    },
+    {
+      "english": "Rest earned, effort paid.",
+      "italian": "Riposo meritato, sforzo ripagato.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546200"
+    },
+    {
+      "english": "Find your, center point.",
+      "italian": "Trova il tuo, punto centrale.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546201"
+    },
+    {
+      "english": "Gentle push, strong hold.",
+      "italian": "Spinta gentile, presa forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546202"
+    },
+    {
+      "english": "Every extreme, has its calm.",
+      "italian": "Ogni estremo, ha la sua calma.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546203"
+    },
+    {
+      "english": "Swing, with the tide.",
+      "italian": "Ondeggia, con la marea.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546203"
+    },
+    {
+      "english": "Patience, and persistence.",
+      "italian": "Pazienza, e perseveranza.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546204"
+    },
+    {
+      "english": "Rooted firm, branches sway.",
+      "italian": "Radicato saldo, i rami ondeggiano.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546205"
+    },
+    {
+      "english": "The pause, before the leap.",
+      "italian": "La pausa, prima del salto.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546206"
+    },
+    {
+      "english": "Grounding energy, uplifts you.",
+      "italian": "Energia che radica, ti solleva.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546207"
+    },
+    {
+      "english": "Life’s curve, embrace it.",
+      "italian": "La curva della vita, abbracciala.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546208"
+    },
+    {
+      "english": "Stay centered, find your way.",
+      "italian": "Rimani centrato, trova la tua via.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546208"
+    },
+    {
+      "english": "Action, and stillness.",
+      "italian": "Azione, e quiete.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546211"
+    },
+    {
+      "english": "Soften your grip, hold on.",
+      "italian": "Addolcisci la presa, tieni forte.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546212"
+    },
+    {
+      "english": "Balance work, and play.",
+      "italian": "Equilibra lavoro, e divertimento.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546213"
+    },
+    {
+      "english": "Find peace, within chaos.",
+      "italian": "Trova pace, nel caos.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546214"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "italian": "Respira a fondo, poi parla.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T04:34:25.546214"
     }
   ],
-  "last_updated": "2026-08-01T04:19:53.538603"
+  "last_updated": "2026-08-02T04:34:25.546216"
 }
