@@ -11519,7 +11519,727 @@
       "italian": "Respira a fondo, poi parla.",
       "category": "Balance",
       "generated_at": "2026-08-02T04:34:25.546214"
+    },
+    {
+      "english": "Listen closely, speak wisely.",
+      "italian": "Ascolta bene, parla saggio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112076"
+    },
+    {
+      "english": "Joy found, in small things.",
+      "italian": "Gioia trovata, nelle piccole cose.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112085"
+    },
+    {
+      "english": "Kindness shared, always returns.",
+      "italian": "Gentilezza condivisa, sempre ritorna.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112087"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "italian": "Impara dagli errori, vai avanti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112088"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "italian": "Cerca conoscenza, non fermarti mai.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112089"
+    },
+    {
+      "english": "Embrace change, with an open heart.",
+      "italian": "Abbraccia il cambiamento, col cuore aperto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112090"
+    },
+    {
+      "english": "Create your, own sunshine.",
+      "italian": "Crea il tuo, sole.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112091"
+    },
+    {
+      "english": "Nourish your, inner garden.",
+      "italian": "Nutri il tuo, giardino interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112094"
+    },
+    {
+      "english": "Find your, true north.",
+      "italian": "Trova il tuo, vero nord.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112096"
+    },
+    {
+      "english": "Give generously, receive joyfully.",
+      "italian": "Dai generosamente, ricevi gioiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112097"
+    },
+    {
+      "english": "A smile, a powerful tool.",
+      "italian": "Un sorriso, uno strumento potente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112098"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "italian": "Sii il cambiamento, che desideri.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112100"
+    },
+    {
+      "english": "Dream boldly, act bravely.",
+      "italian": "Sogna audacemente, agisci coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112101"
+    },
+    {
+      "english": "Quiet mind, clear vision.",
+      "italian": "Mente quieta, visione chiara.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112102"
+    },
+    {
+      "english": "Plant seeds, of good deeds.",
+      "italian": "Pianta semi, di buone azioni.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112103"
+    },
+    {
+      "english": "Inspire others, with your light.",
+      "italian": "Ispira gli altri, con la tua luce.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112105"
+    },
+    {
+      "english": "Explore your, inner world.",
+      "italian": "Esplora il tuo, mondo interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112106"
+    },
+    {
+      "english": "Connect deeply, with nature.",
+      "italian": "Connettiti profondamente, con la natura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112107"
+    },
+    {
+      "english": "Every moment, a new beginning.",
+      "italian": "Ogni momento, un nuovo inizio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112108"
+    },
+    {
+      "english": "Share your, unique gifts.",
+      "italian": "Condividi i tuoi, doni unici.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112109"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "italian": "Fidati del processo, si sviluppa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112110"
+    },
+    {
+      "english": "Listen to your, inner voice.",
+      "italian": "Ascolta la tua, voce interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112111"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "italian": "Abbraccia il viaggio, non solo la fine.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112112"
+    },
+    {
+      "english": "Find beauty, in imperfection.",
+      "italian": "Trova bellezza, nell'imperfezione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112113"
+    },
+    {
+      "english": "Practice patience, with yourself.",
+      "italian": "Pratica pazienza, con te stesso.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112114"
+    },
+    {
+      "english": "Live with, intention.",
+      "italian": "Vivi con, intenzione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112115"
+    },
+    {
+      "english": "Offer a hand, to a stranger.",
+      "italian": "Offri una mano, a uno sconosciuto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112116"
+    },
+    {
+      "english": "Cultivate hope, in darkness.",
+      "italian": "Coltiva speranza, nell'oscurità.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112117"
+    },
+    {
+      "english": "Heal your, past hurts.",
+      "italian": "Guarisci le tue, ferite passate.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112118"
+    },
+    {
+      "english": "Breathe, and let go.",
+      "italian": "Respira, e lascia andare.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112119"
+    },
+    {
+      "english": "Find your, rhythm.",
+      "italian": "Trova il tuo, ritmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112120"
+    },
+    {
+      "english": "Speak your, truth kindly.",
+      "italian": "Dì la tua, verità con gentilezza.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112121"
+    },
+    {
+      "english": "Grow through, challenges.",
+      "italian": "Cresci attraverso, le sfide.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112122"
+    },
+    {
+      "english": "Listen closely, speak wisely.",
+      "italian": "Ascolta bene, parla saggio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112123"
+    },
+    {
+      "english": "Joy found, in small things.",
+      "italian": "Gioia trovata, nelle piccole cose.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112124"
+    },
+    {
+      "english": "Kindness shared, always returns.",
+      "italian": "Gentilezza condivisa, sempre ritorna.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112126"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "italian": "Impara dagli errori, vai avanti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112127"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "italian": "Cerca conoscenza, non fermarti mai.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112128"
+    },
+    {
+      "english": "Embrace change, with an open heart.",
+      "italian": "Abbraccia il cambiamento, col cuore aperto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112129"
+    },
+    {
+      "english": "Create your, own sunshine.",
+      "italian": "Crea il tuo, sole.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112130"
+    },
+    {
+      "english": "Nourish your, inner garden.",
+      "italian": "Nutri il tuo, giardino interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112131"
+    },
+    {
+      "english": "Find your, true north.",
+      "italian": "Trova il tuo, vero nord.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112132"
+    },
+    {
+      "english": "Give generously, receive joyfully.",
+      "italian": "Dai generosamente, ricevi gioiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112133"
+    },
+    {
+      "english": "A smile, a powerful tool.",
+      "italian": "Un sorriso, uno strumento potente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112134"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "italian": "Sii il cambiamento, che desideri.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112135"
+    },
+    {
+      "english": "Dream boldly, act bravely.",
+      "italian": "Sogna audacemente, agisci coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112136"
+    },
+    {
+      "english": "Quiet mind, clear vision.",
+      "italian": "Mente quieta, visione chiara.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112137"
+    },
+    {
+      "english": "Plant seeds, of good deeds.",
+      "italian": "Pianta semi, di buone azioni.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112138"
+    },
+    {
+      "english": "Inspire others, with your light.",
+      "italian": "Ispira gli altri, con la tua luce.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112139"
+    },
+    {
+      "english": "Explore your, inner world.",
+      "italian": "Esplora il tuo, mondo interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112140"
+    },
+    {
+      "english": "Connect deeply, with nature.",
+      "italian": "Connettiti profondamente, con la natura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112141"
+    },
+    {
+      "english": "Every moment, a new beginning.",
+      "italian": "Ogni momento, un nuovo inizio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112142"
+    },
+    {
+      "english": "Share your, unique gifts.",
+      "italian": "Condividi i tuoi, doni unici.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112143"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "italian": "Fidati del processo, si sviluppa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112145"
+    },
+    {
+      "english": "Listen to your, inner voice.",
+      "italian": "Ascolta la tua, voce interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112146"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "italian": "Abbraccia il viaggio, non solo la fine.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112147"
+    },
+    {
+      "english": "Find beauty, in imperfection.",
+      "italian": "Trova bellezza, nell'imperfezione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112148"
+    },
+    {
+      "english": "Practice patience, with yourself.",
+      "italian": "Pratica pazienza, con te stesso.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112149"
+    },
+    {
+      "english": "Live with, intention.",
+      "italian": "Vivi con, intenzione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112150"
+    },
+    {
+      "english": "Offer a hand, to a stranger.",
+      "italian": "Offri una mano, a uno sconosciuto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112151"
+    },
+    {
+      "english": "Cultivate hope, in darkness.",
+      "italian": "Coltiva speranza, nell'oscurità.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112152"
+    },
+    {
+      "english": "Heal your, past hurts.",
+      "italian": "Guarisci le tue, ferite passate.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112153"
+    },
+    {
+      "english": "Breathe, and let go.",
+      "italian": "Respira, e lascia andare.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112154"
+    },
+    {
+      "english": "Find your, rhythm.",
+      "italian": "Trova il tuo, ritmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112155"
+    },
+    {
+      "english": "Speak your, truth kindly.",
+      "italian": "Dì la tua, verità con gentilezza.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112157"
+    },
+    {
+      "english": "Grow through, challenges.",
+      "italian": "Cresci attraverso, le sfide.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112158"
+    },
+    {
+      "english": "Listen closely, speak wisely.",
+      "italian": "Ascolta bene, parla saggio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112159"
+    },
+    {
+      "english": "Joy found, in small things.",
+      "italian": "Gioia trovata, nelle piccole cose.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112160"
+    },
+    {
+      "english": "Kindness shared, always returns.",
+      "italian": "Gentilezza condivisa, sempre ritorna.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112161"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "italian": "Impara dagli errori, vai avanti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112162"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "italian": "Cerca conoscenza, non fermarti mai.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112163"
+    },
+    {
+      "english": "Embrace change, with an open heart.",
+      "italian": "Abbraccia il cambiamento, col cuore aperto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112164"
+    },
+    {
+      "english": "Create your, own sunshine.",
+      "italian": "Crea il tuo, sole.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112165"
+    },
+    {
+      "english": "Nourish your, inner garden.",
+      "italian": "Nutri il tuo, giardino interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112166"
+    },
+    {
+      "english": "Find your, true north.",
+      "italian": "Trova il tuo, vero nord.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112167"
+    },
+    {
+      "english": "Give generously, receive joyfully.",
+      "italian": "Dai generosamente, ricevi gioiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112168"
+    },
+    {
+      "english": "A smile, a powerful tool.",
+      "italian": "Un sorriso, uno strumento potente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112169"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "italian": "Sii il cambiamento, che desideri.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112170"
+    },
+    {
+      "english": "Dream boldly, act bravely.",
+      "italian": "Sogna audacemente, agisci coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112172"
+    },
+    {
+      "english": "Quiet mind, clear vision.",
+      "italian": "Mente quieta, visione chiara.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112173"
+    },
+    {
+      "english": "Plant seeds, of good deeds.",
+      "italian": "Pianta semi, di buone azioni.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112174"
+    },
+    {
+      "english": "Inspire others, with your light.",
+      "italian": "Ispira gli altri, con la tua luce.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112175"
+    },
+    {
+      "english": "Explore your, inner world.",
+      "italian": "Esplora il tuo, mondo interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112176"
+    },
+    {
+      "english": "Connect deeply, with nature.",
+      "italian": "Connettiti profondamente, con la natura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112177"
+    },
+    {
+      "english": "Every moment, a new beginning.",
+      "italian": "Ogni momento, un nuovo inizio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112178"
+    },
+    {
+      "english": "Share your, unique gifts.",
+      "italian": "Condividi i tuoi, doni unici.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112179"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "italian": "Fidati del processo, si sviluppa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112180"
+    },
+    {
+      "english": "Listen to your, inner voice.",
+      "italian": "Ascolta la tua, voce interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112181"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "italian": "Abbraccia il viaggio, non solo la fine.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112182"
+    },
+    {
+      "english": "Find beauty, in imperfection.",
+      "italian": "Trova bellezza, nell'imperfezione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112183"
+    },
+    {
+      "english": "Practice patience, with yourself.",
+      "italian": "Pratica pazienza, con te stesso.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112184"
+    },
+    {
+      "english": "Live with, intention.",
+      "italian": "Vivi con, intenzione.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112185"
+    },
+    {
+      "english": "Offer a hand, to a stranger.",
+      "italian": "Offri una mano, a uno sconosciuto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112186"
+    },
+    {
+      "english": "Cultivate hope, in darkness.",
+      "italian": "Coltiva speranza, nell'oscurità.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112187"
+    },
+    {
+      "english": "Heal your, past hurts.",
+      "italian": "Guarisci le tue, ferite passate.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112188"
+    },
+    {
+      "english": "Breathe, and let go.",
+      "italian": "Respira, e lascia andare.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112189"
+    },
+    {
+      "english": "Find your, rhythm.",
+      "italian": "Trova il tuo, ritmo.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112190"
+    },
+    {
+      "english": "Speak your, truth kindly.",
+      "italian": "Dì la tua, verità con gentilezza.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112193"
+    },
+    {
+      "english": "Grow through, challenges.",
+      "italian": "Cresci attraverso, le sfide.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112194"
+    },
+    {
+      "english": "Listen closely, speak wisely.",
+      "italian": "Ascolta bene, parla saggio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112195"
+    },
+    {
+      "english": "Joy found, in small things.",
+      "italian": "Gioia trovata, nelle piccole cose.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112196"
+    },
+    {
+      "english": "Kindness shared, always returns.",
+      "italian": "Gentilezza condivisa, sempre ritorna.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112197"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "italian": "Impara dagli errori, vai avanti.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112202"
+    },
+    {
+      "english": "Seek knowledge, never stop.",
+      "italian": "Cerca conoscenza, non fermarti mai.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112203"
+    },
+    {
+      "english": "Embrace change, with an open heart.",
+      "italian": "Abbraccia il cambiamento, col cuore aperto.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112204"
+    },
+    {
+      "english": "Create your, own sunshine.",
+      "italian": "Crea il tuo, sole.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112205"
+    },
+    {
+      "english": "Nourish your, inner garden.",
+      "italian": "Nutri il tuo, giardino interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112206"
+    },
+    {
+      "english": "Find your, true north.",
+      "italian": "Trova il tuo, vero nord.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112207"
+    },
+    {
+      "english": "Give generously, receive joyfully.",
+      "italian": "Dai generosamente, ricevi gioiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112208"
+    },
+    {
+      "english": "A smile, a powerful tool.",
+      "italian": "Un sorriso, uno strumento potente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112209"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "italian": "Sii il cambiamento, che desideri.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112210"
+    },
+    {
+      "english": "Dream boldly, act bravely.",
+      "italian": "Sogna audacemente, agisci coraggiosamente.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112211"
+    },
+    {
+      "english": "Quiet mind, clear vision.",
+      "italian": "Mente quieta, visione chiara.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112212"
+    },
+    {
+      "english": "Plant seeds, of good deeds.",
+      "italian": "Pianta semi, di buone azioni.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112213"
+    },
+    {
+      "english": "Inspire others, with your light.",
+      "italian": "Ispira gli altri, con la tua luce.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112214"
+    },
+    {
+      "english": "Explore your, inner world.",
+      "italian": "Esplora il tuo, mondo interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112215"
+    },
+    {
+      "english": "Connect deeply, with nature.",
+      "italian": "Connettiti profondamente, con la natura.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112216"
+    },
+    {
+      "english": "Every moment, a new beginning.",
+      "italian": "Ogni momento, un nuovo inizio.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112217"
+    },
+    {
+      "english": "Share your, unique gifts.",
+      "italian": "Condividi i tuoi, doni unici.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112218"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "italian": "Fidati del processo, si sviluppa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-03T04:28:23.112219"
     }
   ],
-  "last_updated": "2026-08-02T04:34:25.546216"
+  "last_updated": "2026-08-03T04:28:23.112233"
 }
