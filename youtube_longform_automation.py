@@ -256,6 +256,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Italian translation
+CRITICAL: Every translation MUST be in Italian. NEVER use German, Spanish, or any other language. Only Italian.
 3. Phonetic pronunciation guide (with tone marks, e.g., "nǐ hǎo")
 
 Return as JSON array:
