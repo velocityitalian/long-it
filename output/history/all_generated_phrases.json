@@ -16559,7 +16559,727 @@
       "italian": "Sto cadendo, per l'italiano.",
       "category": "Motivation",
       "generated_at": "2026-08-09T03:01:20.977169"
+    },
+    {
+      "english": "Taste, the sun.",
+      "italian": "Assapora, il sole.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779443"
+    },
+    {
+      "english": "Life is, a pizza.",
+      "italian": "La vita, è una pizza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779454"
+    },
+    {
+      "english": "Sing, with your heart.",
+      "italian": "Canta, col cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779456"
+    },
+    {
+      "english": "Embrace, the moment.",
+      "italian": "Abbraccia, il momento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779457"
+    },
+    {
+      "english": "Let beauty, surprise you.",
+      "italian": "Lascia che, la bellezza, ti sorprenda.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779459"
+    },
+    {
+      "english": "Dance, with the rhythm.",
+      "italian": "Balla, con il ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779460"
+    },
+    {
+      "english": "Your spirit, shines bright.",
+      "italian": "Il tuo spirito, brilla forte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779461"
+    },
+    {
+      "english": "Learn, with passion.",
+      "italian": "Impara, con passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779464"
+    },
+    {
+      "english": "Be, the change.",
+      "italian": "Sii, il cambiamento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779466"
+    },
+    {
+      "english": "Love, the journey.",
+      "italian": "Ama, il viaggio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779467"
+    },
+    {
+      "english": "Savor, every word.",
+      "italian": "Assapora, ogni parola.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779469"
+    },
+    {
+      "english": "Create, your own art.",
+      "italian": "Crea, la tua arte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779470"
+    },
+    {
+      "english": "Listen, to your soul.",
+      "italian": "Ascolta, la tua anima.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779471"
+    },
+    {
+      "english": "Spread, kindness.",
+      "italian": "Diffondi, gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779472"
+    },
+    {
+      "english": "Live, with intention.",
+      "italian": "Vivi, con intenzione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779473"
+    },
+    {
+      "english": "Grow, like a flower.",
+      "italian": "Cresci, come un fiore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779474"
+    },
+    {
+      "english": "Dream, in color.",
+      "italian": "Sogna, a colori.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779475"
+    },
+    {
+      "english": "Be, your best self.",
+      "italian": "Sii, te stesso al meglio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779476"
+    },
+    {
+      "english": "Explore, the world.",
+      "italian": "Esplora, il mondo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779477"
+    },
+    {
+      "english": "Find, your voice.",
+      "italian": "Trova, la tua voce.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779479"
+    },
+    {
+      "english": "Inspire, others.",
+      "italian": "Ispira, gli altri.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779480"
+    },
+    {
+      "english": "Embrace, your journey.",
+      "italian": "Abbraccia, il tuo cammino.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779481"
+    },
+    {
+      "english": "Let your light, shine.",
+      "italian": "Lascia che la tua luce, brilli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779482"
+    },
+    {
+      "english": "Speak, with kindness.",
+      "italian": "Parla, con gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779483"
+    },
+    {
+      "english": "Feel, the magic.",
+      "italian": "Senti, la magia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779484"
+    },
+    {
+      "english": "Breathe, and begin.",
+      "italian": "Respira, e inizia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779485"
+    },
+    {
+      "english": "Cherish, the moments.",
+      "italian": "Custodisci, i momenti.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779486"
+    },
+    {
+      "english": "Seek, beauty.",
+      "italian": "Cerca, la bellezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779487"
+    },
+    {
+      "english": "Open, your heart.",
+      "italian": "Apri, il tuo cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779488"
+    },
+    {
+      "english": "Create, your own story.",
+      "italian": "Crea, la tua storia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779489"
+    },
+    {
+      "english": "Live, fully.",
+      "italian": "Vivi, pienamente.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779490"
+    },
+    {
+      "english": "Be, adventurous.",
+      "italian": "Sii, avventuroso.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779491"
+    },
+    {
+      "english": "Find, your rhythm.",
+      "italian": "Trova, il tuo ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779492"
+    },
+    {
+      "english": "Let wonder, guide you.",
+      "italian": "Lascia che la meraviglia, ti guidi.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779493"
+    },
+    {
+      "english": "Share, your passion.",
+      "italian": "Condividi, la tua passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779494"
+    },
+    {
+      "english": "Embrace, the joy.",
+      "italian": "Abbraccia, la gioia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779495"
+    },
+    {
+      "english": "Let your spirit, fly.",
+      "italian": "Lascia che il tuo spirito, voli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779496"
+    },
+    {
+      "english": "Taste, the sun.",
+      "italian": "Assapora, il sole.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779497"
+    },
+    {
+      "english": "Life is, a pizza.",
+      "italian": "La vita, è una pizza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779499"
+    },
+    {
+      "english": "Sing, with your heart.",
+      "italian": "Canta, col cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779500"
+    },
+    {
+      "english": "Embrace, the moment.",
+      "italian": "Abbraccia, il momento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779501"
+    },
+    {
+      "english": "Let beauty, surprise you.",
+      "italian": "Lascia che, la bellezza, ti sorprenda.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779502"
+    },
+    {
+      "english": "Dance, with the rhythm.",
+      "italian": "Balla, con il ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779503"
+    },
+    {
+      "english": "Your spirit, shines bright.",
+      "italian": "Il tuo spirito, brilla forte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779504"
+    },
+    {
+      "english": "Learn, with passion.",
+      "italian": "Impara, con passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779505"
+    },
+    {
+      "english": "Be, the change.",
+      "italian": "Sii, il cambiamento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779506"
+    },
+    {
+      "english": "Love, the journey.",
+      "italian": "Ama, il viaggio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779508"
+    },
+    {
+      "english": "Savor, every word.",
+      "italian": "Assapora, ogni parola.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779508"
+    },
+    {
+      "english": "Create, your own art.",
+      "italian": "Crea, la tua arte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779510"
+    },
+    {
+      "english": "Listen, to your soul.",
+      "italian": "Ascolta, la tua anima.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779511"
+    },
+    {
+      "english": "Spread, kindness.",
+      "italian": "Diffondi, gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779512"
+    },
+    {
+      "english": "Live, with intention.",
+      "italian": "Vivi, con intenzione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779513"
+    },
+    {
+      "english": "Grow, like a flower.",
+      "italian": "Cresci, come un fiore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779514"
+    },
+    {
+      "english": "Dream, in color.",
+      "italian": "Sogna, a colori.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779515"
+    },
+    {
+      "english": "Be, your best self.",
+      "italian": "Sii, te stesso al meglio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779516"
+    },
+    {
+      "english": "Explore, the world.",
+      "italian": "Esplora, il mondo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779517"
+    },
+    {
+      "english": "Find, your voice.",
+      "italian": "Trova, la tua voce.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779518"
+    },
+    {
+      "english": "Inspire, others.",
+      "italian": "Ispira, gli altri.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779519"
+    },
+    {
+      "english": "Embrace, your journey.",
+      "italian": "Abbraccia, il tuo cammino.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779521"
+    },
+    {
+      "english": "Let your light, shine.",
+      "italian": "Lascia che la tua luce, brilli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779522"
+    },
+    {
+      "english": "Speak, with kindness.",
+      "italian": "Parla, con gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779523"
+    },
+    {
+      "english": "Feel, the magic.",
+      "italian": "Senti, la magia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779524"
+    },
+    {
+      "english": "Breathe, and begin.",
+      "italian": "Respira, e inizia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779525"
+    },
+    {
+      "english": "Cherish, the moments.",
+      "italian": "Custodisci, i momenti.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779526"
+    },
+    {
+      "english": "Seek, beauty.",
+      "italian": "Cerca, la bellezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779527"
+    },
+    {
+      "english": "Open, your heart.",
+      "italian": "Apri, il tuo cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779528"
+    },
+    {
+      "english": "Create, your own story.",
+      "italian": "Crea, la tua storia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779529"
+    },
+    {
+      "english": "Live, fully.",
+      "italian": "Vivi, pienamente.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779531"
+    },
+    {
+      "english": "Be, adventurous.",
+      "italian": "Sii, avventuroso.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779532"
+    },
+    {
+      "english": "Find, your rhythm.",
+      "italian": "Trova, il tuo ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779533"
+    },
+    {
+      "english": "Let wonder, guide you.",
+      "italian": "Lascia che la meraviglia, ti guidi.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779534"
+    },
+    {
+      "english": "Share, your passion.",
+      "italian": "Condividi, la tua passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779535"
+    },
+    {
+      "english": "Embrace, the joy.",
+      "italian": "Abbraccia, la gioia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779536"
+    },
+    {
+      "english": "Let your spirit, fly.",
+      "italian": "Lascia che il tuo spirito, voli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779537"
+    },
+    {
+      "english": "Taste, the sun.",
+      "italian": "Assapora, il sole.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779538"
+    },
+    {
+      "english": "Life is, a pizza.",
+      "italian": "La vita, è una pizza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779539"
+    },
+    {
+      "english": "Sing, with your heart.",
+      "italian": "Canta, col cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779541"
+    },
+    {
+      "english": "Embrace, the moment.",
+      "italian": "Abbraccia, il momento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779542"
+    },
+    {
+      "english": "Let beauty, surprise you.",
+      "italian": "Lascia che, la bellezza, ti sorprenda.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779543"
+    },
+    {
+      "english": "Dance, with the rhythm.",
+      "italian": "Balla, con il ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779544"
+    },
+    {
+      "english": "Your spirit, shines bright.",
+      "italian": "Il tuo spirito, brilla forte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779545"
+    },
+    {
+      "english": "Learn, with passion.",
+      "italian": "Impara, con passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779546"
+    },
+    {
+      "english": "Be, the change.",
+      "italian": "Sii, il cambiamento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779547"
+    },
+    {
+      "english": "Love, the journey.",
+      "italian": "Ama, il viaggio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779548"
+    },
+    {
+      "english": "Savor, every word.",
+      "italian": "Assapora, ogni parola.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779549"
+    },
+    {
+      "english": "Create, your own art.",
+      "italian": "Crea, la tua arte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779550"
+    },
+    {
+      "english": "Listen, to your soul.",
+      "italian": "Ascolta, la tua anima.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779551"
+    },
+    {
+      "english": "Spread, kindness.",
+      "italian": "Diffondi, gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779552"
+    },
+    {
+      "english": "Live, with intention.",
+      "italian": "Vivi, con intenzione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779553"
+    },
+    {
+      "english": "Grow, like a flower.",
+      "italian": "Cresci, come un fiore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779554"
+    },
+    {
+      "english": "Dream, in color.",
+      "italian": "Sogna, a colori.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779556"
+    },
+    {
+      "english": "Be, your best self.",
+      "italian": "Sii, te stesso al meglio.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779557"
+    },
+    {
+      "english": "Explore, the world.",
+      "italian": "Esplora, il mondo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779558"
+    },
+    {
+      "english": "Find, your voice.",
+      "italian": "Trova, la tua voce.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779559"
+    },
+    {
+      "english": "Inspire, others.",
+      "italian": "Ispira, gli altri.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779560"
+    },
+    {
+      "english": "Embrace, your journey.",
+      "italian": "Abbraccia, il tuo cammino.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779561"
+    },
+    {
+      "english": "Let your light, shine.",
+      "italian": "Lascia che la tua luce, brilli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779562"
+    },
+    {
+      "english": "Speak, with kindness.",
+      "italian": "Parla, con gentilezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779563"
+    },
+    {
+      "english": "Feel, the magic.",
+      "italian": "Senti, la magia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779564"
+    },
+    {
+      "english": "Breathe, and begin.",
+      "italian": "Respira, e inizia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779566"
+    },
+    {
+      "english": "Cherish, the moments.",
+      "italian": "Custodisci, i momenti.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779567"
+    },
+    {
+      "english": "Seek, beauty.",
+      "italian": "Cerca, la bellezza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779568"
+    },
+    {
+      "english": "Open, your heart.",
+      "italian": "Apri, il tuo cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779569"
+    },
+    {
+      "english": "Create, your own story.",
+      "italian": "Crea, la tua storia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779570"
+    },
+    {
+      "english": "Live, fully.",
+      "italian": "Vivi, pienamente.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779571"
+    },
+    {
+      "english": "Be, adventurous.",
+      "italian": "Sii, avventuroso.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779572"
+    },
+    {
+      "english": "Find, your rhythm.",
+      "italian": "Trova, il tuo ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779573"
+    },
+    {
+      "english": "Let wonder, guide you.",
+      "italian": "Lascia che la meraviglia, ti guidi.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779574"
+    },
+    {
+      "english": "Share, your passion.",
+      "italian": "Condividi, la tua passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779575"
+    },
+    {
+      "english": "Embrace, the joy.",
+      "italian": "Abbraccia, la gioia.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779577"
+    },
+    {
+      "english": "Let your spirit, fly.",
+      "italian": "Lascia che il tuo spirito, voli.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779578"
+    },
+    {
+      "english": "Taste, the sun.",
+      "italian": "Assapora, il sole.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779579"
+    },
+    {
+      "english": "Life is, a pizza.",
+      "italian": "La vita, è una pizza.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779580"
+    },
+    {
+      "english": "Sing, with your heart.",
+      "italian": "Canta, col cuore.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779581"
+    },
+    {
+      "english": "Embrace, the moment.",
+      "italian": "Abbraccia, il momento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779582"
+    },
+    {
+      "english": "Let beauty, surprise you.",
+      "italian": "Lascia che, la bellezza, ti sorprenda.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779583"
+    },
+    {
+      "english": "Dance, with the rhythm.",
+      "italian": "Balla, con il ritmo.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779584"
+    },
+    {
+      "english": "Your spirit, shines bright.",
+      "italian": "Il tuo spirito, brilla forte.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779585"
+    },
+    {
+      "english": "Learn, with passion.",
+      "italian": "Impara, con passione.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779586"
+    },
+    {
+      "english": "Be, the change.",
+      "italian": "Sii, il cambiamento.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-10T03:10:41.779587"
     }
   ],
-  "last_updated": "2026-08-09T03:01:20.977171"
+  "last_updated": "2026-08-10T03:10:41.779589"
 }
