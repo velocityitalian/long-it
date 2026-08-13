@@ -18719,7 +18719,727 @@
       "italian": "Respira pace.",
       "category": "Inner Peace",
       "generated_at": "2026-08-12T03:22:03.053126"
+    },
+    {
+      "english": "Imagine more, do a little.",
+      "italian": "Immagina di più, fai poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661820"
+    },
+    {
+      "english": "Sketch it out, then build it.",
+      "italian": "Schizzalo, poi costruisci.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661829"
+    },
+    {
+      "english": "New ideas, bloom daily.",
+      "italian": "Nuove idee, fioriscono ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661831"
+    },
+    {
+      "english": "Play with words, find meaning.",
+      "italian": "Gioca con le parole, trova senso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661832"
+    },
+    {
+      "english": "What if? Ask often.",
+      "italian": "E se? Chiedilo spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661834"
+    },
+    {
+      "english": "Combine old, make new.",
+      "italian": "Unisci il vecchio, crea il nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661835"
+    },
+    {
+      "english": "Think outside, your box.",
+      "italian": "Pensa fuori, dalla tua scatola.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661836"
+    },
+    {
+      "english": "Your spark, ignites change.",
+      "italian": "La tua scintilla, accende il cambiamento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661839"
+    },
+    {
+      "english": "See connections, everywhere.",
+      "italian": "Vedi collegamenti, ovunque.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661841"
+    },
+    {
+      "english": "Curiosity, fuels creation.",
+      "italian": "La curiosità, alimenta la creazione.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661842"
+    },
+    {
+      "english": "Break rules, softly.",
+      "italian": "Rompi le regole, dolcemente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661843"
+    },
+    {
+      "english": "Start messy, get clearer.",
+      "italian": "Inizia disordinato, diventa più chiaro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661844"
+    },
+    {
+      "english": "Question everything, kindly.",
+      "italian": "Metti in discussione tutto, gentilmente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661846"
+    },
+    {
+      "english": "Mix unlikely things.",
+      "italian": "Mescola cose improbabili.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661847"
+    },
+    {
+      "english": "What's next? Explore.",
+      "italian": "Cosa c'è dopo? Esplora.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661848"
+    },
+    {
+      "english": "Think differently, live better.",
+      "italian": "Pensa diverso, vivi meglio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661849"
+    },
+    {
+      "english": "Build on mistakes, learn.",
+      "italian": "Costruisci sugli errori, impara.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661850"
+    },
+    {
+      "english": "Be playful, with ideas.",
+      "italian": "Sii giocoso, con le idee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661851"
+    },
+    {
+      "english": "Draw outside, the lines.",
+      "italian": "Disegna fuori, dalle linee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661852"
+    },
+    {
+      "english": "Imagine freely, without limits.",
+      "italian": "Immagina liberamente, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661853"
+    },
+    {
+      "english": "Your mind, a fertile ground.",
+      "italian": "La tua mente, un terreno fertile.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661854"
+    },
+    {
+      "english": "Create something, unique.",
+      "italian": "Crea qualcosa, di unico.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661855"
+    },
+    {
+      "english": "Embrace the messy middle.",
+      "italian": "Abbraccia il disordine centrale.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661856"
+    },
+    {
+      "english": "Let thoughts, wander free.",
+      "italian": "Lascia che i pensieri, vaghino liberi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661857"
+    },
+    {
+      "english": "What if we try, this?",
+      "italian": "E se provassimo, questo?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661858"
+    },
+    {
+      "english": "Spark new worlds, within.",
+      "italian": "Accendi nuovi mondi, dentro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661859"
+    },
+    {
+      "english": "Your ideas, have wings.",
+      "italian": "Le tue idee, hanno ali.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661860"
+    },
+    {
+      "english": "Explore possibilities, always.",
+      "italian": "Esplora possibilità, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661861"
+    },
+    {
+      "english": "Dare to be, different.",
+      "italian": "Osare essere, diversi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661862"
+    },
+    {
+      "english": "Build from scratch, bravely.",
+      "italian": "Costruisci da zero, coraggiosamente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661863"
+    },
+    {
+      "english": "Combine colors, create art.",
+      "italian": "Unisci colori, crea arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661864"
+    },
+    {
+      "english": "Let your imagination, run wild.",
+      "italian": "Lascia che la tua immaginazione, corra sfrenata.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661865"
+    },
+    {
+      "english": "What if we mixed, this and that?",
+      "italian": "E se mescolassimo, questo e quello?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661866"
+    },
+    {
+      "english": "Find beauty, in the unexpected.",
+      "italian": "Trova bellezza, nell'inaspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661867"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "italian": "La tua prospettiva, è preziosa.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661868"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "italian": "Osare sognare, in grande.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661869"
+    },
+    {
+      "english": "Create daily, little by little.",
+      "italian": "Crea quotidianamente, poco a poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661870"
+    },
+    {
+      "english": "Imagine more, do a little.",
+      "italian": "Immagina di più, fai poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661871"
+    },
+    {
+      "english": "Sketch it out, then build it.",
+      "italian": "Schizzalo, poi costruisci.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661872"
+    },
+    {
+      "english": "New ideas, bloom daily.",
+      "italian": "Nuove idee, fioriscono ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661876"
+    },
+    {
+      "english": "Play with words, find meaning.",
+      "italian": "Gioca con le parole, trova senso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661878"
+    },
+    {
+      "english": "What if? Ask often.",
+      "italian": "E se? Chiedilo spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661879"
+    },
+    {
+      "english": "Combine old, make new.",
+      "italian": "Unisci il vecchio, crea il nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661880"
+    },
+    {
+      "english": "Think outside, your box.",
+      "italian": "Pensa fuori, dalla tua scatola.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661881"
+    },
+    {
+      "english": "Your spark, ignites change.",
+      "italian": "La tua scintilla, accende il cambiamento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661882"
+    },
+    {
+      "english": "See connections, everywhere.",
+      "italian": "Vedi collegamenti, ovunque.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661883"
+    },
+    {
+      "english": "Curiosity, fuels creation.",
+      "italian": "La curiosità, alimenta la creazione.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661884"
+    },
+    {
+      "english": "Break rules, softly.",
+      "italian": "Rompi le regole, dolcemente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661886"
+    },
+    {
+      "english": "Start messy, get clearer.",
+      "italian": "Inizia disordinato, diventa più chiaro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661887"
+    },
+    {
+      "english": "Question everything, kindly.",
+      "italian": "Metti in discussione tutto, gentilmente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661888"
+    },
+    {
+      "english": "Mix unlikely things.",
+      "italian": "Mescola cose improbabili.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661889"
+    },
+    {
+      "english": "What's next? Explore.",
+      "italian": "Cosa c'è dopo? Esplora.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661890"
+    },
+    {
+      "english": "Think differently, live better.",
+      "italian": "Pensa diverso, vivi meglio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661891"
+    },
+    {
+      "english": "Build on mistakes, learn.",
+      "italian": "Costruisci sugli errori, impara.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661892"
+    },
+    {
+      "english": "Be playful, with ideas.",
+      "italian": "Sii giocoso, con le idee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661893"
+    },
+    {
+      "english": "Draw outside, the lines.",
+      "italian": "Disegna fuori, dalle linee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661894"
+    },
+    {
+      "english": "Imagine freely, without limits.",
+      "italian": "Immagina liberamente, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661895"
+    },
+    {
+      "english": "Your mind, a fertile ground.",
+      "italian": "La tua mente, un terreno fertile.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661896"
+    },
+    {
+      "english": "Create something, unique.",
+      "italian": "Crea qualcosa, di unico.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661898"
+    },
+    {
+      "english": "Embrace the messy middle.",
+      "italian": "Abbraccia il disordine centrale.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661899"
+    },
+    {
+      "english": "Let thoughts, wander free.",
+      "italian": "Lascia che i pensieri, vaghino liberi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661900"
+    },
+    {
+      "english": "What if we try, this?",
+      "italian": "E se provassimo, questo?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661901"
+    },
+    {
+      "english": "Spark new worlds, within.",
+      "italian": "Accendi nuovi mondi, dentro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661902"
+    },
+    {
+      "english": "Your ideas, have wings.",
+      "italian": "Le tue idee, hanno ali.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661903"
+    },
+    {
+      "english": "Explore possibilities, always.",
+      "italian": "Esplora possibilità, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661904"
+    },
+    {
+      "english": "Dare to be, different.",
+      "italian": "Osare essere, diversi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661905"
+    },
+    {
+      "english": "Build from scratch, bravely.",
+      "italian": "Costruisci da zero, coraggiosamente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661906"
+    },
+    {
+      "english": "Combine colors, create art.",
+      "italian": "Unisci colori, crea arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661907"
+    },
+    {
+      "english": "Let your imagination, run wild.",
+      "italian": "Lascia che la tua immaginazione, corra sfrenata.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661909"
+    },
+    {
+      "english": "What if we mixed, this and that?",
+      "italian": "E se mescolassimo, questo e quello?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661910"
+    },
+    {
+      "english": "Find beauty, in the unexpected.",
+      "italian": "Trova bellezza, nell'inaspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661911"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "italian": "La tua prospettiva, è preziosa.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661912"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "italian": "Osare sognare, in grande.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661913"
+    },
+    {
+      "english": "Create daily, little by little.",
+      "italian": "Crea quotidianamente, poco a poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661914"
+    },
+    {
+      "english": "Imagine more, do a little.",
+      "italian": "Immagina di più, fai poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661915"
+    },
+    {
+      "english": "Sketch it out, then build it.",
+      "italian": "Schizzalo, poi costruisci.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661916"
+    },
+    {
+      "english": "New ideas, bloom daily.",
+      "italian": "Nuove idee, fioriscono ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661917"
+    },
+    {
+      "english": "Play with words, find meaning.",
+      "italian": "Gioca con le parole, trova senso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661919"
+    },
+    {
+      "english": "What if? Ask often.",
+      "italian": "E se? Chiedilo spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661920"
+    },
+    {
+      "english": "Combine old, make new.",
+      "italian": "Unisci il vecchio, crea il nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661921"
+    },
+    {
+      "english": "Think outside, your box.",
+      "italian": "Pensa fuori, dalla tua scatola.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661922"
+    },
+    {
+      "english": "Your spark, ignites change.",
+      "italian": "La tua scintilla, accende il cambiamento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661923"
+    },
+    {
+      "english": "See connections, everywhere.",
+      "italian": "Vedi collegamenti, ovunque.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661924"
+    },
+    {
+      "english": "Curiosity, fuels creation.",
+      "italian": "La curiosità, alimenta la creazione.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661925"
+    },
+    {
+      "english": "Break rules, softly.",
+      "italian": "Rompi le regole, dolcemente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661926"
+    },
+    {
+      "english": "Start messy, get clearer.",
+      "italian": "Inizia disordinato, diventa più chiaro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661927"
+    },
+    {
+      "english": "Question everything, kindly.",
+      "italian": "Metti in discussione tutto, gentilmente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661930"
+    },
+    {
+      "english": "Mix unlikely things.",
+      "italian": "Mescola cose improbabili.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661931"
+    },
+    {
+      "english": "What's next? Explore.",
+      "italian": "Cosa c'è dopo? Esplora.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661932"
+    },
+    {
+      "english": "Think differently, live better.",
+      "italian": "Pensa diverso, vivi meglio.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661934"
+    },
+    {
+      "english": "Build on mistakes, learn.",
+      "italian": "Costruisci sugli errori, impara.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661935"
+    },
+    {
+      "english": "Be playful, with ideas.",
+      "italian": "Sii giocoso, con le idee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661936"
+    },
+    {
+      "english": "Draw outside, the lines.",
+      "italian": "Disegna fuori, dalle linee.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661937"
+    },
+    {
+      "english": "Imagine freely, without limits.",
+      "italian": "Immagina liberamente, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661938"
+    },
+    {
+      "english": "Your mind, a fertile ground.",
+      "italian": "La tua mente, un terreno fertile.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661939"
+    },
+    {
+      "english": "Create something, unique.",
+      "italian": "Crea qualcosa, di unico.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661940"
+    },
+    {
+      "english": "Embrace the messy middle.",
+      "italian": "Abbraccia il disordine centrale.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661941"
+    },
+    {
+      "english": "Let thoughts, wander free.",
+      "italian": "Lascia che i pensieri, vaghino liberi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661942"
+    },
+    {
+      "english": "What if we try, this?",
+      "italian": "E se provassimo, questo?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661943"
+    },
+    {
+      "english": "Spark new worlds, within.",
+      "italian": "Accendi nuovi mondi, dentro.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661944"
+    },
+    {
+      "english": "Your ideas, have wings.",
+      "italian": "Le tue idee, hanno ali.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661945"
+    },
+    {
+      "english": "Explore possibilities, always.",
+      "italian": "Esplora possibilità, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661946"
+    },
+    {
+      "english": "Dare to be, different.",
+      "italian": "Osare essere, diversi.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661949"
+    },
+    {
+      "english": "Build from scratch, bravely.",
+      "italian": "Costruisci da zero, coraggiosamente.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661950"
+    },
+    {
+      "english": "Combine colors, create art.",
+      "italian": "Unisci colori, crea arte.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661951"
+    },
+    {
+      "english": "Let your imagination, run wild.",
+      "italian": "Lascia che la tua immaginazione, corra sfrenata.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661952"
+    },
+    {
+      "english": "What if we mixed, this and that?",
+      "italian": "E se mescolassimo, questo e quello?",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661953"
+    },
+    {
+      "english": "Find beauty, in the unexpected.",
+      "italian": "Trova bellezza, nell'inaspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661954"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "italian": "La tua prospettiva, è preziosa.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661955"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "italian": "Osare sognare, in grande.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661956"
+    },
+    {
+      "english": "Create daily, little by little.",
+      "italian": "Crea quotidianamente, poco a poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661957"
+    },
+    {
+      "english": "Imagine more, do a little.",
+      "italian": "Immagina di più, fai poco.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661959"
+    },
+    {
+      "english": "Sketch it out, then build it.",
+      "italian": "Schizzalo, poi costruisci.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661960"
+    },
+    {
+      "english": "New ideas, bloom daily.",
+      "italian": "Nuove idee, fioriscono ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661961"
+    },
+    {
+      "english": "Play with words, find meaning.",
+      "italian": "Gioca con le parole, trova senso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661962"
+    },
+    {
+      "english": "What if? Ask often.",
+      "italian": "E se? Chiedilo spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661963"
+    },
+    {
+      "english": "Combine old, make new.",
+      "italian": "Unisci il vecchio, crea il nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661964"
+    },
+    {
+      "english": "Think outside, your box.",
+      "italian": "Pensa fuori, dalla tua scatola.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661967"
+    },
+    {
+      "english": "Your spark, ignites change.",
+      "italian": "La tua scintilla, accende il cambiamento.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661968"
+    },
+    {
+      "english": "See connections, everywhere.",
+      "italian": "Vedi collegamenti, ovunque.",
+      "category": "Creativity",
+      "generated_at": "2026-08-13T03:25:26.661969"
     }
   ],
-  "last_updated": "2026-08-12T03:22:03.053128"
+  "last_updated": "2026-08-13T03:25:26.661971"
 }
