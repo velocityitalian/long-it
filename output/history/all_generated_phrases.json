@@ -21599,7 +21599,727 @@
       "italian": "Crea il tuo sentiero, avanti.",
       "category": "Courage",
       "generated_at": "2026-08-16T02:19:58.890452"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "italian": "La tua voce conta, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383067"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "italian": "Ogni passo conta, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383076"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "italian": "Credi in te, puoi farcela.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383078"
+    },
+    {
+      "english": "Try something new, discover.",
+      "italian": "Prova qualcosa di nuovo, scopri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383080"
+    },
+    {
+      "english": "You are capable, show it.",
+      "italian": "Sei capace, dimostralo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383081"
+    },
+    {
+      "english": "Patience brings rewards, wait.",
+      "italian": "La pazienza porta ricompense, attendi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383082"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "italian": "Continua a provare, non mollare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383083"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "italian": "Impara dagli errori, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383086"
+    },
+    {
+      "english": "Your ideas are valuable, share.",
+      "italian": "Le tue idee valgono, condividi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383088"
+    },
+    {
+      "english": "Be present, live this moment.",
+      "italian": "Sii presente, vivi questo attimo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383089"
+    },
+    {
+      "english": "Embrace your passion, follow it.",
+      "italian": "Abbraccia la tua passione, seguila.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383091"
+    },
+    {
+      "english": "Your determination, is key.",
+      "italian": "La tua determinazione, è la chiave.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383092"
+    },
+    {
+      "english": "Celebrate progress, no matter how small.",
+      "italian": "Celebra i progressi, anche piccoli.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383093"
+    },
+    {
+      "english": "Listen to your intuition, it guides.",
+      "italian": "Ascolta il tuo istinto, ti guida.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383094"
+    },
+    {
+      "english": "Be open to change, adapt.",
+      "italian": "Sii aperto al cambiamento, adattati.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383096"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "italian": "Il tuo coraggio, ispira gli altri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383097"
+    },
+    {
+      "english": "Keep growing, never stop learning.",
+      "italian": "Continua a crescere, non smettere di imparare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383098"
+    },
+    {
+      "english": "Speak your truth, with kindness.",
+      "italian": "Di' la tua verità, con gentilezza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383099"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "italian": "Il tuo potenziale, è illimitato.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383100"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "italian": "Abbraccia il viaggio, goditelo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383101"
+    },
+    {
+      "english": "Believe in your dreams, chase them.",
+      "italian": "Credi nei tuoi sogni, inseguili.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383102"
+    },
+    {
+      "english": "Be patient with yourself, grow.",
+      "italian": "Sii paziente con te stesso, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383103"
+    },
+    {
+      "english": "Your efforts are noticed, keep going.",
+      "italian": "I tuoi sforzi sono notati, continua.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383105"
+    },
+    {
+      "english": "It's okay to ask for help.",
+      "italian": "Va bene chiedere aiuto.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383106"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "italian": "Sei abbastanza, così come sei.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383107"
+    },
+    {
+      "english": "Embrace challenges, they make you.",
+      "italian": "Accetta le sfide, ti forgiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383108"
+    },
+    {
+      "english": "Your resilience, is your power.",
+      "italian": "La tua resilienza, è la tua forza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383109"
+    },
+    {
+      "english": "Take a breath, then act.",
+      "italian": "Fai un respiro, poi agisci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383110"
+    },
+    {
+      "english": "Your journey, is unique, embrace it.",
+      "italian": "Il tuo viaggio, è unico, abbraccialo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383111"
+    },
+    {
+      "english": "Try, and you might surprise yourself.",
+      "italian": "Prova, e potresti sorprenderti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383112"
+    },
+    {
+      "english": "Believe in second chances, always.",
+      "italian": "Credi nelle seconde occasioni, sempre.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383113"
+    },
+    {
+      "english": "Your focus, brings you closer.",
+      "italian": "La tua concentrazione, ti avvicina.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383114"
+    },
+    {
+      "english": "Don't be afraid, to start over.",
+      "italian": "Non aver paura, di ricominciare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383115"
+    },
+    {
+      "english": "You are enough, keep going.",
+      "italian": "Sei abbastanza, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383116"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "italian": "La tua voce conta, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383117"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "italian": "Ogni passo conta, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383118"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "italian": "Credi in te, puoi farcela.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383119"
+    },
+    {
+      "english": "Try something new, discover.",
+      "italian": "Prova qualcosa di nuovo, scopri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383120"
+    },
+    {
+      "english": "You are capable, show it.",
+      "italian": "Sei capace, dimostralo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383122"
+    },
+    {
+      "english": "Patience brings rewards, wait.",
+      "italian": "La pazienza porta ricompense, attendi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383123"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "italian": "Continua a provare, non mollare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383124"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "italian": "Impara dagli errori, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383125"
+    },
+    {
+      "english": "Your ideas are valuable, share.",
+      "italian": "Le tue idee valgono, condividi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383126"
+    },
+    {
+      "english": "Be present, live this moment.",
+      "italian": "Sii presente, vivi questo attimo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383127"
+    },
+    {
+      "english": "Embrace your passion, follow it.",
+      "italian": "Abbraccia la tua passione, seguila.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383128"
+    },
+    {
+      "english": "Your determination, is key.",
+      "italian": "La tua determinazione, è la chiave.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383129"
+    },
+    {
+      "english": "Celebrate progress, no matter how small.",
+      "italian": "Celebra i progressi, anche piccoli.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383130"
+    },
+    {
+      "english": "Listen to your intuition, it guides.",
+      "italian": "Ascolta il tuo istinto, ti guida.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383131"
+    },
+    {
+      "english": "Be open to change, adapt.",
+      "italian": "Sii aperto al cambiamento, adattati.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383133"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "italian": "Il tuo coraggio, ispira gli altri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383134"
+    },
+    {
+      "english": "Keep growing, never stop learning.",
+      "italian": "Continua a crescere, non smettere di imparare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383135"
+    },
+    {
+      "english": "Speak your truth, with kindness.",
+      "italian": "Di' la tua verità, con gentilezza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383136"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "italian": "Il tuo potenziale, è illimitato.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383137"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "italian": "Abbraccia il viaggio, goditelo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383138"
+    },
+    {
+      "english": "Believe in your dreams, chase them.",
+      "italian": "Credi nei tuoi sogni, inseguili.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383139"
+    },
+    {
+      "english": "Be patient with yourself, grow.",
+      "italian": "Sii paziente con te stesso, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383140"
+    },
+    {
+      "english": "Your efforts are noticed, keep going.",
+      "italian": "I tuoi sforzi sono notati, continua.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383141"
+    },
+    {
+      "english": "It's okay to ask for help.",
+      "italian": "Va bene chiedere aiuto.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383142"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "italian": "Sei abbastanza, così come sei.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383143"
+    },
+    {
+      "english": "Embrace challenges, they make you.",
+      "italian": "Accetta le sfide, ti forgiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383144"
+    },
+    {
+      "english": "Your resilience, is your power.",
+      "italian": "La tua resilienza, è la tua forza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383145"
+    },
+    {
+      "english": "Take a breath, then act.",
+      "italian": "Fai un respiro, poi agisci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383147"
+    },
+    {
+      "english": "Your journey, is unique, embrace it.",
+      "italian": "Il tuo viaggio, è unico, abbraccialo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383148"
+    },
+    {
+      "english": "Try, and you might surprise yourself.",
+      "italian": "Prova, e potresti sorprenderti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383149"
+    },
+    {
+      "english": "Believe in second chances, always.",
+      "italian": "Credi nelle seconde occasioni, sempre.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383150"
+    },
+    {
+      "english": "Your focus, brings you closer.",
+      "italian": "La tua concentrazione, ti avvicina.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383151"
+    },
+    {
+      "english": "Don't be afraid, to start over.",
+      "italian": "Non aver paura, di ricominciare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383152"
+    },
+    {
+      "english": "You are enough, keep going.",
+      "italian": "Sei abbastanza, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383154"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "italian": "La tua voce conta, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383155"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "italian": "Ogni passo conta, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383156"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "italian": "Credi in te, puoi farcela.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383157"
+    },
+    {
+      "english": "Try something new, discover.",
+      "italian": "Prova qualcosa di nuovo, scopri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383158"
+    },
+    {
+      "english": "You are capable, show it.",
+      "italian": "Sei capace, dimostralo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383159"
+    },
+    {
+      "english": "Patience brings rewards, wait.",
+      "italian": "La pazienza porta ricompense, attendi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383160"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "italian": "Continua a provare, non mollare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383161"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "italian": "Impara dagli errori, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383162"
+    },
+    {
+      "english": "Your ideas are valuable, share.",
+      "italian": "Le tue idee valgono, condividi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383163"
+    },
+    {
+      "english": "Be present, live this moment.",
+      "italian": "Sii presente, vivi questo attimo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383164"
+    },
+    {
+      "english": "Embrace your passion, follow it.",
+      "italian": "Abbraccia la tua passione, seguila.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383166"
+    },
+    {
+      "english": "Your determination, is key.",
+      "italian": "La tua determinazione, è la chiave.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383167"
+    },
+    {
+      "english": "Celebrate progress, no matter how small.",
+      "italian": "Celebra i progressi, anche piccoli.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383168"
+    },
+    {
+      "english": "Listen to your intuition, it guides.",
+      "italian": "Ascolta il tuo istinto, ti guida.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383169"
+    },
+    {
+      "english": "Be open to change, adapt.",
+      "italian": "Sii aperto al cambiamento, adattati.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383170"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "italian": "Il tuo coraggio, ispira gli altri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383171"
+    },
+    {
+      "english": "Keep growing, never stop learning.",
+      "italian": "Continua a crescere, non smettere di imparare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383172"
+    },
+    {
+      "english": "Speak your truth, with kindness.",
+      "italian": "Di' la tua verità, con gentilezza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383173"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "italian": "Il tuo potenziale, è illimitato.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383174"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "italian": "Abbraccia il viaggio, goditelo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383175"
+    },
+    {
+      "english": "Believe in your dreams, chase them.",
+      "italian": "Credi nei tuoi sogni, inseguili.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383176"
+    },
+    {
+      "english": "Be patient with yourself, grow.",
+      "italian": "Sii paziente con te stesso, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383177"
+    },
+    {
+      "english": "Your efforts are noticed, keep going.",
+      "italian": "I tuoi sforzi sono notati, continua.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383178"
+    },
+    {
+      "english": "It's okay to ask for help.",
+      "italian": "Va bene chiedere aiuto.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383179"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "italian": "Sei abbastanza, così come sei.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383180"
+    },
+    {
+      "english": "Embrace challenges, they make you.",
+      "italian": "Accetta le sfide, ti forgiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383181"
+    },
+    {
+      "english": "Your resilience, is your power.",
+      "italian": "La tua resilienza, è la tua forza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383182"
+    },
+    {
+      "english": "Take a breath, then act.",
+      "italian": "Fai un respiro, poi agisci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383183"
+    },
+    {
+      "english": "Your journey, is unique, embrace it.",
+      "italian": "Il tuo viaggio, è unico, abbraccialo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383184"
+    },
+    {
+      "english": "Try, and you might surprise yourself.",
+      "italian": "Prova, e potresti sorprenderti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383185"
+    },
+    {
+      "english": "Believe in second chances, always.",
+      "italian": "Credi nelle seconde occasioni, sempre.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383186"
+    },
+    {
+      "english": "Your focus, brings you closer.",
+      "italian": "La tua concentrazione, ti avvicina.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383187"
+    },
+    {
+      "english": "Don't be afraid, to start over.",
+      "italian": "Non aver paura, di ricominciare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383187"
+    },
+    {
+      "english": "You are enough, keep going.",
+      "italian": "Sei abbastanza, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383188"
+    },
+    {
+      "english": "Your voice matters, speak up.",
+      "italian": "La tua voce conta, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383190"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "italian": "Ogni passo conta, vai avanti.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383191"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "italian": "Credi in te, puoi farcela.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383192"
+    },
+    {
+      "english": "Try something new, discover.",
+      "italian": "Prova qualcosa di nuovo, scopri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383193"
+    },
+    {
+      "english": "You are capable, show it.",
+      "italian": "Sei capace, dimostralo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383194"
+    },
+    {
+      "english": "Patience brings rewards, wait.",
+      "italian": "La pazienza porta ricompense, attendi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383195"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "italian": "Continua a provare, non mollare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383196"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "italian": "Impara dagli errori, cresci.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383197"
+    },
+    {
+      "english": "Your ideas are valuable, share.",
+      "italian": "Le tue idee valgono, condividi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383198"
+    },
+    {
+      "english": "Be present, live this moment.",
+      "italian": "Sii presente, vivi questo attimo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383199"
+    },
+    {
+      "english": "Embrace your passion, follow it.",
+      "italian": "Abbraccia la tua passione, seguila.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383200"
+    },
+    {
+      "english": "Your determination, is key.",
+      "italian": "La tua determinazione, è la chiave.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383201"
+    },
+    {
+      "english": "Celebrate progress, no matter how small.",
+      "italian": "Celebra i progressi, anche piccoli.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383202"
+    },
+    {
+      "english": "Listen to your intuition, it guides.",
+      "italian": "Ascolta il tuo istinto, ti guida.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383203"
+    },
+    {
+      "english": "Be open to change, adapt.",
+      "italian": "Sii aperto al cambiamento, adattati.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383204"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "italian": "Il tuo coraggio, ispira gli altri.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383205"
+    },
+    {
+      "english": "Keep growing, never stop learning.",
+      "italian": "Continua a crescere, non smettere di imparare.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383206"
+    },
+    {
+      "english": "Speak your truth, with kindness.",
+      "italian": "Di' la tua verità, con gentilezza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-17T02:18:41.383207"
     }
   ],
-  "last_updated": "2026-08-16T02:19:58.890454"
+  "last_updated": "2026-08-17T02:18:41.383209"
 }
