@@ -26639,7 +26639,727 @@
       "italian": "Parla con gioia, è la chiave.",
       "category": "Strength",
       "generated_at": "2026-08-24T02:22:03.935324"
+    },
+    {
+      "english": "Just try it, once.",
+      "italian": "Prova solo, una volta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010009"
+    },
+    {
+      "english": "It's not so hard, really.",
+      "italian": "Non è così difficile, davvero.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010021"
+    },
+    {
+      "english": "You can do this, you know.",
+      "italian": "Puoi farcela, lo sai.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010023"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "italian": "Piccoli passi, grandi progressi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010024"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "italian": "Non pensare troppo, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010026"
+    },
+    {
+      "english": "Mistakes are okay, friends.",
+      "italian": "Gli errori vanno bene, amici.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010027"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "italian": "Continua, stai andando bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010028"
+    },
+    {
+      "english": "Speak slowly, at first.",
+      "italian": "Parla piano, all'inizio.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010032"
+    },
+    {
+      "english": "You sound more Italian, now.",
+      "italian": "Suoni più italiano, ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010034"
+    },
+    {
+      "english": "Your accent is charming.",
+      "italian": "Il tuo accento è affascinante.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010036"
+    },
+    {
+      "english": "This word, try it.",
+      "italian": "Questa parola, provala.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010037"
+    },
+    {
+      "english": "It's all part of learning.",
+      "italian": "Fa tutto parte dell'apprendimento.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010038"
+    },
+    {
+      "english": "Feel the rhythm, of Italian.",
+      "italian": "Senti il ritmo, dell'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010039"
+    },
+    {
+      "english": "Let the words, come out.",
+      "italian": "Lascia che le parole, escano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010040"
+    },
+    {
+      "english": "You're getting closer, every day.",
+      "italian": "Ti avvicini, ogni giorno.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010041"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "italian": "Non essere timido, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010042"
+    },
+    {
+      "english": "You're improving, wonderfully.",
+      "italian": "Stai migliorando, magnificamente.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010044"
+    },
+    {
+      "english": "This sounds good, try again.",
+      "italian": "Suona bene, riprova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010045"
+    },
+    {
+      "english": "It's about trying, not perfection.",
+      "italian": "Si tratta di provare, non la perfezione.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010046"
+    },
+    {
+      "english": "You have the courage, yes.",
+      "italian": "Hai il coraggio, sì.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010047"
+    },
+    {
+      "english": "Believe in your voice, please.",
+      "italian": "Credi nella tua voce, per favore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010048"
+    },
+    {
+      "english": "You understand, more now.",
+      "italian": "Capisci, di più ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010049"
+    },
+    {
+      "english": "That's the spirit, keep it.",
+      "italian": "Questo è lo spirito, tienilo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010050"
+    },
+    {
+      "english": "Your effort, shows.",
+      "italian": "Il tuo impegno, si vede.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010052"
+    },
+    {
+      "english": "Italian feels natural, to you.",
+      "italian": "L'italiano ti sembra naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010053"
+    },
+    {
+      "english": "You're building fluency, nicely.",
+      "italian": "Stai costruendo fluidità, bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010054"
+    },
+    {
+      "english": "Enjoy the journey, traveler.",
+      "italian": "Goditi il viaggio, viaggiatore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010055"
+    },
+    {
+      "english": "Speak without worry, try.",
+      "italian": "Parla senza preoccuparti, prova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010056"
+    },
+    {
+      "english": "You're a natural, learner.",
+      "italian": "Sei un apprendista, naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010057"
+    },
+    {
+      "english": "This pronunciation, is good.",
+      "italian": "Questa pronuncia, è buona.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010058"
+    },
+    {
+      "english": "You're connecting, with Italian.",
+      "italian": "Ti stai connettendo, con l'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010059"
+    },
+    {
+      "english": "That was perfect, say it.",
+      "italian": "Era perfetto, dillo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010060"
+    },
+    {
+      "english": "You're finding your voice.",
+      "italian": "Stai trovando la tua voce.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010061"
+    },
+    {
+      "english": "Don't hesitate, speak now.",
+      "italian": "Non esitare, parla ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010061"
+    },
+    {
+      "english": "Your Italian is blooming.",
+      "italian": "Il tuo italiano sta fiorindo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010062"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "italian": "Ce la puoi fare, di sicuro.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010064"
+    },
+    {
+      "english": "It sounds so natural.",
+      "italian": "Suona così naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010065"
+    },
+    {
+      "english": "Keep that confidence, high.",
+      "italian": "Mantieni alta quella fiducia.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010066"
+    },
+    {
+      "english": "Every sentence, is a win.",
+      "italian": "Ogni frase, è una vittoria.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010067"
+    },
+    {
+      "english": "You're speaking, with ease.",
+      "italian": "Stai parlando, con facilità.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010068"
+    },
+    {
+      "english": "Just try it, once.",
+      "italian": "Prova solo, una volta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010069"
+    },
+    {
+      "english": "It's not so hard, really.",
+      "italian": "Non è così difficile, davvero.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010070"
+    },
+    {
+      "english": "You can do this, you know.",
+      "italian": "Puoi farcela, lo sai.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010071"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "italian": "Piccoli passi, grandi progressi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010072"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "italian": "Non pensare troppo, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010073"
+    },
+    {
+      "english": "Mistakes are okay, friends.",
+      "italian": "Gli errori vanno bene, amici.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010074"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "italian": "Continua, stai andando bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010075"
+    },
+    {
+      "english": "Speak slowly, at first.",
+      "italian": "Parla piano, all'inizio.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010076"
+    },
+    {
+      "english": "You sound more Italian, now.",
+      "italian": "Suoni più italiano, ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010077"
+    },
+    {
+      "english": "Your accent is charming.",
+      "italian": "Il tuo accento è affascinante.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010079"
+    },
+    {
+      "english": "This word, try it.",
+      "italian": "Questa parola, provala.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010080"
+    },
+    {
+      "english": "It's all part of learning.",
+      "italian": "Fa tutto parte dell'apprendimento.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010081"
+    },
+    {
+      "english": "Feel the rhythm, of Italian.",
+      "italian": "Senti il ritmo, dell'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010082"
+    },
+    {
+      "english": "Let the words, come out.",
+      "italian": "Lascia che le parole, escano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010083"
+    },
+    {
+      "english": "You're getting closer, every day.",
+      "italian": "Ti avvicini, ogni giorno.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010084"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "italian": "Non essere timido, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010085"
+    },
+    {
+      "english": "You're improving, wonderfully.",
+      "italian": "Stai migliorando, magnificamente.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010086"
+    },
+    {
+      "english": "This sounds good, try again.",
+      "italian": "Suona bene, riprova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010087"
+    },
+    {
+      "english": "It's about trying, not perfection.",
+      "italian": "Si tratta di provare, non la perfezione.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010088"
+    },
+    {
+      "english": "You have the courage, yes.",
+      "italian": "Hai il coraggio, sì.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010089"
+    },
+    {
+      "english": "Believe in your voice, please.",
+      "italian": "Credi nella tua voce, per favore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010090"
+    },
+    {
+      "english": "You understand, more now.",
+      "italian": "Capisci, di più ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010091"
+    },
+    {
+      "english": "That's the spirit, keep it.",
+      "italian": "Questo è lo spirito, tienilo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010092"
+    },
+    {
+      "english": "Your effort, shows.",
+      "italian": "Il tuo impegno, si vede.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010093"
+    },
+    {
+      "english": "Italian feels natural, to you.",
+      "italian": "L'italiano ti sembra naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010094"
+    },
+    {
+      "english": "You're building fluency, nicely.",
+      "italian": "Stai costruendo fluidità, bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010096"
+    },
+    {
+      "english": "Enjoy the journey, traveler.",
+      "italian": "Goditi il viaggio, viaggiatore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010097"
+    },
+    {
+      "english": "Speak without worry, try.",
+      "italian": "Parla senza preoccuparti, prova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010098"
+    },
+    {
+      "english": "You're a natural, learner.",
+      "italian": "Sei un apprendista, naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010099"
+    },
+    {
+      "english": "This pronunciation, is good.",
+      "italian": "Questa pronuncia, è buona.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010100"
+    },
+    {
+      "english": "You're connecting, with Italian.",
+      "italian": "Ti stai connettendo, con l'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010101"
+    },
+    {
+      "english": "That was perfect, say it.",
+      "italian": "Era perfetto, dillo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010102"
+    },
+    {
+      "english": "You're finding your voice.",
+      "italian": "Stai trovando la tua voce.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010103"
+    },
+    {
+      "english": "Don't hesitate, speak now.",
+      "italian": "Non esitare, parla ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010104"
+    },
+    {
+      "english": "Your Italian is blooming.",
+      "italian": "Il tuo italiano sta fiorindo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010105"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "italian": "Ce la puoi fare, di sicuro.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010105"
+    },
+    {
+      "english": "It sounds so natural.",
+      "italian": "Suona così naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010106"
+    },
+    {
+      "english": "Keep that confidence, high.",
+      "italian": "Mantieni alta quella fiducia.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010107"
+    },
+    {
+      "english": "Every sentence, is a win.",
+      "italian": "Ogni frase, è una vittoria.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010108"
+    },
+    {
+      "english": "You're speaking, with ease.",
+      "italian": "Stai parlando, con facilità.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010109"
+    },
+    {
+      "english": "Just try it, once.",
+      "italian": "Prova solo, una volta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010110"
+    },
+    {
+      "english": "It's not so hard, really.",
+      "italian": "Non è così difficile, davvero.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010111"
+    },
+    {
+      "english": "You can do this, you know.",
+      "italian": "Puoi farcela, lo sai.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010112"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "italian": "Piccoli passi, grandi progressi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010114"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "italian": "Non pensare troppo, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010115"
+    },
+    {
+      "english": "Mistakes are okay, friends.",
+      "italian": "Gli errori vanno bene, amici.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010116"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "italian": "Continua, stai andando bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010117"
+    },
+    {
+      "english": "Speak slowly, at first.",
+      "italian": "Parla piano, all'inizio.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010118"
+    },
+    {
+      "english": "You sound more Italian, now.",
+      "italian": "Suoni più italiano, ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010119"
+    },
+    {
+      "english": "Your accent is charming.",
+      "italian": "Il tuo accento è affascinante.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010120"
+    },
+    {
+      "english": "This word, try it.",
+      "italian": "Questa parola, provala.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010121"
+    },
+    {
+      "english": "It's all part of learning.",
+      "italian": "Fa tutto parte dell'apprendimento.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010122"
+    },
+    {
+      "english": "Feel the rhythm, of Italian.",
+      "italian": "Senti il ritmo, dell'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010123"
+    },
+    {
+      "english": "Let the words, come out.",
+      "italian": "Lascia che le parole, escano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010124"
+    },
+    {
+      "english": "You're getting closer, every day.",
+      "italian": "Ti avvicini, ogni giorno.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010125"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "italian": "Non essere timido, parla.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010126"
+    },
+    {
+      "english": "You're improving, wonderfully.",
+      "italian": "Stai migliorando, magnificamente.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010127"
+    },
+    {
+      "english": "This sounds good, try again.",
+      "italian": "Suona bene, riprova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010128"
+    },
+    {
+      "english": "It's about trying, not perfection.",
+      "italian": "Si tratta di provare, non la perfezione.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010129"
+    },
+    {
+      "english": "You have the courage, yes.",
+      "italian": "Hai il coraggio, sì.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010130"
+    },
+    {
+      "english": "Believe in your voice, please.",
+      "italian": "Credi nella tua voce, per favore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010131"
+    },
+    {
+      "english": "You understand, more now.",
+      "italian": "Capisci, di più ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010132"
+    },
+    {
+      "english": "That's the spirit, keep it.",
+      "italian": "Questo è lo spirito, tienilo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010133"
+    },
+    {
+      "english": "Your effort, shows.",
+      "italian": "Il tuo impegno, si vede.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010134"
+    },
+    {
+      "english": "Italian feels natural, to you.",
+      "italian": "L'italiano ti sembra naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010135"
+    },
+    {
+      "english": "You're building fluency, nicely.",
+      "italian": "Stai costruendo fluidità, bene.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010136"
+    },
+    {
+      "english": "Enjoy the journey, traveler.",
+      "italian": "Goditi il viaggio, viaggiatore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010137"
+    },
+    {
+      "english": "Speak without worry, try.",
+      "italian": "Parla senza preoccuparti, prova.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010138"
+    },
+    {
+      "english": "You're a natural, learner.",
+      "italian": "Sei un apprendista, naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010140"
+    },
+    {
+      "english": "This pronunciation, is good.",
+      "italian": "Questa pronuncia, è buona.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010141"
+    },
+    {
+      "english": "You're connecting, with Italian.",
+      "italian": "Ti stai connettendo, con l'italiano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010141"
+    },
+    {
+      "english": "That was perfect, say it.",
+      "italian": "Era perfetto, dillo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010142"
+    },
+    {
+      "english": "You're finding your voice.",
+      "italian": "Stai trovando la tua voce.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010143"
+    },
+    {
+      "english": "Don't hesitate, speak now.",
+      "italian": "Non esitare, parla ora.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010144"
+    },
+    {
+      "english": "Your Italian is blooming.",
+      "italian": "Il tuo italiano sta fiorindo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010145"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "italian": "Ce la puoi fare, di sicuro.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010147"
+    },
+    {
+      "english": "It sounds so natural.",
+      "italian": "Suona così naturale.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010147"
+    },
+    {
+      "english": "Keep that confidence, high.",
+      "italian": "Mantieni alta quella fiducia.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010149"
+    },
+    {
+      "english": "Every sentence, is a win.",
+      "italian": "Ogni frase, è una vittoria.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010150"
+    },
+    {
+      "english": "You're speaking, with ease.",
+      "italian": "Stai parlando, con facilità.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T02:17:14.010151"
     }
   ],
-  "last_updated": "2026-08-24T02:22:03.935325"
+  "last_updated": "2026-08-25T02:17:14.010153"
 }
