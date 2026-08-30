@@ -29519,7 +29519,727 @@
       "italian": "Diventa più forte, ogni giorno.",
       "category": "Positive Life",
       "generated_at": "2026-08-29T07:39:32.822008"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "italian": "Assapora questo momento, pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734569"
+    },
+    {
+      "english": "Kindness costs nothing, always.",
+      "italian": "La gentilezza non costa nulla, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734579"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "italian": "Sorridi di più, preoccupati di meno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734581"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "italian": "Sii coraggioso, prendi dei rischi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734583"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "italian": "Rimani curioso, sempre imparando.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734584"
+    },
+    {
+      "english": "Forgive, then forget.",
+      "italian": "Perdona, poi dimentica.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734585"
+    },
+    {
+      "english": "Find joy, in simplicity.",
+      "italian": "Trova gioia, nella semplicità.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734586"
+    },
+    {
+      "english": "Start your day, right.",
+      "italian": "Inizia la tua giornata, bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734589"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "italian": "Sii gentile, con te stesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734591"
+    },
+    {
+      "english": "Listen to your, heart.",
+      "italian": "Ascolta il tuo, cuore.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734592"
+    },
+    {
+      "english": "Embrace imperfection, always.",
+      "italian": "Abbraccia l'imperfezione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734593"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734594"
+    },
+    {
+      "english": "Spread love, everywhere.",
+      "italian": "Diffondi amore, ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734595"
+    },
+    {
+      "english": "Be open, to life.",
+      "italian": "Sii aperto, alla vita.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734596"
+    },
+    {
+      "english": "Seek peace, daily.",
+      "italian": "Cerca la pace, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734597"
+    },
+    {
+      "english": "Choose joy, consciously.",
+      "italian": "Scegli la gioia, consapevolmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734598"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "italian": "Fidati della tua, intuizione.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734599"
+    },
+    {
+      "english": "Offer a helping, hand.",
+      "italian": "Offri una mano, che aiuti.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734600"
+    },
+    {
+      "english": "Embrace the, unexpected.",
+      "italian": "Accetta l'inaspettato.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734602"
+    },
+    {
+      "english": "Listen to your, body.",
+      "italian": "Ascolta il tuo, corpo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734603"
+    },
+    {
+      "english": "Give compliments, freely.",
+      "italian": "Fai complimenti, liberamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734604"
+    },
+    {
+      "english": "Seek adventure, daily.",
+      "italian": "Cerca avventura, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734605"
+    },
+    {
+      "english": "Share your, strengths.",
+      "italian": "Condividi i tuoi, punti di forza.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734606"
+    },
+    {
+      "english": "Believe in, good things.",
+      "italian": "Credi nelle, cose buone.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734607"
+    },
+    {
+      "english": "Find your, happy place.",
+      "italian": "Trova il tuo, posto felice.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734608"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "italian": "Assapora questo momento, pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734609"
+    },
+    {
+      "english": "Kindness costs nothing, always.",
+      "italian": "La gentilezza non costa nulla, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734610"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "italian": "Sorridi di più, preoccupati di meno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734611"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "italian": "Sii coraggioso, prendi dei rischi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734612"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "italian": "Rimani curioso, sempre imparando.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734613"
+    },
+    {
+      "english": "Forgive, then forget.",
+      "italian": "Perdona, poi dimentica.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734615"
+    },
+    {
+      "english": "Find joy, in simplicity.",
+      "italian": "Trova gioia, nella semplicità.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734616"
+    },
+    {
+      "english": "Start your day, right.",
+      "italian": "Inizia la tua giornata, bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734617"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "italian": "Sii gentile, con te stesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734618"
+    },
+    {
+      "english": "Listen to your, heart.",
+      "italian": "Ascolta il tuo, cuore.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734619"
+    },
+    {
+      "english": "Embrace imperfection, always.",
+      "italian": "Abbraccia l'imperfezione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734620"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734621"
+    },
+    {
+      "english": "Spread love, everywhere.",
+      "italian": "Diffondi amore, ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734623"
+    },
+    {
+      "english": "Be open, to life.",
+      "italian": "Sii aperto, alla vita.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734624"
+    },
+    {
+      "english": "Seek peace, daily.",
+      "italian": "Cerca la pace, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734625"
+    },
+    {
+      "english": "Choose joy, consciously.",
+      "italian": "Scegli la gioia, consapevolmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734626"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "italian": "Fidati della tua, intuizione.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734627"
+    },
+    {
+      "english": "Offer a helping, hand.",
+      "italian": "Offri una mano, che aiuti.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734628"
+    },
+    {
+      "english": "Embrace the, unexpected.",
+      "italian": "Accetta l'inaspettato.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734629"
+    },
+    {
+      "english": "Listen to your, body.",
+      "italian": "Ascolta il tuo, corpo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734630"
+    },
+    {
+      "english": "Give compliments, freely.",
+      "italian": "Fai complimenti, liberamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734631"
+    },
+    {
+      "english": "Seek adventure, daily.",
+      "italian": "Cerca avventura, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734632"
+    },
+    {
+      "english": "Share your, strengths.",
+      "italian": "Condividi i tuoi, punti di forza.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734633"
+    },
+    {
+      "english": "Believe in, good things.",
+      "italian": "Credi nelle, cose buone.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734634"
+    },
+    {
+      "english": "Find your, happy place.",
+      "italian": "Trova il tuo, posto felice.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734635"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "italian": "Assapora questo momento, pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734636"
+    },
+    {
+      "english": "Kindness costs nothing, always.",
+      "italian": "La gentilezza non costa nulla, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734637"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "italian": "Sorridi di più, preoccupati di meno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734638"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "italian": "Sii coraggioso, prendi dei rischi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734639"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "italian": "Rimani curioso, sempre imparando.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734640"
+    },
+    {
+      "english": "Forgive, then forget.",
+      "italian": "Perdona, poi dimentica.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734641"
+    },
+    {
+      "english": "Find joy, in simplicity.",
+      "italian": "Trova gioia, nella semplicità.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734643"
+    },
+    {
+      "english": "Start your day, right.",
+      "italian": "Inizia la tua giornata, bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734644"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "italian": "Sii gentile, con te stesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734645"
+    },
+    {
+      "english": "Listen to your, heart.",
+      "italian": "Ascolta il tuo, cuore.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734646"
+    },
+    {
+      "english": "Embrace imperfection, always.",
+      "italian": "Abbraccia l'imperfezione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734647"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734648"
+    },
+    {
+      "english": "Spread love, everywhere.",
+      "italian": "Diffondi amore, ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734649"
+    },
+    {
+      "english": "Be open, to life.",
+      "italian": "Sii aperto, alla vita.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734650"
+    },
+    {
+      "english": "Seek peace, daily.",
+      "italian": "Cerca la pace, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734652"
+    },
+    {
+      "english": "Choose joy, consciously.",
+      "italian": "Scegli la gioia, consapevolmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734653"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "italian": "Fidati della tua, intuizione.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734654"
+    },
+    {
+      "english": "Offer a helping, hand.",
+      "italian": "Offri una mano, che aiuti.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734655"
+    },
+    {
+      "english": "Embrace the, unexpected.",
+      "italian": "Accetta l'inaspettato.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734656"
+    },
+    {
+      "english": "Listen to your, body.",
+      "italian": "Ascolta il tuo, corpo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734657"
+    },
+    {
+      "english": "Give compliments, freely.",
+      "italian": "Fai complimenti, liberamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734658"
+    },
+    {
+      "english": "Seek adventure, daily.",
+      "italian": "Cerca avventura, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734659"
+    },
+    {
+      "english": "Share your, strengths.",
+      "italian": "Condividi i tuoi, punti di forza.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734660"
+    },
+    {
+      "english": "Believe in, good things.",
+      "italian": "Credi nelle, cose buone.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734661"
+    },
+    {
+      "english": "Find your, happy place.",
+      "italian": "Trova il tuo, posto felice.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734662"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "italian": "Assapora questo momento, pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734663"
+    },
+    {
+      "english": "Kindness costs nothing, always.",
+      "italian": "La gentilezza non costa nulla, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734664"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "italian": "Sorridi di più, preoccupati di meno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734665"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "italian": "Sii coraggioso, prendi dei rischi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734666"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "italian": "Rimani curioso, sempre imparando.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734668"
+    },
+    {
+      "english": "Forgive, then forget.",
+      "italian": "Perdona, poi dimentica.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734669"
+    },
+    {
+      "english": "Find joy, in simplicity.",
+      "italian": "Trova gioia, nella semplicità.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734670"
+    },
+    {
+      "english": "Start your day, right.",
+      "italian": "Inizia la tua giornata, bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734671"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "italian": "Sii gentile, con te stesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734672"
+    },
+    {
+      "english": "Listen to your, heart.",
+      "italian": "Ascolta il tuo, cuore.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734673"
+    },
+    {
+      "english": "Embrace imperfection, always.",
+      "italian": "Abbraccia l'imperfezione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734674"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734675"
+    },
+    {
+      "english": "Spread love, everywhere.",
+      "italian": "Diffondi amore, ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734677"
+    },
+    {
+      "english": "Be open, to life.",
+      "italian": "Sii aperto, alla vita.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734678"
+    },
+    {
+      "english": "Seek peace, daily.",
+      "italian": "Cerca la pace, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734679"
+    },
+    {
+      "english": "Choose joy, consciously.",
+      "italian": "Scegli la gioia, consapevolmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734680"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "italian": "Fidati della tua, intuizione.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734681"
+    },
+    {
+      "english": "Offer a helping, hand.",
+      "italian": "Offri una mano, che aiuti.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734682"
+    },
+    {
+      "english": "Embrace the, unexpected.",
+      "italian": "Accetta l'inaspettato.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734683"
+    },
+    {
+      "english": "Listen to your, body.",
+      "italian": "Ascolta il tuo, corpo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734684"
+    },
+    {
+      "english": "Give compliments, freely.",
+      "italian": "Fai complimenti, liberamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734685"
+    },
+    {
+      "english": "Seek adventure, daily.",
+      "italian": "Cerca avventura, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734686"
+    },
+    {
+      "english": "Share your, strengths.",
+      "italian": "Condividi i tuoi, punti di forza.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734687"
+    },
+    {
+      "english": "Believe in, good things.",
+      "italian": "Credi nelle, cose buone.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734687"
+    },
+    {
+      "english": "Find your, happy place.",
+      "italian": "Trova il tuo, posto felice.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734688"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "italian": "Assapora questo momento, pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734690"
+    },
+    {
+      "english": "Kindness costs nothing, always.",
+      "italian": "La gentilezza non costa nulla, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734691"
+    },
+    {
+      "english": "Smile more, worry less.",
+      "italian": "Sorridi di più, preoccupati di meno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734692"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "italian": "Sii coraggioso, prendi dei rischi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734693"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "italian": "Rimani curioso, sempre imparando.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734694"
+    },
+    {
+      "english": "Forgive, then forget.",
+      "italian": "Perdona, poi dimentica.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734695"
+    },
+    {
+      "english": "Find joy, in simplicity.",
+      "italian": "Trova gioia, nella semplicità.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734696"
+    },
+    {
+      "english": "Start your day, right.",
+      "italian": "Inizia la tua giornata, bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734697"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "italian": "Sii gentile, con te stesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734698"
+    },
+    {
+      "english": "Listen to your, heart.",
+      "italian": "Ascolta il tuo, cuore.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734699"
+    },
+    {
+      "english": "Embrace imperfection, always.",
+      "italian": "Abbraccia l'imperfezione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734700"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734701"
+    },
+    {
+      "english": "Spread love, everywhere.",
+      "italian": "Diffondi amore, ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734702"
+    },
+    {
+      "english": "Be open, to life.",
+      "italian": "Sii aperto, alla vita.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734703"
+    },
+    {
+      "english": "Seek peace, daily.",
+      "italian": "Cerca la pace, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734704"
+    },
+    {
+      "english": "Choose joy, consciously.",
+      "italian": "Scegli la gioia, consapevolmente.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734705"
+    },
+    {
+      "english": "Trust your, intuition.",
+      "italian": "Fidati della tua, intuizione.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734706"
+    },
+    {
+      "english": "Offer a helping, hand.",
+      "italian": "Offri una mano, che aiuti.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734707"
+    },
+    {
+      "english": "Embrace the, unexpected.",
+      "italian": "Accetta l'inaspettato.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734708"
+    },
+    {
+      "english": "Listen to your, body.",
+      "italian": "Ascolta il tuo, corpo.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-30T06:13:26.734709"
     }
   ],
-  "last_updated": "2026-08-29T07:39:32.822010"
+  "last_updated": "2026-08-30T06:13:26.734711"
 }
