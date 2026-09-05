@@ -33839,7 +33839,727 @@
       "italian": "Non temere, il silenzio.",
       "category": "Courage",
       "generated_at": "2026-09-04T05:28:17.759618"
+    },
+    {
+      "english": "Think fast, speak slower.",
+      "italian": "Pensa velocemente, parla più piano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423366"
+    },
+    {
+      "english": "Sketch your ideas, first.",
+      "italian": "Schizza le tue idee, prima.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423375"
+    },
+    {
+      "english": "Write down, what you hear.",
+      "italian": "Scrivi quello che senti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423376"
+    },
+    {
+      "english": "Imagine, the scene.",
+      "italian": "Immagina, la scena.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423378"
+    },
+    {
+      "english": "Draw a new path.",
+      "italian": "Disegna una nuova strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423379"
+    },
+    {
+      "english": "Build your own style.",
+      "italian": "Costruisci il tuo stile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423380"
+    },
+    {
+      "english": "Play with the words.",
+      "italian": "Gioca con le parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423381"
+    },
+    {
+      "english": "Mix and match, phrases.",
+      "italian": "Mescola e abbina, frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423384"
+    },
+    {
+      "english": "Combine your thoughts.",
+      "italian": "Combina i tuoi pensieri.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423386"
+    },
+    {
+      "english": "Invent new meanings.",
+      "italian": "Inventa nuovi significati.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423387"
+    },
+    {
+      "english": "Reimagine, old words.",
+      "italian": "Reinventa, parole vecchie.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423388"
+    },
+    {
+      "english": "Create, from scratch.",
+      "italian": "Crea, da zero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423390"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "italian": "Esprimiti, liberamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423391"
+    },
+    {
+      "english": "Show, don't just tell.",
+      "italian": "Mostra, non solo dire.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423392"
+    },
+    {
+      "english": "Paint with your words.",
+      "italian": "Dipingi con le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423393"
+    },
+    {
+      "english": "Sculpt, your sentences.",
+      "italian": "Scolpisci, le tue frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423394"
+    },
+    {
+      "english": "Listen, then create.",
+      "italian": "Ascolta, poi crea.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423394"
+    },
+    {
+      "english": "Be a word artist.",
+      "italian": "Sii un artista delle parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423396"
+    },
+    {
+      "english": "Explore, new ideas.",
+      "italian": "Esplora, nuove idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423397"
+    },
+    {
+      "english": "Connect, the dots.",
+      "italian": "Collega, i punti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423398"
+    },
+    {
+      "english": "Make it your own.",
+      "italian": "Rendilo tuo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423398"
+    },
+    {
+      "english": "Add your spark.",
+      "italian": "Aggiungi la tua scintilla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423399"
+    },
+    {
+      "english": "Imagine, then do.",
+      "italian": "Immagina, poi fai.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423401"
+    },
+    {
+      "english": "Let your mind wander.",
+      "italian": "Lascia vagare la mente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423401"
+    },
+    {
+      "english": "Try a different angle.",
+      "italian": "Prova un angolo diverso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423402"
+    },
+    {
+      "english": "Adapt, and improvise.",
+      "italian": "Adatta, e improvvisa.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423403"
+    },
+    {
+      "english": "Be a language chef.",
+      "italian": "Sii uno chef linguistico.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423404"
+    },
+    {
+      "english": "Mix old and new.",
+      "italian": "Mescola vecchio e nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423405"
+    },
+    {
+      "english": "Your vision, your words.",
+      "italian": "La tua visione, le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423406"
+    },
+    {
+      "english": "Brainstorm, without limits.",
+      "italian": "Fai brainstorming, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423407"
+    },
+    {
+      "english": "Reimagine, what's possible.",
+      "italian": "Reinventa, cosa è possibile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423408"
+    },
+    {
+      "english": "Build your own narrative.",
+      "italian": "Costruisci la tua narrazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423409"
+    },
+    {
+      "english": "Add a personal touch.",
+      "italian": "Aggiungi un tocco personale.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423410"
+    },
+    {
+      "english": "Think outside the box.",
+      "italian": "Pensa fuori dagli schemi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423411"
+    },
+    {
+      "english": "Innovate your speech.",
+      "italian": "Innova il tuo discorso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423412"
+    },
+    {
+      "english": "Make it your signature.",
+      "italian": "Rendilo la tua firma.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423413"
+    },
+    {
+      "english": "Embrace, experimentation.",
+      "italian": "Abbraccia, la sperimentazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423414"
+    },
+    {
+      "english": "Think fast, speak slower.",
+      "italian": "Pensa velocemente, parla più piano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423415"
+    },
+    {
+      "english": "Sketch your ideas, first.",
+      "italian": "Schizza le tue idee, prima.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423416"
+    },
+    {
+      "english": "Write down, what you hear.",
+      "italian": "Scrivi quello che senti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423417"
+    },
+    {
+      "english": "Imagine, the scene.",
+      "italian": "Immagina, la scena.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423418"
+    },
+    {
+      "english": "Draw a new path.",
+      "italian": "Disegna una nuova strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423419"
+    },
+    {
+      "english": "Build your own style.",
+      "italian": "Costruisci il tuo stile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423420"
+    },
+    {
+      "english": "Play with the words.",
+      "italian": "Gioca con le parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423422"
+    },
+    {
+      "english": "Mix and match, phrases.",
+      "italian": "Mescola e abbina, frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423422"
+    },
+    {
+      "english": "Combine your thoughts.",
+      "italian": "Combina i tuoi pensieri.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423424"
+    },
+    {
+      "english": "Invent new meanings.",
+      "italian": "Inventa nuovi significati.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423425"
+    },
+    {
+      "english": "Reimagine, old words.",
+      "italian": "Reinventa, parole vecchie.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423426"
+    },
+    {
+      "english": "Create, from scratch.",
+      "italian": "Crea, da zero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423427"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "italian": "Esprimiti, liberamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423428"
+    },
+    {
+      "english": "Show, don't just tell.",
+      "italian": "Mostra, non solo dire.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423430"
+    },
+    {
+      "english": "Paint with your words.",
+      "italian": "Dipingi con le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423431"
+    },
+    {
+      "english": "Sculpt, your sentences.",
+      "italian": "Scolpisci, le tue frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423432"
+    },
+    {
+      "english": "Listen, then create.",
+      "italian": "Ascolta, poi crea.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423433"
+    },
+    {
+      "english": "Be a word artist.",
+      "italian": "Sii un artista delle parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423434"
+    },
+    {
+      "english": "Explore, new ideas.",
+      "italian": "Esplora, nuove idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423435"
+    },
+    {
+      "english": "Connect, the dots.",
+      "italian": "Collega, i punti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423436"
+    },
+    {
+      "english": "Make it your own.",
+      "italian": "Rendilo tuo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423437"
+    },
+    {
+      "english": "Add your spark.",
+      "italian": "Aggiungi la tua scintilla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423438"
+    },
+    {
+      "english": "Imagine, then do.",
+      "italian": "Immagina, poi fai.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423439"
+    },
+    {
+      "english": "Let your mind wander.",
+      "italian": "Lascia vagare la mente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423440"
+    },
+    {
+      "english": "Try a different angle.",
+      "italian": "Prova un angolo diverso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423441"
+    },
+    {
+      "english": "Adapt, and improvise.",
+      "italian": "Adatta, e improvvisa.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423442"
+    },
+    {
+      "english": "Be a language chef.",
+      "italian": "Sii uno chef linguistico.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423443"
+    },
+    {
+      "english": "Mix old and new.",
+      "italian": "Mescola vecchio e nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423444"
+    },
+    {
+      "english": "Your vision, your words.",
+      "italian": "La tua visione, le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423445"
+    },
+    {
+      "english": "Brainstorm, without limits.",
+      "italian": "Fai brainstorming, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423446"
+    },
+    {
+      "english": "Reimagine, what's possible.",
+      "italian": "Reinventa, cosa è possibile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423447"
+    },
+    {
+      "english": "Build your own narrative.",
+      "italian": "Costruisci la tua narrazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423448"
+    },
+    {
+      "english": "Add a personal touch.",
+      "italian": "Aggiungi un tocco personale.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423449"
+    },
+    {
+      "english": "Think outside the box.",
+      "italian": "Pensa fuori dagli schemi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423450"
+    },
+    {
+      "english": "Innovate your speech.",
+      "italian": "Innova il tuo discorso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423451"
+    },
+    {
+      "english": "Make it your signature.",
+      "italian": "Rendilo la tua firma.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423452"
+    },
+    {
+      "english": "Embrace, experimentation.",
+      "italian": "Abbraccia, la sperimentazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423453"
+    },
+    {
+      "english": "Think fast, speak slower.",
+      "italian": "Pensa velocemente, parla più piano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423454"
+    },
+    {
+      "english": "Sketch your ideas, first.",
+      "italian": "Schizza le tue idee, prima.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423455"
+    },
+    {
+      "english": "Write down, what you hear.",
+      "italian": "Scrivi quello che senti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423456"
+    },
+    {
+      "english": "Imagine, the scene.",
+      "italian": "Immagina, la scena.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423457"
+    },
+    {
+      "english": "Draw a new path.",
+      "italian": "Disegna una nuova strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423458"
+    },
+    {
+      "english": "Build your own style.",
+      "italian": "Costruisci il tuo stile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423459"
+    },
+    {
+      "english": "Play with the words.",
+      "italian": "Gioca con le parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423460"
+    },
+    {
+      "english": "Mix and match, phrases.",
+      "italian": "Mescola e abbina, frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423461"
+    },
+    {
+      "english": "Combine your thoughts.",
+      "italian": "Combina i tuoi pensieri.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423462"
+    },
+    {
+      "english": "Invent new meanings.",
+      "italian": "Inventa nuovi significati.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423463"
+    },
+    {
+      "english": "Reimagine, old words.",
+      "italian": "Reinventa, parole vecchie.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423464"
+    },
+    {
+      "english": "Create, from scratch.",
+      "italian": "Crea, da zero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423466"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "italian": "Esprimiti, liberamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423467"
+    },
+    {
+      "english": "Show, don't just tell.",
+      "italian": "Mostra, non solo dire.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423468"
+    },
+    {
+      "english": "Paint with your words.",
+      "italian": "Dipingi con le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423469"
+    },
+    {
+      "english": "Sculpt, your sentences.",
+      "italian": "Scolpisci, le tue frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423470"
+    },
+    {
+      "english": "Listen, then create.",
+      "italian": "Ascolta, poi crea.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423471"
+    },
+    {
+      "english": "Be a word artist.",
+      "italian": "Sii un artista delle parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423472"
+    },
+    {
+      "english": "Explore, new ideas.",
+      "italian": "Esplora, nuove idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423473"
+    },
+    {
+      "english": "Connect, the dots.",
+      "italian": "Collega, i punti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423474"
+    },
+    {
+      "english": "Make it your own.",
+      "italian": "Rendilo tuo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423475"
+    },
+    {
+      "english": "Add your spark.",
+      "italian": "Aggiungi la tua scintilla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423476"
+    },
+    {
+      "english": "Imagine, then do.",
+      "italian": "Immagina, poi fai.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423477"
+    },
+    {
+      "english": "Let your mind wander.",
+      "italian": "Lascia vagare la mente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423478"
+    },
+    {
+      "english": "Try a different angle.",
+      "italian": "Prova un angolo diverso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423479"
+    },
+    {
+      "english": "Adapt, and improvise.",
+      "italian": "Adatta, e improvvisa.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423481"
+    },
+    {
+      "english": "Be a language chef.",
+      "italian": "Sii uno chef linguistico.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423482"
+    },
+    {
+      "english": "Mix old and new.",
+      "italian": "Mescola vecchio e nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423483"
+    },
+    {
+      "english": "Your vision, your words.",
+      "italian": "La tua visione, le tue parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423484"
+    },
+    {
+      "english": "Brainstorm, without limits.",
+      "italian": "Fai brainstorming, senza limiti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423485"
+    },
+    {
+      "english": "Reimagine, what's possible.",
+      "italian": "Reinventa, cosa è possibile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423486"
+    },
+    {
+      "english": "Build your own narrative.",
+      "italian": "Costruisci la tua narrazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423487"
+    },
+    {
+      "english": "Add a personal touch.",
+      "italian": "Aggiungi un tocco personale.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423488"
+    },
+    {
+      "english": "Think outside the box.",
+      "italian": "Pensa fuori dagli schemi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423489"
+    },
+    {
+      "english": "Innovate your speech.",
+      "italian": "Innova il tuo discorso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423490"
+    },
+    {
+      "english": "Make it your signature.",
+      "italian": "Rendilo la tua firma.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423491"
+    },
+    {
+      "english": "Embrace, experimentation.",
+      "italian": "Abbraccia, la sperimentazione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423492"
+    },
+    {
+      "english": "Think fast, speak slower.",
+      "italian": "Pensa velocemente, parla più piano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423494"
+    },
+    {
+      "english": "Sketch your ideas, first.",
+      "italian": "Schizza le tue idee, prima.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423495"
+    },
+    {
+      "english": "Write down, what you hear.",
+      "italian": "Scrivi quello che senti.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423496"
+    },
+    {
+      "english": "Imagine, the scene.",
+      "italian": "Immagina, la scena.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423497"
+    },
+    {
+      "english": "Draw a new path.",
+      "italian": "Disegna una nuova strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423498"
+    },
+    {
+      "english": "Build your own style.",
+      "italian": "Costruisci il tuo stile.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423499"
+    },
+    {
+      "english": "Play with the words.",
+      "italian": "Gioca con le parole.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423500"
+    },
+    {
+      "english": "Mix and match, phrases.",
+      "italian": "Mescola e abbina, frasi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423501"
+    },
+    {
+      "english": "Combine your thoughts.",
+      "italian": "Combina i tuoi pensieri.",
+      "category": "Creativity",
+      "generated_at": "2026-09-05T05:15:12.423502"
     }
   ],
-  "last_updated": "2026-09-04T05:28:17.759620"
+  "last_updated": "2026-09-05T05:15:12.423504"
 }
