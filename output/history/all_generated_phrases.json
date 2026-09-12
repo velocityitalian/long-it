@@ -38159,7 +38159,727 @@
       "italian": "Il mio amore è vero.",
       "category": "Love",
       "generated_at": "2026-09-11T05:36:58.414534"
+    },
+    {
+      "english": "Life is a beautiful, journey.",
+      "italian": "La vita è un bel, viaggio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850620"
+    },
+    {
+      "english": "Small joys, make big smiles.",
+      "italian": "Piccole gioie, fanno grandi sorrisi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850633"
+    },
+    {
+      "english": "Kindness costs, nothing.",
+      "italian": "La gentilezza non costa, nulla.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850635"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "italian": "Ogni giorno, un nuovo inizio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850636"
+    },
+    {
+      "english": "Nature's beauty, is everywhere.",
+      "italian": "La bellezza della natura, è ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850638"
+    },
+    {
+      "english": "Good food, good mood.",
+      "italian": "Buon cibo, buon umore.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850639"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "italian": "Condividi la tua luce, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850640"
+    },
+    {
+      "english": "A smile, is contagious.",
+      "italian": "Un sorriso, è contagioso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850644"
+    },
+    {
+      "english": "Explore new places, often.",
+      "italian": "Esplora posti nuovi, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850645"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "italian": "La gratitudine, apre porte.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850647"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "italian": "La risata è, la miglior medicina.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850648"
+    },
+    {
+      "english": "Help others, generously.",
+      "italian": "Aiuta gli altri, generosamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850649"
+    },
+    {
+      "english": "Dreams fuel, the future.",
+      "italian": "I sogni alimentano, il futuro.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850651"
+    },
+    {
+      "english": "Read a book, every week.",
+      "italian": "Leggi un libro, ogni settimana.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850652"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "italian": "Il perdono, porta pace.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850653"
+    },
+    {
+      "english": "A kind word, changes things.",
+      "italian": "Una parola gentile, cambia le cose.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850654"
+    },
+    {
+      "english": "Stay curious, always.",
+      "italian": "Rimani curioso, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850655"
+    },
+    {
+      "english": "Your passion, will lead you.",
+      "italian": "La tua passione, ti guiderà.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850656"
+    },
+    {
+      "english": "Inspire someone, today.",
+      "italian": "Ispira qualcuno, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850657"
+    },
+    {
+      "english": "Moments matter, deeply.",
+      "italian": "I momenti contano, profondamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850658"
+    },
+    {
+      "english": "Adventure awaits, you.",
+      "italian": "L'avventura ti aspetta,.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850659"
+    },
+    {
+      "english": "Connect with nature, often.",
+      "italian": "Connettiti con la natura, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850660"
+    },
+    {
+      "english": "Simple pleasures, are best.",
+      "italian": "I piaceri semplici, sono i migliori.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850661"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "italian": "Il tuo sorriso, illumina le stanze.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850662"
+    },
+    {
+      "english": "Create beautiful, memories.",
+      "italian": "Crea bellissimi, ricordi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850662"
+    },
+    {
+      "english": "Every step, counts.",
+      "italian": "Ogni passo, conta.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850663"
+    },
+    {
+      "english": "Hope is, powerful.",
+      "italian": "La speranza è, potente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850665"
+    },
+    {
+      "english": "Love freely, live fully.",
+      "italian": "Ama liberamente, vivi pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850666"
+    },
+    {
+      "english": "The world, is your oyster.",
+      "italian": "Il mondo, è la tua ostrica.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850667"
+    },
+    {
+      "english": "Life is a beautiful, journey.",
+      "italian": "La vita è un bel, viaggio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850668"
+    },
+    {
+      "english": "Small joys, make big smiles.",
+      "italian": "Piccole gioie, fanno grandi sorrisi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850669"
+    },
+    {
+      "english": "Kindness costs, nothing.",
+      "italian": "La gentilezza non costa, nulla.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850671"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "italian": "Ogni giorno, un nuovo inizio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850672"
+    },
+    {
+      "english": "Nature's beauty, is everywhere.",
+      "italian": "La bellezza della natura, è ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850673"
+    },
+    {
+      "english": "Good food, good mood.",
+      "italian": "Buon cibo, buon umore.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850673"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "italian": "Condividi la tua luce, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850674"
+    },
+    {
+      "english": "A smile, is contagious.",
+      "italian": "Un sorriso, è contagioso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850675"
+    },
+    {
+      "english": "Explore new places, often.",
+      "italian": "Esplora posti nuovi, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850677"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "italian": "La gratitudine, apre porte.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850677"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "italian": "La risata è, la miglior medicina.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850678"
+    },
+    {
+      "english": "Help others, generously.",
+      "italian": "Aiuta gli altri, generosamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850679"
+    },
+    {
+      "english": "Dreams fuel, the future.",
+      "italian": "I sogni alimentano, il futuro.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850680"
+    },
+    {
+      "english": "Read a book, every week.",
+      "italian": "Leggi un libro, ogni settimana.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850682"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "italian": "Il perdono, porta pace.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850683"
+    },
+    {
+      "english": "A kind word, changes things.",
+      "italian": "Una parola gentile, cambia le cose.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850684"
+    },
+    {
+      "english": "Stay curious, always.",
+      "italian": "Rimani curioso, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850685"
+    },
+    {
+      "english": "Your passion, will lead you.",
+      "italian": "La tua passione, ti guiderà.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850686"
+    },
+    {
+      "english": "Inspire someone, today.",
+      "italian": "Ispira qualcuno, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850687"
+    },
+    {
+      "english": "Moments matter, deeply.",
+      "italian": "I momenti contano, profondamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850688"
+    },
+    {
+      "english": "Adventure awaits, you.",
+      "italian": "L'avventura ti aspetta,.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850688"
+    },
+    {
+      "english": "Connect with nature, often.",
+      "italian": "Connettiti con la natura, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850689"
+    },
+    {
+      "english": "Simple pleasures, are best.",
+      "italian": "I piaceri semplici, sono i migliori.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850690"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "italian": "Il tuo sorriso, illumina le stanze.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850692"
+    },
+    {
+      "english": "Create beautiful, memories.",
+      "italian": "Crea bellissimi, ricordi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850693"
+    },
+    {
+      "english": "Every step, counts.",
+      "italian": "Ogni passo, conta.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850694"
+    },
+    {
+      "english": "Hope is, powerful.",
+      "italian": "La speranza è, potente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850695"
+    },
+    {
+      "english": "Love freely, live fully.",
+      "italian": "Ama liberamente, vivi pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850696"
+    },
+    {
+      "english": "The world, is your oyster.",
+      "italian": "Il mondo, è la tua ostrica.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850697"
+    },
+    {
+      "english": "Life is a beautiful, journey.",
+      "italian": "La vita è un bel, viaggio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850698"
+    },
+    {
+      "english": "Small joys, make big smiles.",
+      "italian": "Piccole gioie, fanno grandi sorrisi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850699"
+    },
+    {
+      "english": "Kindness costs, nothing.",
+      "italian": "La gentilezza non costa, nulla.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850700"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "italian": "Ogni giorno, un nuovo inizio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850701"
+    },
+    {
+      "english": "Nature's beauty, is everywhere.",
+      "italian": "La bellezza della natura, è ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850702"
+    },
+    {
+      "english": "Good food, good mood.",
+      "italian": "Buon cibo, buon umore.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850704"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "italian": "Condividi la tua luce, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850705"
+    },
+    {
+      "english": "A smile, is contagious.",
+      "italian": "Un sorriso, è contagioso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850706"
+    },
+    {
+      "english": "Explore new places, often.",
+      "italian": "Esplora posti nuovi, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850707"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "italian": "La gratitudine, apre porte.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850708"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "italian": "La risata è, la miglior medicina.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850709"
+    },
+    {
+      "english": "Help others, generously.",
+      "italian": "Aiuta gli altri, generosamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850710"
+    },
+    {
+      "english": "Dreams fuel, the future.",
+      "italian": "I sogni alimentano, il futuro.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850711"
+    },
+    {
+      "english": "Read a book, every week.",
+      "italian": "Leggi un libro, ogni settimana.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850712"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "italian": "Il perdono, porta pace.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850713"
+    },
+    {
+      "english": "A kind word, changes things.",
+      "italian": "Una parola gentile, cambia le cose.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850714"
+    },
+    {
+      "english": "Stay curious, always.",
+      "italian": "Rimani curioso, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850715"
+    },
+    {
+      "english": "Your passion, will lead you.",
+      "italian": "La tua passione, ti guiderà.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850716"
+    },
+    {
+      "english": "Inspire someone, today.",
+      "italian": "Ispira qualcuno, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850717"
+    },
+    {
+      "english": "Moments matter, deeply.",
+      "italian": "I momenti contano, profondamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850717"
+    },
+    {
+      "english": "Adventure awaits, you.",
+      "italian": "L'avventura ti aspetta,.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850718"
+    },
+    {
+      "english": "Connect with nature, often.",
+      "italian": "Connettiti con la natura, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850719"
+    },
+    {
+      "english": "Simple pleasures, are best.",
+      "italian": "I piaceri semplici, sono i migliori.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850720"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "italian": "Il tuo sorriso, illumina le stanze.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850721"
+    },
+    {
+      "english": "Create beautiful, memories.",
+      "italian": "Crea bellissimi, ricordi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850722"
+    },
+    {
+      "english": "Every step, counts.",
+      "italian": "Ogni passo, conta.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850723"
+    },
+    {
+      "english": "Hope is, powerful.",
+      "italian": "La speranza è, potente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850724"
+    },
+    {
+      "english": "Love freely, live fully.",
+      "italian": "Ama liberamente, vivi pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850725"
+    },
+    {
+      "english": "The world, is your oyster.",
+      "italian": "Il mondo, è la tua ostrica.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850726"
+    },
+    {
+      "english": "Life is a beautiful, journey.",
+      "italian": "La vita è un bel, viaggio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850727"
+    },
+    {
+      "english": "Small joys, make big smiles.",
+      "italian": "Piccole gioie, fanno grandi sorrisi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850728"
+    },
+    {
+      "english": "Kindness costs, nothing.",
+      "italian": "La gentilezza non costa, nulla.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850729"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "italian": "Ogni giorno, un nuovo inizio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850731"
+    },
+    {
+      "english": "Nature's beauty, is everywhere.",
+      "italian": "La bellezza della natura, è ovunque.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850732"
+    },
+    {
+      "english": "Good food, good mood.",
+      "italian": "Buon cibo, buon umore.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850733"
+    },
+    {
+      "english": "Share your light, brightly.",
+      "italian": "Condividi la tua luce, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850734"
+    },
+    {
+      "english": "A smile, is contagious.",
+      "italian": "Un sorriso, è contagioso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850735"
+    },
+    {
+      "english": "Explore new places, often.",
+      "italian": "Esplora posti nuovi, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850736"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "italian": "La gratitudine, apre porte.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850737"
+    },
+    {
+      "english": "Laughter is, the best medicine.",
+      "italian": "La risata è, la miglior medicina.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850738"
+    },
+    {
+      "english": "Help others, generously.",
+      "italian": "Aiuta gli altri, generosamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850739"
+    },
+    {
+      "english": "Dreams fuel, the future.",
+      "italian": "I sogni alimentano, il futuro.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850740"
+    },
+    {
+      "english": "Read a book, every week.",
+      "italian": "Leggi un libro, ogni settimana.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850741"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "italian": "Il perdono, porta pace.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850742"
+    },
+    {
+      "english": "A kind word, changes things.",
+      "italian": "Una parola gentile, cambia le cose.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850743"
+    },
+    {
+      "english": "Stay curious, always.",
+      "italian": "Rimani curioso, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850744"
+    },
+    {
+      "english": "Your passion, will lead you.",
+      "italian": "La tua passione, ti guiderà.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850745"
+    },
+    {
+      "english": "Inspire someone, today.",
+      "italian": "Ispira qualcuno, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850746"
+    },
+    {
+      "english": "Moments matter, deeply.",
+      "italian": "I momenti contano, profondamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850747"
+    },
+    {
+      "english": "Adventure awaits, you.",
+      "italian": "L'avventura ti aspetta,.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850748"
+    },
+    {
+      "english": "Connect with nature, often.",
+      "italian": "Connettiti con la natura, spesso.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850749"
+    },
+    {
+      "english": "Simple pleasures, are best.",
+      "italian": "I piaceri semplici, sono i migliori.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850750"
+    },
+    {
+      "english": "Your smile, brightens rooms.",
+      "italian": "Il tuo sorriso, illumina le stanze.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850751"
+    },
+    {
+      "english": "Create beautiful, memories.",
+      "italian": "Crea bellissimi, ricordi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850752"
+    },
+    {
+      "english": "Every step, counts.",
+      "italian": "Ogni passo, conta.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850753"
+    },
+    {
+      "english": "Hope is, powerful.",
+      "italian": "La speranza è, potente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850754"
+    },
+    {
+      "english": "Love freely, live fully.",
+      "italian": "Ama liberamente, vivi pienamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850755"
+    },
+    {
+      "english": "The world, is your oyster.",
+      "italian": "Il mondo, è la tua ostrica.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850756"
+    },
+    {
+      "english": "Life is a beautiful, journey.",
+      "italian": "La vita è un bel, viaggio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850757"
+    },
+    {
+      "english": "Small joys, make big smiles.",
+      "italian": "Piccole gioie, fanno grandi sorrisi.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850758"
+    },
+    {
+      "english": "Kindness costs, nothing.",
+      "italian": "La gentilezza non costa, nulla.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850759"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "italian": "Ogni giorno, un nuovo inizio.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-12T05:23:41.850760"
     }
   ],
-  "last_updated": "2026-09-11T05:36:58.414536"
+  "last_updated": "2026-09-12T05:23:41.850761"
 }
