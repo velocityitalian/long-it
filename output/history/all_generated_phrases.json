@@ -40319,7 +40319,727 @@
       "italian": "Vibrazioni positive, solo per favore.",
       "category": "Happiness",
       "generated_at": "2026-09-14T05:46:37.547861"
+    },
+    {
+      "english": "Sunshine on my face, pure bliss.",
+      "italian": "Sole sul mio viso, pura beatitudine.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584678"
+    },
+    {
+      "english": "A good book, and a comfy chair.",
+      "italian": "Un buon libro, e una sedia comoda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584688"
+    },
+    {
+      "english": "That silly joke, made me giggle.",
+      "italian": "Quella battuta sciocca, mi ha fatto ridacchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584690"
+    },
+    {
+      "english": "My dog's happy tail, wags for me.",
+      "italian": "La coda felice del mio cane, scodinzola per me.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584692"
+    },
+    {
+      "english": "Fresh bread, a simple delight.",
+      "italian": "Pane fresco, una semplice delizia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584693"
+    },
+    {
+      "english": "Hearing that song, makes me hum.",
+      "italian": "Sentire quella canzone, mi fa canticchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584694"
+    },
+    {
+      "english": "Coffee brewing, morning magic.",
+      "italian": "Caffè che bolle, magia mattutina.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584695"
+    },
+    {
+      "english": "Little victories, big smiles.",
+      "italian": "Piccole vittorie, grandi sorrisi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584699"
+    },
+    {
+      "english": "A cozy blanket, on a rainy day.",
+      "italian": "Una coperta calda, in un giorno di pioggia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584700"
+    },
+    {
+      "english": "The smell of rain, after a drought.",
+      "italian": "L'odore della pioggia, dopo la siccità.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584702"
+    },
+    {
+      "english": "Finding money, in old jeans.",
+      "italian": "Trovare soldi, nei vecchi jeans.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584703"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "italian": "Un abbraccio caldo, da un amico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584704"
+    },
+    {
+      "english": "Sunset colors, painting the sky.",
+      "italian": "Colori del tramonto, dipingono il cielo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584705"
+    },
+    {
+      "english": "That first sip, of hot chocolate.",
+      "italian": "Quel primo sorso, di cioccolata calda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584707"
+    },
+    {
+      "english": "Birds singing, in the morning.",
+      "italian": "Uccelli che cantano, al mattino.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584708"
+    },
+    {
+      "english": "A perfectly ripe fruit, sweet and juicy.",
+      "italian": "Un frutto perfettamente maturo, dolce e succoso.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584709"
+    },
+    {
+      "english": "The quiet of the library, peaceful.",
+      "italian": "Il silenzio della biblioteca, pacifico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584710"
+    },
+    {
+      "english": "Waking up, feeling refreshed.",
+      "italian": "Svegliarsi, sentendosi riposati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584711"
+    },
+    {
+      "english": "A funny meme, shared with friends.",
+      "italian": "Un meme divertente, condiviso con amici.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584712"
+    },
+    {
+      "english": "That feeling, of accomplishment.",
+      "italian": "Quella sensazione, di realizzazione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584713"
+    },
+    {
+      "english": "Stars twinkling, in a clear night.",
+      "italian": "Stelle scintillanti, in una notte serena.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584714"
+    },
+    {
+      "english": "A surprise visit, from someone special.",
+      "italian": "Una visita a sorpresa, da qualcuno di speciale.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584715"
+    },
+    {
+      "english": "Warm sand, between my toes.",
+      "italian": "Sabbia calda, tra le mie dita dei piedi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584716"
+    },
+    {
+      "english": "Laughing until tears, fall down.",
+      "italian": "Ridere fino a che le lacrime, scendono.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584717"
+    },
+    {
+      "english": "The first bloom, of spring flowers.",
+      "italian": "Il primo fiore, dei fiori primaverili.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584718"
+    },
+    {
+      "english": "A delicious homemade meal, made with love.",
+      "italian": "Un pasto delizioso fatto in casa, fatto con amore.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584720"
+    },
+    {
+      "english": "That feeling, of finally understanding.",
+      "italian": "Quella sensazione, di finalmente capire.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584720"
+    },
+    {
+      "english": "A gentle breeze, on a summer night.",
+      "italian": "Una brezza leggera, in una notte d'estate.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584721"
+    },
+    {
+      "english": "The smell of pine needles, in the forest.",
+      "italian": "L'odore degli aghi di pino, nella foresta.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584722"
+    },
+    {
+      "english": "Dancing to my own beat, freely.",
+      "italian": "Ballare al mio ritmo, liberamente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584723"
+    },
+    {
+      "english": "A warm fire, crackling cheerfully.",
+      "italian": "Un fuoco caldo, che scoppietta allegramente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584724"
+    },
+    {
+      "english": "That moment, of quiet reflection.",
+      "italian": "Quel momento, di quieta riflessione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584725"
+    },
+    {
+      "english": "A compliment, received with grace.",
+      "italian": "Un complimento, ricevuto con grazia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584726"
+    },
+    {
+      "english": "The taste of freedom, so sweet.",
+      "italian": "Il sapore della libertà, così dolce.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584728"
+    },
+    {
+      "english": "A good story, well told.",
+      "italian": "Una buona storia, ben raccontata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584729"
+    },
+    {
+      "english": "Watching clouds, float by.",
+      "italian": "Guardare le nuvole, che galleggiano.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584730"
+    },
+    {
+      "english": "The joy of learning, something new.",
+      "italian": "La gioia di imparare, qualcosa di nuovo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584731"
+    },
+    {
+      "english": "A warm bath, after a long day.",
+      "italian": "Un bagno caldo, dopo una lunga giornata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584732"
+    },
+    {
+      "english": "Singing in the shower, out of tune.",
+      "italian": "Cantare sotto la doccia, stonati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584733"
+    },
+    {
+      "english": "That moment, when everything clicks.",
+      "italian": "Quel momento, in cui tutto torna.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584734"
+    },
+    {
+      "english": "Sunshine on my face, pure bliss.",
+      "italian": "Sole sul mio viso, pura beatitudine.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584735"
+    },
+    {
+      "english": "A good book, and a comfy chair.",
+      "italian": "Un buon libro, e una sedia comoda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584736"
+    },
+    {
+      "english": "That silly joke, made me giggle.",
+      "italian": "Quella battuta sciocca, mi ha fatto ridacchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584737"
+    },
+    {
+      "english": "My dog's happy tail, wags for me.",
+      "italian": "La coda felice del mio cane, scodinzola per me.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584739"
+    },
+    {
+      "english": "Fresh bread, a simple delight.",
+      "italian": "Pane fresco, una semplice delizia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584740"
+    },
+    {
+      "english": "Hearing that song, makes me hum.",
+      "italian": "Sentire quella canzone, mi fa canticchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584741"
+    },
+    {
+      "english": "Coffee brewing, morning magic.",
+      "italian": "Caffè che bolle, magia mattutina.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584742"
+    },
+    {
+      "english": "Little victories, big smiles.",
+      "italian": "Piccole vittorie, grandi sorrisi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584743"
+    },
+    {
+      "english": "A cozy blanket, on a rainy day.",
+      "italian": "Una coperta calda, in un giorno di pioggia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584744"
+    },
+    {
+      "english": "The smell of rain, after a drought.",
+      "italian": "L'odore della pioggia, dopo la siccità.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584745"
+    },
+    {
+      "english": "Finding money, in old jeans.",
+      "italian": "Trovare soldi, nei vecchi jeans.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584746"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "italian": "Un abbraccio caldo, da un amico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584747"
+    },
+    {
+      "english": "Sunset colors, painting the sky.",
+      "italian": "Colori del tramonto, dipingono il cielo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584748"
+    },
+    {
+      "english": "That first sip, of hot chocolate.",
+      "italian": "Quel primo sorso, di cioccolata calda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584749"
+    },
+    {
+      "english": "Birds singing, in the morning.",
+      "italian": "Uccelli che cantano, al mattino.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584750"
+    },
+    {
+      "english": "A perfectly ripe fruit, sweet and juicy.",
+      "italian": "Un frutto perfettamente maturo, dolce e succoso.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584751"
+    },
+    {
+      "english": "The quiet of the library, peaceful.",
+      "italian": "Il silenzio della biblioteca, pacifico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584752"
+    },
+    {
+      "english": "Waking up, feeling refreshed.",
+      "italian": "Svegliarsi, sentendosi riposati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584753"
+    },
+    {
+      "english": "A funny meme, shared with friends.",
+      "italian": "Un meme divertente, condiviso con amici.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584754"
+    },
+    {
+      "english": "That feeling, of accomplishment.",
+      "italian": "Quella sensazione, di realizzazione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584755"
+    },
+    {
+      "english": "Stars twinkling, in a clear night.",
+      "italian": "Stelle scintillanti, in una notte serena.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584756"
+    },
+    {
+      "english": "A surprise visit, from someone special.",
+      "italian": "Una visita a sorpresa, da qualcuno di speciale.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584757"
+    },
+    {
+      "english": "Warm sand, between my toes.",
+      "italian": "Sabbia calda, tra le mie dita dei piedi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584758"
+    },
+    {
+      "english": "Laughing until tears, fall down.",
+      "italian": "Ridere fino a che le lacrime, scendono.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584759"
+    },
+    {
+      "english": "The first bloom, of spring flowers.",
+      "italian": "Il primo fiore, dei fiori primaverili.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584760"
+    },
+    {
+      "english": "A delicious homemade meal, made with love.",
+      "italian": "Un pasto delizioso fatto in casa, fatto con amore.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584761"
+    },
+    {
+      "english": "That feeling, of finally understanding.",
+      "italian": "Quella sensazione, di finalmente capire.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584762"
+    },
+    {
+      "english": "A gentle breeze, on a summer night.",
+      "italian": "Una brezza leggera, in una notte d'estate.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584763"
+    },
+    {
+      "english": "The smell of pine needles, in the forest.",
+      "italian": "L'odore degli aghi di pino, nella foresta.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584764"
+    },
+    {
+      "english": "Dancing to my own beat, freely.",
+      "italian": "Ballare al mio ritmo, liberamente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584765"
+    },
+    {
+      "english": "A warm fire, crackling cheerfully.",
+      "italian": "Un fuoco caldo, che scoppietta allegramente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584766"
+    },
+    {
+      "english": "That moment, of quiet reflection.",
+      "italian": "Quel momento, di quieta riflessione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584767"
+    },
+    {
+      "english": "A compliment, received with grace.",
+      "italian": "Un complimento, ricevuto con grazia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584768"
+    },
+    {
+      "english": "The taste of freedom, so sweet.",
+      "italian": "Il sapore della libertà, così dolce.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584769"
+    },
+    {
+      "english": "A good story, well told.",
+      "italian": "Una buona storia, ben raccontata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584770"
+    },
+    {
+      "english": "Watching clouds, float by.",
+      "italian": "Guardare le nuvole, che galleggiano.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584771"
+    },
+    {
+      "english": "The joy of learning, something new.",
+      "italian": "La gioia di imparare, qualcosa di nuovo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584772"
+    },
+    {
+      "english": "A warm bath, after a long day.",
+      "italian": "Un bagno caldo, dopo una lunga giornata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584773"
+    },
+    {
+      "english": "Singing in the shower, out of tune.",
+      "italian": "Cantare sotto la doccia, stonati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584774"
+    },
+    {
+      "english": "That moment, when everything clicks.",
+      "italian": "Quel momento, in cui tutto torna.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584775"
+    },
+    {
+      "english": "Sunshine on my face, pure bliss.",
+      "italian": "Sole sul mio viso, pura beatitudine.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584776"
+    },
+    {
+      "english": "A good book, and a comfy chair.",
+      "italian": "Un buon libro, e una sedia comoda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584777"
+    },
+    {
+      "english": "That silly joke, made me giggle.",
+      "italian": "Quella battuta sciocca, mi ha fatto ridacchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584779"
+    },
+    {
+      "english": "My dog's happy tail, wags for me.",
+      "italian": "La coda felice del mio cane, scodinzola per me.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584780"
+    },
+    {
+      "english": "Fresh bread, a simple delight.",
+      "italian": "Pane fresco, una semplice delizia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584781"
+    },
+    {
+      "english": "Hearing that song, makes me hum.",
+      "italian": "Sentire quella canzone, mi fa canticchiare.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584782"
+    },
+    {
+      "english": "Coffee brewing, morning magic.",
+      "italian": "Caffè che bolle, magia mattutina.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584783"
+    },
+    {
+      "english": "Little victories, big smiles.",
+      "italian": "Piccole vittorie, grandi sorrisi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584784"
+    },
+    {
+      "english": "A cozy blanket, on a rainy day.",
+      "italian": "Una coperta calda, in un giorno di pioggia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584785"
+    },
+    {
+      "english": "The smell of rain, after a drought.",
+      "italian": "L'odore della pioggia, dopo la siccità.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584786"
+    },
+    {
+      "english": "Finding money, in old jeans.",
+      "italian": "Trovare soldi, nei vecchi jeans.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584787"
+    },
+    {
+      "english": "A warm hug, from a friend.",
+      "italian": "Un abbraccio caldo, da un amico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584788"
+    },
+    {
+      "english": "Sunset colors, painting the sky.",
+      "italian": "Colori del tramonto, dipingono il cielo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584789"
+    },
+    {
+      "english": "That first sip, of hot chocolate.",
+      "italian": "Quel primo sorso, di cioccolata calda.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584790"
+    },
+    {
+      "english": "Birds singing, in the morning.",
+      "italian": "Uccelli che cantano, al mattino.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584791"
+    },
+    {
+      "english": "A perfectly ripe fruit, sweet and juicy.",
+      "italian": "Un frutto perfettamente maturo, dolce e succoso.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584792"
+    },
+    {
+      "english": "The quiet of the library, peaceful.",
+      "italian": "Il silenzio della biblioteca, pacifico.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584793"
+    },
+    {
+      "english": "Waking up, feeling refreshed.",
+      "italian": "Svegliarsi, sentendosi riposati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584794"
+    },
+    {
+      "english": "A funny meme, shared with friends.",
+      "italian": "Un meme divertente, condiviso con amici.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584795"
+    },
+    {
+      "english": "That feeling, of accomplishment.",
+      "italian": "Quella sensazione, di realizzazione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584796"
+    },
+    {
+      "english": "Stars twinkling, in a clear night.",
+      "italian": "Stelle scintillanti, in una notte serena.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584797"
+    },
+    {
+      "english": "A surprise visit, from someone special.",
+      "italian": "Una visita a sorpresa, da qualcuno di speciale.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584798"
+    },
+    {
+      "english": "Warm sand, between my toes.",
+      "italian": "Sabbia calda, tra le mie dita dei piedi.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584799"
+    },
+    {
+      "english": "Laughing until tears, fall down.",
+      "italian": "Ridere fino a che le lacrime, scendono.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584800"
+    },
+    {
+      "english": "The first bloom, of spring flowers.",
+      "italian": "Il primo fiore, dei fiori primaverili.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584801"
+    },
+    {
+      "english": "A delicious homemade meal, made with love.",
+      "italian": "Un pasto delizioso fatto in casa, fatto con amore.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584802"
+    },
+    {
+      "english": "That feeling, of finally understanding.",
+      "italian": "Quella sensazione, di finalmente capire.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584803"
+    },
+    {
+      "english": "A gentle breeze, on a summer night.",
+      "italian": "Una brezza leggera, in una notte d'estate.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584804"
+    },
+    {
+      "english": "The smell of pine needles, in the forest.",
+      "italian": "L'odore degli aghi di pino, nella foresta.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584805"
+    },
+    {
+      "english": "Dancing to my own beat, freely.",
+      "italian": "Ballare al mio ritmo, liberamente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584806"
+    },
+    {
+      "english": "A warm fire, crackling cheerfully.",
+      "italian": "Un fuoco caldo, che scoppietta allegramente.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584807"
+    },
+    {
+      "english": "That moment, of quiet reflection.",
+      "italian": "Quel momento, di quieta riflessione.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584808"
+    },
+    {
+      "english": "A compliment, received with grace.",
+      "italian": "Un complimento, ricevuto con grazia.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584809"
+    },
+    {
+      "english": "The taste of freedom, so sweet.",
+      "italian": "Il sapore della libertà, così dolce.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584810"
+    },
+    {
+      "english": "A good story, well told.",
+      "italian": "Una buona storia, ben raccontata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584811"
+    },
+    {
+      "english": "Watching clouds, float by.",
+      "italian": "Guardare le nuvole, che galleggiano.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584812"
+    },
+    {
+      "english": "The joy of learning, something new.",
+      "italian": "La gioia di imparare, qualcosa di nuovo.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584813"
+    },
+    {
+      "english": "A warm bath, after a long day.",
+      "italian": "Un bagno caldo, dopo una lunga giornata.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584814"
+    },
+    {
+      "english": "Singing in the shower, out of tune.",
+      "italian": "Cantare sotto la doccia, stonati.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584815"
+    },
+    {
+      "english": "That moment, when everything clicks.",
+      "italian": "Quel momento, in cui tutto torna.",
+      "category": "Joy",
+      "generated_at": "2026-09-15T05:47:28.584816"
     }
   ],
-  "last_updated": "2026-09-14T05:46:37.547863"
+  "last_updated": "2026-09-15T05:47:28.584818"
 }
