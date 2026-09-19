@@ -43199,7 +43199,727 @@
       "italian": "Un passo fermo, fa progredire.",
       "category": "Balance",
       "generated_at": "2026-09-18T05:32:37.987707"
+    },
+    {
+      "english": "Be happy, stay kind.",
+      "italian": "Sii felice, resta gentile.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313677"
+    },
+    {
+      "english": "Joy is simple, often found.",
+      "italian": "La gioia è semplice, spesso trovata.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313688"
+    },
+    {
+      "english": "Love your life, today.",
+      "italian": "Ama la tua vita, oggi.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313689"
+    },
+    {
+      "english": "Find small joys, every day.",
+      "italian": "Trova piccole gioie, ogni giorno.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313691"
+    },
+    {
+      "english": "Choose joy, every morning.",
+      "italian": "Scegli la gioia, ogni mattina.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313692"
+    },
+    {
+      "english": "A happy heart, sings sweetly.",
+      "italian": "Un cuore felice, canta dolcemente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313693"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "italian": "Goditi i piccoli momenti.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313694"
+    },
+    {
+      "english": "Your attitude, matters greatly.",
+      "italian": "Il tuo atteggiamento, conta molto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313698"
+    },
+    {
+      "english": "Seek out the good.",
+      "italian": "Cerca il bene.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313699"
+    },
+    {
+      "english": "Be content, with what you have.",
+      "italian": "Sii contento, di ciò che hai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313700"
+    },
+    {
+      "english": "Cherish every moment.",
+      "italian": "Apprezza ogni momento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313701"
+    },
+    {
+      "english": "Gratitude unlocks, happiness.",
+      "italian": "La gratitudine sblocca, la felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313703"
+    },
+    {
+      "english": "Spread joy, to others.",
+      "italian": "Diffondi gioia, agli altri.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313704"
+    },
+    {
+      "english": "Be positive, stay strong.",
+      "italian": "Sii positivo, resta forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313705"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "italian": "Pace interiore, porta felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313706"
+    },
+    {
+      "english": "Be happy, with simple things.",
+      "italian": "Sii felice, con le cose semplici.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313707"
+    },
+    {
+      "english": "Let your light, shine brightly.",
+      "italian": "Lascia che la tua luce, brilli forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313708"
+    },
+    {
+      "english": "Embrace life's blessings.",
+      "italian": "Abbraccia le benedizioni della vita.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313709"
+    },
+    {
+      "english": "Live with passion, be happy.",
+      "italian": "Vivi con passione, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313710"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "italian": "Un cuore grato, è un cuore felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313711"
+    },
+    {
+      "english": "Choose love, over hate.",
+      "italian": "Scegli l'amore, sull'odio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313712"
+    },
+    {
+      "english": "Good thoughts, lead to happiness.",
+      "italian": "Buoni pensieri, portano felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313713"
+    },
+    {
+      "english": "Life's too short, be happy.",
+      "italian": "La vita è troppo breve, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313714"
+    },
+    {
+      "english": "Be happy, stay kind.",
+      "italian": "Sii felice, resta gentile.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313715"
+    },
+    {
+      "english": "Joy is simple, often found.",
+      "italian": "La gioia è semplice, spesso trovata.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313716"
+    },
+    {
+      "english": "Love your life, today.",
+      "italian": "Ama la tua vita, oggi.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313718"
+    },
+    {
+      "english": "Find small joys, every day.",
+      "italian": "Trova piccole gioie, ogni giorno.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313719"
+    },
+    {
+      "english": "Choose joy, every morning.",
+      "italian": "Scegli la gioia, ogni mattina.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313720"
+    },
+    {
+      "english": "A happy heart, sings sweetly.",
+      "italian": "Un cuore felice, canta dolcemente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313721"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "italian": "Goditi i piccoli momenti.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313722"
+    },
+    {
+      "english": "Your attitude, matters greatly.",
+      "italian": "Il tuo atteggiamento, conta molto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313723"
+    },
+    {
+      "english": "Seek out the good.",
+      "italian": "Cerca il bene.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313724"
+    },
+    {
+      "english": "Be content, with what you have.",
+      "italian": "Sii contento, di ciò che hai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313725"
+    },
+    {
+      "english": "Cherish every moment.",
+      "italian": "Apprezza ogni momento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313726"
+    },
+    {
+      "english": "Gratitude unlocks, happiness.",
+      "italian": "La gratitudine sblocca, la felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313727"
+    },
+    {
+      "english": "Spread joy, to others.",
+      "italian": "Diffondi gioia, agli altri.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313728"
+    },
+    {
+      "english": "Be positive, stay strong.",
+      "italian": "Sii positivo, resta forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313729"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "italian": "Pace interiore, porta felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313730"
+    },
+    {
+      "english": "Be happy, with simple things.",
+      "italian": "Sii felice, con le cose semplici.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313731"
+    },
+    {
+      "english": "Let your light, shine brightly.",
+      "italian": "Lascia che la tua luce, brilli forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313732"
+    },
+    {
+      "english": "Embrace life's blessings.",
+      "italian": "Abbraccia le benedizioni della vita.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313733"
+    },
+    {
+      "english": "Live with passion, be happy.",
+      "italian": "Vivi con passione, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313734"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "italian": "Un cuore grato, è un cuore felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313735"
+    },
+    {
+      "english": "Choose love, over hate.",
+      "italian": "Scegli l'amore, sull'odio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313736"
+    },
+    {
+      "english": "Good thoughts, lead to happiness.",
+      "italian": "Buoni pensieri, portano felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313737"
+    },
+    {
+      "english": "Life's too short, be happy.",
+      "italian": "La vita è troppo breve, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313738"
+    },
+    {
+      "english": "Be happy, stay kind.",
+      "italian": "Sii felice, resta gentile.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313739"
+    },
+    {
+      "english": "Joy is simple, often found.",
+      "italian": "La gioia è semplice, spesso trovata.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313741"
+    },
+    {
+      "english": "Love your life, today.",
+      "italian": "Ama la tua vita, oggi.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313742"
+    },
+    {
+      "english": "Find small joys, every day.",
+      "italian": "Trova piccole gioie, ogni giorno.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313743"
+    },
+    {
+      "english": "Choose joy, every morning.",
+      "italian": "Scegli la gioia, ogni mattina.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313744"
+    },
+    {
+      "english": "A happy heart, sings sweetly.",
+      "italian": "Un cuore felice, canta dolcemente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313745"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "italian": "Goditi i piccoli momenti.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313746"
+    },
+    {
+      "english": "Your attitude, matters greatly.",
+      "italian": "Il tuo atteggiamento, conta molto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313747"
+    },
+    {
+      "english": "Seek out the good.",
+      "italian": "Cerca il bene.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313748"
+    },
+    {
+      "english": "Be content, with what you have.",
+      "italian": "Sii contento, di ciò che hai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313749"
+    },
+    {
+      "english": "Cherish every moment.",
+      "italian": "Apprezza ogni momento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313750"
+    },
+    {
+      "english": "Gratitude unlocks, happiness.",
+      "italian": "La gratitudine sblocca, la felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313751"
+    },
+    {
+      "english": "Spread joy, to others.",
+      "italian": "Diffondi gioia, agli altri.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313752"
+    },
+    {
+      "english": "Be positive, stay strong.",
+      "italian": "Sii positivo, resta forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313753"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "italian": "Pace interiore, porta felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313754"
+    },
+    {
+      "english": "Be happy, with simple things.",
+      "italian": "Sii felice, con le cose semplici.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313755"
+    },
+    {
+      "english": "Let your light, shine brightly.",
+      "italian": "Lascia che la tua luce, brilli forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313756"
+    },
+    {
+      "english": "Embrace life's blessings.",
+      "italian": "Abbraccia le benedizioni della vita.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313757"
+    },
+    {
+      "english": "Live with passion, be happy.",
+      "italian": "Vivi con passione, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313758"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "italian": "Un cuore grato, è un cuore felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313759"
+    },
+    {
+      "english": "Choose love, over hate.",
+      "italian": "Scegli l'amore, sull'odio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313760"
+    },
+    {
+      "english": "Good thoughts, lead to happiness.",
+      "italian": "Buoni pensieri, portano felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313761"
+    },
+    {
+      "english": "Life's too short, be happy.",
+      "italian": "La vita è troppo breve, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313762"
+    },
+    {
+      "english": "Be happy, stay kind.",
+      "italian": "Sii felice, resta gentile.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313764"
+    },
+    {
+      "english": "Joy is simple, often found.",
+      "italian": "La gioia è semplice, spesso trovata.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313765"
+    },
+    {
+      "english": "Love your life, today.",
+      "italian": "Ama la tua vita, oggi.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313766"
+    },
+    {
+      "english": "Find small joys, every day.",
+      "italian": "Trova piccole gioie, ogni giorno.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313767"
+    },
+    {
+      "english": "Choose joy, every morning.",
+      "italian": "Scegli la gioia, ogni mattina.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313768"
+    },
+    {
+      "english": "A happy heart, sings sweetly.",
+      "italian": "Un cuore felice, canta dolcemente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313769"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "italian": "Goditi i piccoli momenti.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313770"
+    },
+    {
+      "english": "Your attitude, matters greatly.",
+      "italian": "Il tuo atteggiamento, conta molto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313771"
+    },
+    {
+      "english": "Seek out the good.",
+      "italian": "Cerca il bene.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313772"
+    },
+    {
+      "english": "Be content, with what you have.",
+      "italian": "Sii contento, di ciò che hai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313773"
+    },
+    {
+      "english": "Cherish every moment.",
+      "italian": "Apprezza ogni momento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313774"
+    },
+    {
+      "english": "Gratitude unlocks, happiness.",
+      "italian": "La gratitudine sblocca, la felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313775"
+    },
+    {
+      "english": "Spread joy, to others.",
+      "italian": "Diffondi gioia, agli altri.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313776"
+    },
+    {
+      "english": "Be positive, stay strong.",
+      "italian": "Sii positivo, resta forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313778"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "italian": "Pace interiore, porta felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313779"
+    },
+    {
+      "english": "Be happy, with simple things.",
+      "italian": "Sii felice, con le cose semplici.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313780"
+    },
+    {
+      "english": "Let your light, shine brightly.",
+      "italian": "Lascia che la tua luce, brilli forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313781"
+    },
+    {
+      "english": "Embrace life's blessings.",
+      "italian": "Abbraccia le benedizioni della vita.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313782"
+    },
+    {
+      "english": "Live with passion, be happy.",
+      "italian": "Vivi con passione, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313783"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "italian": "Un cuore grato, è un cuore felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313784"
+    },
+    {
+      "english": "Choose love, over hate.",
+      "italian": "Scegli l'amore, sull'odio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313784"
+    },
+    {
+      "english": "Good thoughts, lead to happiness.",
+      "italian": "Buoni pensieri, portano felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313785"
+    },
+    {
+      "english": "Life's too short, be happy.",
+      "italian": "La vita è troppo breve, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313787"
+    },
+    {
+      "english": "Be happy, stay kind.",
+      "italian": "Sii felice, resta gentile.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313788"
+    },
+    {
+      "english": "Joy is simple, often found.",
+      "italian": "La gioia è semplice, spesso trovata.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313789"
+    },
+    {
+      "english": "Love your life, today.",
+      "italian": "Ama la tua vita, oggi.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313790"
+    },
+    {
+      "english": "Find small joys, every day.",
+      "italian": "Trova piccole gioie, ogni giorno.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313791"
+    },
+    {
+      "english": "Choose joy, every morning.",
+      "italian": "Scegli la gioia, ogni mattina.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313792"
+    },
+    {
+      "english": "A happy heart, sings sweetly.",
+      "italian": "Un cuore felice, canta dolcemente.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313793"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "italian": "Goditi i piccoli momenti.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313794"
+    },
+    {
+      "english": "Your attitude, matters greatly.",
+      "italian": "Il tuo atteggiamento, conta molto.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313795"
+    },
+    {
+      "english": "Seek out the good.",
+      "italian": "Cerca il bene.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313796"
+    },
+    {
+      "english": "Be content, with what you have.",
+      "italian": "Sii contento, di ciò che hai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313797"
+    },
+    {
+      "english": "Cherish every moment.",
+      "italian": "Apprezza ogni momento.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313797"
+    },
+    {
+      "english": "Gratitude unlocks, happiness.",
+      "italian": "La gratitudine sblocca, la felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313798"
+    },
+    {
+      "english": "Spread joy, to others.",
+      "italian": "Diffondi gioia, agli altri.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313799"
+    },
+    {
+      "english": "Be positive, stay strong.",
+      "italian": "Sii positivo, resta forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313800"
+    },
+    {
+      "english": "Inner peace, brings happiness.",
+      "italian": "Pace interiore, porta felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313801"
+    },
+    {
+      "english": "Be happy, with simple things.",
+      "italian": "Sii felice, con le cose semplici.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313802"
+    },
+    {
+      "english": "Let your light, shine brightly.",
+      "italian": "Lascia che la tua luce, brilli forte.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313803"
+    },
+    {
+      "english": "Embrace life's blessings.",
+      "italian": "Abbraccia le benedizioni della vita.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313804"
+    },
+    {
+      "english": "Live with passion, be happy.",
+      "italian": "Vivi con passione, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313805"
+    },
+    {
+      "english": "A grateful heart, is a happy heart.",
+      "italian": "Un cuore grato, è un cuore felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313806"
+    },
+    {
+      "english": "Choose love, over hate.",
+      "italian": "Scegli l'amore, sull'odio.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313807"
+    },
+    {
+      "english": "Good thoughts, lead to happiness.",
+      "italian": "Buoni pensieri, portano felicità.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313808"
+    },
+    {
+      "english": "Life's too short, be happy.",
+      "italian": "La vita è troppo breve, sii felice.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313809"
+    },
+    {
+      "english": "Joy, is a choice, you make.",
+      "italian": "La gioia, è una scelta, che fai.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313810"
+    },
+    {
+      "english": "Happiness, finds you, when you're busy.",
+      "italian": "La felicità, ti trova, quando sei occupato.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313811"
+    },
+    {
+      "english": "Good vibes, only, okay?",
+      "italian": "Buone vibrazioni, solo, va bene?",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313812"
+    },
+    {
+      "english": "Be happy, with little things.",
+      "italian": "Sii felice, con le piccole cose.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313813"
+    },
+    {
+      "english": "Your smile, lights up the room.",
+      "italian": "Il tuo sorriso, illumina la stanza.",
+      "category": "Happiness",
+      "generated_at": "2026-09-19T05:29:19.313814"
     }
   ],
-  "last_updated": "2026-09-18T05:32:37.987708"
+  "last_updated": "2026-09-19T05:29:19.313816"
 }
