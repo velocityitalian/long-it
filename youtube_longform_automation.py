@@ -78,7 +78,7 @@ CATEGORIES_ITALIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 ITALIAN_VOICE = "it-IT-ElsaNeural"
 
 # Phrase history file (NEVER delete this!)
