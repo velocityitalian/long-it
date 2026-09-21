@@ -44639,7 +44639,727 @@
       "italian": "Sii coraggioso, oggi.",
       "category": "Courage",
       "generated_at": "2026-09-20T05:42:06.762951"
+    },
+    {
+      "english": "Spark an idea, let it grow.",
+      "italian": "Accendi un'idea, falla crescere.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017471"
+    },
+    {
+      "english": "Paint your own, masterpiece.",
+      "italian": "Dipingi il tuo, capolavoro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017485"
+    },
+    {
+      "english": "Imagine it, then make it.",
+      "italian": "Immaginalo, poi fallo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017486"
+    },
+    {
+      "english": "Your thoughts, become things.",
+      "italian": "I tuoi pensieri, diventano cose.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017488"
+    },
+    {
+      "english": "Create something, from nothing.",
+      "italian": "Crea qualcosa, dal nulla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017490"
+    },
+    {
+      "english": "Let your ideas, take flight.",
+      "italian": "Lascia che le tue idee, prendano il volo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017491"
+    },
+    {
+      "english": "Invent your own, path forward.",
+      "italian": "Inventa la tua, strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017492"
+    },
+    {
+      "english": "Design your world, creatively.",
+      "italian": "Progetta il tuo mondo, con creatività.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017497"
+    },
+    {
+      "english": "Innovate, don't imitate.",
+      "italian": "Innova, non imitare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017498"
+    },
+    {
+      "english": "Make your mark, with passion.",
+      "italian": "Lascia il tuo segno, con passione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017500"
+    },
+    {
+      "english": "Try a new way, always.",
+      "italian": "Prova un modo nuovo, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017501"
+    },
+    {
+      "english": "What if, you could create?",
+      "italian": "E se, potessi creare?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017502"
+    },
+    {
+      "english": "Unleash your inner, artist.",
+      "italian": "Scatena il tuo, artista interiore.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017504"
+    },
+    {
+      "english": "Breathe life, into ideas.",
+      "italian": "Dai vita, alle idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017505"
+    },
+    {
+      "english": "See the world, differently.",
+      "italian": "Vedi il mondo, diversamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017506"
+    },
+    {
+      "english": "Compose your own, symphony.",
+      "italian": "Componi la tua, sinfonia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017507"
+    },
+    {
+      "english": "Experiment with, possibilities.",
+      "italian": "Sperimenta con, le possibilità.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017508"
+    },
+    {
+      "english": "A unique vision, always.",
+      "italian": "Una visione unica, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017509"
+    },
+    {
+      "english": "Craft a new story, today.",
+      "italian": "Crea una nuova storia, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017510"
+    },
+    {
+      "english": "Cultivate new thoughts, often.",
+      "italian": "Coltiva pensieri nuovi, spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017511"
+    },
+    {
+      "english": "Build beyond, the expected.",
+      "italian": "Costruisci oltre, l'aspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017512"
+    },
+    {
+      "english": "What if, it's possible?",
+      "italian": "E se, fosse possibile?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017513"
+    },
+    {
+      "english": "Generate fresh ideas, daily.",
+      "italian": "Genera idee fresche, ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017514"
+    },
+    {
+      "english": "Explore the edges, of thought.",
+      "italian": "Esplora i confini, del pensiero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017515"
+    },
+    {
+      "english": "Dare to make, something new.",
+      "italian": "Osa creare, qualcosa di nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017516"
+    },
+    {
+      "english": "A spark, ignites a fire.",
+      "italian": "Una scintilla, accende un fuoco.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017517"
+    },
+    {
+      "english": "Think unconventionally, always.",
+      "italian": "Pensa in modo non convenzionale, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017518"
+    },
+    {
+      "english": "Manifest your dreams, now.",
+      "italian": "Manifesta i tuoi sogni, ora.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017519"
+    },
+    {
+      "english": "Invent solutions, brilliantly.",
+      "italian": "Inventa soluzioni, brillantemente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017520"
+    },
+    {
+      "english": "Your unique ideas, matter.",
+      "italian": "Le tue idee uniche, contano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017521"
+    },
+    {
+      "english": "Dream bigger, start creating.",
+      "italian": "Sogna più in grande, inizia a creare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017522"
+    },
+    {
+      "english": "Innovate your journey, today.",
+      "italian": "Innova il tuo viaggio, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017523"
+    },
+    {
+      "english": "Spark an idea, let it grow.",
+      "italian": "Accendi un'idea, falla crescere.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017524"
+    },
+    {
+      "english": "Paint your own, masterpiece.",
+      "italian": "Dipingi il tuo, capolavoro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017526"
+    },
+    {
+      "english": "Imagine it, then make it.",
+      "italian": "Immaginalo, poi fallo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017527"
+    },
+    {
+      "english": "Your thoughts, become things.",
+      "italian": "I tuoi pensieri, diventano cose.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017528"
+    },
+    {
+      "english": "Create something, from nothing.",
+      "italian": "Crea qualcosa, dal nulla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017530"
+    },
+    {
+      "english": "Let your ideas, take flight.",
+      "italian": "Lascia che le tue idee, prendano il volo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017531"
+    },
+    {
+      "english": "Invent your own, path forward.",
+      "italian": "Inventa la tua, strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017532"
+    },
+    {
+      "english": "Design your world, creatively.",
+      "italian": "Progetta il tuo mondo, con creatività.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017533"
+    },
+    {
+      "english": "Innovate, don't imitate.",
+      "italian": "Innova, non imitare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017534"
+    },
+    {
+      "english": "Make your mark, with passion.",
+      "italian": "Lascia il tuo segno, con passione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017535"
+    },
+    {
+      "english": "Try a new way, always.",
+      "italian": "Prova un modo nuovo, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017537"
+    },
+    {
+      "english": "What if, you could create?",
+      "italian": "E se, potessi creare?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017538"
+    },
+    {
+      "english": "Unleash your inner, artist.",
+      "italian": "Scatena il tuo, artista interiore.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017539"
+    },
+    {
+      "english": "Breathe life, into ideas.",
+      "italian": "Dai vita, alle idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017540"
+    },
+    {
+      "english": "See the world, differently.",
+      "italian": "Vedi il mondo, diversamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017541"
+    },
+    {
+      "english": "Compose your own, symphony.",
+      "italian": "Componi la tua, sinfonia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017542"
+    },
+    {
+      "english": "Experiment with, possibilities.",
+      "italian": "Sperimenta con, le possibilità.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017543"
+    },
+    {
+      "english": "A unique vision, always.",
+      "italian": "Una visione unica, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017544"
+    },
+    {
+      "english": "Craft a new story, today.",
+      "italian": "Crea una nuova storia, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017545"
+    },
+    {
+      "english": "Cultivate new thoughts, often.",
+      "italian": "Coltiva pensieri nuovi, spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017546"
+    },
+    {
+      "english": "Build beyond, the expected.",
+      "italian": "Costruisci oltre, l'aspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017548"
+    },
+    {
+      "english": "What if, it's possible?",
+      "italian": "E se, fosse possibile?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017549"
+    },
+    {
+      "english": "Generate fresh ideas, daily.",
+      "italian": "Genera idee fresche, ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017549"
+    },
+    {
+      "english": "Explore the edges, of thought.",
+      "italian": "Esplora i confini, del pensiero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017550"
+    },
+    {
+      "english": "Dare to make, something new.",
+      "italian": "Osa creare, qualcosa di nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017552"
+    },
+    {
+      "english": "A spark, ignites a fire.",
+      "italian": "Una scintilla, accende un fuoco.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017553"
+    },
+    {
+      "english": "Think unconventionally, always.",
+      "italian": "Pensa in modo non convenzionale, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017554"
+    },
+    {
+      "english": "Manifest your dreams, now.",
+      "italian": "Manifesta i tuoi sogni, ora.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017555"
+    },
+    {
+      "english": "Invent solutions, brilliantly.",
+      "italian": "Inventa soluzioni, brillantemente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017556"
+    },
+    {
+      "english": "Your unique ideas, matter.",
+      "italian": "Le tue idee uniche, contano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017557"
+    },
+    {
+      "english": "Dream bigger, start creating.",
+      "italian": "Sogna più in grande, inizia a creare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017558"
+    },
+    {
+      "english": "Innovate your journey, today.",
+      "italian": "Innova il tuo viaggio, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017559"
+    },
+    {
+      "english": "Spark an idea, let it grow.",
+      "italian": "Accendi un'idea, falla crescere.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017560"
+    },
+    {
+      "english": "Paint your own, masterpiece.",
+      "italian": "Dipingi il tuo, capolavoro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017562"
+    },
+    {
+      "english": "Imagine it, then make it.",
+      "italian": "Immaginalo, poi fallo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017563"
+    },
+    {
+      "english": "Your thoughts, become things.",
+      "italian": "I tuoi pensieri, diventano cose.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017564"
+    },
+    {
+      "english": "Create something, from nothing.",
+      "italian": "Crea qualcosa, dal nulla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017565"
+    },
+    {
+      "english": "Let your ideas, take flight.",
+      "italian": "Lascia che le tue idee, prendano il volo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017566"
+    },
+    {
+      "english": "Invent your own, path forward.",
+      "italian": "Inventa la tua, strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017567"
+    },
+    {
+      "english": "Design your world, creatively.",
+      "italian": "Progetta il tuo mondo, con creatività.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017568"
+    },
+    {
+      "english": "Innovate, don't imitate.",
+      "italian": "Innova, non imitare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017569"
+    },
+    {
+      "english": "Make your mark, with passion.",
+      "italian": "Lascia il tuo segno, con passione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017570"
+    },
+    {
+      "english": "Try a new way, always.",
+      "italian": "Prova un modo nuovo, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017571"
+    },
+    {
+      "english": "What if, you could create?",
+      "italian": "E se, potessi creare?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017573"
+    },
+    {
+      "english": "Unleash your inner, artist.",
+      "italian": "Scatena il tuo, artista interiore.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017574"
+    },
+    {
+      "english": "Breathe life, into ideas.",
+      "italian": "Dai vita, alle idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017575"
+    },
+    {
+      "english": "See the world, differently.",
+      "italian": "Vedi il mondo, diversamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017576"
+    },
+    {
+      "english": "Compose your own, symphony.",
+      "italian": "Componi la tua, sinfonia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017577"
+    },
+    {
+      "english": "Experiment with, possibilities.",
+      "italian": "Sperimenta con, le possibilità.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017578"
+    },
+    {
+      "english": "A unique vision, always.",
+      "italian": "Una visione unica, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017580"
+    },
+    {
+      "english": "Craft a new story, today.",
+      "italian": "Crea una nuova storia, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017581"
+    },
+    {
+      "english": "Cultivate new thoughts, often.",
+      "italian": "Coltiva pensieri nuovi, spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017582"
+    },
+    {
+      "english": "Build beyond, the expected.",
+      "italian": "Costruisci oltre, l'aspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017583"
+    },
+    {
+      "english": "What if, it's possible?",
+      "italian": "E se, fosse possibile?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017584"
+    },
+    {
+      "english": "Generate fresh ideas, daily.",
+      "italian": "Genera idee fresche, ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017585"
+    },
+    {
+      "english": "Explore the edges, of thought.",
+      "italian": "Esplora i confini, del pensiero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017586"
+    },
+    {
+      "english": "Dare to make, something new.",
+      "italian": "Osa creare, qualcosa di nuovo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017587"
+    },
+    {
+      "english": "A spark, ignites a fire.",
+      "italian": "Una scintilla, accende un fuoco.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017588"
+    },
+    {
+      "english": "Think unconventionally, always.",
+      "italian": "Pensa in modo non convenzionale, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017589"
+    },
+    {
+      "english": "Manifest your dreams, now.",
+      "italian": "Manifesta i tuoi sogni, ora.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017590"
+    },
+    {
+      "english": "Invent solutions, brilliantly.",
+      "italian": "Inventa soluzioni, brillantemente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017591"
+    },
+    {
+      "english": "Your unique ideas, matter.",
+      "italian": "Le tue idee uniche, contano.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017592"
+    },
+    {
+      "english": "Dream bigger, start creating.",
+      "italian": "Sogna più in grande, inizia a creare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017593"
+    },
+    {
+      "english": "Innovate your journey, today.",
+      "italian": "Innova il tuo viaggio, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017594"
+    },
+    {
+      "english": "Spark an idea, let it grow.",
+      "italian": "Accendi un'idea, falla crescere.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017596"
+    },
+    {
+      "english": "Paint your own, masterpiece.",
+      "italian": "Dipingi il tuo, capolavoro.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017597"
+    },
+    {
+      "english": "Imagine it, then make it.",
+      "italian": "Immaginalo, poi fallo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017598"
+    },
+    {
+      "english": "Your thoughts, become things.",
+      "italian": "I tuoi pensieri, diventano cose.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017599"
+    },
+    {
+      "english": "Create something, from nothing.",
+      "italian": "Crea qualcosa, dal nulla.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017601"
+    },
+    {
+      "english": "Let your ideas, take flight.",
+      "italian": "Lascia che le tue idee, prendano il volo.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017602"
+    },
+    {
+      "english": "Invent your own, path forward.",
+      "italian": "Inventa la tua, strada.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017603"
+    },
+    {
+      "english": "Design your world, creatively.",
+      "italian": "Progetta il tuo mondo, con creatività.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017605"
+    },
+    {
+      "english": "Innovate, don't imitate.",
+      "italian": "Innova, non imitare.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017606"
+    },
+    {
+      "english": "Make your mark, with passion.",
+      "italian": "Lascia il tuo segno, con passione.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017607"
+    },
+    {
+      "english": "Try a new way, always.",
+      "italian": "Prova un modo nuovo, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017608"
+    },
+    {
+      "english": "What if, you could create?",
+      "italian": "E se, potessi creare?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017609"
+    },
+    {
+      "english": "Unleash your inner, artist.",
+      "italian": "Scatena il tuo, artista interiore.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017610"
+    },
+    {
+      "english": "Breathe life, into ideas.",
+      "italian": "Dai vita, alle idee.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017611"
+    },
+    {
+      "english": "See the world, differently.",
+      "italian": "Vedi il mondo, diversamente.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017612"
+    },
+    {
+      "english": "Compose your own, symphony.",
+      "italian": "Componi la tua, sinfonia.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017613"
+    },
+    {
+      "english": "Experiment with, possibilities.",
+      "italian": "Sperimenta con, le possibilità.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017614"
+    },
+    {
+      "english": "A unique vision, always.",
+      "italian": "Una visione unica, sempre.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017615"
+    },
+    {
+      "english": "Craft a new story, today.",
+      "italian": "Crea una nuova storia, oggi.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017616"
+    },
+    {
+      "english": "Cultivate new thoughts, often.",
+      "italian": "Coltiva pensieri nuovi, spesso.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017618"
+    },
+    {
+      "english": "Build beyond, the expected.",
+      "italian": "Costruisci oltre, l'aspettato.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017619"
+    },
+    {
+      "english": "What if, it's possible?",
+      "italian": "E se, fosse possibile?",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017620"
+    },
+    {
+      "english": "Generate fresh ideas, daily.",
+      "italian": "Genera idee fresche, ogni giorno.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017621"
+    },
+    {
+      "english": "Explore the edges, of thought.",
+      "italian": "Esplora i confini, del pensiero.",
+      "category": "Creativity",
+      "generated_at": "2026-09-21T05:53:27.017622"
     }
   ],
-  "last_updated": "2026-09-20T05:42:06.762952"
+  "last_updated": "2026-09-21T05:53:27.017624"
 }
