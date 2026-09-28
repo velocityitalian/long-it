@@ -48959,7 +48959,727 @@
       "italian": "Diffondi, allegria.",
       "category": "Happiness",
       "generated_at": "2026-09-27T06:11:34.795539"
+    },
+    {
+      "english": "Travel light, feel free.",
+      "italian": "Viaggia leggero, sentiti libero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125729"
+    },
+    {
+      "english": "Sip slowly, savor the taste.",
+      "italian": "Sorseggia piano, assapora il gusto.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125742"
+    },
+    {
+      "english": "Listen closely, learn wisdom.",
+      "italian": "Ascolta attentamente, impara la saggezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125743"
+    },
+    {
+      "english": "Observe nature, feel alive.",
+      "italian": "Osserva la natura, sentiti vivo.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125744"
+    },
+    {
+      "english": "Eat mindfully, enjoy fully.",
+      "italian": "Mangia con consapevolezza, godi appieno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125744"
+    },
+    {
+      "english": "Rest well, recharge your spirit.",
+      "italian": "Riposa bene, ricarica il tuo spirito.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125745"
+    },
+    {
+      "english": "Connect deeply, build bonds.",
+      "italian": "Connettiti profondamente, crea legami.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125746"
+    },
+    {
+      "english": "Speak kindly, spread warmth.",
+      "italian": "Parla gentilmente, diffondi calore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125749"
+    },
+    {
+      "english": "Give freely, receive joy.",
+      "italian": "Dai liberamente, ricevi gioia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125750"
+    },
+    {
+      "english": "Create art, express yourself.",
+      "italian": "Crea arte, esprimi te stesso.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125751"
+    },
+    {
+      "english": "Dream big, act now.",
+      "italian": "Sogna in grande, agisci ora.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125752"
+    },
+    {
+      "english": "Simplify, find clarity.",
+      "italian": "Semplifica, trova chiarezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125752"
+    },
+    {
+      "english": "Move your body, feel energy.",
+      "italian": "Muovi il tuo corpo, senti energia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125753"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "italian": "Sii presente, goditi il momento.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125754"
+    },
+    {
+      "english": "Laugh often, feel lighter.",
+      "italian": "Ridi spesso, sentiti più leggero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125755"
+    },
+    {
+      "english": "Read widely, expand your mind.",
+      "italian": "Leggi molto, espandi la tua mente.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125755"
+    },
+    {
+      "english": "Write down, your thoughts.",
+      "italian": "Scrivi i tuoi pensieri.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125756"
+    },
+    {
+      "english": "Explore new places, find wonder.",
+      "italian": "Esplora posti nuovi, trova meraviglia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125757"
+    },
+    {
+      "english": "Listen to music, soothe your soul.",
+      "italian": "Ascolta musica, calma la tua anima.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125757"
+    },
+    {
+      "english": "Cook something new, taste adventure.",
+      "italian": "Cucina qualcosa di nuovo, assaggia l'avventura.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125758"
+    },
+    {
+      "english": "Share a story, connect hearts.",
+      "italian": "Condividi una storia, unisci i cuori.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125758"
+    },
+    {
+      "english": "Practice patience, gain peace.",
+      "italian": "Pratica pazienza, ottieni pace.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125759"
+    },
+    {
+      "english": "Seek beauty, in everyday.",
+      "italian": "Cerca la bellezza, ogni giorno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125759"
+    },
+    {
+      "english": "Forgive easily, lighten your load.",
+      "italian": "Perdona facilmente, alleggerisci il tuo fardello.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125760"
+    },
+    {
+      "english": "Meditate daily, find center.",
+      "italian": "Medita ogni giorno, trova il tuo centro.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125761"
+    },
+    {
+      "english": "Be grateful, for small things.",
+      "italian": "Sii grato, per le piccole cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125761"
+    },
+    {
+      "english": "Cultivate kindness, watch it grow.",
+      "italian": "Coltiva gentilezza, guardala crescere.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125762"
+    },
+    {
+      "english": "Declutter, your space.",
+      "italian": "Decluttera, il tuo spazio.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125762"
+    },
+    {
+      "english": "Forgive yourself, start anew.",
+      "italian": "Perdona te stesso, ricomincia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125763"
+    },
+    {
+      "english": "Embrace change, find growth.",
+      "italian": "Abbraccia il cambiamento, trova crescita.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125763"
+    },
+    {
+      "english": "Celebrate wins, big and small.",
+      "italian": "Celebra le vittorie, grandi e piccole.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125764"
+    },
+    {
+      "english": "Trust your intuition, it guides.",
+      "italian": "Fidati del tuo istinto, ti guida.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125764"
+    },
+    {
+      "english": "Rest your mind, quiet the noise.",
+      "italian": "Riposa la mente, silenzia il rumore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125765"
+    },
+    {
+      "english": "Seek balance, in all things.",
+      "italian": "Cerca equilibrio, in tutte le cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125765"
+    },
+    {
+      "english": "Travel light, feel free.",
+      "italian": "Viaggia leggero, sentiti libero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125766"
+    },
+    {
+      "english": "Sip slowly, savor the taste.",
+      "italian": "Sorseggia piano, assapora il gusto.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125767"
+    },
+    {
+      "english": "Listen closely, learn wisdom.",
+      "italian": "Ascolta attentamente, impara la saggezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125767"
+    },
+    {
+      "english": "Observe nature, feel alive.",
+      "italian": "Osserva la natura, sentiti vivo.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125768"
+    },
+    {
+      "english": "Eat mindfully, enjoy fully.",
+      "italian": "Mangia con consapevolezza, godi appieno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125769"
+    },
+    {
+      "english": "Rest well, recharge your spirit.",
+      "italian": "Riposa bene, ricarica il tuo spirito.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125769"
+    },
+    {
+      "english": "Connect deeply, build bonds.",
+      "italian": "Connettiti profondamente, crea legami.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125770"
+    },
+    {
+      "english": "Speak kindly, spread warmth.",
+      "italian": "Parla gentilmente, diffondi calore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125771"
+    },
+    {
+      "english": "Give freely, receive joy.",
+      "italian": "Dai liberamente, ricevi gioia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125771"
+    },
+    {
+      "english": "Create art, express yourself.",
+      "italian": "Crea arte, esprimi te stesso.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125772"
+    },
+    {
+      "english": "Dream big, act now.",
+      "italian": "Sogna in grande, agisci ora.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125772"
+    },
+    {
+      "english": "Simplify, find clarity.",
+      "italian": "Semplifica, trova chiarezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125773"
+    },
+    {
+      "english": "Move your body, feel energy.",
+      "italian": "Muovi il tuo corpo, senti energia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125774"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "italian": "Sii presente, goditi il momento.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125774"
+    },
+    {
+      "english": "Laugh often, feel lighter.",
+      "italian": "Ridi spesso, sentiti più leggero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125775"
+    },
+    {
+      "english": "Read widely, expand your mind.",
+      "italian": "Leggi molto, espandi la tua mente.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125775"
+    },
+    {
+      "english": "Write down, your thoughts.",
+      "italian": "Scrivi i tuoi pensieri.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125776"
+    },
+    {
+      "english": "Explore new places, find wonder.",
+      "italian": "Esplora posti nuovi, trova meraviglia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125776"
+    },
+    {
+      "english": "Listen to music, soothe your soul.",
+      "italian": "Ascolta musica, calma la tua anima.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125777"
+    },
+    {
+      "english": "Cook something new, taste adventure.",
+      "italian": "Cucina qualcosa di nuovo, assaggia l'avventura.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125778"
+    },
+    {
+      "english": "Share a story, connect hearts.",
+      "italian": "Condividi una storia, unisci i cuori.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125778"
+    },
+    {
+      "english": "Practice patience, gain peace.",
+      "italian": "Pratica pazienza, ottieni pace.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125779"
+    },
+    {
+      "english": "Seek beauty, in everyday.",
+      "italian": "Cerca la bellezza, ogni giorno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125779"
+    },
+    {
+      "english": "Forgive easily, lighten your load.",
+      "italian": "Perdona facilmente, alleggerisci il tuo fardello.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125780"
+    },
+    {
+      "english": "Meditate daily, find center.",
+      "italian": "Medita ogni giorno, trova il tuo centro.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125781"
+    },
+    {
+      "english": "Be grateful, for small things.",
+      "italian": "Sii grato, per le piccole cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125781"
+    },
+    {
+      "english": "Cultivate kindness, watch it grow.",
+      "italian": "Coltiva gentilezza, guardala crescere.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125782"
+    },
+    {
+      "english": "Declutter, your space.",
+      "italian": "Decluttera, il tuo spazio.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125782"
+    },
+    {
+      "english": "Forgive yourself, start anew.",
+      "italian": "Perdona te stesso, ricomincia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125783"
+    },
+    {
+      "english": "Embrace change, find growth.",
+      "italian": "Abbraccia il cambiamento, trova crescita.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125784"
+    },
+    {
+      "english": "Celebrate wins, big and small.",
+      "italian": "Celebra le vittorie, grandi e piccole.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125784"
+    },
+    {
+      "english": "Trust your intuition, it guides.",
+      "italian": "Fidati del tuo istinto, ti guida.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125785"
+    },
+    {
+      "english": "Rest your mind, quiet the noise.",
+      "italian": "Riposa la mente, silenzia il rumore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125785"
+    },
+    {
+      "english": "Seek balance, in all things.",
+      "italian": "Cerca equilibrio, in tutte le cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125786"
+    },
+    {
+      "english": "Travel light, feel free.",
+      "italian": "Viaggia leggero, sentiti libero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125787"
+    },
+    {
+      "english": "Sip slowly, savor the taste.",
+      "italian": "Sorseggia piano, assapora il gusto.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125787"
+    },
+    {
+      "english": "Listen closely, learn wisdom.",
+      "italian": "Ascolta attentamente, impara la saggezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125788"
+    },
+    {
+      "english": "Observe nature, feel alive.",
+      "italian": "Osserva la natura, sentiti vivo.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125789"
+    },
+    {
+      "english": "Eat mindfully, enjoy fully.",
+      "italian": "Mangia con consapevolezza, godi appieno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125789"
+    },
+    {
+      "english": "Rest well, recharge your spirit.",
+      "italian": "Riposa bene, ricarica il tuo spirito.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125790"
+    },
+    {
+      "english": "Connect deeply, build bonds.",
+      "italian": "Connettiti profondamente, crea legami.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125790"
+    },
+    {
+      "english": "Speak kindly, spread warmth.",
+      "italian": "Parla gentilmente, diffondi calore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125791"
+    },
+    {
+      "english": "Give freely, receive joy.",
+      "italian": "Dai liberamente, ricevi gioia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125792"
+    },
+    {
+      "english": "Create art, express yourself.",
+      "italian": "Crea arte, esprimi te stesso.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125792"
+    },
+    {
+      "english": "Dream big, act now.",
+      "italian": "Sogna in grande, agisci ora.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125793"
+    },
+    {
+      "english": "Simplify, find clarity.",
+      "italian": "Semplifica, trova chiarezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125793"
+    },
+    {
+      "english": "Move your body, feel energy.",
+      "italian": "Muovi il tuo corpo, senti energia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125794"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "italian": "Sii presente, goditi il momento.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125795"
+    },
+    {
+      "english": "Laugh often, feel lighter.",
+      "italian": "Ridi spesso, sentiti più leggero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125795"
+    },
+    {
+      "english": "Read widely, expand your mind.",
+      "italian": "Leggi molto, espandi la tua mente.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125796"
+    },
+    {
+      "english": "Write down, your thoughts.",
+      "italian": "Scrivi i tuoi pensieri.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125796"
+    },
+    {
+      "english": "Explore new places, find wonder.",
+      "italian": "Esplora posti nuovi, trova meraviglia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125797"
+    },
+    {
+      "english": "Listen to music, soothe your soul.",
+      "italian": "Ascolta musica, calma la tua anima.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125797"
+    },
+    {
+      "english": "Cook something new, taste adventure.",
+      "italian": "Cucina qualcosa di nuovo, assaggia l'avventura.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125798"
+    },
+    {
+      "english": "Share a story, connect hearts.",
+      "italian": "Condividi una storia, unisci i cuori.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125799"
+    },
+    {
+      "english": "Practice patience, gain peace.",
+      "italian": "Pratica pazienza, ottieni pace.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125799"
+    },
+    {
+      "english": "Seek beauty, in everyday.",
+      "italian": "Cerca la bellezza, ogni giorno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125800"
+    },
+    {
+      "english": "Forgive easily, lighten your load.",
+      "italian": "Perdona facilmente, alleggerisci il tuo fardello.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125800"
+    },
+    {
+      "english": "Meditate daily, find center.",
+      "italian": "Medita ogni giorno, trova il tuo centro.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125801"
+    },
+    {
+      "english": "Be grateful, for small things.",
+      "italian": "Sii grato, per le piccole cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125802"
+    },
+    {
+      "english": "Cultivate kindness, watch it grow.",
+      "italian": "Coltiva gentilezza, guardala crescere.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125802"
+    },
+    {
+      "english": "Declutter, your space.",
+      "italian": "Decluttera, il tuo spazio.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125803"
+    },
+    {
+      "english": "Forgive yourself, start anew.",
+      "italian": "Perdona te stesso, ricomincia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125803"
+    },
+    {
+      "english": "Embrace change, find growth.",
+      "italian": "Abbraccia il cambiamento, trova crescita.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125804"
+    },
+    {
+      "english": "Celebrate wins, big and small.",
+      "italian": "Celebra le vittorie, grandi e piccole.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125804"
+    },
+    {
+      "english": "Trust your intuition, it guides.",
+      "italian": "Fidati del tuo istinto, ti guida.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125805"
+    },
+    {
+      "english": "Rest your mind, quiet the noise.",
+      "italian": "Riposa la mente, silenzia il rumore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125806"
+    },
+    {
+      "english": "Seek balance, in all things.",
+      "italian": "Cerca equilibrio, in tutte le cose.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125806"
+    },
+    {
+      "english": "Travel light, feel free.",
+      "italian": "Viaggia leggero, sentiti libero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125807"
+    },
+    {
+      "english": "Sip slowly, savor the taste.",
+      "italian": "Sorseggia piano, assapora il gusto.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125807"
+    },
+    {
+      "english": "Listen closely, learn wisdom.",
+      "italian": "Ascolta attentamente, impara la saggezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125808"
+    },
+    {
+      "english": "Observe nature, feel alive.",
+      "italian": "Osserva la natura, sentiti vivo.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125809"
+    },
+    {
+      "english": "Eat mindfully, enjoy fully.",
+      "italian": "Mangia con consapevolezza, godi appieno.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125809"
+    },
+    {
+      "english": "Rest well, recharge your spirit.",
+      "italian": "Riposa bene, ricarica il tuo spirito.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125810"
+    },
+    {
+      "english": "Connect deeply, build bonds.",
+      "italian": "Connettiti profondamente, crea legami.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125811"
+    },
+    {
+      "english": "Speak kindly, spread warmth.",
+      "italian": "Parla gentilmente, diffondi calore.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125811"
+    },
+    {
+      "english": "Give freely, receive joy.",
+      "italian": "Dai liberamente, ricevi gioia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125812"
+    },
+    {
+      "english": "Create art, express yourself.",
+      "italian": "Crea arte, esprimi te stesso.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125812"
+    },
+    {
+      "english": "Dream big, act now.",
+      "italian": "Sogna in grande, agisci ora.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125813"
+    },
+    {
+      "english": "Simplify, find clarity.",
+      "italian": "Semplifica, trova chiarezza.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125813"
+    },
+    {
+      "english": "Move your body, feel energy.",
+      "italian": "Muovi il tuo corpo, senti energia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125814"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "italian": "Sii presente, goditi il momento.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125815"
+    },
+    {
+      "english": "Laugh often, feel lighter.",
+      "italian": "Ridi spesso, sentiti più leggero.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125815"
+    },
+    {
+      "english": "Read widely, expand your mind.",
+      "italian": "Leggi molto, espandi la tua mente.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125816"
+    },
+    {
+      "english": "Write down, your thoughts.",
+      "italian": "Scrivi i tuoi pensieri.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125817"
+    },
+    {
+      "english": "Explore new places, find wonder.",
+      "italian": "Esplora posti nuovi, trova meraviglia.",
+      "category": "Balance",
+      "generated_at": "2026-09-28T06:19:07.125817"
     }
   ],
-  "last_updated": "2026-09-27T06:11:34.795541"
+  "last_updated": "2026-09-28T06:19:07.125819"
 }
