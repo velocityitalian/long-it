@@ -52559,7 +52559,727 @@
       "italian": "Sei il mio sole, in un giorno nuvoloso.",
       "category": "Love",
       "generated_at": "2026-10-02T06:40:36.206127"
+    },
+    {
+      "english": "Hope, like a seed, grows.",
+      "italian": "La speranza, come un seme, cresce.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782255"
+    },
+    {
+      "english": "Every sunrise, brings hope.",
+      "italian": "Ogni alba, porta speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782267"
+    },
+    {
+      "english": "Never lose hope, okay?",
+      "italian": "Non perdere mai la speranza, va bene?",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782268"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "italian": "La speranza è una brezza leggera.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782269"
+    },
+    {
+      "english": "With hope, we can achieve.",
+      "italian": "Con la speranza, possiamo raggiungere.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782270"
+    },
+    {
+      "english": "Hope is a silent prayer.",
+      "italian": "La speranza è una preghiera silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782271"
+    },
+    {
+      "english": "A spark of hope, is enough.",
+      "italian": "Una scintilla di speranza, basta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782273"
+    },
+    {
+      "english": "Hope finds a way, always.",
+      "italian": "La speranza trova una strada, sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782276"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "italian": "Aggrappati alla speranza, forte.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782277"
+    },
+    {
+      "english": "Hope lights the path, forward.",
+      "italian": "La speranza illumina il cammino, avanti.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782278"
+    },
+    {
+      "english": "Hope is a beautiful thing.",
+      "italian": "La speranza è una cosa bellissima.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782278"
+    },
+    {
+      "english": "Let hope guide you, now.",
+      "italian": "Lascia che la speranza ti guidi, ora.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782279"
+    },
+    {
+      "english": "Hope can move mountains.",
+      "italian": "La speranza può spostare le montagne.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782280"
+    },
+    {
+      "english": "Hope blooms, in resilience.",
+      "italian": "La speranza fiorisce, nella resilienza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782281"
+    },
+    {
+      "english": "A flicker of hope, ignites.",
+      "italian": "Un barlume di speranza, si accende.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782282"
+    },
+    {
+      "english": "Plant seeds of hope, daily.",
+      "italian": "Pianta semi di speranza, ogni giorno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782282"
+    },
+    {
+      "english": "Hope, a light, in the storm.",
+      "italian": "La speranza, una luce, nella tempesta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782283"
+    },
+    {
+      "english": "Even small hope, matters.",
+      "italian": "Anche una piccola speranza, conta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782284"
+    },
+    {
+      "english": "Hope renews, the spirit.",
+      "italian": "La speranza rinnova, lo spirito.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782285"
+    },
+    {
+      "english": "Hope is a quiet strength.",
+      "italian": "La speranza è una forza tranquilla.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782286"
+    },
+    {
+      "english": "Never give up, hope.",
+      "italian": "Non arrenderti, speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782287"
+    },
+    {
+      "english": "Hope will always return.",
+      "italian": "La speranza tornerà sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782288"
+    },
+    {
+      "english": "Hope builds bridges, over fear.",
+      "italian": "La speranza costruisce ponti, sulla paura.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782288"
+    },
+    {
+      "english": "Hope is a persistent dream.",
+      "italian": "La speranza è un sogno persistente.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782289"
+    },
+    {
+      "english": "Hope, a whisper, of good things.",
+      "italian": "La speranza, un sussurro, di cose buone.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782290"
+    },
+    {
+      "english": "Hope is a quiet victory.",
+      "italian": "La speranza è una vittoria silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782291"
+    },
+    {
+      "english": "Hope, when you need it.",
+      "italian": "La speranza, quando ne hai bisogno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782292"
+    },
+    {
+      "english": "Hope fuels perseverance.",
+      "italian": "La speranza alimenta la perseveranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782293"
+    },
+    {
+      "english": "Hope is an open door.",
+      "italian": "La speranza è una porta aperta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782294"
+    },
+    {
+      "english": "Hope shines, even faint.",
+      "italian": "La speranza brilla, anche debole.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782295"
+    },
+    {
+      "english": "Hope is a sunrise, within.",
+      "italian": "La speranza è un'alba, dentro.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782296"
+    },
+    {
+      "english": "Hope, a reason, to keep going.",
+      "italian": "La speranza, un motivo, per continuare.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782296"
+    },
+    {
+      "english": "Hope can change everything.",
+      "italian": "La speranza può cambiare tutto.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782297"
+    },
+    {
+      "english": "Hope is the best medicine.",
+      "italian": "La speranza è la migliore medicina.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782298"
+    },
+    {
+      "english": "Hope, a flower, pushing through.",
+      "italian": "La speranza, un fiore, che spinge.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782298"
+    },
+    {
+      "english": "Hope, like a seed, grows.",
+      "italian": "La speranza, come un seme, cresce.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782299"
+    },
+    {
+      "english": "Every sunrise, brings hope.",
+      "italian": "Ogni alba, porta speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782300"
+    },
+    {
+      "english": "Never lose hope, okay?",
+      "italian": "Non perdere mai la speranza, va bene?",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782301"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "italian": "La speranza è una brezza leggera.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782302"
+    },
+    {
+      "english": "With hope, we can achieve.",
+      "italian": "Con la speranza, possiamo raggiungere.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782303"
+    },
+    {
+      "english": "Hope is a silent prayer.",
+      "italian": "La speranza è una preghiera silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782304"
+    },
+    {
+      "english": "A spark of hope, is enough.",
+      "italian": "Una scintilla di speranza, basta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782305"
+    },
+    {
+      "english": "Hope finds a way, always.",
+      "italian": "La speranza trova una strada, sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782306"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "italian": "Aggrappati alla speranza, forte.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782307"
+    },
+    {
+      "english": "Hope lights the path, forward.",
+      "italian": "La speranza illumina il cammino, avanti.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782308"
+    },
+    {
+      "english": "Hope is a beautiful thing.",
+      "italian": "La speranza è una cosa bellissima.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782309"
+    },
+    {
+      "english": "Let hope guide you, now.",
+      "italian": "Lascia che la speranza ti guidi, ora.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782309"
+    },
+    {
+      "english": "Hope can move mountains.",
+      "italian": "La speranza può spostare le montagne.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782310"
+    },
+    {
+      "english": "Hope blooms, in resilience.",
+      "italian": "La speranza fiorisce, nella resilienza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782311"
+    },
+    {
+      "english": "A flicker of hope, ignites.",
+      "italian": "Un barlume di speranza, si accende.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782312"
+    },
+    {
+      "english": "Plant seeds of hope, daily.",
+      "italian": "Pianta semi di speranza, ogni giorno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782312"
+    },
+    {
+      "english": "Hope, a light, in the storm.",
+      "italian": "La speranza, una luce, nella tempesta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782313"
+    },
+    {
+      "english": "Even small hope, matters.",
+      "italian": "Anche una piccola speranza, conta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782314"
+    },
+    {
+      "english": "Hope renews, the spirit.",
+      "italian": "La speranza rinnova, lo spirito.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782315"
+    },
+    {
+      "english": "Hope is a quiet strength.",
+      "italian": "La speranza è una forza tranquilla.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782315"
+    },
+    {
+      "english": "Never give up, hope.",
+      "italian": "Non arrenderti, speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782316"
+    },
+    {
+      "english": "Hope will always return.",
+      "italian": "La speranza tornerà sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782317"
+    },
+    {
+      "english": "Hope builds bridges, over fear.",
+      "italian": "La speranza costruisce ponti, sulla paura.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782318"
+    },
+    {
+      "english": "Hope is a persistent dream.",
+      "italian": "La speranza è un sogno persistente.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782319"
+    },
+    {
+      "english": "Hope, a whisper, of good things.",
+      "italian": "La speranza, un sussurro, di cose buone.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782320"
+    },
+    {
+      "english": "Hope is a quiet victory.",
+      "italian": "La speranza è una vittoria silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782321"
+    },
+    {
+      "english": "Hope, when you need it.",
+      "italian": "La speranza, quando ne hai bisogno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782321"
+    },
+    {
+      "english": "Hope fuels perseverance.",
+      "italian": "La speranza alimenta la perseveranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782322"
+    },
+    {
+      "english": "Hope is an open door.",
+      "italian": "La speranza è una porta aperta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782323"
+    },
+    {
+      "english": "Hope shines, even faint.",
+      "italian": "La speranza brilla, anche debole.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782323"
+    },
+    {
+      "english": "Hope is a sunrise, within.",
+      "italian": "La speranza è un'alba, dentro.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782324"
+    },
+    {
+      "english": "Hope, a reason, to keep going.",
+      "italian": "La speranza, un motivo, per continuare.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782325"
+    },
+    {
+      "english": "Hope can change everything.",
+      "italian": "La speranza può cambiare tutto.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782326"
+    },
+    {
+      "english": "Hope is the best medicine.",
+      "italian": "La speranza è la migliore medicina.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782327"
+    },
+    {
+      "english": "Hope, a flower, pushing through.",
+      "italian": "La speranza, un fiore, che spinge.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782327"
+    },
+    {
+      "english": "Hope, like a seed, grows.",
+      "italian": "La speranza, come un seme, cresce.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782328"
+    },
+    {
+      "english": "Every sunrise, brings hope.",
+      "italian": "Ogni alba, porta speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782329"
+    },
+    {
+      "english": "Never lose hope, okay?",
+      "italian": "Non perdere mai la speranza, va bene?",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782330"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "italian": "La speranza è una brezza leggera.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782331"
+    },
+    {
+      "english": "With hope, we can achieve.",
+      "italian": "Con la speranza, possiamo raggiungere.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782332"
+    },
+    {
+      "english": "Hope is a silent prayer.",
+      "italian": "La speranza è una preghiera silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782333"
+    },
+    {
+      "english": "A spark of hope, is enough.",
+      "italian": "Una scintilla di speranza, basta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782334"
+    },
+    {
+      "english": "Hope finds a way, always.",
+      "italian": "La speranza trova una strada, sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782334"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "italian": "Aggrappati alla speranza, forte.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782335"
+    },
+    {
+      "english": "Hope lights the path, forward.",
+      "italian": "La speranza illumina il cammino, avanti.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782337"
+    },
+    {
+      "english": "Hope is a beautiful thing.",
+      "italian": "La speranza è una cosa bellissima.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782337"
+    },
+    {
+      "english": "Let hope guide you, now.",
+      "italian": "Lascia che la speranza ti guidi, ora.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782338"
+    },
+    {
+      "english": "Hope can move mountains.",
+      "italian": "La speranza può spostare le montagne.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782339"
+    },
+    {
+      "english": "Hope blooms, in resilience.",
+      "italian": "La speranza fiorisce, nella resilienza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782340"
+    },
+    {
+      "english": "A flicker of hope, ignites.",
+      "italian": "Un barlume di speranza, si accende.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782341"
+    },
+    {
+      "english": "Plant seeds of hope, daily.",
+      "italian": "Pianta semi di speranza, ogni giorno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782341"
+    },
+    {
+      "english": "Hope, a light, in the storm.",
+      "italian": "La speranza, una luce, nella tempesta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782342"
+    },
+    {
+      "english": "Even small hope, matters.",
+      "italian": "Anche una piccola speranza, conta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782343"
+    },
+    {
+      "english": "Hope renews, the spirit.",
+      "italian": "La speranza rinnova, lo spirito.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782344"
+    },
+    {
+      "english": "Hope is a quiet strength.",
+      "italian": "La speranza è una forza tranquilla.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782344"
+    },
+    {
+      "english": "Never give up, hope.",
+      "italian": "Non arrenderti, speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782345"
+    },
+    {
+      "english": "Hope will always return.",
+      "italian": "La speranza tornerà sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782346"
+    },
+    {
+      "english": "Hope builds bridges, over fear.",
+      "italian": "La speranza costruisce ponti, sulla paura.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782347"
+    },
+    {
+      "english": "Hope is a persistent dream.",
+      "italian": "La speranza è un sogno persistente.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782348"
+    },
+    {
+      "english": "Hope, a whisper, of good things.",
+      "italian": "La speranza, un sussurro, di cose buone.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782348"
+    },
+    {
+      "english": "Hope is a quiet victory.",
+      "italian": "La speranza è una vittoria silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782349"
+    },
+    {
+      "english": "Hope, when you need it.",
+      "italian": "La speranza, quando ne hai bisogno.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782350"
+    },
+    {
+      "english": "Hope fuels perseverance.",
+      "italian": "La speranza alimenta la perseveranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782351"
+    },
+    {
+      "english": "Hope is an open door.",
+      "italian": "La speranza è una porta aperta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782352"
+    },
+    {
+      "english": "Hope shines, even faint.",
+      "italian": "La speranza brilla, anche debole.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782352"
+    },
+    {
+      "english": "Hope is a sunrise, within.",
+      "italian": "La speranza è un'alba, dentro.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782353"
+    },
+    {
+      "english": "Hope, a reason, to keep going.",
+      "italian": "La speranza, un motivo, per continuare.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782354"
+    },
+    {
+      "english": "Hope can change everything.",
+      "italian": "La speranza può cambiare tutto.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782355"
+    },
+    {
+      "english": "Hope is the best medicine.",
+      "italian": "La speranza è la migliore medicina.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782355"
+    },
+    {
+      "english": "Hope, a flower, pushing through.",
+      "italian": "La speranza, un fiore, che spinge.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782356"
+    },
+    {
+      "english": "Hope, like a seed, grows.",
+      "italian": "La speranza, come un seme, cresce.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782357"
+    },
+    {
+      "english": "Every sunrise, brings hope.",
+      "italian": "Ogni alba, porta speranza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782358"
+    },
+    {
+      "english": "Never lose hope, okay?",
+      "italian": "Non perdere mai la speranza, va bene?",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782359"
+    },
+    {
+      "english": "Hope is a gentle breeze.",
+      "italian": "La speranza è una brezza leggera.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782359"
+    },
+    {
+      "english": "With hope, we can achieve.",
+      "italian": "Con la speranza, possiamo raggiungere.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782360"
+    },
+    {
+      "english": "Hope is a silent prayer.",
+      "italian": "La speranza è una preghiera silenziosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782361"
+    },
+    {
+      "english": "A spark of hope, is enough.",
+      "italian": "Una scintilla di speranza, basta.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782362"
+    },
+    {
+      "english": "Hope finds a way, always.",
+      "italian": "La speranza trova una strada, sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782363"
+    },
+    {
+      "english": "Hold onto hope, tightly.",
+      "italian": "Aggrappati alla speranza, forte.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782364"
+    },
+    {
+      "english": "Hope lights the path, forward.",
+      "italian": "La speranza illumina il cammino, avanti.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782365"
+    },
+    {
+      "english": "Hope is a beautiful thing.",
+      "italian": "La speranza è una cosa bellissima.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782366"
+    },
+    {
+      "english": "Let hope guide you, now.",
+      "italian": "Lascia che la speranza ti guidi, ora.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782367"
+    },
+    {
+      "english": "Hope can move mountains.",
+      "italian": "La speranza può spostare le montagne.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782368"
+    },
+    {
+      "english": "Hope blooms, in resilience.",
+      "italian": "La speranza fiorisce, nella resilienza.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782368"
+    },
+    {
+      "english": "A flicker of hope, ignites.",
+      "italian": "Un barlume di speranza, si accende.",
+      "category": "Hope",
+      "generated_at": "2026-10-03T06:01:10.782369"
     }
   ],
-  "last_updated": "2026-10-02T06:40:36.206129"
+  "last_updated": "2026-10-03T06:01:10.782371"
 }
