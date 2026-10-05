@@ -53999,7 +53999,727 @@
       "italian": "Respira profondamente, e rilassati.",
       "category": "Mindfulness",
       "generated_at": "2026-10-04T06:37:21.871467"
+    },
+    {
+      "english": "Laughter, is truly the best medicine.",
+      "italian": "La risata, è davvero la miglior medicina.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664354"
+    },
+    {
+      "english": "Sunsets, paint the sky with magic.",
+      "italian": "I tramonti, dipingono il cielo di magia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664369"
+    },
+    {
+      "english": "A warm hug, can fix anything.",
+      "italian": "Un abbraccio caldo, può aggiustare tutto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664370"
+    },
+    {
+      "english": "Dancing freely, is pure joy.",
+      "italian": "Ballare liberamente, è pura gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664371"
+    },
+    {
+      "english": "Kind words, bloom like flowers.",
+      "italian": "Le parole gentili, fioriscono come fiori.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664372"
+    },
+    {
+      "english": "Good music, lifts your soul.",
+      "italian": "La buona musica, eleva l'anima.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664373"
+    },
+    {
+      "english": "Sharing food, builds friendship.",
+      "italian": "Condividere il cibo, costruisce amicizia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664375"
+    },
+    {
+      "english": "A good book, is a portal.",
+      "italian": "Un buon libro, è un portale.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664378"
+    },
+    {
+      "english": "The smell of rain, is so fresh.",
+      "italian": "L'odore della pioggia, è così fresco.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664380"
+    },
+    {
+      "english": "Puppies, wag their tails happily.",
+      "italian": "I cuccioli, scodinzolano felicemente.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664382"
+    },
+    {
+      "english": "Learning something new, sparks delight.",
+      "italian": "Imparare qualcosa di nuovo, accende il piacere.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664383"
+    },
+    {
+      "english": "A clear sky, feels so open.",
+      "italian": "Un cielo sereno, sembra così aperto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664384"
+    },
+    {
+      "english": "Making someone smile, is a gift.",
+      "italian": "Far sorridere qualcuno, è un dono.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664386"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "italian": "Il pane fresco, profuma di casa.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664387"
+    },
+    {
+      "english": "A cozy blanket, brings comfort.",
+      "italian": "Una coperta accogliente, porta conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664388"
+    },
+    {
+      "english": "Stars at night, are tiny diamonds.",
+      "italian": "Le stelle di notte, sono piccoli diamanti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664389"
+    },
+    {
+      "english": "Singing out loud, feels liberating.",
+      "italian": "Cantare a squarciagola, è liberatorio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664390"
+    },
+    {
+      "english": "A cup of tea, warms the soul.",
+      "italian": "Una tazza di tè, scalda il cuore.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664391"
+    },
+    {
+      "english": "Helping a stranger, feels good.",
+      "italian": "Aiutare uno sconosciuto, fa stare bene.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664392"
+    },
+    {
+      "english": "Finding lost treasures, is exciting.",
+      "italian": "Trovare tesori perduti, è emozionante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664393"
+    },
+    {
+      "english": "A good surprise, brightens the day.",
+      "italian": "Una bella sorpresa, illumina la giornata.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664394"
+    },
+    {
+      "english": "The smell of flowers, is delightful.",
+      "italian": "Il profumo dei fiori, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664395"
+    },
+    {
+      "english": "Warm sunlight, feels like a hug.",
+      "italian": "La luce del sole calda, sembra un abbraccio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664396"
+    },
+    {
+      "english": "A clean room, brings peace.",
+      "italian": "Una stanza pulita, porta serenità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664397"
+    },
+    {
+      "english": "Accomplishing a goal, is thrilling.",
+      "italian": "Raggiungere un obiettivo, è esaltante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664398"
+    },
+    {
+      "english": "Waterfalls, are nature’s music.",
+      "italian": "Le cascate, sono la musica della natura.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664399"
+    },
+    {
+      "english": "A genuine compliment, makes you shine.",
+      "italian": "Un complimento sincero, ti fa brillare.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664400"
+    },
+    {
+      "english": "The smell of coffee, is invigorating.",
+      "italian": "L'aroma del caffè, è tonificante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664401"
+    },
+    {
+      "english": "Seeing old friends, brings happiness.",
+      "italian": "Vedere vecchi amici, porta felicità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664402"
+    },
+    {
+      "english": "A gentle breeze, whispers secrets.",
+      "italian": "Una brezza leggera, sussurra segreti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664403"
+    },
+    {
+      "english": "Finding a perfect shell, is a joy.",
+      "italian": "Trovare una conchiglia perfetta, è una gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664404"
+    },
+    {
+      "english": "A warm cookie, is pure comfort.",
+      "italian": "Un biscotto caldo, è puro conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664405"
+    },
+    {
+      "english": "Watching fireflies, is magical.",
+      "italian": "Guardare le lucciole, è magico.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664406"
+    },
+    {
+      "english": "A quiet moment, recharges the spirit.",
+      "italian": "Un momento di quiete, ricarica lo spirito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664407"
+    },
+    {
+      "english": "Sweet dreams, make mornings brighter.",
+      "italian": "Sogni d'oro, rendono le mattine più belle.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664408"
+    },
+    {
+      "english": "The sound of waves, is soothing.",
+      "italian": "Il suono delle onde, è rilassante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664409"
+    },
+    {
+      "english": "A warm bath, melts away stress.",
+      "italian": "Un bagno caldo, scioglie lo stress.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664410"
+    },
+    {
+      "english": "Seeing a rainbow, is a good omen.",
+      "italian": "Vedere un arcobaleno, è di buon auspicio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664411"
+    },
+    {
+      "english": "A shared secret, creates a bond.",
+      "italian": "Un segreto condiviso, crea un legame.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664412"
+    },
+    {
+      "english": "The taste of ripe fruit, is amazing.",
+      "italian": "Il sapore della frutta matura, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664413"
+    },
+    {
+      "english": "Laughter, is truly the best medicine.",
+      "italian": "La risata, è davvero la miglior medicina.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664414"
+    },
+    {
+      "english": "Sunsets, paint the sky with magic.",
+      "italian": "I tramonti, dipingono il cielo di magia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664415"
+    },
+    {
+      "english": "A warm hug, can fix anything.",
+      "italian": "Un abbraccio caldo, può aggiustare tutto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664417"
+    },
+    {
+      "english": "Dancing freely, is pure joy.",
+      "italian": "Ballare liberamente, è pura gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664418"
+    },
+    {
+      "english": "Kind words, bloom like flowers.",
+      "italian": "Le parole gentili, fioriscono come fiori.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664419"
+    },
+    {
+      "english": "Good music, lifts your soul.",
+      "italian": "La buona musica, eleva l'anima.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664420"
+    },
+    {
+      "english": "Sharing food, builds friendship.",
+      "italian": "Condividere il cibo, costruisce amicizia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664421"
+    },
+    {
+      "english": "A good book, is a portal.",
+      "italian": "Un buon libro, è un portale.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664423"
+    },
+    {
+      "english": "The smell of rain, is so fresh.",
+      "italian": "L'odore della pioggia, è così fresco.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664424"
+    },
+    {
+      "english": "Puppies, wag their tails happily.",
+      "italian": "I cuccioli, scodinzolano felicemente.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664425"
+    },
+    {
+      "english": "Learning something new, sparks delight.",
+      "italian": "Imparare qualcosa di nuovo, accende il piacere.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664426"
+    },
+    {
+      "english": "A clear sky, feels so open.",
+      "italian": "Un cielo sereno, sembra così aperto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664427"
+    },
+    {
+      "english": "Making someone smile, is a gift.",
+      "italian": "Far sorridere qualcuno, è un dono.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664428"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "italian": "Il pane fresco, profuma di casa.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664429"
+    },
+    {
+      "english": "A cozy blanket, brings comfort.",
+      "italian": "Una coperta accogliente, porta conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664430"
+    },
+    {
+      "english": "Stars at night, are tiny diamonds.",
+      "italian": "Le stelle di notte, sono piccoli diamanti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664431"
+    },
+    {
+      "english": "Singing out loud, feels liberating.",
+      "italian": "Cantare a squarciagola, è liberatorio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664432"
+    },
+    {
+      "english": "A cup of tea, warms the soul.",
+      "italian": "Una tazza di tè, scalda il cuore.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664433"
+    },
+    {
+      "english": "Helping a stranger, feels good.",
+      "italian": "Aiutare uno sconosciuto, fa stare bene.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664434"
+    },
+    {
+      "english": "Finding lost treasures, is exciting.",
+      "italian": "Trovare tesori perduti, è emozionante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664435"
+    },
+    {
+      "english": "A good surprise, brightens the day.",
+      "italian": "Una bella sorpresa, illumina la giornata.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664444"
+    },
+    {
+      "english": "The smell of flowers, is delightful.",
+      "italian": "Il profumo dei fiori, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664446"
+    },
+    {
+      "english": "Warm sunlight, feels like a hug.",
+      "italian": "La luce del sole calda, sembra un abbraccio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664447"
+    },
+    {
+      "english": "A clean room, brings peace.",
+      "italian": "Una stanza pulita, porta serenità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664448"
+    },
+    {
+      "english": "Accomplishing a goal, is thrilling.",
+      "italian": "Raggiungere un obiettivo, è esaltante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664449"
+    },
+    {
+      "english": "Waterfalls, are nature’s music.",
+      "italian": "Le cascate, sono la musica della natura.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664450"
+    },
+    {
+      "english": "A genuine compliment, makes you shine.",
+      "italian": "Un complimento sincero, ti fa brillare.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664451"
+    },
+    {
+      "english": "The smell of coffee, is invigorating.",
+      "italian": "L'aroma del caffè, è tonificante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664452"
+    },
+    {
+      "english": "Seeing old friends, brings happiness.",
+      "italian": "Vedere vecchi amici, porta felicità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664453"
+    },
+    {
+      "english": "A gentle breeze, whispers secrets.",
+      "italian": "Una brezza leggera, sussurra segreti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664454"
+    },
+    {
+      "english": "Finding a perfect shell, is a joy.",
+      "italian": "Trovare una conchiglia perfetta, è una gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664455"
+    },
+    {
+      "english": "A warm cookie, is pure comfort.",
+      "italian": "Un biscotto caldo, è puro conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664456"
+    },
+    {
+      "english": "Watching fireflies, is magical.",
+      "italian": "Guardare le lucciole, è magico.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664457"
+    },
+    {
+      "english": "A quiet moment, recharges the spirit.",
+      "italian": "Un momento di quiete, ricarica lo spirito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664458"
+    },
+    {
+      "english": "Sweet dreams, make mornings brighter.",
+      "italian": "Sogni d'oro, rendono le mattine più belle.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664460"
+    },
+    {
+      "english": "The sound of waves, is soothing.",
+      "italian": "Il suono delle onde, è rilassante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664461"
+    },
+    {
+      "english": "A warm bath, melts away stress.",
+      "italian": "Un bagno caldo, scioglie lo stress.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664462"
+    },
+    {
+      "english": "Seeing a rainbow, is a good omen.",
+      "italian": "Vedere un arcobaleno, è di buon auspicio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664463"
+    },
+    {
+      "english": "A shared secret, creates a bond.",
+      "italian": "Un segreto condiviso, crea un legame.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664464"
+    },
+    {
+      "english": "The taste of ripe fruit, is amazing.",
+      "italian": "Il sapore della frutta matura, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664465"
+    },
+    {
+      "english": "Laughter, is truly the best medicine.",
+      "italian": "La risata, è davvero la miglior medicina.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664466"
+    },
+    {
+      "english": "Sunsets, paint the sky with magic.",
+      "italian": "I tramonti, dipingono il cielo di magia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664467"
+    },
+    {
+      "english": "A warm hug, can fix anything.",
+      "italian": "Un abbraccio caldo, può aggiustare tutto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664468"
+    },
+    {
+      "english": "Dancing freely, is pure joy.",
+      "italian": "Ballare liberamente, è pura gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664470"
+    },
+    {
+      "english": "Kind words, bloom like flowers.",
+      "italian": "Le parole gentili, fioriscono come fiori.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664471"
+    },
+    {
+      "english": "Good music, lifts your soul.",
+      "italian": "La buona musica, eleva l'anima.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664472"
+    },
+    {
+      "english": "Sharing food, builds friendship.",
+      "italian": "Condividere il cibo, costruisce amicizia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664473"
+    },
+    {
+      "english": "A good book, is a portal.",
+      "italian": "Un buon libro, è un portale.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664474"
+    },
+    {
+      "english": "The smell of rain, is so fresh.",
+      "italian": "L'odore della pioggia, è così fresco.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664475"
+    },
+    {
+      "english": "Puppies, wag their tails happily.",
+      "italian": "I cuccioli, scodinzolano felicemente.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664476"
+    },
+    {
+      "english": "Learning something new, sparks delight.",
+      "italian": "Imparare qualcosa di nuovo, accende il piacere.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664477"
+    },
+    {
+      "english": "A clear sky, feels so open.",
+      "italian": "Un cielo sereno, sembra così aperto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664478"
+    },
+    {
+      "english": "Making someone smile, is a gift.",
+      "italian": "Far sorridere qualcuno, è un dono.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664479"
+    },
+    {
+      "english": "Fresh bread, smells like home.",
+      "italian": "Il pane fresco, profuma di casa.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664480"
+    },
+    {
+      "english": "A cozy blanket, brings comfort.",
+      "italian": "Una coperta accogliente, porta conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664481"
+    },
+    {
+      "english": "Stars at night, are tiny diamonds.",
+      "italian": "Le stelle di notte, sono piccoli diamanti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664482"
+    },
+    {
+      "english": "Singing out loud, feels liberating.",
+      "italian": "Cantare a squarciagola, è liberatorio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664483"
+    },
+    {
+      "english": "A cup of tea, warms the soul.",
+      "italian": "Una tazza di tè, scalda il cuore.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664484"
+    },
+    {
+      "english": "Helping a stranger, feels good.",
+      "italian": "Aiutare uno sconosciuto, fa stare bene.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664485"
+    },
+    {
+      "english": "Finding lost treasures, is exciting.",
+      "italian": "Trovare tesori perduti, è emozionante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664486"
+    },
+    {
+      "english": "A good surprise, brightens the day.",
+      "italian": "Una bella sorpresa, illumina la giornata.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664487"
+    },
+    {
+      "english": "The smell of flowers, is delightful.",
+      "italian": "Il profumo dei fiori, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664488"
+    },
+    {
+      "english": "Warm sunlight, feels like a hug.",
+      "italian": "La luce del sole calda, sembra un abbraccio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664489"
+    },
+    {
+      "english": "A clean room, brings peace.",
+      "italian": "Una stanza pulita, porta serenità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664490"
+    },
+    {
+      "english": "Accomplishing a goal, is thrilling.",
+      "italian": "Raggiungere un obiettivo, è esaltante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664491"
+    },
+    {
+      "english": "Waterfalls, are nature’s music.",
+      "italian": "Le cascate, sono la musica della natura.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664492"
+    },
+    {
+      "english": "A genuine compliment, makes you shine.",
+      "italian": "Un complimento sincero, ti fa brillare.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664493"
+    },
+    {
+      "english": "The smell of coffee, is invigorating.",
+      "italian": "L'aroma del caffè, è tonificante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664494"
+    },
+    {
+      "english": "Seeing old friends, brings happiness.",
+      "italian": "Vedere vecchi amici, porta felicità.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664495"
+    },
+    {
+      "english": "A gentle breeze, whispers secrets.",
+      "italian": "Una brezza leggera, sussurra segreti.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664495"
+    },
+    {
+      "english": "Finding a perfect shell, is a joy.",
+      "italian": "Trovare una conchiglia perfetta, è una gioia.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664496"
+    },
+    {
+      "english": "A warm cookie, is pure comfort.",
+      "italian": "Un biscotto caldo, è puro conforto.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664497"
+    },
+    {
+      "english": "Watching fireflies, is magical.",
+      "italian": "Guardare le lucciole, è magico.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664498"
+    },
+    {
+      "english": "A quiet moment, recharges the spirit.",
+      "italian": "Un momento di quiete, ricarica lo spirito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664499"
+    },
+    {
+      "english": "Sweet dreams, make mornings brighter.",
+      "italian": "Sogni d'oro, rendono le mattine più belle.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664500"
+    },
+    {
+      "english": "The sound of waves, is soothing.",
+      "italian": "Il suono delle onde, è rilassante.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664501"
+    },
+    {
+      "english": "A warm bath, melts away stress.",
+      "italian": "Un bagno caldo, scioglie lo stress.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664502"
+    },
+    {
+      "english": "Seeing a rainbow, is a good omen.",
+      "italian": "Vedere un arcobaleno, è di buon auspicio.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664503"
+    },
+    {
+      "english": "A shared secret, creates a bond.",
+      "italian": "Un segreto condiviso, crea un legame.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664504"
+    },
+    {
+      "english": "The taste of ripe fruit, is amazing.",
+      "italian": "Il sapore della frutta matura, è squisito.",
+      "category": "Joy",
+      "generated_at": "2026-10-05T06:33:06.664505"
     }
   ],
-  "last_updated": "2026-10-04T06:37:21.871469"
+  "last_updated": "2026-10-05T06:33:06.664507"
 }
