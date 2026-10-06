@@ -54719,7 +54719,727 @@
       "italian": "Il sapore della frutta matura, è squisito.",
       "category": "Joy",
       "generated_at": "2026-10-05T06:33:06.664505"
+    },
+    {
+      "english": "Share a laugh, it's free.",
+      "italian": "Condividi una risata, è gratis.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006448"
+    },
+    {
+      "english": "Kindness, a sunshine day.",
+      "italian": "Gentilezza, un giorno di sole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006459"
+    },
+    {
+      "english": "A kind word, heals wounds.",
+      "italian": "Una parola gentile, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006461"
+    },
+    {
+      "english": "Give a hug, it's magic.",
+      "italian": "Dai un abbraccio, è magia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006463"
+    },
+    {
+      "english": "Compliments, like little sparks.",
+      "italian": "Complimenti, come piccole scintille.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006464"
+    },
+    {
+      "english": "Patience is a virtue, folks.",
+      "italian": "La pazienza è una virtù, gente.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006465"
+    },
+    {
+      "english": "Share your joy, multiply it.",
+      "italian": "Condividi la tua gioia, moltiplicala.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006467"
+    },
+    {
+      "english": "Gratitude, a sweet feeling.",
+      "italian": "Gratitudine, una dolce sensazione.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006470"
+    },
+    {
+      "english": "Empathy, understand others.",
+      "italian": "Empatia, capisci gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006472"
+    },
+    {
+      "english": "A smile costs nothing, means much.",
+      "italian": "Un sorriso costa niente, significa molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006473"
+    },
+    {
+      "english": "Offer help, it's rewarding.",
+      "italian": "Offri aiuto, è gratificante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006475"
+    },
+    {
+      "english": "Kindness costs zero, buys smiles.",
+      "italian": "La gentilezza costa zero, compra sorrisi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006476"
+    },
+    {
+      "english": "Respect differences, love humanity.",
+      "italian": "Rispetta le differenze, ama l'umanità.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006477"
+    },
+    {
+      "english": "Good deeds, bright future.",
+      "italian": "Buone azioni, futuro brillante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006478"
+    },
+    {
+      "english": "Cheer someone up, it's nice.",
+      "italian": "Tira su qualcuno, fa piacere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006479"
+    },
+    {
+      "english": "A listening ear, priceless.",
+      "italian": "Un orecchio che ascolta, impagabile.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006480"
+    },
+    {
+      "english": "Be kind, always and everywhere.",
+      "italian": "Sii gentile, sempre e ovunque.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006481"
+    },
+    {
+      "english": "Make a difference, with love.",
+      "italian": "Fai la differenza, con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006482"
+    },
+    {
+      "english": "Encourage others, they'll fly.",
+      "italian": "Incoraggia gli altri, voleranno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006483"
+    },
+    {
+      "english": "A little bit of kindness, goes far.",
+      "italian": "Un po' di gentilezza, va lontano.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006484"
+    },
+    {
+      "english": "Be nice, it's a superpower.",
+      "italian": "Sii carino, è un superpotere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006486"
+    },
+    {
+      "english": "Your kindness matters, a lot.",
+      "italian": "La tua gentilezza conta, molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006486"
+    },
+    {
+      "english": "Share warmth, like a fire.",
+      "italian": "Condividi calore, come un fuoco.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006488"
+    },
+    {
+      "english": "A thoughtful gesture, is golden.",
+      "italian": "Un gesto premuroso, è d'oro.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006489"
+    },
+    {
+      "english": "Love yourself, love the world.",
+      "italian": "Ama te stesso, ama il mondo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006490"
+    },
+    {
+      "english": "Kindness plants seeds, of good.",
+      "italian": "La gentilezza pianta semi, di bene.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006491"
+    },
+    {
+      "english": "Gentle words, soft impact.",
+      "italian": "Parole gentili, impatto morbido.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006492"
+    },
+    {
+      "english": "Kindness is never wasted, ever.",
+      "italian": "La gentilezza non è mai sprecata, mai.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006493"
+    },
+    {
+      "english": "Share a kindness, make a day.",
+      "italian": "Condividi una gentilezza, crea un giorno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006494"
+    },
+    {
+      "english": "Share a laugh, it's free.",
+      "italian": "Condividi una risata, è gratis.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006495"
+    },
+    {
+      "english": "Kindness, a sunshine day.",
+      "italian": "Gentilezza, un giorno di sole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006496"
+    },
+    {
+      "english": "A kind word, heals wounds.",
+      "italian": "Una parola gentile, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006497"
+    },
+    {
+      "english": "Give a hug, it's magic.",
+      "italian": "Dai un abbraccio, è magia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006498"
+    },
+    {
+      "english": "Compliments, like little sparks.",
+      "italian": "Complimenti, come piccole scintille.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006500"
+    },
+    {
+      "english": "Patience is a virtue, folks.",
+      "italian": "La pazienza è una virtù, gente.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006501"
+    },
+    {
+      "english": "Share your joy, multiply it.",
+      "italian": "Condividi la tua gioia, moltiplicala.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006502"
+    },
+    {
+      "english": "Gratitude, a sweet feeling.",
+      "italian": "Gratitudine, una dolce sensazione.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006503"
+    },
+    {
+      "english": "Empathy, understand others.",
+      "italian": "Empatia, capisci gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006504"
+    },
+    {
+      "english": "A smile costs nothing, means much.",
+      "italian": "Un sorriso costa niente, significa molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006505"
+    },
+    {
+      "english": "Offer help, it's rewarding.",
+      "italian": "Offri aiuto, è gratificante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006506"
+    },
+    {
+      "english": "Kindness costs zero, buys smiles.",
+      "italian": "La gentilezza costa zero, compra sorrisi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006507"
+    },
+    {
+      "english": "Respect differences, love humanity.",
+      "italian": "Rispetta le differenze, ama l'umanità.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006509"
+    },
+    {
+      "english": "Good deeds, bright future.",
+      "italian": "Buone azioni, futuro brillante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006510"
+    },
+    {
+      "english": "Cheer someone up, it's nice.",
+      "italian": "Tira su qualcuno, fa piacere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006511"
+    },
+    {
+      "english": "A listening ear, priceless.",
+      "italian": "Un orecchio che ascolta, impagabile.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006512"
+    },
+    {
+      "english": "Be kind, always and everywhere.",
+      "italian": "Sii gentile, sempre e ovunque.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006513"
+    },
+    {
+      "english": "Make a difference, with love.",
+      "italian": "Fai la differenza, con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006514"
+    },
+    {
+      "english": "Encourage others, they'll fly.",
+      "italian": "Incoraggia gli altri, voleranno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006515"
+    },
+    {
+      "english": "A little bit of kindness, goes far.",
+      "italian": "Un po' di gentilezza, va lontano.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006516"
+    },
+    {
+      "english": "Be nice, it's a superpower.",
+      "italian": "Sii carino, è un superpotere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006517"
+    },
+    {
+      "english": "Your kindness matters, a lot.",
+      "italian": "La tua gentilezza conta, molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006518"
+    },
+    {
+      "english": "Share warmth, like a fire.",
+      "italian": "Condividi calore, come un fuoco.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006519"
+    },
+    {
+      "english": "A thoughtful gesture, is golden.",
+      "italian": "Un gesto premuroso, è d'oro.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006520"
+    },
+    {
+      "english": "Love yourself, love the world.",
+      "italian": "Ama te stesso, ama il mondo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006522"
+    },
+    {
+      "english": "Kindness plants seeds, of good.",
+      "italian": "La gentilezza pianta semi, di bene.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006523"
+    },
+    {
+      "english": "Gentle words, soft impact.",
+      "italian": "Parole gentili, impatto morbido.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006524"
+    },
+    {
+      "english": "Kindness is never wasted, ever.",
+      "italian": "La gentilezza non è mai sprecata, mai.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006525"
+    },
+    {
+      "english": "Share a kindness, make a day.",
+      "italian": "Condividi una gentilezza, crea un giorno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006526"
+    },
+    {
+      "english": "Share a laugh, it's free.",
+      "italian": "Condividi una risata, è gratis.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006527"
+    },
+    {
+      "english": "Kindness, a sunshine day.",
+      "italian": "Gentilezza, un giorno di sole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006529"
+    },
+    {
+      "english": "A kind word, heals wounds.",
+      "italian": "Una parola gentile, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006530"
+    },
+    {
+      "english": "Give a hug, it's magic.",
+      "italian": "Dai un abbraccio, è magia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006531"
+    },
+    {
+      "english": "Compliments, like little sparks.",
+      "italian": "Complimenti, come piccole scintille.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006532"
+    },
+    {
+      "english": "Patience is a virtue, folks.",
+      "italian": "La pazienza è una virtù, gente.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006533"
+    },
+    {
+      "english": "Share your joy, multiply it.",
+      "italian": "Condividi la tua gioia, moltiplicala.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006535"
+    },
+    {
+      "english": "Gratitude, a sweet feeling.",
+      "italian": "Gratitudine, una dolce sensazione.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006536"
+    },
+    {
+      "english": "Empathy, understand others.",
+      "italian": "Empatia, capisci gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006537"
+    },
+    {
+      "english": "A smile costs nothing, means much.",
+      "italian": "Un sorriso costa niente, significa molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006538"
+    },
+    {
+      "english": "Offer help, it's rewarding.",
+      "italian": "Offri aiuto, è gratificante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006539"
+    },
+    {
+      "english": "Kindness costs zero, buys smiles.",
+      "italian": "La gentilezza costa zero, compra sorrisi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006541"
+    },
+    {
+      "english": "Respect differences, love humanity.",
+      "italian": "Rispetta le differenze, ama l'umanità.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006542"
+    },
+    {
+      "english": "Good deeds, bright future.",
+      "italian": "Buone azioni, futuro brillante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006544"
+    },
+    {
+      "english": "Cheer someone up, it's nice.",
+      "italian": "Tira su qualcuno, fa piacere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006545"
+    },
+    {
+      "english": "A listening ear, priceless.",
+      "italian": "Un orecchio che ascolta, impagabile.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006546"
+    },
+    {
+      "english": "Be kind, always and everywhere.",
+      "italian": "Sii gentile, sempre e ovunque.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006547"
+    },
+    {
+      "english": "Make a difference, with love.",
+      "italian": "Fai la differenza, con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006548"
+    },
+    {
+      "english": "Encourage others, they'll fly.",
+      "italian": "Incoraggia gli altri, voleranno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006549"
+    },
+    {
+      "english": "A little bit of kindness, goes far.",
+      "italian": "Un po' di gentilezza, va lontano.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006550"
+    },
+    {
+      "english": "Be nice, it's a superpower.",
+      "italian": "Sii carino, è un superpotere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006551"
+    },
+    {
+      "english": "Your kindness matters, a lot.",
+      "italian": "La tua gentilezza conta, molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006552"
+    },
+    {
+      "english": "Share warmth, like a fire.",
+      "italian": "Condividi calore, come un fuoco.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006553"
+    },
+    {
+      "english": "A thoughtful gesture, is golden.",
+      "italian": "Un gesto premuroso, è d'oro.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006554"
+    },
+    {
+      "english": "Love yourself, love the world.",
+      "italian": "Ama te stesso, ama il mondo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006555"
+    },
+    {
+      "english": "Kindness plants seeds, of good.",
+      "italian": "La gentilezza pianta semi, di bene.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006557"
+    },
+    {
+      "english": "Gentle words, soft impact.",
+      "italian": "Parole gentili, impatto morbido.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006558"
+    },
+    {
+      "english": "Kindness is never wasted, ever.",
+      "italian": "La gentilezza non è mai sprecata, mai.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006559"
+    },
+    {
+      "english": "Share a kindness, make a day.",
+      "italian": "Condividi una gentilezza, crea un giorno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006560"
+    },
+    {
+      "english": "Share a laugh, it's free.",
+      "italian": "Condividi una risata, è gratis.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006561"
+    },
+    {
+      "english": "Kindness, a sunshine day.",
+      "italian": "Gentilezza, un giorno di sole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006562"
+    },
+    {
+      "english": "A kind word, heals wounds.",
+      "italian": "Una parola gentile, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006564"
+    },
+    {
+      "english": "Give a hug, it's magic.",
+      "italian": "Dai un abbraccio, è magia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006565"
+    },
+    {
+      "english": "Compliments, like little sparks.",
+      "italian": "Complimenti, come piccole scintille.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006566"
+    },
+    {
+      "english": "Patience is a virtue, folks.",
+      "italian": "La pazienza è una virtù, gente.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006567"
+    },
+    {
+      "english": "Share your joy, multiply it.",
+      "italian": "Condividi la tua gioia, moltiplicala.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006568"
+    },
+    {
+      "english": "Gratitude, a sweet feeling.",
+      "italian": "Gratitudine, una dolce sensazione.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006569"
+    },
+    {
+      "english": "Empathy, understand others.",
+      "italian": "Empatia, capisci gli altri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006570"
+    },
+    {
+      "english": "A smile costs nothing, means much.",
+      "italian": "Un sorriso costa niente, significa molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006571"
+    },
+    {
+      "english": "Offer help, it's rewarding.",
+      "italian": "Offri aiuto, è gratificante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006573"
+    },
+    {
+      "english": "Kindness costs zero, buys smiles.",
+      "italian": "La gentilezza costa zero, compra sorrisi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006574"
+    },
+    {
+      "english": "Respect differences, love humanity.",
+      "italian": "Rispetta le differenze, ama l'umanità.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006575"
+    },
+    {
+      "english": "Good deeds, bright future.",
+      "italian": "Buone azioni, futuro brillante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006576"
+    },
+    {
+      "english": "Cheer someone up, it's nice.",
+      "italian": "Tira su qualcuno, fa piacere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006577"
+    },
+    {
+      "english": "A listening ear, priceless.",
+      "italian": "Un orecchio che ascolta, impagabile.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006578"
+    },
+    {
+      "english": "Be kind, always and everywhere.",
+      "italian": "Sii gentile, sempre e ovunque.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006579"
+    },
+    {
+      "english": "Make a difference, with love.",
+      "italian": "Fai la differenza, con amore.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006580"
+    },
+    {
+      "english": "Encourage others, they'll fly.",
+      "italian": "Incoraggia gli altri, voleranno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006581"
+    },
+    {
+      "english": "A little bit of kindness, goes far.",
+      "italian": "Un po' di gentilezza, va lontano.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006582"
+    },
+    {
+      "english": "Be nice, it's a superpower.",
+      "italian": "Sii carino, è un superpotere.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006583"
+    },
+    {
+      "english": "Your kindness matters, a lot.",
+      "italian": "La tua gentilezza conta, molto.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006584"
+    },
+    {
+      "english": "Share warmth, like a fire.",
+      "italian": "Condividi calore, come un fuoco.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006585"
+    },
+    {
+      "english": "A thoughtful gesture, is golden.",
+      "italian": "Un gesto premuroso, è d'oro.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006586"
+    },
+    {
+      "english": "Love yourself, love the world.",
+      "italian": "Ama te stesso, ama il mondo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006587"
+    },
+    {
+      "english": "Kindness plants seeds, of good.",
+      "italian": "La gentilezza pianta semi, di bene.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006588"
+    },
+    {
+      "english": "Gentle words, soft impact.",
+      "italian": "Parole gentili, impatto morbido.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006589"
+    },
+    {
+      "english": "Kindness is never wasted, ever.",
+      "italian": "La gentilezza non è mai sprecata, mai.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006590"
+    },
+    {
+      "english": "Share a kindness, make a day.",
+      "italian": "Condividi una gentilezza, crea un giorno.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006591"
+    },
+    {
+      "english": "Share a laugh, it's free.",
+      "italian": "Condividi una risata, è gratis.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006592"
+    },
+    {
+      "english": "Kindness, a sunshine day.",
+      "italian": "Gentilezza, un giorno di sole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006594"
+    },
+    {
+      "english": "A kind word, heals wounds.",
+      "italian": "Una parola gentile, cura le ferite.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006595"
+    },
+    {
+      "english": "Give a hug, it's magic.",
+      "italian": "Dai un abbraccio, è magia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-06T07:10:48.006596"
     }
   ],
-  "last_updated": "2026-10-05T06:33:06.664507"
+  "last_updated": "2026-10-06T07:10:48.006598"
 }
