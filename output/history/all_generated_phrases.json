@@ -61199,7 +61199,727 @@
       "italian": "Non mollare adesso, sei fantastico.",
       "category": "Perseverance",
       "generated_at": "2026-10-13T07:20:38.338562"
+    },
+    {
+      "english": "Life is a party, dress accordingly.",
+      "italian": "La vita è una festa, vestiti bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088435"
+    },
+    {
+      "english": "Eat pasta, be happy, right?",
+      "italian": "Mangia pasta, sii felice, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088450"
+    },
+    {
+      "english": "Smile more, worry less, always.",
+      "italian": "Sorridi di più, preoccupati meno, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088451"
+    },
+    {
+      "english": "Today is a gift, open it, ciao!",
+      "italian": "Oggi è un regalo, aprilo, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088453"
+    },
+    {
+      "english": "Good vibes only, please, grazie.",
+      "italian": "Solo vibrazioni positive, per favore, grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088453"
+    },
+    {
+      "english": "Dream big, live bolder, yes!",
+      "italian": "Sogna in grande, vivi più audace, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088454"
+    },
+    {
+      "english": "Be kind, always, it's free.",
+      "italian": "Sii gentile, sempre, è gratis.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088456"
+    },
+    {
+      "english": "Adventure calls, answer it, pronto!",
+      "italian": "L'avventura chiama, rispondi, pronto!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088460"
+    },
+    {
+      "english": "Make memories, laugh loud, okay?",
+      "italian": "Crea ricordi, ridi forte, va bene?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088461"
+    },
+    {
+      "english": "Find joy, in small things, yeah!",
+      "italian": "Trova gioia, nelle piccole cose, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088462"
+    },
+    {
+      "english": "Coffee first, then conquer, maybe.",
+      "italian": "Caffè prima, poi conquista, forse.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088463"
+    },
+    {
+      "english": "Be yourself, everyone else is taken.",
+      "italian": "Sii te stesso, tutti gli altri sono occupati.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088464"
+    },
+    {
+      "english": "Life is short, eat dessert first.",
+      "italian": "La vita è breve, mangia il dolce prima.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088465"
+    },
+    {
+      "english": "Sunshine on my mind, yes please.",
+      "italian": "Sole nella mia mente, sì grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088466"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088466"
+    },
+    {
+      "english": "Make today amazing, why not?",
+      "italian": "Rendi oggi fantastico, perché no?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088467"
+    },
+    {
+      "english": "Good things take time, breathe.",
+      "italian": "Le cose buone richiedono tempo, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088468"
+    },
+    {
+      "english": "Spread love, everywhere you go.",
+      "italian": "Diffondi amore, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088468"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "italian": "Vivi nel momento, davvero.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088469"
+    },
+    {
+      "english": "Be grateful, for everything, always.",
+      "italian": "Sii grato, per tutto, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088469"
+    },
+    {
+      "english": "Follow your dreams, they know the way.",
+      "italian": "Segui i tuoi sogni, conoscono la strada.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088470"
+    },
+    {
+      "english": "You are enough, believe it.",
+      "italian": "Sei abbastanza, credici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088471"
+    },
+    {
+      "english": "Let your light shine, brightly.",
+      "italian": "Lascia che la tua luce brilli, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088471"
+    },
+    {
+      "english": "Embrace the chaos, beautifully.",
+      "italian": "Abbraccia il caos, magnificamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088472"
+    },
+    {
+      "english": "Be the reason, someone smiles, today.",
+      "italian": "Sii la ragione, per cui qualcuno sorride, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088472"
+    },
+    {
+      "english": "Stay positive, think happy thoughts.",
+      "italian": "Resta positivo, pensa a pensieri felici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088473"
+    },
+    {
+      "english": "Life's too short, for bad wine.",
+      "italian": "La vita è troppo corta, per vino cattivo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088473"
+    },
+    {
+      "english": "Just add sparkle, wherever you go.",
+      "italian": "Aggiungi solo scintillio, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088474"
+    },
+    {
+      "english": "Create your own sunshine, always.",
+      "italian": "Crea il tuo sole, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088474"
+    },
+    {
+      "english": "Believe in magic, and pizza.",
+      "italian": "Credi nella magia, e nella pizza.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088475"
+    },
+    {
+      "english": "Be a pineapple, stand tall, wear a crown.",
+      "italian": "Sii un ananas, stai dritto, porta una corona.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088476"
+    },
+    {
+      "english": "Your only limit, is you, right?",
+      "italian": "Il tuo unico limite, sei tu, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088476"
+    },
+    {
+      "english": "Let go, and let flow, mama.",
+      "italian": "Lascia andare, e lascia fluire, mamma.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088477"
+    },
+    {
+      "english": "Be the energy, you want to attract.",
+      "italian": "Sii l'energia, che vuoi attrarre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088477"
+    },
+    {
+      "english": "Live life, with passion, always.",
+      "italian": "Vivi la vita, con passione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088478"
+    },
+    {
+      "english": "Choose joy, it's your superpower.",
+      "italian": "Scegli la gioia, è il tuo superpotere.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088478"
+    },
+    {
+      "english": "Today is your day, make it count.",
+      "italian": "Oggi è il tuo giorno, fallo contare.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088479"
+    },
+    {
+      "english": "Dance like nobody's watching, ciao!",
+      "italian": "Balla come se nessuno guardasse, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088480"
+    },
+    {
+      "english": "Life is a party, dress accordingly.",
+      "italian": "La vita è una festa, vestiti bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088481"
+    },
+    {
+      "english": "Eat pasta, be happy, right?",
+      "italian": "Mangia pasta, sii felice, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088481"
+    },
+    {
+      "english": "Smile more, worry less, always.",
+      "italian": "Sorridi di più, preoccupati meno, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088482"
+    },
+    {
+      "english": "Today is a gift, open it, ciao!",
+      "italian": "Oggi è un regalo, aprilo, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088483"
+    },
+    {
+      "english": "Good vibes only, please, grazie.",
+      "italian": "Solo vibrazioni positive, per favore, grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088484"
+    },
+    {
+      "english": "Dream big, live bolder, yes!",
+      "italian": "Sogna in grande, vivi più audace, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088485"
+    },
+    {
+      "english": "Be kind, always, it's free.",
+      "italian": "Sii gentile, sempre, è gratis.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088486"
+    },
+    {
+      "english": "Adventure calls, answer it, pronto!",
+      "italian": "L'avventura chiama, rispondi, pronto!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088486"
+    },
+    {
+      "english": "Make memories, laugh loud, okay?",
+      "italian": "Crea ricordi, ridi forte, va bene?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088487"
+    },
+    {
+      "english": "Find joy, in small things, yeah!",
+      "italian": "Trova gioia, nelle piccole cose, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088488"
+    },
+    {
+      "english": "Coffee first, then conquer, maybe.",
+      "italian": "Caffè prima, poi conquista, forse.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088489"
+    },
+    {
+      "english": "Be yourself, everyone else is taken.",
+      "italian": "Sii te stesso, tutti gli altri sono occupati.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088490"
+    },
+    {
+      "english": "Life is short, eat dessert first.",
+      "italian": "La vita è breve, mangia il dolce prima.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088491"
+    },
+    {
+      "english": "Sunshine on my mind, yes please.",
+      "italian": "Sole nella mia mente, sì grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088492"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088492"
+    },
+    {
+      "english": "Make today amazing, why not?",
+      "italian": "Rendi oggi fantastico, perché no?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088493"
+    },
+    {
+      "english": "Good things take time, breathe.",
+      "italian": "Le cose buone richiedono tempo, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088494"
+    },
+    {
+      "english": "Spread love, everywhere you go.",
+      "italian": "Diffondi amore, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088495"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "italian": "Vivi nel momento, davvero.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088495"
+    },
+    {
+      "english": "Be grateful, for everything, always.",
+      "italian": "Sii grato, per tutto, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088496"
+    },
+    {
+      "english": "Follow your dreams, they know the way.",
+      "italian": "Segui i tuoi sogni, conoscono la strada.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088496"
+    },
+    {
+      "english": "You are enough, believe it.",
+      "italian": "Sei abbastanza, credici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088497"
+    },
+    {
+      "english": "Let your light shine, brightly.",
+      "italian": "Lascia che la tua luce brilli, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088498"
+    },
+    {
+      "english": "Embrace the chaos, beautifully.",
+      "italian": "Abbraccia il caos, magnificamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088498"
+    },
+    {
+      "english": "Be the reason, someone smiles, today.",
+      "italian": "Sii la ragione, per cui qualcuno sorride, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088499"
+    },
+    {
+      "english": "Stay positive, think happy thoughts.",
+      "italian": "Resta positivo, pensa a pensieri felici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088500"
+    },
+    {
+      "english": "Life's too short, for bad wine.",
+      "italian": "La vita è troppo corta, per vino cattivo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088500"
+    },
+    {
+      "english": "Just add sparkle, wherever you go.",
+      "italian": "Aggiungi solo scintillio, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088501"
+    },
+    {
+      "english": "Create your own sunshine, always.",
+      "italian": "Crea il tuo sole, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088501"
+    },
+    {
+      "english": "Believe in magic, and pizza.",
+      "italian": "Credi nella magia, e nella pizza.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088502"
+    },
+    {
+      "english": "Be a pineapple, stand tall, wear a crown.",
+      "italian": "Sii un ananas, stai dritto, porta una corona.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088502"
+    },
+    {
+      "english": "Your only limit, is you, right?",
+      "italian": "Il tuo unico limite, sei tu, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088503"
+    },
+    {
+      "english": "Let go, and let flow, mama.",
+      "italian": "Lascia andare, e lascia fluire, mamma.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088504"
+    },
+    {
+      "english": "Be the energy, you want to attract.",
+      "italian": "Sii l'energia, che vuoi attrarre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088504"
+    },
+    {
+      "english": "Live life, with passion, always.",
+      "italian": "Vivi la vita, con passione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088505"
+    },
+    {
+      "english": "Choose joy, it's your superpower.",
+      "italian": "Scegli la gioia, è il tuo superpotere.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088505"
+    },
+    {
+      "english": "Today is your day, make it count.",
+      "italian": "Oggi è il tuo giorno, fallo contare.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088506"
+    },
+    {
+      "english": "Dance like nobody's watching, ciao!",
+      "italian": "Balla come se nessuno guardasse, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088507"
+    },
+    {
+      "english": "Life is a party, dress accordingly.",
+      "italian": "La vita è una festa, vestiti bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088507"
+    },
+    {
+      "english": "Eat pasta, be happy, right?",
+      "italian": "Mangia pasta, sii felice, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088508"
+    },
+    {
+      "english": "Smile more, worry less, always.",
+      "italian": "Sorridi di più, preoccupati meno, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088509"
+    },
+    {
+      "english": "Today is a gift, open it, ciao!",
+      "italian": "Oggi è un regalo, aprilo, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088510"
+    },
+    {
+      "english": "Good vibes only, please, grazie.",
+      "italian": "Solo vibrazioni positive, per favore, grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088510"
+    },
+    {
+      "english": "Dream big, live bolder, yes!",
+      "italian": "Sogna in grande, vivi più audace, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088511"
+    },
+    {
+      "english": "Be kind, always, it's free.",
+      "italian": "Sii gentile, sempre, è gratis.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088512"
+    },
+    {
+      "english": "Adventure calls, answer it, pronto!",
+      "italian": "L'avventura chiama, rispondi, pronto!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088512"
+    },
+    {
+      "english": "Make memories, laugh loud, okay?",
+      "italian": "Crea ricordi, ridi forte, va bene?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088513"
+    },
+    {
+      "english": "Find joy, in small things, yeah!",
+      "italian": "Trova gioia, nelle piccole cose, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088514"
+    },
+    {
+      "english": "Coffee first, then conquer, maybe.",
+      "italian": "Caffè prima, poi conquista, forse.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088514"
+    },
+    {
+      "english": "Be yourself, everyone else is taken.",
+      "italian": "Sii te stesso, tutti gli altri sono occupati.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088515"
+    },
+    {
+      "english": "Life is short, eat dessert first.",
+      "italian": "La vita è breve, mangia il dolce prima.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088516"
+    },
+    {
+      "english": "Sunshine on my mind, yes please.",
+      "italian": "Sole nella mia mente, sì grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088516"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "italian": "Impara qualcosa di nuovo, ogni giorno.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088517"
+    },
+    {
+      "english": "Make today amazing, why not?",
+      "italian": "Rendi oggi fantastico, perché no?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088518"
+    },
+    {
+      "english": "Good things take time, breathe.",
+      "italian": "Le cose buone richiedono tempo, respira.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088518"
+    },
+    {
+      "english": "Spread love, everywhere you go.",
+      "italian": "Diffondi amore, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088519"
+    },
+    {
+      "english": "Live in the moment, truly.",
+      "italian": "Vivi nel momento, davvero.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088520"
+    },
+    {
+      "english": "Be grateful, for everything, always.",
+      "italian": "Sii grato, per tutto, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088520"
+    },
+    {
+      "english": "Follow your dreams, they know the way.",
+      "italian": "Segui i tuoi sogni, conoscono la strada.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088521"
+    },
+    {
+      "english": "You are enough, believe it.",
+      "italian": "Sei abbastanza, credici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088521"
+    },
+    {
+      "english": "Let your light shine, brightly.",
+      "italian": "Lascia che la tua luce brilli, intensamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088522"
+    },
+    {
+      "english": "Embrace the chaos, beautifully.",
+      "italian": "Abbraccia il caos, magnificamente.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088523"
+    },
+    {
+      "english": "Be the reason, someone smiles, today.",
+      "italian": "Sii la ragione, per cui qualcuno sorride, oggi.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088523"
+    },
+    {
+      "english": "Stay positive, think happy thoughts.",
+      "italian": "Resta positivo, pensa a pensieri felici.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088524"
+    },
+    {
+      "english": "Life's too short, for bad wine.",
+      "italian": "La vita è troppo corta, per vino cattivo.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088524"
+    },
+    {
+      "english": "Just add sparkle, wherever you go.",
+      "italian": "Aggiungi solo scintillio, ovunque vai.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088525"
+    },
+    {
+      "english": "Create your own sunshine, always.",
+      "italian": "Crea il tuo sole, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088526"
+    },
+    {
+      "english": "Believe in magic, and pizza.",
+      "italian": "Credi nella magia, e nella pizza.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088526"
+    },
+    {
+      "english": "Be a pineapple, stand tall, wear a crown.",
+      "italian": "Sii un ananas, stai dritto, porta una corona.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088527"
+    },
+    {
+      "english": "Your only limit, is you, right?",
+      "italian": "Il tuo unico limite, sei tu, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088527"
+    },
+    {
+      "english": "Let go, and let flow, mama.",
+      "italian": "Lascia andare, e lascia fluire, mamma.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088528"
+    },
+    {
+      "english": "Be the energy, you want to attract.",
+      "italian": "Sii l'energia, che vuoi attrarre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088528"
+    },
+    {
+      "english": "Live life, with passion, always.",
+      "italian": "Vivi la vita, con passione, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088529"
+    },
+    {
+      "english": "Choose joy, it's your superpower.",
+      "italian": "Scegli la gioia, è il tuo superpotere.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088530"
+    },
+    {
+      "english": "Today is your day, make it count.",
+      "italian": "Oggi è il tuo giorno, fallo contare.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088530"
+    },
+    {
+      "english": "Dance like nobody's watching, ciao!",
+      "italian": "Balla come se nessuno guardasse, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088531"
+    },
+    {
+      "english": "Life is a party, dress accordingly.",
+      "italian": "La vita è una festa, vestiti bene.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088531"
+    },
+    {
+      "english": "Eat pasta, be happy, right?",
+      "italian": "Mangia pasta, sii felice, vero?",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088532"
+    },
+    {
+      "english": "Smile more, worry less, always.",
+      "italian": "Sorridi di più, preoccupati meno, sempre.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088533"
+    },
+    {
+      "english": "Today is a gift, open it, ciao!",
+      "italian": "Oggi è un regalo, aprilo, ciao!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088533"
+    },
+    {
+      "english": "Good vibes only, please, grazie.",
+      "italian": "Solo vibrazioni positive, per favore, grazie.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088534"
+    },
+    {
+      "english": "Dream big, live bolder, yes!",
+      "italian": "Sogna in grande, vivi più audace, sì!",
+      "category": "Positive Life",
+      "generated_at": "2026-10-14T05:47:36.088535"
     }
   ],
-  "last_updated": "2026-10-13T07:20:38.338564"
+  "last_updated": "2026-10-14T05:47:36.088537"
 }
