@@ -61919,7 +61919,727 @@
       "italian": "Sogna in grande, vivi più audace, sì!",
       "category": "Positive Life",
       "generated_at": "2026-10-14T05:47:36.088535"
+    },
+    {
+      "english": "A true friend, is rare gold.",
+      "italian": "Un vero amico, è oro raro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610673"
+    },
+    {
+      "english": "Friends share secrets, safely.",
+      "italian": "Gli amici condividono segreti, al sicuro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610683"
+    },
+    {
+      "english": "Laughter with friends, heals wounds.",
+      "italian": "Le risate con amici, curano ferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610685"
+    },
+    {
+      "english": "A friend listens, with their heart.",
+      "italian": "Un amico ascolta, col cuore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610687"
+    },
+    {
+      "english": "Friendship grows, with time, and care.",
+      "italian": "L'amicizia cresce, col tempo, e cura.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610688"
+    },
+    {
+      "english": "Kindness from a friend, is a gift.",
+      "italian": "La gentilezza di un amico, è un dono.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610689"
+    },
+    {
+      "english": "A shared silence, with a friend, is peaceful.",
+      "italian": "Un silenzio condiviso, con un amico, è pace.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610691"
+    },
+    {
+      "english": "Good friends are, like stars.",
+      "italian": "I buoni amici sono, come stelle.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610694"
+    },
+    {
+      "english": "A friend is family, you choose.",
+      "italian": "Un amico è famiglia, che scegli.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610696"
+    },
+    {
+      "english": "Support from friends, makes you stronger.",
+      "italian": "Il supporto degli amici, ti rende più forte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610697"
+    },
+    {
+      "english": "A friend remembers, your favorite things.",
+      "italian": "Un amico ricorda, le tue cose preferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610699"
+    },
+    {
+      "english": "True friends celebrate, your successes.",
+      "italian": "I veri amici celebrano, i tuoi successi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610700"
+    },
+    {
+      "english": "Friends forgive, and forget, the small things.",
+      "italian": "Gli amici perdonano, e dimenticano, le piccole cose.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610701"
+    },
+    {
+      "english": "Friendship is a journey, not a destination.",
+      "italian": "L'amicizia è un viaggio, non una meta.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610703"
+    },
+    {
+      "english": "A friend understands, your silence.",
+      "italian": "Un amico capisce, il tuo silenzio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610704"
+    },
+    {
+      "english": "Friends make memories, unforgettable.",
+      "italian": "Gli amici creano ricordi, indimenticabili.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610705"
+    },
+    {
+      "english": "Loyalty in friendship, is golden.",
+      "italian": "La lealtà nell'amicizia, è d'oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610706"
+    },
+    {
+      "english": "A friend is a treasure, to keep.",
+      "italian": "Un amico è un tesoro, da custodire.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610707"
+    },
+    {
+      "english": "Friends inspire, you to be better.",
+      "italian": "Gli amici ti ispirano, a essere migliore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610708"
+    },
+    {
+      "english": "A good friend, is worth more, than riches.",
+      "italian": "Un buon amico, vale più, delle ricchezze.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610709"
+    },
+    {
+      "english": "Friends share dreams, and help them grow.",
+      "italian": "Gli amici condividono sogni, e li aiutano a crescere.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610710"
+    },
+    {
+      "english": "Your friend's problems, become yours too.",
+      "italian": "I problemi del tuo amico, diventano anche tuoi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610711"
+    },
+    {
+      "english": "A friend sees, your flaws, but loves you.",
+      "italian": "Un amico vede, i tuoi difetti, ma ti ama.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610712"
+    },
+    {
+      "english": "Friendship is a garden, always blooming.",
+      "italian": "L'amicizia è un giardino, sempre fiorito.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610713"
+    },
+    {
+      "english": "A friend is your mirror, reflecting goodness.",
+      "italian": "Un amico è il tuo specchio, riflettendo bontà.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610714"
+    },
+    {
+      "english": "Friends lift you up, when you fall.",
+      "italian": "Gli amici ti sollevano, quando cadi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610715"
+    },
+    {
+      "english": "You can trust, a true friend.",
+      "italian": "Puoi fidarti, di un vero amico.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610716"
+    },
+    {
+      "english": "A friend is a safe harbor, in storms.",
+      "italian": "Un amico è un porto sicuro, nelle tempeste.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610717"
+    },
+    {
+      "english": "Friendship makes life, more colorful.",
+      "italian": "L'amicizia rende la vita, più colorata.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610718"
+    },
+    {
+      "english": "A friend never judges, they understand.",
+      "italian": "Un amico non giudica, comprende.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610719"
+    },
+    {
+      "english": "Friends are the family, we choose for ourselves.",
+      "italian": "Gli amici sono la famiglia, che scegliamo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610720"
+    },
+    {
+      "english": "A friend's support, is a constant.",
+      "italian": "Il supporto di un amico, è una costante.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610721"
+    },
+    {
+      "english": "In friendship, honesty is key.",
+      "italian": "Nell'amicizia, l'onestà è la chiave.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610722"
+    },
+    {
+      "english": "A friend believes, in you, even when you don't.",
+      "italian": "Un amico crede, in te, anche quando non fai.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610724"
+    },
+    {
+      "english": "Friendship adds joy, to every moment.",
+      "italian": "L'amicizia aggiunge gioia, ad ogni momento.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610725"
+    },
+    {
+      "english": "A friend is a safe place, to be yourself.",
+      "italian": "Un amico è un posto sicuro, per essere te stesso.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610726"
+    },
+    {
+      "english": "True friends stand by you, always.",
+      "italian": "I veri amici ti stanno vicini, sempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610727"
+    },
+    {
+      "english": "Friendship is a bond, that can't break.",
+      "italian": "L'amicizia è un legame, che non si spezza.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610728"
+    },
+    {
+      "english": "A friend is a gift, that keeps giving.",
+      "italian": "Un amico è un regalo, che continua a dare.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610729"
+    },
+    {
+      "english": "A true friend, is rare gold.",
+      "italian": "Un vero amico, è oro raro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610730"
+    },
+    {
+      "english": "Friends share secrets, safely.",
+      "italian": "Gli amici condividono segreti, al sicuro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610731"
+    },
+    {
+      "english": "Laughter with friends, heals wounds.",
+      "italian": "Le risate con amici, curano ferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610732"
+    },
+    {
+      "english": "A friend listens, with their heart.",
+      "italian": "Un amico ascolta, col cuore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610733"
+    },
+    {
+      "english": "Friendship grows, with time, and care.",
+      "italian": "L'amicizia cresce, col tempo, e cura.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610735"
+    },
+    {
+      "english": "Kindness from a friend, is a gift.",
+      "italian": "La gentilezza di un amico, è un dono.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610736"
+    },
+    {
+      "english": "A shared silence, with a friend, is peaceful.",
+      "italian": "Un silenzio condiviso, con un amico, è pace.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610737"
+    },
+    {
+      "english": "Good friends are, like stars.",
+      "italian": "I buoni amici sono, come stelle.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610738"
+    },
+    {
+      "english": "A friend is family, you choose.",
+      "italian": "Un amico è famiglia, che scegli.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610740"
+    },
+    {
+      "english": "Support from friends, makes you stronger.",
+      "italian": "Il supporto degli amici, ti rende più forte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610741"
+    },
+    {
+      "english": "A friend remembers, your favorite things.",
+      "italian": "Un amico ricorda, le tue cose preferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610742"
+    },
+    {
+      "english": "True friends celebrate, your successes.",
+      "italian": "I veri amici celebrano, i tuoi successi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610743"
+    },
+    {
+      "english": "Friends forgive, and forget, the small things.",
+      "italian": "Gli amici perdonano, e dimenticano, le piccole cose.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610744"
+    },
+    {
+      "english": "Friendship is a journey, not a destination.",
+      "italian": "L'amicizia è un viaggio, non una meta.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610745"
+    },
+    {
+      "english": "A friend understands, your silence.",
+      "italian": "Un amico capisce, il tuo silenzio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610746"
+    },
+    {
+      "english": "Friends make memories, unforgettable.",
+      "italian": "Gli amici creano ricordi, indimenticabili.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610747"
+    },
+    {
+      "english": "Loyalty in friendship, is golden.",
+      "italian": "La lealtà nell'amicizia, è d'oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610748"
+    },
+    {
+      "english": "A friend is a treasure, to keep.",
+      "italian": "Un amico è un tesoro, da custodire.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610749"
+    },
+    {
+      "english": "Friends inspire, you to be better.",
+      "italian": "Gli amici ti ispirano, a essere migliore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610750"
+    },
+    {
+      "english": "A good friend, is worth more, than riches.",
+      "italian": "Un buon amico, vale più, delle ricchezze.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610751"
+    },
+    {
+      "english": "Friends share dreams, and help them grow.",
+      "italian": "Gli amici condividono sogni, e li aiutano a crescere.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610753"
+    },
+    {
+      "english": "Your friend's problems, become yours too.",
+      "italian": "I problemi del tuo amico, diventano anche tuoi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610754"
+    },
+    {
+      "english": "A friend sees, your flaws, but loves you.",
+      "italian": "Un amico vede, i tuoi difetti, ma ti ama.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610755"
+    },
+    {
+      "english": "Friendship is a garden, always blooming.",
+      "italian": "L'amicizia è un giardino, sempre fiorito.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610756"
+    },
+    {
+      "english": "A friend is your mirror, reflecting goodness.",
+      "italian": "Un amico è il tuo specchio, riflettendo bontà.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610757"
+    },
+    {
+      "english": "Friends lift you up, when you fall.",
+      "italian": "Gli amici ti sollevano, quando cadi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610758"
+    },
+    {
+      "english": "You can trust, a true friend.",
+      "italian": "Puoi fidarti, di un vero amico.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610759"
+    },
+    {
+      "english": "A friend is a safe harbor, in storms.",
+      "italian": "Un amico è un porto sicuro, nelle tempeste.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610760"
+    },
+    {
+      "english": "Friendship makes life, more colorful.",
+      "italian": "L'amicizia rende la vita, più colorata.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610761"
+    },
+    {
+      "english": "A friend never judges, they understand.",
+      "italian": "Un amico non giudica, comprende.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610762"
+    },
+    {
+      "english": "Friends are the family, we choose for ourselves.",
+      "italian": "Gli amici sono la famiglia, che scegliamo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610763"
+    },
+    {
+      "english": "A friend's support, is a constant.",
+      "italian": "Il supporto di un amico, è una costante.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610765"
+    },
+    {
+      "english": "In friendship, honesty is key.",
+      "italian": "Nell'amicizia, l'onestà è la chiave.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610766"
+    },
+    {
+      "english": "A friend believes, in you, even when you don't.",
+      "italian": "Un amico crede, in te, anche quando non fai.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610767"
+    },
+    {
+      "english": "Friendship adds joy, to every moment.",
+      "italian": "L'amicizia aggiunge gioia, ad ogni momento.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610768"
+    },
+    {
+      "english": "A friend is a safe place, to be yourself.",
+      "italian": "Un amico è un posto sicuro, per essere te stesso.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610769"
+    },
+    {
+      "english": "True friends stand by you, always.",
+      "italian": "I veri amici ti stanno vicini, sempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610770"
+    },
+    {
+      "english": "Friendship is a bond, that can't break.",
+      "italian": "L'amicizia è un legame, che non si spezza.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610771"
+    },
+    {
+      "english": "A friend is a gift, that keeps giving.",
+      "italian": "Un amico è un regalo, che continua a dare.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610772"
+    },
+    {
+      "english": "A true friend, is rare gold.",
+      "italian": "Un vero amico, è oro raro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610773"
+    },
+    {
+      "english": "Friends share secrets, safely.",
+      "italian": "Gli amici condividono segreti, al sicuro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610775"
+    },
+    {
+      "english": "Laughter with friends, heals wounds.",
+      "italian": "Le risate con amici, curano ferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610776"
+    },
+    {
+      "english": "A friend listens, with their heart.",
+      "italian": "Un amico ascolta, col cuore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610777"
+    },
+    {
+      "english": "Friendship grows, with time, and care.",
+      "italian": "L'amicizia cresce, col tempo, e cura.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610778"
+    },
+    {
+      "english": "Kindness from a friend, is a gift.",
+      "italian": "La gentilezza di un amico, è un dono.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610779"
+    },
+    {
+      "english": "A shared silence, with a friend, is peaceful.",
+      "italian": "Un silenzio condiviso, con un amico, è pace.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610780"
+    },
+    {
+      "english": "Good friends are, like stars.",
+      "italian": "I buoni amici sono, come stelle.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610781"
+    },
+    {
+      "english": "A friend is family, you choose.",
+      "italian": "Un amico è famiglia, che scegli.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610782"
+    },
+    {
+      "english": "Support from friends, makes you stronger.",
+      "italian": "Il supporto degli amici, ti rende più forte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610784"
+    },
+    {
+      "english": "A friend remembers, your favorite things.",
+      "italian": "Un amico ricorda, le tue cose preferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610785"
+    },
+    {
+      "english": "True friends celebrate, your successes.",
+      "italian": "I veri amici celebrano, i tuoi successi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610786"
+    },
+    {
+      "english": "Friends forgive, and forget, the small things.",
+      "italian": "Gli amici perdonano, e dimenticano, le piccole cose.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610787"
+    },
+    {
+      "english": "Friendship is a journey, not a destination.",
+      "italian": "L'amicizia è un viaggio, non una meta.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610788"
+    },
+    {
+      "english": "A friend understands, your silence.",
+      "italian": "Un amico capisce, il tuo silenzio.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610789"
+    },
+    {
+      "english": "Friends make memories, unforgettable.",
+      "italian": "Gli amici creano ricordi, indimenticabili.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610790"
+    },
+    {
+      "english": "Loyalty in friendship, is golden.",
+      "italian": "La lealtà nell'amicizia, è d'oro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610792"
+    },
+    {
+      "english": "A friend is a treasure, to keep.",
+      "italian": "Un amico è un tesoro, da custodire.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610793"
+    },
+    {
+      "english": "Friends inspire, you to be better.",
+      "italian": "Gli amici ti ispirano, a essere migliore.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610794"
+    },
+    {
+      "english": "A good friend, is worth more, than riches.",
+      "italian": "Un buon amico, vale più, delle ricchezze.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610795"
+    },
+    {
+      "english": "Friends share dreams, and help them grow.",
+      "italian": "Gli amici condividono sogni, e li aiutano a crescere.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610796"
+    },
+    {
+      "english": "Your friend's problems, become yours too.",
+      "italian": "I problemi del tuo amico, diventano anche tuoi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610797"
+    },
+    {
+      "english": "A friend sees, your flaws, but loves you.",
+      "italian": "Un amico vede, i tuoi difetti, ma ti ama.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610798"
+    },
+    {
+      "english": "Friendship is a garden, always blooming.",
+      "italian": "L'amicizia è un giardino, sempre fiorito.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610799"
+    },
+    {
+      "english": "A friend is your mirror, reflecting goodness.",
+      "italian": "Un amico è il tuo specchio, riflettendo bontà.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610800"
+    },
+    {
+      "english": "Friends lift you up, when you fall.",
+      "italian": "Gli amici ti sollevano, quando cadi.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610801"
+    },
+    {
+      "english": "You can trust, a true friend.",
+      "italian": "Puoi fidarti, di un vero amico.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610802"
+    },
+    {
+      "english": "A friend is a safe harbor, in storms.",
+      "italian": "Un amico è un porto sicuro, nelle tempeste.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610803"
+    },
+    {
+      "english": "Friendship makes life, more colorful.",
+      "italian": "L'amicizia rende la vita, più colorata.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610804"
+    },
+    {
+      "english": "A friend never judges, they understand.",
+      "italian": "Un amico non giudica, comprende.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610805"
+    },
+    {
+      "english": "Friends are the family, we choose for ourselves.",
+      "italian": "Gli amici sono la famiglia, che scegliamo.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610806"
+    },
+    {
+      "english": "A friend's support, is a constant.",
+      "italian": "Il supporto di un amico, è una costante.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610807"
+    },
+    {
+      "english": "In friendship, honesty is key.",
+      "italian": "Nell'amicizia, l'onestà è la chiave.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610809"
+    },
+    {
+      "english": "A friend believes, in you, even when you don't.",
+      "italian": "Un amico crede, in te, anche quando non fai.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610810"
+    },
+    {
+      "english": "Friendship adds joy, to every moment.",
+      "italian": "L'amicizia aggiunge gioia, ad ogni momento.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610811"
+    },
+    {
+      "english": "A friend is a safe place, to be yourself.",
+      "italian": "Un amico è un posto sicuro, per essere te stesso.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610812"
+    },
+    {
+      "english": "True friends stand by you, always.",
+      "italian": "I veri amici ti stanno vicini, sempre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610813"
+    },
+    {
+      "english": "Friendship is a bond, that can't break.",
+      "italian": "L'amicizia è un legame, che non si spezza.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610814"
+    },
+    {
+      "english": "A friend is a gift, that keeps giving.",
+      "italian": "Un amico è un regalo, che continua a dare.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610815"
+    },
+    {
+      "english": "A true friend, is rare gold.",
+      "italian": "Un vero amico, è oro raro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610816"
+    },
+    {
+      "english": "Friends share secrets, safely.",
+      "italian": "Gli amici condividono segreti, al sicuro.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610817"
+    },
+    {
+      "english": "Laughter with friends, heals wounds.",
+      "italian": "Le risate con amici, curano ferite.",
+      "category": "Friendship",
+      "generated_at": "2026-10-15T05:33:08.610818"
     }
   ],
-  "last_updated": "2026-10-14T05:47:36.088537"
+  "last_updated": "2026-10-15T05:33:08.610820"
 }
