@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
+TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -99,21 +99,49 @@ VIRAL_STYLES = [
 ]
 
 # AI Model
-AI_MODEL = os.getenv("AI_MODEL")
-
-if not AI_MODEL:
-    raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
-    )
+AI_MODEL = os.getenv("AI_MODEL") or "gemini-fast"
 
 
-# ============== PHRASE HISTORY MANAGEMENT ==============
+# ============== PHRASE HISTORY MANAGEMENT & DEDUPLICATION ==============
+
+def normalize_phrase_text(text: str) -> str:
+    """Normalize phrase text for strict duplicate detection (lowercase, alphanumeric only)."""
+    import re
+    return re.sub(r'[^a-z0-9\s]', '', text.lower()).strip()
+
+
+def get_phrase_words(text: str) -> set:
+    """Extract set of words for similarity check, ignoring trivial single-letter words."""
+    import re
+    words = set(re.findall(r'\b[a-z0-9]+\b', text.lower()))
+    return {w for w in words if len(w) > 1}
+
+
+def is_phrase_similar_fast(cand_words: set, reference_words_list: list, threshold: float = 0.65) -> bool:
+    """Fast similarity check using Jaccard word overlap to prevent rephrased duplicates."""
+    if not cand_words:
+        return False
+    cand_len = len(cand_words)
+    for ref_words in reference_words_list:
+        if not ref_words:
+            continue
+        intersection_len = len(cand_words.intersection(ref_words))
+        if intersection_len == 0:
+            continue
+        union_len = cand_len + len(ref_words) - intersection_len
+        if union_len > 0 and (intersection_len / union_len) >= threshold:
+            return True
+    return False
+
 
 def load_phrase_history():
     """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[history] Warning: Could not read history file ({e}), initializing fresh.")
     return {"phrases": [], "last_updated": None}
 
 
@@ -124,70 +152,31 @@ def save_phrase_history(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    """Check if phrase was already generated (exact match)"""
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
-
-
-def is_phrase_similar(new_phrase, used_phrases, similarity_threshold=0.6):
-    """Check if a phrase is too similar to previously used phrases"""
-    new_words = set(new_phrase.lower().split())
-
-    if len(new_words) < 3:
-        for used in used_phrases:
-            if new_phrase.lower() in used.lower() or used.lower() in new_phrase.lower():
-                return True
-        return False
-
-    for used in used_phrases:
-        used_words = set(used.lower().split())
-
-        if len(new_words) == 0 or len(used_words) == 0:
-            continue
-
-        intersection = len(new_words.intersection(used_words))
-        union = len(new_words.union(used_words))
-        similarity = intersection / union if union > 0 else 0
-
-        if similarity >= similarity_threshold:
-            return True
-
-    return False
-
-
-def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
-    """Filter out phrases that are too similar to previously used ones"""
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    unique_phrases = []
-
-    for phrase in phrases:
-        english_text = phrase.get("english", "")
-
-        if not is_phrase_similar(english_text, used_phrases, similarity_threshold):
-            unique_phrases.append(phrase)
-        else:
-            print(f"[filter] ⚠️ Skipping similar: {english_text[:50]}...")
-
-    return unique_phrases
-
-
 def add_phrases_to_history(phrases, category):
-    """Add new phrases to history"""
+    """Add new unique phrases to permanent history"""
     history = load_phrase_history()
+    existing_normalized = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history.get("phrases", [])
+        if p.get("english")
+    }
+    
+    added_count = 0
     for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "italian": phrase["italian"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
+        norm = normalize_phrase_text(phrase.get("english", ""))
+        if norm and norm not in existing_normalized:
+            existing_normalized.add(norm)
+            foreign_val = phrase.get("italian") or phrase.get("target") or phrase.get("foreign") or ""
+            history["phrases"].append({
+                "english": phrase["english"],
+                "italian": foreign_val,
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            added_count += 1
+            
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
@@ -195,10 +184,10 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Italian ~2.5s)
-    For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
+    With pedagogical pauses (English ~2.5s + 1.2s pause + Foreign ~3.0s + 2.0s pause = ~8.7-10.0s per phrase):
+    For 20 minutes (1200 seconds): 1200 / 10 = ~120 phrases.
     """
-    avg_phrase_duration = 5.0  # seconds
+    avg_phrase_duration = 10.0  # seconds
     total_seconds = target_minutes * 60
     return int(total_seconds / avg_phrase_duration)
 
@@ -234,7 +223,7 @@ def repair_and_parse_json(content: str):
             except Exception:
                 pass
 
-    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    matches = re.findall(r'\{[^{}]*"english"[^{}]*\}', cleaned)
     results = []
     for m in matches:
         try:
@@ -249,298 +238,258 @@ def repair_and_parse_json(content: str):
     raise ValueError("Could not parse or repair JSON from content")
 
 
-def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    """Generate unique bilingual phrases for long-form video"""
+# Sub-themes to guarantee rich vocabulary variety and completely prevent repetitive phrasing
+SUBTHEMES = [
+    ("Everyday Essentials & Reactions", "Focus on high-frequency everyday expressions, quick reactions, and essential conversational starters"),
+    ("Questions & Interactive Dialogue", "Focus on asking questions, polite inquiries, seeking advice, and two-way conversations"),
+    ("Mindset & Encouragement", "Focus on motivating thoughts, affirmations, giving praise, and positive mindset"),
+    ("Native Idioms & Cultural Sayings", "Focus on natural idioms, colloquial expressions, common sayings, and local phrasing"),
+    ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
+    ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
+]
 
-    category_italian = CATEGORIES_ITALIAN[category_english]
 
+def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
+    """
+    Generate 100% unique bilingual phrases for a ~20-minute long-form video.
+    Guarantees NO repetition within the video and NO repetition across past videos.
+    """
+    import requests
+    import time
+
+    category_foreign = CATEGORIES_ITALIAN[category_english]
     history = load_phrase_history()
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
+    
+    # Pre-index all past phrases in history
+    history_phrases = history.get("phrases", [])
+    history_norm_set = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    }
+    history_words_list = [
+        get_phrase_words(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    ]
+    
+    # Category-specific past phrases (to feed directly into LLM exclusion prompts)
+    category_past_english = [
+        p.get("english", "")
+        for p in history_phrases
+        if p.get("category") == category_english and p.get("english")
+    ]
 
-    viral_style = random.choice(VIRAL_STYLES)
-
-    # Generate in batches to avoid API limits and ensure quality
     all_phrases = []
-    batch_size = 20
-    max_attempts = 5
+    current_video_norm_set = set()
+    current_video_words_list = []
 
-    for batch_num in range((num_phrases + batch_size - 1) // batch_size):
-        remaining = num_phrases - len(all_phrases)
-        current_batch_size = min(batch_size, remaining)
+    num_batches = len(SUBTHEMES)
+    target_per_batch = (num_phrases + num_batches - 1) // num_batches
+    max_batch_attempts = 4
 
-        if current_batch_size <= 0:
+    print(f"[content] Starting generation of {num_phrases} UNIQUE phrases for '{category_english}' ({category_foreign})...")
+
+    for batch_idx, (theme_name, theme_guidance) in enumerate(SUBTHEMES):
+        remaining_needed = num_phrases - len(all_phrases)
+        if remaining_needed <= 0:
             break
 
-        for attempt in range(max_attempts):
+        batch_target = min(target_per_batch, remaining_needed)
+        request_count = min(30, batch_target + 10)
+        temp = round(0.85 + (batch_idx * 0.05), 2)
+        viral_style = random.choice(VIRAL_STYLES)
+
+        for attempt in range(max_batch_attempts):
+            remaining_for_batch = batch_target - (len(all_phrases) - (batch_idx * target_per_batch))
+            if remaining_for_batch <= 0 and len(all_phrases) >= (batch_idx + 1) * target_per_batch:
+                break
+
             try:
-                import requests
+                # Dynamic exclusion list:
+                # 1. Phrases generated in THIS video run (prevents repeating across batches!)
+                # 2. Recent phrases from past history for this category
+                current_generated_en = [p["english"] for p in all_phrases[-40:]]
+                recent_cat_past = category_past_english[-25:] if category_past_english else []
+                combined_exclusions = list(dict.fromkeys(current_generated_en + recent_cat_past))
+                
+                exclusion_note = ""
+                if combined_exclusions:
+                    exclusion_note = (
+                        f"\n\nCRITICAL: DO NOT use, repeat, or slightly rephrase any of these phrases:\n"
+                        + "\n".join(f"- {p}" for p in combined_exclusions[:40])
+                    )
+
+                prompt = f"""Create {request_count} UNIQUE {category_english} phrases for English speakers learning Italian.
+
+Thematic Section {batch_idx + 1}/{num_batches}: {theme_name}
+Focus: {theme_guidance} related to {category_english}.
+Style: Natural, authentic {viral_style} format - phrasing real native speakers use.
+
+RULES FOR CLEAR, NATURAL SPEECH:
+1. Length: Short and clear (4 to 12 words per phrase).
+2. Natural pauses: Use commas (,) to indicate natural pauses for speaking practice (e.g. "Dream big, start small").
+3. Everyday vocabulary: Practical, high-frequency, modern conversational vocabulary.
+4. Variety: Varied grammatical forms (imperatives, questions, observations, short idioms).
+5. NO REPETITION: Every phrase must express a distinct idea.{exclusion_note}
+
+For each phrase provide:
+1. "english": English phrase with commas for natural pauses
+2. "italian": Natural Italian translation
+3. "phonetic": Phonetic pronunciation guide for English speakers
+
+Return STRICTLY a JSON array:
+[{"english": "...", "italian": "...", "phonetic": "..."}]"""
+
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
                     "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                     "Content-Type": "application/json"
                 }
-
-                exclusion_note = ""
-                if used_phrases:
-                    recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
-                    exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
-
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Italian.
-
-Style: Make each phrase feel like a {viral_style} - something people would want to share!
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-6. Use everyday vocabulary - avoid exotic or rare words
-7. Avoid complex grammar - keep it simple and practical
-8. Vary sentence structure for natural flow
-
-For each phrase:
-1. English phrase (with commas for natural pauses)
-2. Italian translation
-3. Phonetic pronunciation guide (with tone marks, e.g., "nǐ hǎo")
-
-Return as JSON array:
-[{{"english": "...", "italian": "...", "phonetic": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
-
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Italian teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {
+                            "role": "system",
+                            "content": f"You are an expert native Italian language instructor creating viral, high-retention educational lessons for YouTube. Always return clean, valid JSON with fresh, non-repeating phrases."
+                        },
                         {"role": "user", "content": prompt}
                     ],
-                    "temperature": 1.0
+                    "temperature": temp
                 }
 
-                response = requests.post(url, headers=headers, json=payload, timeout=180)
+                response = requests.post(url, headers=headers, json=payload, timeout=90)
                 response.raise_for_status()
 
                 data = response.json()
                 content = data["choices"][0]["message"]["content"].strip()
+                candidates = repair_and_parse_json(content)
 
-                # Extract JSON
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
+                accepted_in_batch = 0
+                for cand in candidates:
+                    if len(all_phrases) >= num_phrases:
+                        break
 
-                phrases = repair_and_parse_json(content)
+                    en_text = cand.get("english", "").strip()
+                    foreign_text = (cand.get("italian") or cand.get("target") or cand.get("foreign") or "").strip()
+                    pron_text = (cand.get("phonetic") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
 
-                # Filter by similarity
-                filtered_phrases = filter_similar_phrases(phrases, history)
-
-                # Filter by length and exact duplicates
-                unique_phrases = []
-                for phrase in filtered_phrases:
-                    if len(phrase["english"].split()) > 15:
+                    if not en_text or not foreign_text:
                         continue
-                    if not is_phrase_used(phrase["english"]):
-                        unique_phrases.append(phrase)
 
-                # Add valid phrases
-                for phrase in unique_phrases:
-                    if len(all_phrases) < num_phrases:
-                        all_phrases.append(phrase)
+                    # Word count constraints (avoid single words or long run-ons)
+                    words_count = len(en_text.split())
+                    if words_count < 2 or words_count > 15:
+                        continue
 
-                if len(all_phrases) >= num_phrases:
+                    norm_en = normalize_phrase_text(en_text)
+                    if not norm_en:
+                        continue
+
+                    # 1. Check exact match in current video (STRICT ZERO DUPLICATES in same video!)
+                    if norm_en in current_video_norm_set:
+                        continue
+
+                    # 2. Check exact match in past history
+                    if norm_en in history_norm_set:
+                        continue
+
+                    # 3. Check similarity against phrases already accepted in THIS video (prevents rephrasing)
+                    cand_words = get_phrase_words(en_text)
+                    if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                        continue
+
+                    # 4. Check similarity against past history
+                    if is_phrase_similar_fast(cand_words, history_words_list, threshold=0.70):
+                        continue
+
+                    # Candidate is verified 100% unique!
+                    valid_phrase = {
+                        "english": en_text,
+                        "italian": foreign_text,
+                        "phonetic": pron_text
+                    }
+                    current_video_norm_set.add(norm_en)
+                    current_video_words_list.append(cand_words)
+                    history_norm_set.add(norm_en)
+                    history_words_list.append(cand_words)
+                    all_phrases.append(valid_phrase)
+                    accepted_in_batch += 1
+
+                print(f"  [batch {batch_idx + 1}/{num_batches} '{theme_name}'] Added {accepted_in_batch} unique phrases (progress: {len(all_phrases)}/{num_phrases})")
+
+                if len(all_phrases) >= (batch_idx + 1) * target_per_batch or len(all_phrases) >= num_phrases:
                     break
 
             except Exception as e:
-                print(f"[content] Batch {batch_num + 1}, Attempt {attempt + 1} failed: {e}")
+                print(f"  [batch {batch_idx + 1}, attempt {attempt + 1}] Notice: {e}")
+                time.sleep(2)
 
-        # Small delay between batches
-        if len(all_phrases) < num_phrases:
-            import time
-            time.sleep(1)
+        time.sleep(0.5)
 
-    # Trim to exact count and save to history
-    if not all_phrases:
-        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
-        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
-    elif len(all_phrases) < num_phrases:
-        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
-        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
-        for ex in extras:
-            if ex not in all_phrases:
-                all_phrases.append(ex)
+    # Secondary booster pass: if any slots remain to reach num_phrases, generate fresh conversational phrases
+    attempts_booster = 0
+    while len(all_phrases) < num_phrases and attempts_booster < 4:
+        attempts_booster += 1
+        needed = num_phrases - len(all_phrases)
+        print(f"[content] Booster pass {attempts_booster}: Generating {needed} additional unique phrases...")
+        try:
+            current_generated_en = [p["english"] for p in all_phrases[-40:]]
+            prompt = f"""Generate {needed + 8} FRESH, UNIQUE conversational phrases for English speakers learning Italian.
+Theme: Practical life, emotional intelligence, and interpersonal communication related to {category_english}.
+
+RULES:
+1. 3 to 12 words per phrase. Natural commas for pauses.
+2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
+
+Return STRICTLY a JSON array:
+[{"english": "...", "italian": "...", "phonetic": "..."}]"""
+
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": f"You are a native Italian tutor. Return only valid JSON array of unique phrases."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.05
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            resp.raise_for_status()
+            candidates = repair_and_parse_json(resp.json()["choices"][0]["message"]["content"])
+            
+            for cand in candidates:
+                if len(all_phrases) >= num_phrases:
+                    break
+                en_text = cand.get("english", "").strip()
+                foreign_text = (cand.get("italian") or cand.get("target") or cand.get("foreign") or "").strip()
+                pron_text = (cand.get("phonetic") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+                if not en_text or not foreign_text:
+                    continue
+                norm_en = normalize_phrase_text(en_text)
+                if not norm_en or norm_en in current_video_norm_set or norm_en in history_norm_set:
+                    continue
+                cand_words = get_phrase_words(en_text)
+                if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                    continue
+                
+                valid_phrase = {"english": en_text, "italian": foreign_text, "phonetic": pron_text}
+                current_video_norm_set.add(norm_en)
+                current_video_words_list.append(cand_words)
+                history_norm_set.add(norm_en)
+                history_words_list.append(cand_words)
+                all_phrases.append(valid_phrase)
+        except Exception as e:
+            print(f"  [booster attempt {attempts_booster}] Error: {e}")
+            time.sleep(2)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
         add_phrases_to_history(final_phrases, category_english)
 
-    print(f"[content] Generated {len(final_phrases)} phrases for long-form video")
+    print(f"\n[content] Successfully generated {len(final_phrases)} 100% UNIQUE phrases for '{category_english}'")
     return final_phrases
-
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    """Get fallback phrases, filtering out used ones with similarity check"""
-
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "italian": "Credi in te stesso.", "phonetic": "KREH-dee in teh STEH-zoh."},
-            {"english": "You are capable of amazing things.", "italian": "Sei capace di cose straordinarie.", "phonetic": "SEH-ee kah-PAH-cheh dee KOH-zeh strah-ohr-dee-NAH-ree-eh."},
-            {"english": "Dream big, start small.", "italian": "Sogna in grande, inizia piccolo.", "phonetic": "SOH-nyah een GRAHN-deh, ee-NEE-tsah PEE-koh-loh."},
-            {"english": "Your future is created by your actions.", "italian": "Il tuo futuro e creato dalle tue azioni.", "phonetic": "eel TOO-oh foo-TOO-roh eh kreh-AH-toh DAH-leh TOO-eh aht-TSYOH-nee."},
-            {"english": "Never give up on your dreams.", "italian": "Non mollare mai i tuoi sogni.", "phonetic": "non mol-LAH-reh mah-ee too-OY SOH-nyee."},
-            {"english": "Small steps lead to big changes.", "italian": "Piccoli passi portano a grandi cambiamenti.", "phonetic": "pee-KOH-lee PAHS-see por-TAH-noh ah GRAHN-dee kahm-byah-MEHN-tee."},
-            {"english": "You are stronger than you think.", "italian": "Sei piu forte di quanto pensi.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh PEN-see."},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "italian": "Ama te stesso prima.", "phonetic": "AH-mah teh STEH-zoh PREE-mah."},
-            {"english": "Love makes everything possible.", "italian": "L'amore rende tutto possibile.", "phonetic": "lah-MAH-reh REN-deh TOOT-toh pos-SEE-bee-leh."},
-            {"english": "My heart beats for you.", "italian": "Il mio cuore batte per te.", "phonetic": "eel MEE-oh KWOH-reh BAHT-teh per teh."},
-            {"english": "You are my everything.", "italian": "Sei il mio tutto.", "phonetic": "SEH-ee eel MEE-oh TOOT-toh."},
-            {"english": "Together forever, hand in hand.", "italian": "Insieme per sempre, mano nella mano.", "phonetic": "een-SYEH-meh per SEM-preh, MAH-noh NEL-lah MAH-noh."},
-        ],
-        "Success": [
-            {"english": "Success comes from hard work.", "italian": "Il successo viene dal duro lavoro.", "phonetic": "eel soo-CHEH-soh VYEH-neh dahl DOO-roh lah-VOH-roh."},
-            {"english": "Keep going, you're getting there.", "italian": "Continua, ci stai arrivando.", "phonetic": "kon-TEE-nwah, chee STAH-ee ahr-ree-VAHN-doh."},
-            {"english": "Winners never quit.", "italian": "I vincenti non si arrendono mai.", "phonetic": "ee veen-CHEN-tee non see ahr-REN-doh-noh mah-ee."},
-            {"english": "Your effort will pay off.", "italian": "I tuoi sforzi verranno premiati.", "phonetic": "ee too-OY SFOR-tsee ver-RAHN-noh preh-myah-TEE."},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "italian": "La conoscenza e potere.", "phonetic": "lah koh-noh-SHEN-tsah eh poh-TEH-reh."},
-            {"english": "Learn from yesterday, live for today.", "italian": "Impara da ieri, vivi per oggi.", "phonetic": "eem-PAH-rah dah YEH-ree, VEE-vee per OH-jee."},
-            {"english": "Think before you act.", "italian": "Pensa prima di agire.", "phonetic": "PEN-sah PREE-mah dee ah-JEE-reh."},
-            {"english": "Experience is the best teacher.", "italian": "L'esperienza e la migliore maestra.", "phonetic": "leh-speh-ree-EN-tsah eh lah meel-YOH-reh mah-EH-strah."},
-        ],
-        "Happiness": [
-            {"english": "Happiness is a choice.", "italian": "La felicita e una scelta.", "phonetic": "lah feh-lee-chee-TAH eh OO-nah SHEL-tah."},
-            {"english": "Find joy in the little things.", "italian": "Trova gioia nelle piccole cose.", "phonetic": "TROH-vah JOH-yah NEL-leh PEE-koh-leh KOH-zeh."},
-            {"english": "Smile, it makes others happy.", "italian": "Sorridi, rende felici gli altri.", "phonetic": "sor-REE-dee, REN-deh FEH-lee-chee lyee AHL-tree."},
-            {"english": "Today is a gift.", "italian": "Oggi e un regalo.", "phonetic": "OH-jee eh oon reh-GAH-loh."},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "italian": "Sii migliore di ieri.", "phonetic": "SEE meel-YOH-reh dee YEH-ree."},
-            {"english": "Grow through what you go through.", "italian": "Cresci attraverso cio che attraversi.", "phonetic": "KREH-shee ah-trah-VER-soh choh keh ah-trah-VER-see."},
-            {"english": "Invest in yourself daily.", "italian": "Investi in te stesso ogni giorno.", "phonetic": "een-VEHS-tee in teh STEH-zoh OH-nyee JOR-noh."},
-        ],
-        "Gratitude": [
-            {"english": "Thank you for everything.", "italian": "Grazie di tutto.", "phonetic": "GRAH-tsyeh dee TOOT-toh."},
-            {"english": "I appreciate your help.", "italian": "Apprezzo il tuo aiuto.", "phonetic": "ahp-PRET-soh eel TOO-oh ah-YOO-toh."},
-            {"english": "Grateful for this moment.", "italian": "Grato per questo momento.", "phonetic": "GRAH-toh per KWEH-stoh moh-MEN-toh."},
-        ],
-        "Friendship": [
-            {"english": "Friends forever, no matter what.", "italian": "Amici per sempre, non importa cosa.", "phonetic": "ah-MEE-chee per SEM-preh, non eem-POR-tah KOH-zah."},
-            {"english": "You are my best friend.", "italian": "Sei il mio migliore amico.", "phonetic": "SEH-ee eel MEE-oh meel-YOH-reh ah-MEE-koh."},
-            {"english": "True friends stick together.", "italian": "I veri amici restano insieme.", "phonetic": "ee VEH-ree ah-MEE-chee REH-stah-noh een-SYEH-meh."},
-        ],
-        "Hope": [
-            {"english": "There is always hope.", "italian": "C'e sempre speranza.", "phonetic": "cheh SEM-preh speh-RAHN-tsah."},
-            {"english": "Better days are coming.", "italian": "Giorni migliori stanno arrivando.", "phonetic": "JOR-nee meel-YOH-ree STAHN-noh ahr-ree-VAHN-doh."},
-            {"english": "Keep faith, keep going.", "italian": "Mantieni la fede, continua.", "phonetic": "mahn-tee-EH-nee lah FEH-deh, kon-TEE-nwah."},
-        ],
-        "Creativity": [
-            {"english": "Create something beautiful today.", "italian": "Crea qualcosa di bello oggi.", "phonetic": "KREH-ah KWAL-koh-zah dee BEL-loh OH-jee."},
-            {"english": "Your imagination is unlimited.", "italian": "La tua immaginazione e illimitata.", "phonetic": "lah TOO-ah eem-mah-jee-nah-TSYOH-neh eh eel-lee-mee-TAH-tah."},
-            {"english": "Art comes from the heart.", "italian": "L'arte viene dal cuore.", "phonetic": "LAHR-teh VYEH-neh dahl KWOH-reh."},
-            {"english": "Express yourself freely.", "italian": "Esprimi te stesso liberamente.", "phonetic": "eh-SPREE-mee teh STEH-zoh lee-beh-rah-MEN-teh."},
-            {"english": "Innovation starts with curiosity.", "italian": "L'innovazione inizia con la curiosita.", "phonetic": "lee-noh-vah-TSYOH-neh ee-NEE-tsah kohn lah koo-ree-oh-see-TAH."},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "italian": "Trova la pace dentro di te.", "phonetic": "TROH-vah lah PAH-cheh DEN-troh dee teh."},
-            {"english": "Breathe, relax, let go.", "italian": "Respira, rilassati, lascia andare.", "phonetic": "reh-SPEE-rah, ree-lahs-SAH-tee, LAH-shah ahn-DAH-reh."},
-            {"english": "Calm mind, happy heart.", "italian": "Mente calma, cuore felice.", "phonetic": "MEN-teh KAHL-mah, KWOH-reh FEH-lee-cheh."},
-        ],
-        "Confidence": [
-            {"english": "You are enough, just as you are.", "italian": "Sei abbastanza, proprio cosi come sei.", "phonetic": "SEH-ee ahb-bah-STAHN-tsah, PROH-pree-oh koh-ZEE koh-meh SEH-ee."},
-            {"english": "Stand tall, speak up.", "italian": "Stai dritto, parla forte.", "phonetic": "STAH-ee DREET-toh, PAHR-lah FOR-teh."},
-            {"english": "Believe in your abilities.", "italian": "Credi nelle tue capacita.", "phonetic": "KREH-dee NEL-leh TOO-eh kah-pah-chee-TAH."},
-        ],
-        "Perseverance": [
-            {"english": "Never give up, keep pushing.", "italian": "Non arrenderti mai, continua a spingere.", "phonetic": "non ahr-REN-dehr-tee mah-ee, kon-TEE-nwah ah speen-JEH-reh."},
-            {"english": "Storms make trees take deeper roots.", "italian": "Le tempeste fanno prendere radici piu profonde alle piante.", "phonetic": "leh tem-PEH-steh FAHN-noh PREN-deh-rah rah-DEE-chee pyoo proh-FOHN-deh AH-leh PEE-ahn-teh."},
-            {"english": "Patience and persistence win.", "italian": "Pazienza e perseveranza vincono.", "phonetic": "pah-tee-EN-tsah eh per-seh-veh-RAHN-tsah VEEN-koh-noh."},
-        ],
-        "Inspiration": [
-            {"english": "Let your light shine bright.", "italian": "Lascia che la tua luce brilli.", "phonetic": "LAH-shah keh lah TOO-ah LOO-cheh BREEL-lee."},
-            {"english": "Inspire others by your actions.", "italian": "Ispira gli altri con le tue azioni.", "phonetic": "ee-SPEE-rah lyee AHL-tree kohn leh TOO-eh aht-TSYOH-nee."},
-            {"english": "Be the change you want to see.", "italian": "Sii il cambiamento che vuoi vedere.", "phonetic": "SEE eel kahm-byah-MEN-toh keh VWOY VEH-deh-reh."},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "italian": "Scegli la positivita ogni giorno.", "phonetic": "SHEH-lyee lah poh-zee-tee-vee-TAH OH-nyee JOR-noh."},
-            {"english": "Good vibes only.", "italian": "Solo buone vibrazioni.", "phonetic": "SOH-loh BWOH-neh vee-brah-TSYOH-nee."},
-            {"english": "Life is what you make it.", "italian": "La vita e cio che ne fai.", "phonetic": "lah VEE-tah eh CHOH keh neh FAH-ee."},
-        ],
-        "Courage": [
-            {"english": "Be brave, take the first step.", "italian": "Sii coraggioso, fai il primo passo.", "phonetic": "SEE koh-rah-JOH-soh, FAH-ee eel PREE-moh PAHS-soh."},
-            {"english": "Courage is not the absence of fear.", "italian": "Il coraggio non e l'assenza di paura.", "phonetic": "eel koh-RAH-joh non eh lah-SEN-tsah dee POW-rah."},
-            {"english": "Face your fears head on.", "italian": "Affronta le tue paure.", "phonetic": "ah-FROHN-tah leh TOO-eh POW-reh."},
-        ],
-        "Kindness": [
-            {"english": "Be kind to everyone you meet.", "italian": "Sii gentile con tutti quelli che incontri.", "phonetic": "SEE jen-TEE-leh kohn TOOT-tee KWEL-lee keh een-KOHN-tree."},
-            {"english": "Kindness costs nothing, means everything.", "italian": "La gentilezza non costa nulla, significa tutto.", "phonetic": "lah jen-tee-LET-tsah non KOH-stah NOOL-lah, seen-YEE-fee-kah TOOT-toh."},
-            {"english": "Spread kindness wherever you go.", "italian": "Diffondi gentilezza ovunque vai.", "phonetic": "dee-FON-dee jen-tee-LET-tsah oh-VOON-kweh vah-ee."},
-        ],
-        "Patience": [
-            {"english": "Good things take time.", "italian": "Le cose buone richiedono tempo.", "phonetic": "leh KOH-zeh BWOH-neh ree-KYEH-doh-noh TEM-poh."},
-            {"english": "Wait patiently, trust the process.", "italian": "Aspetta pazientemente, fidati del processo.", "phonetic": "ah-SPET-tah pah-tee-ent-teh-MEN-teh, fee-DAH-tee del pro-CHESS-soh."},
-            {"english": "Rome wasn't built in a day.", "italian": "Roma non e stata costruita in un giorno.", "phonetic": "ROH-mah non eh STAH-tah koh-stroo-EE-tah een oon JOR-noh."},
-        ],
-        "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "italian": "Perdona e liberati.", "phonetic": "per-DOH-nah eh lee-beh-RAH-tee."},
-            {"english": "Let go of grudges, find peace.", "italian": "Lascia andare i rancori, trova la pace.", "phonetic": "LAH-shah ahn-DAH-reh ee rahn-KOH-ree, TROH-vah lah PAH-cheh."},
-            {"english": "Forgiveness is a gift to yourself.", "italian": "Il perdono e un regalo per te stesso.", "phonetic": "eel per-DOH-noh eh oon reh-GAH-loh per teh STEH-zoh."},
-        ],
-        "Strength": [
-            {"english": "You are stronger than you know.", "italian": "Sei piu forte di quanto tu sappia.", "phonetic": "SEH-ee pyoo FOR-teh dee KWAHN-toh too SAHP-pyah."},
-            {"english": "Inner strength comes from within.", "italian": "La forza interiore viene da dentro.", "phonetic": "lah FOR-tsah een-teh-ree-OH-reh VYEH-neh dah DEN-troh."},
-            {"english": "Challenges make you stronger.", "italian": "Le sfide ti rendono piu forte.", "phonetic": "leh SFEE-deh tee REN-doh-noh pyoo FOR-teh."},
-        ],
-        "Joy": [
-            {"english": "Find joy in every moment.", "italian": "Trova gioia in ogni momento.", "phonetic": "TROH-vah JOH-yah een OH-nyee moh-MEN-toh."},
-            {"english": "Joy is contagious, spread it.", "italian": "La gioia e contagiosa, diffondila.", "phonetic": "lah JOH-yah eh kon-tah-JOH-zah, dee-FON-dee-lah."},
-            {"english": "Dance like nobody's watching.", "italian": "Balla come se nessuno ti guardasse.", "phonetic": "BAHL-lah KOH-meh seh nes-SOO-noh tee gwahr-DAH-seh."},
-        ],
-        "Balance": [
-            {"english": "Find balance in your life.", "italian": "Trova equilibrio nella tua vita.", "phonetic": "TROH-vah eh-kwee-LEE-bree-oh NEL-lah TOO-ah VEE-tah."},
-            {"english": "Work hard, rest well.", "italian": "Lavora sodo, riposa bene.", "phonetic": "lah-VOH-rah SOH-doh, ree-POH-zah BEH-neh."},
-            {"english": "Too much of anything is not good.", "italian": "Troppo di tutto non fa bene.", "phonetic": "TROHP-poh dee TOOT-toh non fah BEH-neh."},
-        ],
-        "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "italian": "La crescita avviene fuori dalla tua zona di comfort.", "phonetic": "lah KRES-see-tah ah-VYEH-neh FWOR-ree DAL-lah TOO-ah DZOH-nah dee KOM-fort."},
-            {"english": "Embrace change, grow stronger.", "italian": "Abbraccia il cambiamento, diventa piu forte.", "phonetic": "ahb-BRAHT-chah eel kahm-byah-MEN-toh, dee-VEN-tah pyoo FOR-teh."},
-            {"english": "Every challenge is a chance to grow.", "italian": "Ogni sfida e un'opportunita per crescere.", "phonetic": "OH-nyee SFEE-dah eh oon-noh-por-too-nee-TAH per KREH-sheh-reh."},
-        ],
-        "Purpose": [
-            {"english": "Find your purpose, follow it.", "italian": "Trova il tuo scopo, seguilo.", "phonetic": "TROH-vah eel TOO-oh SKOH-poh, seh-GWEE-loh."},
-            {"english": "Your life has meaning.", "italian": "La tua vita ha un significato.", "phonetic": "lah TOO-ah VEE-tah ah oon seen-yee-fee-KAH-toh."},
-            {"english": "Live with intention, not accident.", "italian": "Vivi con intenzione, non per caso.", "phonetic": "VEE-vee kohn een-ten-TSYOH-neh, non per KAH-zoh."},
-        ],
-        "Mindfulness": [
-            {"english": "Be present in this moment.", "italian": "Sii presente in questo momento.", "phonetic": "SEE preh-ZEN-teh een KWEH-stoh moh-MEN-toh."},
-            {"english": "Breathe deeply, stay grounded.", "italian": "Respira profondamente, resta con i piedi per terra.", "phonetic": "reh-SPEE-rah proh-fon-dah-MEN-teh, REH-stah kohn ee PYEH-dee per TER-rah."},
-            {"english": "Notice the little things around you.", "italian": "Nota le piccole cose intorno a te.", "phonetic": "NOH-tah leh PEE-koh-leh KOH-zeh een-TOR-noh ah teh."},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-
-    history = load_phrase_history()
-    fresh_phrases = []
-    for p in fallbacks:
-        if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-            fresh_phrases.append(p)
-
-    if len(fresh_phrases) < num_phrases:
-        for cat, cat_fallbacks in all_fallbacks.items():
-            if cat != category:
-                for p in cat_fallbacks:
-                    if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-                        fresh_phrases.append(p)
-                    if len(fresh_phrases) >= num_phrases:
-                        break
-            if len(fresh_phrases) >= num_phrases:
-                break
-
-    return fresh_phrases[:num_phrases]
-
 
 # ============== AUDIO GENERATION ==============
 
@@ -629,18 +578,18 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
 
 
 def generate_all_audio(phrases: list, output_dir: str):
-    """Generate audio for all phrases with proper timing"""
+    """Generate audio for all phrases with proper timing for a ~20-minute video"""
 
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
 
     for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        italian_file = output_dir / f"italian_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+        english_file = output_dir / f"english_{i:04d}.mp3"
+        foreign_file = output_dir / f"italian_{i:04d}.mp3"
+        combined_file = output_dir / f"combined_{i:04d}.mp3"
 
-        if (i + 1) % 20 == 0:
+        if (i + 1) % 20 == 0 or (i + 1) == len(phrases):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
         # Generate English audio
@@ -649,26 +598,29 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate Italian audio
-        it_success = asyncio.run(generate_single_audio(phrase["italian"], ITALIAN_VOICE, str(italian_file)))
-        if not it_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(italian_file)]
+        # Generate Foreign audio
+        foreign_text = phrase.get("italian") or phrase.get("target") or phrase.get("foreign") or ""
+        foreign_success = asyncio.run(generate_single_audio(foreign_text, ITALIAN_VOICE, str(foreign_file)))
+        if not foreign_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(foreign_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        it_duration = get_audio_duration(str(italian_file))
+        foreign_duration = get_audio_duration(str(foreign_file))
 
-        # Add pause between English and Italian
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + it_duration
+        # Pedagogical pauses for optimal learning:
+        # 1.2s pause after English: allows learner to process English meaning and anticipate translation
+        # 2.0s pause after foreign phrase: allows learner to repeat aloud and study pronunciation
+        pause_mid = 1.2
+        pause_end = 2.0
 
-        # Combine audio files
+        # Combine audio files with precise ffmpeg apad
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(italian_file),
-            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
+            "-i", str(foreign_file),
+            "-filter_complex", f"[0:a]apad=pad_dur={pause_mid}[a0];[1:a]apad=pad_dur={pause_end}[a1];[a0][a1]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
@@ -676,10 +628,10 @@ def generate_all_audio(phrases: list, output_dir: str):
         result = subprocess.run(cmd, capture_output=True, text=True)
 
         if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
+            concat_file = output_dir / f"concat_{i:04d}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{italian_file.as_posix()}'\n")
+                f.write(f"file '{foreign_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -697,16 +649,15 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "italian": str(italian_file),
+            "italian": str(foreign_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "it_duration": it_duration
+            "foreign_duration": foreign_duration
         })
 
-    print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
+    print(f"\n[audio] Generated {len(audio_files)} phrase audios")
     return audio_files
-
 
 def get_audio_duration(audio_file: str) -> float:
     """Get audio duration in seconds"""
@@ -984,7 +935,7 @@ def generate_thumbnail(category_english: str, category_italian: str, output_path
     draw.text((VIDEO_WIDTH // 2, 530), category_italian, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
-    cta_text = "60 ESSENTIAL PHRASES"
+    cta_text = "120 ESSENTIAL PHRASES"
     draw.rounded_rectangle(
         [(VIDEO_WIDTH // 2 - 300, 650), (VIDEO_WIDTH // 2 + 300, 730)],
         radius=15, fill=(255, 210, 160, 255)
@@ -1028,35 +979,38 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_italian: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_foreign: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+    
+    count = len(phrases)
+    est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
     
     # Generate viral title variations
     titles = [
-        f"Learn Italian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_italian})",
-        f"60 Italian Phrases for {category_english} | Speak Italian Like a Native! ({category_italian})",
-        f"Master Italian {category_english} | 60 Essential Italian Phrases with Phonetic | Velocity Italian",
-        f"Italian Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Italian Fluently | {category_english} Phrases | English + Italian + Phonetic",
+        f"Learn Italian in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
+        f"{count} Italian Phrases for {category_english} | Speak Italian Like a Native! ({category_foreign})",
+        f"Master Italian {category_english} | {count} Essential Italian Phrases with Pronunciation | VELOCITY ITALIAN",
+        f"Italian Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
+        f"Speak Italian Fluently | {category_english} Phrases | English + Italian + Pronunciation",
     ]
 
     # Generate comprehensive description
-    description = f"""🇮🇹 Learn Italian with Velocity Italian! 🇮🇹
+    description = f"""🇮🇹 Learn Italian with VELOCITY ITALIAN! 🇮🇹
 
-In this video, you'll learn 60 essential Italian phrases about {category_english} ({category_italian}).
+In this video, you'll learn {count} essential Italian phrases about {category_english} ({category_foreign}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Italian
-• Correct pronunciation with Phonetic
-• Natural pauses for speaking practice
+• {count} practical {category_english} phrases in Italian
+• Correct pronunciation with phonetics
+• Natural pedagogical pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
 
     # Add timestamps for each phrase (every 10 phrases grouped)
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    avg_phrase_duration = (duration_minutes * 60) / max(len(phrases), 1)
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -1070,22 +1024,24 @@ Perfect for beginners and intermediate learners!
 
     # Add all phrases
     for i, phrase in enumerate(phrases, 1):
+        foreign_phrase_text = phrase.get("italian") or phrase.get("target") or phrase.get("foreign") or ""
+        pron_phrase_text = phrase.get("phonetic") or phrase.get("pronunciation") or phrase.get("pinyin") or phrase.get("romaji") or phrase.get("phonetic") or ""
         description += f"""
 {i}. {phrase['english']}
-   Italian: {phrase['italian']}
-   Phonetic: {phrase['phonetic']}
+   Italian: {foreign_phrase_text}
+   Pronunciation: {pron_phrase_text}
 """
 
     description += f"""
 🎯 PERFECT FOR:
 • Italian beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Italian
+• Anyone interested in Italian culture
 • Language enthusiasts and polyglots
 • Students preparing for Italian language exams
 
 💡 TIPS FOR LEARNING:
-1. Repeat each phrase out loud
+1. Repeat each phrase out loud during the pause
 2. Practice daily for best results
 3. Use the pauses to speak along
 4. Write down phrases you find difficult
@@ -1107,17 +1063,16 @@ Perfect for beginners and intermediate learners!
 • Italian Basics
 • Basic Italian Greetings
 
-#LearnItalian #ItalianPhrases #ItalianLanguage #{category_english.replace(' ', '')} #VelocityItalian #ItalianForBeginners #SpeakItalian #ItalianVocabulary #Phonetic #LanguageLearning #Italian101 #ItalianLesson
+#Italian #ItalianPhrases #ItalianLanguage #{category_english.replace(' ', '')} #VELOCITYITALIAN #ItalianForBeginners #SpeakItalian #ItalianVocabulary #LanguageLearning #Italian101 #ItalianLesson
 
 ---
-© Velocity Italian - Making Italian learning accessible to everyone!
+© VELOCITY ITALIAN - Making Italian learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Combined YouTube upload file (title + description)
     with open(output_dir / "youtube_upload_info.txt", "w", encoding="utf-8") as f:
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
@@ -1142,18 +1097,18 @@ Perfect for beginners and intermediate learners!
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Italian",
-            "Italian Phrases",
-            "Italian",
+            f"Learn Italian",
+            f"Italian Phrases",
+            f"Italian",
             category_english,
-            "Velocity Italian",
-            "Italian for Beginners",
-            "Speak Italian",
-            "Italian Vocabulary",
-            "Phonetic",
+            brand_text,
+            f"Italian for Beginners",
+            f"Speak Italian",
+            f"Italian Vocabulary",
+            "Pronunciation",
             "Language Learning",
-            "Italian 101",
-            "Italian Lesson"
+            f"Italian 101",
+            f"Italian Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -1163,7 +1118,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_italian": category_italian,
+        "category_italian": category_foreign,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1172,14 +1127,11 @@ Perfect for beginners and intermediate learners!
     with open(output_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[metadata] ✓ Generated YouTube upload files")
-    print(f"  📄 youtube_upload_info.txt (title + description + tags)")
-    print(f"  📄 video_metadata.json")
+    print(f"\n[metadata] Generated YouTube upload files")
+    print(f"  youtube_upload_info.txt (title + description + tags)")
+    print(f"  video_metadata.json")
 
     return metadata
-
-
-# ============== VIDEO CREATION WITH TRANSITIONS ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     """Create video from images and audio with PERFECT synchronization"""
@@ -1194,7 +1146,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
         duration = audio_info['duration']  # Use EXACT duration from audio
         print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + IT: {audio_info.get('it_duration', 0):.1f}s)")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         # Create video clip from image with EXACT duration matching audio
@@ -1206,7 +1158,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-t", f"{duration:.3f}",  # EXACT duration
             "-c:v", "libx264",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "ultrafast",
             str(temp_clip)
         ]
 
@@ -1421,7 +1373,7 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Velocity Italian YouTube Long-form Video Generator")
-    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
+    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (120 phrases = ~20 min video with pedagogical pauses)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
@@ -1443,7 +1395,7 @@ if __name__ == "__main__":
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
     print(f"  • Target Phrases: {args.phrases}")
-    print(f"  • Estimated Duration: ~{args.phrases * 5.5 / 60:.1f} minutes")
+    print(f"  • Estimated Duration: ~{args.phrases * 10.0 / 60:.1f} minutes")
     print(f"  • Phrase History: PERMANENT (never deletes)")
     print("="*80)
 
