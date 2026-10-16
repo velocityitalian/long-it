@@ -826,7 +826,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     english = phrase_data.get("english", "")
     italian_text = phrase_data.get("italian", "")
-    phonetic = phrase_data.get("phonetic", "")
+    phonetic = phrase_data.get("phonetic") or phrase_data.get("pronunciation") or phrase_data.get("romaji") or phrase_data.get("pinyin") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
