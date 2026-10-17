@@ -1,1 +1,725 @@
-{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "How are you, really?",
+      "italian": "Come stai, davvero?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859944"
+    },
+    {
+      "english": "You look great, seriously.",
+      "italian": "Stai benissimo, sul serio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859959"
+    },
+    {
+      "english": "I'm happy to see you.",
+      "italian": "Mi fa piacere vederti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859965"
+    },
+    {
+      "english": "What are you up to?",
+      "italian": "Che fai di bello?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859968"
+    },
+    {
+      "english": "I'm a bit tired, honestly.",
+      "italian": "Sono un po' stanco/a, onestamente.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859974"
+    },
+    {
+      "english": "It's nice, isn't it?",
+      "italian": "È bello, vero?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859978"
+    },
+    {
+      "english": "I'm really excited, wow.",
+      "italian": "Sono molto emozionato/a, wow.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.859982"
+    },
+    {
+      "english": "Just thinking about you.",
+      "italian": "Pensavo proprio a te.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860033"
+    },
+    {
+      "english": "What a surprise, hello!",
+      "italian": "Che sorpresa, ciao!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860040"
+    },
+    {
+      "english": "You made my day, thanks.",
+      "italian": "Mi hai reso la giornata, grazie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860044"
+    },
+    {
+      "english": "I'm a little nervous, yeah.",
+      "italian": "Sono un po' agitato/a, sì.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860048"
+    },
+    {
+      "english": "This is great, really.",
+      "italian": "Questo è fantastico, davvero.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860052"
+    },
+    {
+      "english": "I missed you, a lot.",
+      "italian": "Mi sei mancato/a, tanto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860055"
+    },
+    {
+      "english": "Are you free tonight?",
+      "italian": "Sei libero/a stasera?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860068"
+    },
+    {
+      "english": "Let's go out, maybe?",
+      "italian": "Usciamo, magari?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860072"
+    },
+    {
+      "english": "What do you think, hmm?",
+      "italian": "Che ne pensi, hmm?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860075"
+    },
+    {
+      "english": "I'm so glad, honestly.",
+      "italian": "Sono felicissimo/a, ad essere sincero/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860079"
+    },
+    {
+      "english": "This is unexpected, wow.",
+      "italian": "Questo è inaspettato, wow.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860082"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "italian": "Prenditi il tuo tempo, senza fretta.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860087"
+    },
+    {
+      "english": "You're very kind, thank you.",
+      "italian": "Sei molto gentile, grazie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860095"
+    },
+    {
+      "english": "I'm thinking of you often.",
+      "italian": "Ti penso spesso.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860098"
+    },
+    {
+      "english": "This is perfect, truly.",
+      "italian": "Questo è perfetto, davvero.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860102"
+    },
+    {
+      "english": "Are you busy right now?",
+      "italian": "Sei impegnato/a adesso?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860105"
+    },
+    {
+      "english": "I'm feeling good, thanks.",
+      "italian": "Mi sento bene, grazie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860109"
+    },
+    {
+      "english": "What a nice surprise, hi!",
+      "italian": "Che bella sorpresa, ciao!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860112"
+    },
+    {
+      "english": "This is amazing, wow.",
+      "italian": "È incredibile, wow.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860115"
+    },
+    {
+      "english": "It's been a while, right?",
+      "italian": "È passato un po', vero?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860119"
+    },
+    {
+      "english": "Don't worry about it.",
+      "italian": "Non preoccuparti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860122"
+    },
+    {
+      "english": "I'm looking forward to it.",
+      "italian": "Non vedo l'ora.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860126"
+    },
+    {
+      "english": "You're very sweet, honestly.",
+      "italian": "Sei molto dolce, onestamente.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860132"
+    },
+    {
+      "english": "What's your favorite thing, about this?",
+      "italian": "Qual è la tua cosa preferita, di questo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860136"
+    },
+    {
+      "english": "Tell me more, please.",
+      "italian": "Dimmi di più, per favore.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860140"
+    },
+    {
+      "english": "Do you like it here, at all?",
+      "italian": "Ti piace qui, per niente?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860144"
+    },
+    {
+      "english": "What are you looking for, in love?",
+      "italian": "Cosa cerchi, in amore?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860148"
+    },
+    {
+      "english": "Have you ever been, to Italy?",
+      "italian": "Sei mai stato, in Italia?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860152"
+    },
+    {
+      "english": "What do you do, for fun?",
+      "italian": "Cosa fai, per divertimento?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860156"
+    },
+    {
+      "english": "Can I ask you, something?",
+      "italian": "Posso chiederti, una cosa?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860160"
+    },
+    {
+      "english": "How do you feel, about that?",
+      "italian": "Come ti senti, riguardo a ciò?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860164"
+    },
+    {
+      "english": "What's your opinion, on this?",
+      "italian": "Qual è la tua opinione, su questo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860167"
+    },
+    {
+      "english": "Is this okay, with you?",
+      "italian": "Va bene così, per te?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860171"
+    },
+    {
+      "english": "Would you like to join, us?",
+      "italian": "Ti piacerebbe unirti, a noi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860175"
+    },
+    {
+      "english": "What's your plan, for tonight?",
+      "italian": "Qual è il tuo piano, per stasera?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860179"
+    },
+    {
+      "english": "Do you need help, with that?",
+      "italian": "Hai bisogno di aiuto, con quello?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860182"
+    },
+    {
+      "english": "What music do you, enjoy most?",
+      "italian": "Quale musica ti, piace di più?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860186"
+    },
+    {
+      "english": "Can we talk, later perhaps?",
+      "italian": "Possiamo parlare, più tardi magari?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860189"
+    },
+    {
+      "english": "What's your dream job, if any?",
+      "italian": "Qual è il tuo lavoro dei sogni, se hai?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860195"
+    },
+    {
+      "english": "Do you have any, preferences?",
+      "italian": "Hai delle, preferenze?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860209"
+    },
+    {
+      "english": "What kind of movies, do you like?",
+      "italian": "Che tipo di film, ti piacciono?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860213"
+    },
+    {
+      "english": "Could you show me, the way?",
+      "italian": "Potresti mostrarmi, la via?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860216"
+    },
+    {
+      "english": "What are your hobbies, truly?",
+      "italian": "Quali sono i tuoi hobby, davvero?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860220"
+    },
+    {
+      "english": "Do you prefer staying, in or out?",
+      "italian": "Preferisci stare, dentro o fuori?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860223"
+    },
+    {
+      "english": "What's your favorite food, ever?",
+      "italian": "Qual è il tuo cibo preferito, in assoluto?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860227"
+    },
+    {
+      "english": "Are you always, this punctual?",
+      "italian": "Sei sempre, così puntuale?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860230"
+    },
+    {
+      "english": "What makes you laugh, out loud?",
+      "italian": "Cosa ti fa ridere, di gusto?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860234"
+    },
+    {
+      "english": "Is there anything else, I can do?",
+      "italian": "C'è altro, che posso fare?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860238"
+    },
+    {
+      "english": "What's your favorite season, then?",
+      "italian": "Qual è la tua stagione preferita, allora?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860241"
+    },
+    {
+      "english": "Do you want to share, that?",
+      "italian": "Vuoi condividere, quello?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860245"
+    },
+    {
+      "english": "What are your thoughts, on love?",
+      "italian": "Quali sono i tuoi pensieri, sull'amore?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860248"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "italian": "Potresti ripetere, per favore?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860252"
+    },
+    {
+      "english": "What's your ideal date, like?",
+      "italian": "Com'è il tuo appuntamento, ideale?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860256"
+    },
+    {
+      "english": "You sweep me off my feet.",
+      "italian": "Mi fai perdere la testa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860259"
+    },
+    {
+      "english": "We have great chemistry.",
+      "italian": "Abbiamo una bella sintonia.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860263"
+    },
+    {
+      "english": "You make my heart flutter.",
+      "italian": "Mi fai battere il cuore.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860266"
+    },
+    {
+      "english": "I'm head over heels for you.",
+      "italian": "Sono pazzo/a di te.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860270"
+    },
+    {
+      "english": "Let's take it slow.",
+      "italian": "Andiamo con calma.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860274"
+    },
+    {
+      "english": "You're my better half.",
+      "italian": "Sei la mia dolce metà.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860278"
+    },
+    {
+      "english": "Love at first sight.",
+      "italian": "Amore a prima vista.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860281"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "italian": "Mi si ferma il cuore.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860285"
+    },
+    {
+      "english": "You are my sunshine.",
+      "italian": "Sei il mio raggio di sole.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860288"
+    },
+    {
+      "english": "Let's paint the town red.",
+      "italian": "Facciamo un po' di baldoria.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860291"
+    },
+    {
+      "english": "You stole my heart.",
+      "italian": "Mi hai rubato il cuore.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860297"
+    },
+    {
+      "english": "We click, you know?",
+      "italian": "Andiamo d'accordo, sai?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860300"
+    },
+    {
+      "english": "I'm completely smitten.",
+      "italian": "Sono completamente infatuato/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860304"
+    },
+    {
+      "english": "You're my dream come true.",
+      "italian": "Sei il mio sogno che si avvera.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860307"
+    },
+    {
+      "english": "Let's get lost together.",
+      "italian": "Perdiamoci insieme.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860310"
+    },
+    {
+      "english": "You're the apple of my eye.",
+      "italian": "Sei la luce dei miei occhi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860313"
+    },
+    {
+      "english": "I'm falling for you.",
+      "italian": "Mi sto innamorando di te.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860319"
+    },
+    {
+      "english": "You complete me.",
+      "italian": "Mi completi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860327"
+    },
+    {
+      "english": "Let's make some memories.",
+      "italian": "Creiamo dei ricordi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860331"
+    },
+    {
+      "english": "You're my missing piece.",
+      "italian": "Sei il mio tassello mancante.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860334"
+    },
+    {
+      "english": "Our souls connected.",
+      "italian": "Le nostre anime si sono connesse.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860337"
+    },
+    {
+      "english": "I feel a spark with you.",
+      "italian": "Sento una scintilla con te.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860341"
+    },
+    {
+      "english": "You're my soulmate, I think.",
+      "italian": "Sei la mia anima gemella, credo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860344"
+    },
+    {
+      "english": "Let's write our story.",
+      "italian": "Scriviamo la nostra storia.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860348"
+    },
+    {
+      "english": "You light up my world.",
+      "italian": "Illumini il mio mondo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860351"
+    },
+    {
+      "english": "We're a perfect match.",
+      "italian": "Siamo una coppia perfetta.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860355"
+    },
+    {
+      "english": "You make me feel alive.",
+      "italian": "Mi fai sentire vivo/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860358"
+    },
+    {
+      "english": "Let's chase our dreams together.",
+      "italian": "Inseguiamo i nostri sogni insieme.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860361"
+    },
+    {
+      "english": "You are my everything.",
+      "italian": "Sei il mio tutto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860364"
+    },
+    {
+      "english": "Let's take a leap of faith.",
+      "italian": "Facciamo un salto nel vuoto.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860367"
+    },
+    {
+      "english": "What are you thinking, really?",
+      "italian": "A cosa pensi, davvero?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860371"
+    },
+    {
+      "english": "I need to be honest, with you.",
+      "italian": "Devo essere onesto/a, con te.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860375"
+    },
+    {
+      "english": "This feels, very special.",
+      "italian": "Questo è, molto speciale.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860381"
+    },
+    {
+      "english": "I trust your judgment, a lot.",
+      "italian": "Mi fido molto, del tuo giudizio.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860385"
+    },
+    {
+      "english": "Patience is key, in love.",
+      "italian": "La pazienza è fondamentale, in amore.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860388"
+    },
+    {
+      "english": "Let's be vulnerable, together.",
+      "italian": "Siamo vulnerabili, insieme.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860392"
+    },
+    {
+      "english": "How do you feel, deep down?",
+      "italian": "Come ti senti, nel profondo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860396"
+    },
+    {
+      "english": "This journey, requires time.",
+      "italian": "Questo viaggio, richiede tempo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860402"
+    },
+    {
+      "english": "I appreciate, your sincerity.",
+      "italian": "Apprezzo, la tua sincerità.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860406"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "italian": "Cosa conta davvero, per te?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860409"
+    },
+    {
+      "english": "Let's explore, these feelings.",
+      "italian": "Esploriamo, questi sentimenti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860413"
+    },
+    {
+      "english": "I'm learning, about myself too.",
+      "italian": "Sto imparando, anche su me stesso/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860417"
+    },
+    {
+      "english": "This connection, feels profound.",
+      "italian": "Questa connessione, è profonda.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860420"
+    },
+    {
+      "english": "Let's listen, to our hearts.",
+      "italian": "Ascoltiamo, i nostri cuori.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860424"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "italian": "La tua prospettiva, è preziosa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860427"
+    },
+    {
+      "english": "What are your quiet hopes?",
+      "italian": "Quali sono, le tue speranze segrete?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860430"
+    },
+    {
+      "english": "I'm being open, right now.",
+      "italian": "Sono aperto/a, in questo momento.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860433"
+    },
+    {
+      "english": "Let's embrace, the uncertainty.",
+      "italian": "Abbracciamo, l'incertezza.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860437"
+    },
+    {
+      "english": "My intuition, says something.",
+      "italian": "La mia intuizione, dice qualcosa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860441"
+    },
+    {
+      "english": "This needs, careful consideration.",
+      "italian": "Questo richiede, attenta considerazione.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860447"
+    },
+    {
+      "english": "I'm reflecting, on our bond.",
+      "italian": "Sto riflettendo, sul nostro legame.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860451"
+    },
+    {
+      "english": "What is your deepest truth?",
+      "italian": "Qual è la tua verità più profonda?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860454"
+    },
+    {
+      "english": "Let's share, our inner worlds.",
+      "italian": "Condividiamo, i nostri mondi interiori.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860458"
+    },
+    {
+      "english": "This moment, feels significant.",
+      "italian": "Questo momento, è significativo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860462"
+    },
+    {
+      "english": "I value, your honest opinion.",
+      "italian": "Valuto, la tua opinione sincera.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860465"
+    },
+    {
+      "english": "What whispers, your heart?",
+      "italian": "Cosa sussurra, il tuo cuore?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860469"
+    },
+    {
+      "english": "Let's nurture, this connection.",
+      "italian": "Nutriamo, questa connessione.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860472"
+    },
+    {
+      "english": "I'm feeling, quite emotional.",
+      "italian": "Mi sento, piuttosto emotivo/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860475"
+    },
+    {
+      "english": "Our shared vulnerability, matters.",
+      "italian": "La nostra vulnerabilità condivisa, conta.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860479"
+    },
+    {
+      "english": "Let's be patient, with us.",
+      "italian": "Siamo pazienti, con noi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-17T05:19:27.860482"
+    }
+  ],
+  "last_updated": "2026-10-17T05:19:27.860485"
+}
