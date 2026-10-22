@@ -3599,7 +3599,727 @@
       "italian": "Continua così, passo dopo passo.",
       "category": "Strength",
       "generated_at": "2026-10-21T05:43:29.123760"
+    },
+    {
+      "english": "What is this for, exactly?",
+      "italian": "A cosa serve, esattamente?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864280"
+    },
+    {
+      "english": "I'm doing this for you.",
+      "italian": "Lo faccio per te.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864293"
+    },
+    {
+      "english": "This is for your own good.",
+      "italian": "È per il tuo bene.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864295"
+    },
+    {
+      "english": "What's the point of that?",
+      "italian": "Qual è il senso?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864297"
+    },
+    {
+      "english": "It's for a special occasion.",
+      "italian": "È per un'occasione speciale.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864299"
+    },
+    {
+      "english": "Why did you do that?",
+      "italian": "Perché l'hai fatto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864300"
+    },
+    {
+      "english": "This is for later.",
+      "italian": "Questo è per dopo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864302"
+    },
+    {
+      "english": "It's meant to be.",
+      "italian": "Doveva andare così.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864305"
+    },
+    {
+      "english": "I'm looking for a job.",
+      "italian": "Cerco lavoro.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864307"
+    },
+    {
+      "english": "This is for everyone.",
+      "italian": "Questo è per tutti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864309"
+    },
+    {
+      "english": "What's this supposed to mean?",
+      "italian": "Cosa dovrebbe significare?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864311"
+    },
+    {
+      "english": "It's just for fun.",
+      "italian": "È solo per divertimento.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864312"
+    },
+    {
+      "english": "This is for a reason.",
+      "italian": "C'è un motivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864314"
+    },
+    {
+      "english": "What do you need it for?",
+      "italian": "Di cosa hai bisogno?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864315"
+    },
+    {
+      "english": "I'm here for support.",
+      "italian": "Sono qui per supporto.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864317"
+    },
+    {
+      "english": "It's for a good cause.",
+      "italian": "È per una buona causa.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864319"
+    },
+    {
+      "english": "What are you aiming for?",
+      "italian": "A cosa punti?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864320"
+    },
+    {
+      "english": "This is for emergencies only.",
+      "italian": "Solo per emergenze.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864322"
+    },
+    {
+      "english": "I'm doing this with purpose.",
+      "italian": "Lo faccio con uno scopo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864324"
+    },
+    {
+      "english": "It's not for sale.",
+      "italian": "Non è in vendita.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864326"
+    },
+    {
+      "english": "What's the goal here?",
+      "italian": "Qual è l'obiettivo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864327"
+    },
+    {
+      "english": "This is for you to decide.",
+      "italian": "Decidi tu.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864329"
+    },
+    {
+      "english": "It's for the best.",
+      "italian": "È per il meglio.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864330"
+    },
+    {
+      "english": "I have a specific reason.",
+      "italian": "Ho un motivo preciso.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864332"
+    },
+    {
+      "english": "This is for practice.",
+      "italian": "È per esercizio.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864333"
+    },
+    {
+      "english": "What are you working towards?",
+      "italian": "Per cosa stai lavorando?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864335"
+    },
+    {
+      "english": "It's for your protection.",
+      "italian": "È per la tua protezione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864336"
+    },
+    {
+      "english": "This is for inspiration.",
+      "italian": "È per ispirazione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864338"
+    },
+    {
+      "english": "What's the intention?",
+      "italian": "Qual è l'intenzione?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864340"
+    },
+    {
+      "english": "What's this about, really?",
+      "italian": "Di cosa si tratta, davvero?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864342"
+    },
+    {
+      "english": "Can you explain the purpose?",
+      "italian": "Puoi spiegare lo scopo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864344"
+    },
+    {
+      "english": "What's the main objective?",
+      "italian": "Qual è l'obiettivo principale?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864346"
+    },
+    {
+      "english": "What are you hoping to achieve?",
+      "italian": "Cosa speri di ottenere?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864348"
+    },
+    {
+      "english": "Is there a specific reason?",
+      "italian": "C'è un motivo specifico?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864350"
+    },
+    {
+      "english": "What's the underlying motive?",
+      "italian": "Qual è il movente?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864352"
+    },
+    {
+      "english": "What's the purpose of this?",
+      "italian": "Qual è lo scopo di questo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864354"
+    },
+    {
+      "english": "What are your intentions?",
+      "italian": "Quali sono le tue intenzioni?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864355"
+    },
+    {
+      "english": "Why are you doing this?",
+      "italian": "Perché lo stai facendo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864357"
+    },
+    {
+      "english": "What is this aimed at?",
+      "italian": "A cosa è rivolto questo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864359"
+    },
+    {
+      "english": "What's the reason behind it?",
+      "italian": "Qual è la ragione dietro?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864361"
+    },
+    {
+      "english": "What's your ultimate goal?",
+      "italian": "Qual è il tuo obiettivo finale?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864362"
+    },
+    {
+      "english": "What's the desired outcome?",
+      "italian": "Qual è il risultato desiderato?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864364"
+    },
+    {
+      "english": "What are you trying to prove?",
+      "italian": "Cosa stai cercando di dimostrare?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864365"
+    },
+    {
+      "english": "What's the driving force?",
+      "italian": "Qual è la forza trainante?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864367"
+    },
+    {
+      "english": "What's the underlying idea?",
+      "italian": "Qual è l'idea di fondo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864369"
+    },
+    {
+      "english": "What's the intended use?",
+      "italian": "Qual è l'uso previsto?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864371"
+    },
+    {
+      "english": "What are we building towards?",
+      "italian": "Verso cosa stiamo costruendo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864373"
+    },
+    {
+      "english": "What's your motivation here?",
+      "italian": "Qual è la tua motivazione?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864374"
+    },
+    {
+      "english": "What's the ultimate aim?",
+      "italian": "Qual è lo scopo finale?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864376"
+    },
+    {
+      "english": "What's the reason for this?",
+      "italian": "Qual è la ragione per questo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864378"
+    },
+    {
+      "english": "What are you pursuing?",
+      "italian": "Cosa stai perseguendo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864379"
+    },
+    {
+      "english": "What's the underlying principle?",
+      "italian": "Qual è il principio sottostante?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864381"
+    },
+    {
+      "english": "What are your aspirations?",
+      "italian": "Quali sono le tue aspirazioni?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864382"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "italian": "Tieni gli occhi sul premio.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864384"
+    },
+    {
+      "english": "Focus on what truly matters.",
+      "italian": "Concentrati su ciò che conta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864385"
+    },
+    {
+      "english": "Believe in your mission.",
+      "italian": "Credi nella tua missione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864387"
+    },
+    {
+      "english": "Your 'why' is your power.",
+      "italian": "Il tuo 'perché' è la tua forza.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864389"
+    },
+    {
+      "english": "Stay true to your vision.",
+      "italian": "Rimani fedele alla tua visione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864391"
+    },
+    {
+      "english": "Give it your best shot.",
+      "italian": "Dagli il tuo meglio.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864392"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "italian": "Ogni passo conta, vai avanti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864395"
+    },
+    {
+      "english": "This is your moment to shine.",
+      "italian": "Questo è il tuo momento per brillare.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864397"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "italian": "Il tuo impegno è ammirevole.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864399"
+    },
+    {
+      "english": "Keep pushing your boundaries.",
+      "italian": "Continua a spingere i tuoi limiti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864400"
+    },
+    {
+      "english": "What drives you forward?",
+      "italian": "Cosa ti spinge avanti?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864402"
+    },
+    {
+      "english": "Embrace the journey, not just the destination.",
+      "italian": "Abbraccia il viaggio, non solo la meta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864404"
+    },
+    {
+      "english": "Your intention sets the direction.",
+      "italian": "La tua intenzione dà la direzione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864418"
+    },
+    {
+      "english": "Visualize success, make it happen.",
+      "italian": "Visualizza il successo, fallo accadere.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864421"
+    },
+    {
+      "english": "This is more than just a task.",
+      "italian": "Questo è più di un semplice compito.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864423"
+    },
+    {
+      "english": "What legacy are you building?",
+      "italian": "Quale eredità stai costruendo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864424"
+    },
+    {
+      "english": "You are capable of great things.",
+      "italian": "Sei capace di grandi cose.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864426"
+    },
+    {
+      "english": "Let your passion guide you.",
+      "italian": "Lascia che la tua passione ti guidi.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864427"
+    },
+    {
+      "english": "What's your ultimate aspiration?",
+      "italian": "Qual è la tua aspirazione suprema?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864430"
+    },
+    {
+      "english": "This pursuit is worthwhile.",
+      "italian": "Questo perseguimento ne vale la pena.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864432"
+    },
+    {
+      "english": "Your dedication is inspiring.",
+      "italian": "La tua dedizione è ispiratrice.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864434"
+    },
+    {
+      "english": "What impact do you want to make?",
+      "italian": "Che impatto vuoi creare?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864435"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "italian": "Mantieni quel fuoco acceso.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864437"
+    },
+    {
+      "english": "Your purpose will guide you.",
+      "italian": "Il tuo scopo ti guiderà.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864438"
+    },
+    {
+      "english": "What's the deeper meaning?",
+      "italian": "Qual è il significato più profondo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864440"
+    },
+    {
+      "english": "Never lose sight of why.",
+      "italian": "Non perdere mai di vista il perché.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864441"
+    },
+    {
+      "english": "This is your calling.",
+      "italian": "Questa è la tua vocazione.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864443"
+    },
+    {
+      "english": "Deep down, what do you really want?",
+      "italian": "Nel profondo, cosa vuoi davvero?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864444"
+    },
+    {
+      "english": "What makes your heart sing?",
+      "italian": "Cosa fa cantare il tuo cuore?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864446"
+    },
+    {
+      "english": "Listen to your inner voice, okay?",
+      "italian": "Ascolta la tua voce interiore, va bene?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864448"
+    },
+    {
+      "english": "Be honest with yourself, please.",
+      "italian": "Sii onesto con te stesso, per favore.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864449"
+    },
+    {
+      "english": "It's okay to feel unsure sometimes.",
+      "italian": "Va bene sentirsi insicuri a volte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864451"
+    },
+    {
+      "english": "Patience is a virtue, remember.",
+      "italian": "La pazienza è una virtù, ricorda.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864453"
+    },
+    {
+      "english": "Reflect on where you're going.",
+      "italian": "Rifletti su dove stai andando.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864455"
+    },
+    {
+      "english": "What truly brings you joy?",
+      "italian": "Cosa ti porta vera gioia?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864456"
+    },
+    {
+      "english": "Don't rush the process, take time.",
+      "italian": "Non affrettare il processo, prenditi tempo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864458"
+    },
+    {
+      "english": "Is this truly fulfilling you?",
+      "italian": "Questo ti sta davvero realizzando?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864460"
+    },
+    {
+      "english": "Trust your gut feeling, always.",
+      "italian": "Fidati del tuo istinto, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864462"
+    },
+    {
+      "english": "What's the deepest desire inside?",
+      "italian": "Qual è il desiderio più profondo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864463"
+    },
+    {
+      "english": "Allow yourself to evolve, naturally.",
+      "italian": "Permettiti di evolverti, naturalmente.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864465"
+    },
+    {
+      "english": "Embrace vulnerability, it's strength.",
+      "italian": "Abbraccia la vulnerabilità, è forza.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864467"
+    },
+    {
+      "english": "What story are you living now?",
+      "italian": "Quale storia stai vivendo ora?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864469"
+    },
+    {
+      "english": "Feel your emotions, don't hide them.",
+      "italian": "Senti le tue emozioni, non nasconderle.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864471"
+    },
+    {
+      "english": "What truly resonates with you?",
+      "italian": "Cosa risuona veramente con te?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864473"
+    },
+    {
+      "english": "This path feels right, yes?",
+      "italian": "Questo percorso sembra giusto, vero?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864475"
+    },
+    {
+      "english": "What's the lesson learned today?",
+      "italian": "Qual è la lezione imparata oggi?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864476"
+    },
+    {
+      "english": "Be kind to yourself, always.",
+      "italian": "Sii gentile con te stesso, sempre.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864479"
+    },
+    {
+      "english": "What matters most in life?",
+      "italian": "Cosa conta di più nella vita?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864480"
+    },
+    {
+      "english": "Let go of what doesn't serve.",
+      "italian": "Lascia andare ciò che non serve.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864482"
+    },
+    {
+      "english": "Your intuition knows the way.",
+      "italian": "La tua intuizione conosce la via.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864483"
+    },
+    {
+      "english": "What are you grateful for now?",
+      "italian": "Di cosa sei grato ora?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864485"
+    },
+    {
+      "english": "Find peace in the small things.",
+      "italian": "Trova pace nelle piccole cose.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864486"
+    },
+    {
+      "english": "This is about inner growth.",
+      "italian": "Si tratta di crescita interiore.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864488"
+    },
+    {
+      "english": "What does your soul need?",
+      "italian": "Di cosa ha bisogno la tua anima?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864489"
+    },
+    {
+      "english": "The journey is the real reward.",
+      "italian": "Il viaggio è la vera ricompensa.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864491"
+    },
+    {
+      "english": "What wisdom are you gaining?",
+      "italian": "Quale saggezza stai acquisendo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864492"
+    },
+    {
+      "english": "Believe in your own light.",
+      "italian": "Credi nella tua luce.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864494"
+    },
+    {
+      "english": "Focus on today's small wins, you know?",
+      "italian": "Concentrati sulle piccole vittorie di oggi, sai?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864496"
+    },
+    {
+      "english": "Small steps build lasting change, try it.",
+      "italian": "Piccoli passi creano cambiamenti duraturi, provalo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864498"
+    },
+    {
+      "english": "What routine helps you stay grounded?",
+      "italian": "Quale routine ti aiuta a restare con i piedi per terra?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864499"
+    },
+    {
+      "english": "Find joy in simple, daily actions.",
+      "italian": "Trova gioia nelle azioni semplici, quotidiane.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864501"
+    },
+    {
+      "english": "Are you nurturing your well-being daily?",
+      "italian": "Stai coltivando il tuo benessere ogni giorno?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864503"
+    },
+    {
+      "english": "What habit makes your life better?",
+      "italian": "Quale abitudine migliora la tua vita?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864504"
+    },
+    {
+      "english": "Practice kindness, start with yourself.",
+      "italian": "Pratica la gentilezza, inizia da te.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864506"
+    },
+    {
+      "english": "Help someone today, it feels good.",
+      "italian": "Aiuta qualcuno oggi, fa stare bene.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864508"
+    },
+    {
+      "english": "What goal can you achieve this week?",
+      "italian": "Quale obiettivo puoi raggiungere questa settimana?",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864509"
+    },
+    {
+      "english": "Set realistic intentions, not just wishes.",
+      "italian": "Stabilisci intenzioni realistiche, non solo desideri.",
+      "category": "Purpose",
+      "generated_at": "2026-10-22T05:45:56.864511"
     }
   ],
-  "last_updated": "2026-10-21T05:43:29.123765"
+  "last_updated": "2026-10-22T05:45:56.864512"
 }
