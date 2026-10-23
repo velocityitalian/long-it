@@ -4319,7 +4319,727 @@
       "italian": "Stabilisci intenzioni realistiche, non solo desideri.",
       "category": "Purpose",
       "generated_at": "2026-10-22T05:45:56.864511"
+    },
+    {
+      "english": "I can do this, no problem.",
+      "italian": "Posso farlo, nessun problema.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756678"
+    },
+    {
+      "english": "Take it easy, you've got this.",
+      "italian": "Prendila con calma, ce la fai.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756692"
+    },
+    {
+      "english": "Don't worry, it will be fine.",
+      "italian": "Non preoccuparti, andrà tutto bene.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756695"
+    },
+    {
+      "english": "I'm feeling good today.",
+      "italian": "Mi sento bene oggi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756699"
+    },
+    {
+      "english": "Let's go, full speed ahead!",
+      "italian": "Andiamo, a tutta velocità!",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756702"
+    },
+    {
+      "english": "This is my chance, I'll take it.",
+      "italian": "Questa è la mia occasione, la prendo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756705"
+    },
+    {
+      "english": "Just be yourself, that's enough.",
+      "italian": "Sii te stesso, basta così.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756708"
+    },
+    {
+      "english": "I've got this under control.",
+      "italian": "Ho la situazione sotto controllo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756712"
+    },
+    {
+      "english": "This feels right, I'm sure.",
+      "italian": "Mi sembra giusto, ne sono sicuro.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756715"
+    },
+    {
+      "english": "Step by step, we'll get there.",
+      "italian": "Passo dopo passo, ci arriveremo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756718"
+    },
+    {
+      "english": "I am strong, I am capable.",
+      "italian": "Sono forte, sono capace.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756720"
+    },
+    {
+      "english": "Let your spirit shine bright.",
+      "italian": "Lascia che il tuo spirito brilli.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756722"
+    },
+    {
+      "english": "I trust my instincts completely.",
+      "italian": "Mi fido completamente del mio istinto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756724"
+    },
+    {
+      "english": "This is going to be great.",
+      "italian": "Questa sarà fantastica.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756726"
+    },
+    {
+      "english": "I feel confident, ready to act.",
+      "italian": "Mi sento sicuro, pronto ad agire.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756728"
+    },
+    {
+      "english": "Don't doubt yourself, you're amazing.",
+      "italian": "Non dubitare di te, sei fantastico.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756731"
+    },
+    {
+      "english": "I'm on the right path now.",
+      "italian": "Ora sono sulla strada giusta.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756733"
+    },
+    {
+      "english": "Go for it, you can win.",
+      "italian": "Vai, puoi vincere.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756735"
+    },
+    {
+      "english": "My energy is high today.",
+      "italian": "La mia energia è alta oggi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756737"
+    },
+    {
+      "english": "I'm sure this will work out.",
+      "italian": "Sono certo che funzionerà.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756739"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "italian": "Continua ad andare avanti, non fermarti.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756743"
+    },
+    {
+      "english": "This is my moment, I'll seize it.",
+      "italian": "Questo è il mio momento, lo coglierò.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756745"
+    },
+    {
+      "english": "I'm not afraid to try.",
+      "italian": "Non ho paura di provare.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756747"
+    },
+    {
+      "english": "My potential is limitless.",
+      "italian": "Il mio potenziale è illimitato.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756749"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "italian": "Sei più forte di quanto pensi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756751"
+    },
+    {
+      "english": "Everything will be alright.",
+      "italian": "Andrà tutto bene.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756753"
+    },
+    {
+      "english": "I have faith in the outcome.",
+      "italian": "Ho fede nel risultato.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756755"
+    },
+    {
+      "english": "What do you think, can we try?",
+      "italian": "Tu che dici, possiamo provare?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756758"
+    },
+    {
+      "english": "How should I approach this, really?",
+      "italian": "Come dovrei affrontarlo, davvero?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756760"
+    },
+    {
+      "english": "Do you believe I can succeed?",
+      "italian": "Credi che io possa riuscire?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756764"
+    },
+    {
+      "english": "What if I ask for help first?",
+      "italian": "E se chiedessi prima aiuto?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756766"
+    },
+    {
+      "english": "Is this the best way forward?",
+      "italian": "È questa la via migliore?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756769"
+    },
+    {
+      "english": "Tell me, what are your thoughts?",
+      "italian": "Dimmi, quali sono i tuoi pensieri?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756771"
+    },
+    {
+      "english": "Do you think I am ready now?",
+      "italian": "Pensi che sia pronto adesso?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756773"
+    },
+    {
+      "english": "Should I proceed with caution, maybe?",
+      "italian": "Dovrei procedere con cautela, forse?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756777"
+    },
+    {
+      "english": "Can we discuss this further?",
+      "italian": "Possiamo discuterne ancora?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756780"
+    },
+    {
+      "english": "What's the next logical step?",
+      "italian": "Qual è il prossimo passo logico?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756782"
+    },
+    {
+      "english": "Are you sure about this decision?",
+      "italian": "Sei sicuro di questa decisione?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756784"
+    },
+    {
+      "english": "What are the potential risks?",
+      "italian": "Quali sono i rischi potenziali?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756786"
+    },
+    {
+      "english": "How can we best prepare?",
+      "italian": "Come possiamo prepararci al meglio?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756788"
+    },
+    {
+      "english": "Do you have any suggestions?",
+      "italian": "Hai qualche suggerimento?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756790"
+    },
+    {
+      "english": "What if we rethink the plan?",
+      "italian": "E se ripensassimo al piano?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756794"
+    },
+    {
+      "english": "Is there another option available?",
+      "italian": "C'è un'altra opzione disponibile?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756796"
+    },
+    {
+      "english": "Can I count on your support?",
+      "italian": "Posso contare sul tuo supporto?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756798"
+    },
+    {
+      "english": "Should we ask for feedback?",
+      "italian": "Dovremmo chiedere un feedback?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756800"
+    },
+    {
+      "english": "How do you handle self-doubt?",
+      "italian": "Come gestisci il dubbio?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756802"
+    },
+    {
+      "english": "What motivates you to keep going?",
+      "italian": "Cosa ti spinge ad andare avanti?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756814"
+    },
+    {
+      "english": "Is collaboration a good idea?",
+      "italian": "La collaborazione è una buona idea?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756816"
+    },
+    {
+      "english": "What makes you feel secure?",
+      "italian": "Cosa ti fa sentire sicuro?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756818"
+    },
+    {
+      "english": "Do you need more information?",
+      "italian": "Hai bisogno di più informazioni?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756820"
+    },
+    {
+      "english": "What's the best course of action?",
+      "italian": "Qual è il miglior corso d'azione?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756822"
+    },
+    {
+      "english": "Can we brainstorm some solutions?",
+      "italian": "Possiamo fare brainstorming di soluzioni?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756824"
+    },
+    {
+      "english": "What are your reservations?",
+      "italian": "Quali sono le tue riserve?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756828"
+    },
+    {
+      "english": "How do we measure success?",
+      "italian": "Come misuriamo il successo?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756830"
+    },
+    {
+      "english": "Believe in your strength, always.",
+      "italian": "Credi nella tua forza, sempre.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756834"
+    },
+    {
+      "english": "Each small step counts, you know.",
+      "italian": "Ogni piccolo passo conta, sai.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756836"
+    },
+    {
+      "english": "You've got this, truly.",
+      "italian": "Ce la puoi fare, davvero.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756838"
+    },
+    {
+      "english": "Your effort is visible.",
+      "italian": "Il tuo impegno è visibile.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756842"
+    },
+    {
+      "english": "This challenge, you will overcome.",
+      "italian": "Questa sfida, la supererai.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756844"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "italian": "Il tuo coraggio è d'ispirazione.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756847"
+    },
+    {
+      "english": "Don't underestimate yourself, really.",
+      "italian": "Non sottovalutarti, davvero.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756849"
+    },
+    {
+      "english": "You're capable of more than you think.",
+      "italian": "Sei capace di più di quanto pensi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756852"
+    },
+    {
+      "english": "Trust your intuition, it's wise.",
+      "italian": "Fidati del tuo istinto, è saggio.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756854"
+    },
+    {
+      "english": "Every attempt brings you closer.",
+      "italian": "Ogni tentativo ti avvicina.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756856"
+    },
+    {
+      "english": "Your progress is noticeable.",
+      "italian": "I tuoi progressi sono notevoli.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756858"
+    },
+    {
+      "english": "You're learning fast, it shows.",
+      "italian": "Impari velocemente, si vede.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756861"
+    },
+    {
+      "english": "Embrace the journey, embrace growth.",
+      "italian": "Abbraccia il viaggio, abbraccia la crescita.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756863"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "italian": "La tua determinazione è ammirevole.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756865"
+    },
+    {
+      "english": "Take pride in what you've done.",
+      "italian": "Sii orgoglioso di ciò che hai fatto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756868"
+    },
+    {
+      "english": "You have inner resilience.",
+      "italian": "Hai una resilienza interiore.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756870"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "italian": "Gli errori sono lezioni, non fallimenti.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756872"
+    },
+    {
+      "english": "Your positive attitude shines.",
+      "italian": "Il tuo atteggiamento positivo risplende.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756874"
+    },
+    {
+      "english": "You are building something great.",
+      "italian": "Stai costruendo qualcosa di grande.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756876"
+    },
+    {
+      "english": "Feel the power within you.",
+      "italian": "Senti il potere dentro di te.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756878"
+    },
+    {
+      "english": "Your perseverance pays off.",
+      "italian": "La tua perseveranza paga.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756880"
+    },
+    {
+      "english": "You are becoming a better version.",
+      "italian": "Stai diventando una versione migliore.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756882"
+    },
+    {
+      "english": "Don't be afraid to shine.",
+      "italian": "Non aver paura di brillare.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756884"
+    },
+    {
+      "english": "You're making real progress.",
+      "italian": "Stai facendo progressi reali.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756886"
+    },
+    {
+      "english": "Your confidence is growing daily.",
+      "italian": "La tua sicurezza cresce ogni giorno.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756888"
+    },
+    {
+      "english": "This is a fantastic opportunity.",
+      "italian": "Questa è un'opportunità fantastica.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756890"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "italian": "Sei abbastanza, così come sei.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756893"
+    },
+    {
+      "english": "Embrace your unique talents.",
+      "italian": "Accetta i tuoi talenti unici.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756895"
+    },
+    {
+      "english": "I feel a deep calm, inside.",
+      "italian": "Sento una calma profonda, dentro.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756897"
+    },
+    {
+      "english": "This moment, feels right.",
+      "italian": "Questo momento, sembra giusto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756899"
+    },
+    {
+      "english": "It's okay, to not know everything.",
+      "italian": "Va bene, non sapere tutto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756903"
+    },
+    {
+      "english": "My feelings, are valid.",
+      "italian": "I miei sentimenti, sono validi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756905"
+    },
+    {
+      "english": "I'm learning, to be patient.",
+      "italian": "Sto imparando, ad essere paziente.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756908"
+    },
+    {
+      "english": "This inner peace, is growing.",
+      "italian": "Questa pace interiore, sta crescendo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756911"
+    },
+    {
+      "english": "I accept, my imperfections.",
+      "italian": "Accetto, le mie imperfezioni.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756914"
+    },
+    {
+      "english": "My vulnerability, is a strength.",
+      "italian": "La mia vulnerabilità, è una forza.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756916"
+    },
+    {
+      "english": "I trust the process, slowly.",
+      "italian": "Mi fido del processo, lentamente.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756918"
+    },
+    {
+      "english": "This self-awareness, is key.",
+      "italian": "Questa consapevolezza, è fondamentale.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756920"
+    },
+    {
+      "english": "I reflect, on my journey.",
+      "italian": "Rifletto, sul mio percorso.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756923"
+    },
+    {
+      "english": "My intuition, guides me.",
+      "italian": "La mia intuizione, mi guida.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756925"
+    },
+    {
+      "english": "I embrace, the unknown.",
+      "italian": "Abbraccio, l'ignoto.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756927"
+    },
+    {
+      "english": "Authenticity, feels liberating.",
+      "italian": "L'autenticità, è liberatoria.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756929"
+    },
+    {
+      "english": "I listen, to my inner voice.",
+      "italian": "Ascolto, la mia voce interiore.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756931"
+    },
+    {
+      "english": "This quiet strength, is mine.",
+      "italian": "Questa forza tranquilla, è mia.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756933"
+    },
+    {
+      "english": "I'm open, to new perspectives.",
+      "italian": "Sono aperto, a nuove prospettive.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756936"
+    },
+    {
+      "english": "My honesty, builds trust.",
+      "italian": "La mia onestà, costruisce fiducia.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756938"
+    },
+    {
+      "english": "I let go, of what burdens me.",
+      "italian": "Lascio andare, ciò che mi appesantisce.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756940"
+    },
+    {
+      "english": "This self-compassion, is vital.",
+      "italian": "Questa autocompassione, è vitale.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756942"
+    },
+    {
+      "english": "I feel connected, to myself.",
+      "italian": "Mi sento connesso, a me stesso.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756944"
+    },
+    {
+      "english": "My emotions, I understand.",
+      "italian": "Le mie emozioni, le capisco.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756946"
+    },
+    {
+      "english": "I nurture, my inner growth.",
+      "italian": "Coltivo, la mia crescita interiore.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756949"
+    },
+    {
+      "english": "This acceptance, is freedom.",
+      "italian": "Questa accettazione, è libertà.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756951"
+    },
+    {
+      "english": "I'm learning, to be gentle.",
+      "italian": "Sto imparando, ad essere gentile.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756953"
+    },
+    {
+      "english": "My inner dialogue, is kind.",
+      "italian": "Il mio dialogo interiore, è gentile.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756955"
+    },
+    {
+      "english": "I honor, my own pace.",
+      "italian": "Onoro, il mio ritmo.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756957"
+    },
+    {
+      "english": "This inner knowing, is strong.",
+      "italian": "Questo sapere interiore, è forte.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756959"
+    },
+    {
+      "english": "I release, all self-doubt.",
+      "italian": "Rilascio, ogni dubbio.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756961"
+    },
+    {
+      "english": "My true self, is enough.",
+      "italian": "Il mio vero io, è abbastanza.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756963"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "italian": "Chiedi aiuto, è intelligente.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756966"
+    },
+    {
+      "english": "One step at a time.",
+      "italian": "Un passo alla volta.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756969"
+    },
+    {
+      "english": "Don't overthink, just act.",
+      "italian": "Non pensarci troppo, agisci.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756972"
+    },
+    {
+      "english": "Mistakes are for learning.",
+      "italian": "Gli errori servono per imparare.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756976"
+    },
+    {
+      "english": "Simplify your approach.",
+      "italian": "Semplifica il tuo approccio.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756978"
+    },
+    {
+      "english": "Breathe, then speak.",
+      "italian": "Respira, poi parla.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756981"
+    },
+    {
+      "english": "What's the worst that can happen?",
+      "italian": "Qual è il peggio che può succedere?",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756984"
+    },
+    {
+      "english": "Adapt, and overcome.",
+      "italian": "Adattati, e supera.",
+      "category": "Confidence",
+      "generated_at": "2026-10-23T07:04:15.756986"
     }
   ],
-  "last_updated": "2026-10-22T05:45:56.864512"
+  "last_updated": "2026-10-23T07:04:15.756988"
 }
