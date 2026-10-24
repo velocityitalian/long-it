@@ -5039,7 +5039,727 @@
       "italian": "Adattati, e supera.",
       "category": "Confidence",
       "generated_at": "2026-10-23T07:04:15.756986"
+    },
+    {
+      "english": "Good morning, darling.",
+      "italian": "Buongiorno, tesoro.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613402"
+    },
+    {
+      "english": "Just a quick coffee, please.",
+      "italian": "Un caffè veloce, per favore.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613418"
+    },
+    {
+      "english": "What's the special today?",
+      "italian": "Qual è la specialità di oggi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613422"
+    },
+    {
+      "english": "This smells amazing, wow!",
+      "italian": "Questo profuma da paura, wow!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613425"
+    },
+    {
+      "english": "Can I have that pastry?",
+      "italian": "Posso avere quella pastina?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613427"
+    },
+    {
+      "english": "One cappuccino, to go.",
+      "italian": "Un cappuccino, da portare via.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613429"
+    },
+    {
+      "english": "You always pick the best ones.",
+      "italian": "Scegli sempre i migliori.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613432"
+    },
+    {
+      "english": "Is this seat taken?",
+      "italian": "È libero questo posto?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613437"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "italian": "Sto solo guardando, grazie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613440"
+    },
+    {
+      "english": "Absolutely delicious, my dear.",
+      "italian": "Davvero delizioso, cara.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613443"
+    },
+    {
+      "english": "What a lovely place!",
+      "italian": "Che bel posto!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613445"
+    },
+    {
+      "english": "I need my sugar fix.",
+      "italian": "Ho bisogno del mio dolce.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613447"
+    },
+    {
+      "english": "Could I get a croissant?",
+      "italian": "Mi daresti un cornetto?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613449"
+    },
+    {
+      "english": "This is pure heaven.",
+      "italian": "Questo è il paradiso.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613451"
+    },
+    {
+      "english": "Everything looks so good.",
+      "italian": "Tutto sembra buonissimo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613453"
+    },
+    {
+      "english": "One espresso, straight up.",
+      "italian": "Un espresso, secco.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613456"
+    },
+    {
+      "english": "Do you have almond milk?",
+      "italian": "Avete latte di mandorla?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613458"
+    },
+    {
+      "english": "That's just what I needed.",
+      "italian": "Era proprio quello che ci voleva.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613460"
+    },
+    {
+      "english": "My usual, please.",
+      "italian": "Il mio solito, per favore.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613463"
+    },
+    {
+      "english": "You have great taste.",
+      "italian": "Hai buon gusto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613465"
+    },
+    {
+      "english": "A little break, finally.",
+      "italian": "Una piccola pausa, finalmente.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613467"
+    },
+    {
+      "english": "Can I get a slice?",
+      "italian": "Posso avere una fetta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613471"
+    },
+    {
+      "english": "That looks divine!",
+      "italian": "Sembra divino!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613473"
+    },
+    {
+      "english": "Just a quick bite.",
+      "italian": "Solo uno spuntino veloce.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613475"
+    },
+    {
+      "english": "What a beautiful day.",
+      "italian": "Che bella giornata.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613477"
+    },
+    {
+      "english": "Can I try that one?",
+      "italian": "Posso assaggiare quello?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613479"
+    },
+    {
+      "english": "This is pure bliss.",
+      "italian": "Questa è pura beatitudine.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613481"
+    },
+    {
+      "english": "A sweet treat, why not?",
+      "italian": "Un dolcetto, perché no?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613483"
+    },
+    {
+      "english": "You make the best coffee.",
+      "italian": "Fai il caffè più buono.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613487"
+    },
+    {
+      "english": "Perfect, thank you so much.",
+      "italian": "Perfetto, grazie mille.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613489"
+    },
+    {
+      "english": "Could you recommend something sweet?",
+      "italian": "Potresti consigliarmi qualcosa di dolce?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613492"
+    },
+    {
+      "english": "What's popular here, usually?",
+      "italian": "Cosa è popolare qui, di solito?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613495"
+    },
+    {
+      "english": "Is there anything gluten-free?",
+      "italian": "C'è qualcosa senza glutine?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613498"
+    },
+    {
+      "english": "Can I have a glass of water?",
+      "italian": "Posso avere un bicchiere d'acqua?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613502"
+    },
+    {
+      "english": "How much is that pastry, exactly?",
+      "italian": "Quanto costa quella brioche, esattamente?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613504"
+    },
+    {
+      "english": "Do you have any fruit tarts?",
+      "italian": "Avete delle crostate alla frutta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613507"
+    },
+    {
+      "english": "Is this coffee freshly brewed?",
+      "italian": "Questo caffè è fatto fresco?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613509"
+    },
+    {
+      "english": "What kind of teas do you offer?",
+      "italian": "Che tipi di tè offrite?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613512"
+    },
+    {
+      "english": "Could I get a small size, please?",
+      "italian": "Potrei avere una piccola dimensione, per favore?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613514"
+    },
+    {
+      "english": "Is the chocolate cake very rich?",
+      "italian": "La torta al cioccolato è molto ricca?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613516"
+    },
+    {
+      "english": "What do you suggest for breakfast?",
+      "italian": "Cosa suggerisci per colazione?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613519"
+    },
+    {
+      "english": "Can I order a decaf coffee?",
+      "italian": "Posso ordinare un caffè decaffeinato?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613521"
+    },
+    {
+      "english": "Are those muffins homemade?",
+      "italian": "Questi muffin sono fatti in casa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613523"
+    },
+    {
+      "english": "What's the best pairing with coffee?",
+      "italian": "Qual è il miglior abbinamento con il caffè?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613526"
+    },
+    {
+      "english": "Could I see the menu again?",
+      "italian": "Potrei vedere il menù di nuovo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613528"
+    },
+    {
+      "english": "Do you have sugar-free syrup?",
+      "italian": "Avete sciroppo senza zucchero?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613531"
+    },
+    {
+      "english": "What's this specialty pastry called?",
+      "italian": "Come si chiama questa specialità di pasticceria?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613533"
+    },
+    {
+      "english": "Can I get a refill for my tea?",
+      "italian": "Posso avere un riempimento per il mio tè?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613536"
+    },
+    {
+      "english": "Is this fresh out of the oven?",
+      "italian": "È appena sfornato questo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613538"
+    },
+    {
+      "english": "What kind of milk do you use?",
+      "italian": "Che tipo di latte usate?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613541"
+    },
+    {
+      "english": "Could I have a fork for this?",
+      "italian": "Potrei avere una forchetta per questo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613543"
+    },
+    {
+      "english": "Do you sell whole coffee beans?",
+      "italian": "Vendete chicchi di caffè interi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613545"
+    },
+    {
+      "english": "What time do you close today?",
+      "italian": "A che ora chiudete oggi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613547"
+    },
+    {
+      "english": "Can I try a small sample?",
+      "italian": "Posso provare un piccolo assaggio?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613549"
+    },
+    {
+      "english": "Is that a local specialty?",
+      "italian": "Quella è una specialità locale?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613551"
+    },
+    {
+      "english": "Could I have whipped cream on top?",
+      "italian": "Potrei avere panna montata sopra?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613553"
+    },
+    {
+      "english": "What's your signature drink?",
+      "italian": "Qual è la vostra bevanda firma?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613556"
+    },
+    {
+      "english": "Do you have any vegan options?",
+      "italian": "Avete opzioni vegane?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613559"
+    },
+    {
+      "english": "Can I pay with card here?",
+      "italian": "Posso pagare con la carta qui?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613561"
+    },
+    {
+      "english": "This smells like heaven, truly!",
+      "italian": "Questo profuma di paradiso, davvero!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613563"
+    },
+    {
+      "english": "Let's grab a coffee, pronto!",
+      "italian": "Prendiamoci un caffè, al volo!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613566"
+    },
+    {
+      "english": "This pastry, it's heaven in my mouth.",
+      "italian": "Questa brioche, è il paradiso in bocca.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613569"
+    },
+    {
+      "english": "I need my morning caffeine fix.",
+      "italian": "Mi serve la mia dose di caffeina mattutina.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613571"
+    },
+    {
+      "english": "Just a quick espresso, to go.",
+      "italian": "Solo un espresso veloce, da portare via.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613573"
+    },
+    {
+      "english": "This place has a great vibe, right?",
+      "italian": "Questo posto ha una bella atmosfera, vero?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613576"
+    },
+    {
+      "english": "Let's share a tiramisu, it's huge!",
+      "italian": "Dividiamoci un tiramisù, è enorme!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613581"
+    },
+    {
+      "english": "Are these croissants fresh today?",
+      "italian": "Questi cornetti sono freschi di giornata?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613584"
+    },
+    {
+      "english": "My stomach is rumbling for pastries.",
+      "italian": "Il mio stomaco brontola per i dolci.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613586"
+    },
+    {
+      "english": "A cappuccino, that's my usual order.",
+      "italian": "Un cappuccino, è il mio ordine solito.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613589"
+    },
+    {
+      "english": "This bakery is my happy place.",
+      "italian": "Questa pasticceria è il mio posto felice.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613592"
+    },
+    {
+      "english": "I could eat this cake all day.",
+      "italian": "Potrei mangiare questa torta tutto il giorno.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613594"
+    },
+    {
+      "english": "Let's split the bill, for the coffee.",
+      "italian": "Dividiamo il conto, per il caffè.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613596"
+    },
+    {
+      "english": "That smell is simply irresistible.",
+      "italian": "Quel profumo è semplicemente irresistibile.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613599"
+    },
+    {
+      "english": "I'm craving something sweet, badly.",
+      "italian": "Ho una voglia matta di qualcosa di dolce.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613601"
+    },
+    {
+      "english": "Do you have that biscotto from yesterday?",
+      "italian": "Avete quel biscottone di ieri?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613604"
+    },
+    {
+      "english": "This is the perfect afternoon pick-me-up.",
+      "italian": "Questo è il perfetto energizzante pomeridiano.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613607"
+    },
+    {
+      "english": "How about we try a new coffee shop?",
+      "italian": "Che ne dici se proviamo una nuova caffetteria?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613609"
+    },
+    {
+      "english": "I'm on a strict diet, unfortunately.",
+      "italian": "Sono a dieta ferrea, purtroppo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613612"
+    },
+    {
+      "english": "One americano, extra hot, please.",
+      "italian": "Un americano, bollente, per favore.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613614"
+    },
+    {
+      "english": "This is exactly what I needed.",
+      "italian": "Questo è esattamente ciò di cui avevo bisogno.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613616"
+    },
+    {
+      "english": "Let's have a coffee break, soon.",
+      "italian": "Facciamo una pausa caffè, a breve.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613619"
+    },
+    {
+      "english": "These cookies are to die for!",
+      "italian": "Questi biscotti sono da morire!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613621"
+    },
+    {
+      "english": "I'm just browsing for now, thanks.",
+      "italian": "Sto solo guardando per ora, grazie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613623"
+    },
+    {
+      "english": "Can I have a small slice of cake?",
+      "italian": "Posso avere una fettina di torta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613625"
+    },
+    {
+      "english": "This espresso is strong, like me!",
+      "italian": "Questo espresso è forte, come me!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613628"
+    },
+    {
+      "english": "Let's get a table by the window.",
+      "italian": "Prendiamo un tavolo vicino alla finestra.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613630"
+    },
+    {
+      "english": "I need a sweet escape, right now.",
+      "italian": "Ho bisogno di una dolce fuga, adesso.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613632"
+    },
+    {
+      "english": "That smells incredibly good, wow.",
+      "italian": "Quello profuma incredibilmente bene, wow.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613635"
+    },
+    {
+      "english": "Are you having a pastry too?",
+      "italian": "Prendi anche tu un dolce?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613637"
+    },
+    {
+      "english": "This coffee is the real deal.",
+      "italian": "Questo caffè è la vera roba.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613641"
+    },
+    {
+      "english": "This moment, it feels so peaceful.",
+      "italian": "Questo momento, mi sembra così sereno.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613644"
+    },
+    {
+      "english": "It's nice to just slow down, sometimes.",
+      "italian": "È bello rallentare un po', a volte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613647"
+    },
+    {
+      "english": "This reminds me of my childhood.",
+      "italian": "Questo mi ricorda la mia infanzia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613649"
+    },
+    {
+      "english": "I feel a real connection here.",
+      "italian": "Sento un vero legame qui.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613651"
+    },
+    {
+      "english": "Sometimes, simple things are best.",
+      "italian": "A volte, le cose semplici sono migliori.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613654"
+    },
+    {
+      "english": "I'm reflecting, with this coffee.",
+      "italian": "Sto riflettendo, con questo caffè.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613656"
+    },
+    {
+      "english": "Patience is a virtue, especially now.",
+      "italian": "La pazienza è una virtù, specialmente ora.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613660"
+    },
+    {
+      "english": "This quiet atmosphere, it's calming.",
+      "italian": "Questa atmosfera tranquilla, rilassa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613663"
+    },
+    {
+      "english": "What a thoughtful, delicious creation.",
+      "italian": "Che creazione pensata e deliziosa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613665"
+    },
+    {
+      "english": "I appreciate this small, perfect moment.",
+      "italian": "Apprezzo questo piccolo, perfetto momento.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613668"
+    },
+    {
+      "english": "It's good to be truly present.",
+      "italian": "È bello essere veramente presenti.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613670"
+    },
+    {
+      "english": "This taste, it brings back memories.",
+      "italian": "Questo sapore, riporta ricordi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613672"
+    },
+    {
+      "english": "My heart feels a little lighter.",
+      "italian": "Il mio cuore si sente un po' più leggero.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613675"
+    },
+    {
+      "english": "Letting go, one sip at a time.",
+      "italian": "Lasciar andare, un sorso alla volta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613677"
+    },
+    {
+      "english": "There's honesty in this simple food.",
+      "italian": "C'è onestà in questo cibo semplice.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613680"
+    },
+    {
+      "english": "I feel genuinely content right now.",
+      "italian": "Mi sento sinceramente appagato ora.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613682"
+    },
+    {
+      "english": "This quiet space allows true thought.",
+      "italian": "Questo spazio quieto permette il vero pensiero.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613684"
+    },
+    {
+      "english": "It's a gentle reminder to be kind.",
+      "italian": "È un dolce promemoria di essere gentili.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613686"
+    },
+    {
+      "english": "Taking a deep breath, enjoying this.",
+      "italian": "Respirando a fondo, godendomi questo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613689"
+    },
+    {
+      "english": "This sweetness, it's like a hug.",
+      "italian": "Questa dolcezza, è come un abbraccio.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613692"
+    },
+    {
+      "english": "Finding peace in everyday moments.",
+      "italian": "Trovare pace nei momenti quotidiani.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613694"
+    },
+    {
+      "english": "Sometimes, less is truly more.",
+      "italian": "A volte, meno è veramente di più.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613696"
+    },
+    {
+      "english": "This feels like a sincere pause.",
+      "italian": "Questo sembra una pausa sincera.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613698"
+    },
+    {
+      "english": "I'm feeling quite nostalgic today.",
+      "italian": "Mi sento piuttosto nostalgico oggi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613701"
+    },
+    {
+      "english": "Allowing myself this simple pleasure.",
+      "italian": "Permettendomi questo semplice piacere.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613703"
+    },
+    {
+      "english": "There's a quiet wisdom in baking.",
+      "italian": "C'è una saggezza silenziosa nella pasticceria.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613705"
+    },
+    {
+      "english": "This warmth, it's very comforting.",
+      "italian": "Questo calore, è molto confortante.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613708"
+    },
+    {
+      "english": "I'm taking a moment for myself.",
+      "italian": "Mi prendo un momento per me.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613710"
+    },
+    {
+      "english": "This aroma, it stirs the soul.",
+      "italian": "Questo aroma, commuove l'anima.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613712"
+    },
+    {
+      "english": "Feeling gratitude for this simple joy.",
+      "italian": "Sentendo gratitudine per questa gioia semplice.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-24T05:24:21.613715"
     }
   ],
-  "last_updated": "2026-10-23T07:04:15.756988"
+  "last_updated": "2026-10-24T05:24:21.613717"
 }
