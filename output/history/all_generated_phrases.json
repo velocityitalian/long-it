@@ -5759,7 +5759,727 @@
       "italian": "Sentendo gratitudine per questa gioia semplice.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-24T05:24:21.613715"
+    },
+    {
+      "english": "What's up, man?",
+      "italian": "Come va, fra?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826431"
+    },
+    {
+      "english": "No way, really?",
+      "italian": "Ma dai, dici?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826446"
+    },
+    {
+      "english": "It's all good, don't worry.",
+      "italian": "Tranquillo, non ti preoccupare.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826448"
+    },
+    {
+      "english": "Let's go, hurry up!",
+      "italian": "Dai, muoviti!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826450"
+    },
+    {
+      "english": "I'm so bored, man.",
+      "italian": "Che noia, raga.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826452"
+    },
+    {
+      "english": "It's crazy, unbelievable.",
+      "italian": "È pazzesco, assurdo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826454"
+    },
+    {
+      "english": "What a disaster!",
+      "italian": "Che guaio!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826455"
+    },
+    {
+      "english": "I'm starving, let's eat.",
+      "italian": "Ho fame da lupi, mangiamo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826459"
+    },
+    {
+      "english": "It's a shame, too bad.",
+      "italian": "Peccato, che sfortuna.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826462"
+    },
+    {
+      "english": "You're kidding me!",
+      "italian": "Non ci credo!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826463"
+    },
+    {
+      "english": "It's a mess, total chaos.",
+      "italian": "È un casino, un bordello.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826465"
+    },
+    {
+      "english": "I'm exhausted, wiped out.",
+      "italian": "Sono a pezzi, sfinito.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826467"
+    },
+    {
+      "english": "What a surprise, wow!",
+      "italian": "Che sorpresa, wow!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826469"
+    },
+    {
+      "english": "It's really cool, awesome.",
+      "italian": "È una figata, spacco.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826471"
+    },
+    {
+      "english": "Leave me alone, get lost.",
+      "italian": "Lasciami stare, vaff...",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826473"
+    },
+    {
+      "english": "I don't give a damn.",
+      "italian": "Non me ne frega niente.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826474"
+    },
+    {
+      "english": "It's complicated, messy.",
+      "italian": "È complicato, incasinato.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826476"
+    },
+    {
+      "english": "Let's chill, relax.",
+      "italian": "Rilassiamoci, facciamoci un giro.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826478"
+    },
+    {
+      "english": "It's a bit much, too much.",
+      "italian": "È un po' troppo, esagerato.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826479"
+    },
+    {
+      "english": "I'm broke, no money.",
+      "italian": "Sono al verde, senza soldi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826481"
+    },
+    {
+      "english": "It's annoying, bothersome.",
+      "italian": "Che fastidio, che seccatura.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826482"
+    },
+    {
+      "english": "Are you serious?",
+      "italian": "Stai scherzando?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826485"
+    },
+    {
+      "english": "It's a nightmare, awful.",
+      "italian": "È un incubo, terribile.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826487"
+    },
+    {
+      "english": "Let's go, come on!",
+      "italian": "Andiamo, forza!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826488"
+    },
+    {
+      "english": "It's a joke, ridiculous.",
+      "italian": "È uno scherzo, ridicolo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826491"
+    },
+    {
+      "english": "I'm fed up, enough!",
+      "italian": "Sono stufo, basta!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826493"
+    },
+    {
+      "english": "It's a pain, annoying.",
+      "italian": "Che palle, che rottura.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826494"
+    },
+    {
+      "english": "It's unbelievable, wow!",
+      "italian": "Non ci posso credere, wow!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826496"
+    },
+    {
+      "english": "Let's grab a bite.",
+      "italian": "Andiamo a mangiare qualcosa.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826497"
+    },
+    {
+      "english": "What a mess, so messy.",
+      "italian": "Che casino, tutto un pasticcio.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826499"
+    },
+    {
+      "english": "What's new, friend?",
+      "italian": "Che mi racconti, amico?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826500"
+    },
+    {
+      "english": "How's it going, mate?",
+      "italian": "Come butta, compare?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826502"
+    },
+    {
+      "english": "Any news from you?",
+      "italian": "Novità da parte tua?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826504"
+    },
+    {
+      "english": "Do you need a hand?",
+      "italian": "Ti serve una mano?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826506"
+    },
+    {
+      "english": "What do you think of it?",
+      "italian": "Che ne pensi tu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826507"
+    },
+    {
+      "english": "What's your opinion, really?",
+      "italian": "La tua opinione, sincera?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826509"
+    },
+    {
+      "english": "Tell me your idea.",
+      "italian": "Dimmi la tua, dai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826511"
+    },
+    {
+      "english": "What's the plan, then?",
+      "italian": "Qual è il piano, allora?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826513"
+    },
+    {
+      "english": "Are we meeting up later?",
+      "italian": "Ci becchiamo più tardi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826515"
+    },
+    {
+      "english": "Where shall we go?",
+      "italian": "Dove andiamo, senti?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826516"
+    },
+    {
+      "english": "What time works for you?",
+      "italian": "A che ora ti va?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826518"
+    },
+    {
+      "english": "Shall we do something fun?",
+      "italian": "Facciamo qualcosa di bello?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826519"
+    },
+    {
+      "english": "What are you doing tonight?",
+      "italian": "Che fai stasera, un'idea?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826521"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "italian": "Tutto a posto con te?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826522"
+    },
+    {
+      "english": "Are you feeling alright?",
+      "italian": "Ti senti bene, dici?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826524"
+    },
+    {
+      "english": "Can you explain that?",
+      "italian": "Mi spieghi meglio, per favore?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826525"
+    },
+    {
+      "english": "What do you suggest then?",
+      "italian": "Tu cosa consigli, eh?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826526"
+    },
+    {
+      "english": "Do you understand what I mean?",
+      "italian": "Hai capito cosa intendo?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826533"
+    },
+    {
+      "english": "What's the problem, say it.",
+      "italian": "Qual è il problema, dimmelo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826534"
+    },
+    {
+      "english": "Is this the right way?",
+      "italian": "È questa la strada giusta?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826536"
+    },
+    {
+      "english": "How much does it cost?",
+      "italian": "Quanto viene, quanto costa?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826537"
+    },
+    {
+      "english": "Can I have a look?",
+      "italian": "Posso dare un'occhiata?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826539"
+    },
+    {
+      "english": "What do you want to drink?",
+      "italian": "Cosa vuoi da bere?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826541"
+    },
+    {
+      "english": "Do you want to join us?",
+      "italian": "Vuoi unirti a noi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826542"
+    },
+    {
+      "english": "What are you waiting for?",
+      "italian": "Cosa aspetti, dai?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826545"
+    },
+    {
+      "english": "Is it ready yet?",
+      "italian": "È pronto, vero?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826546"
+    },
+    {
+      "english": "Are you coming or not?",
+      "italian": "Vieni o resti qui?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826549"
+    },
+    {
+      "english": "What's going on here?",
+      "italian": "Che succede qui?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826551"
+    },
+    {
+      "english": "Go for it, big guy!",
+      "italian": "Buttati, campione!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826553"
+    },
+    {
+      "english": "That's the spirit, keep going!",
+      "italian": "Così si fa, avanti tutta!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826554"
+    },
+    {
+      "english": "Don't give up now, okay?",
+      "italian": "Non mollare adesso, eh?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826556"
+    },
+    {
+      "english": "You'll get there, trust me.",
+      "italian": "Ci arriverai, fidati.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826558"
+    },
+    {
+      "english": "It's all in your head, win!",
+      "italian": "È tutto nella tua testa, vinci!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826560"
+    },
+    {
+      "english": "Think positive, always good.",
+      "italian": "Pensa positivo, sempre bene.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826562"
+    },
+    {
+      "english": "Keep pushing, you're almost there.",
+      "italian": "Continua a spingere, ci sei quasi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826564"
+    },
+    {
+      "english": "You're a champion, remember that.",
+      "italian": "Sei un campione, ricordalo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826566"
+    },
+    {
+      "english": "That's amazing, well done!",
+      "italian": "È fantastico, ben fatto!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826568"
+    },
+    {
+      "english": "Just breathe, you've got this.",
+      "italian": "Respira e basta, ce la fai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826570"
+    },
+    {
+      "english": "You're on fire, keep it up!",
+      "italian": "Sei inarrestabile, continua così!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826572"
+    },
+    {
+      "english": "It's a good start, nice!",
+      "italian": "È un buon inizio, bello!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826574"
+    },
+    {
+      "english": "You can do anything, fly!",
+      "italian": "Puoi fare qualsiasi cosa, vola!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826575"
+    },
+    {
+      "english": "Stay focused, almost there.",
+      "italian": "Resta concentrato, ci sei quasi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826577"
+    },
+    {
+      "english": "That's brilliant, truly!",
+      "italian": "È geniale, veramente!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826579"
+    },
+    {
+      "english": "You're doing so well, bravo!",
+      "italian": "Stai andando benissimo, bravo!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826582"
+    },
+    {
+      "english": "Never give up, fight on!",
+      "italian": "Mai arrendersi, lotta!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826583"
+    },
+    {
+      "english": "This is your time, own it.",
+      "italian": "Questo è il tuo momento, prenditelo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826585"
+    },
+    {
+      "english": "Positive vibes only, always.",
+      "italian": "Solo vibrazioni positive, sempre.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826587"
+    },
+    {
+      "english": "You're crushing it, fantastic!",
+      "italian": "Lo stai spaccando, fantastico!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826589"
+    },
+    {
+      "english": "Keep the faith, you will.",
+      "italian": "Mantieni la fede, ce la farai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826590"
+    },
+    {
+      "english": "You're doing amazing, keep it up.",
+      "italian": "Stai facendo cose incredibili, continua.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826592"
+    },
+    {
+      "english": "You got this, no doubt!",
+      "italian": "Ce la puoi fare, senza dubbio!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826594"
+    },
+    {
+      "english": "I'm really fed up, you know?",
+      "italian": "Sono stufo marcio, sai?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826596"
+    },
+    {
+      "english": "It drives me crazy, honestly.",
+      "italian": "Mi fa impazzire, onestamente.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826597"
+    },
+    {
+      "english": "I need some space, just a bit.",
+      "italian": "Ho bisogno di spazio, un pochino.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826599"
+    },
+    {
+      "english": "It's getting on my nerves, really.",
+      "italian": "Mi sta andando sui nervi, davvero.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826601"
+    },
+    {
+      "english": "I'm losing my patience, slowly.",
+      "italian": "Sto perdendo la pazienza, piano piano.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826602"
+    },
+    {
+      "english": "This whole thing, it's a mess.",
+      "italian": "Tutta questa storia, è un casino.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826604"
+    },
+    {
+      "english": "I'm feeling a bit down, lately.",
+      "italian": "Mi sento un po' giù, ultimamente.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826606"
+    },
+    {
+      "english": "It's not worth the stress, believe me.",
+      "italian": "Non ne vale la pena, credimi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826609"
+    },
+    {
+      "english": "Let it go, it's better this way.",
+      "italian": "Lascia stare, è meglio così.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826611"
+    },
+    {
+      "english": "I'm over it, completely done.",
+      "italian": "Ho chiuso con questa storia, finito.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826613"
+    },
+    {
+      "english": "It's not my problem, frankly.",
+      "italian": "Non sono affari miei, a dire il vero.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826615"
+    },
+    {
+      "english": "I need to clear my head, you see.",
+      "italian": "Devo schiarirmi le idee, capisci.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826616"
+    },
+    {
+      "english": "Let's not make a big deal.",
+      "italian": "Non facciamo una tragedia.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826618"
+    },
+    {
+      "english": "I'm tired of this situation.",
+      "italian": "Sono stanco di questa situazione.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826620"
+    },
+    {
+      "english": "It's really getting to me, now.",
+      "italian": "Mi sta toccando il fondo, ora.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826622"
+    },
+    {
+      "english": "I've had enough, honestly.",
+      "italian": "Ne ho avuto abbastanza, francamente.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826623"
+    },
+    {
+      "english": "It's a lot to handle, really.",
+      "italian": "È tanto da gestire, davvero.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826625"
+    },
+    {
+      "english": "I need a break, from everything.",
+      "italian": "Ho bisogno di una pausa, da tutto.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826627"
+    },
+    {
+      "english": "This is making me nervous, a lot.",
+      "italian": "Questo mi mette ansia, molta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826628"
+    },
+    {
+      "english": "I don't want to think about it.",
+      "italian": "Non voglio pensarci, proprio.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826632"
+    },
+    {
+      "english": "It's beyond me, that's for sure.",
+      "italian": "Mi sfugge di mano, sicuro.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826634"
+    },
+    {
+      "english": "I'm starting to get annoyed, really.",
+      "italian": "Mi sto scocciando, per davvero.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826635"
+    },
+    {
+      "english": "It's a tough pill to swallow.",
+      "italian": "È un boccone amaro da ingoiare.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826637"
+    },
+    {
+      "english": "I'm just trying to cope, you know.",
+      "italian": "Cerco solo di arrangiarmi, sai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826639"
+    },
+    {
+      "english": "It's wearing me down, slowly.",
+      "italian": "Mi sta consumando, lentamente.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826640"
+    },
+    {
+      "english": "I need to find a solution.",
+      "italian": "Devo trovare una soluzione.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826642"
+    },
+    {
+      "english": "It's a bit much, to be honest.",
+      "italian": "È un po' troppo, ad essere sinceri.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826644"
+    },
+    {
+      "english": "I'm feeling the pressure, a lot.",
+      "italian": "Sento la pressione, tanta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826646"
+    },
+    {
+      "english": "This is really testing me.",
+      "italian": "Questa mi sta mettendo alla prova.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826647"
+    },
+    {
+      "english": "I'm at my limit, honestly.",
+      "italian": "Sono al mio limite, a dir poco.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826649"
+    },
+    {
+      "english": "So, how's it going, my friend?",
+      "italian": "Allora, come va, amico mio?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826651"
+    },
+    {
+      "english": "Don't worry, it'll be fine, relax.",
+      "italian": "Tranquillo, andrà tutto bene, rilassati.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826655"
+    },
+    {
+      "english": "Can you give me a hand, please?",
+      "italian": "Mi daresti una mano, per favore?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826657"
+    },
+    {
+      "english": "Let's grab a coffee, on me.",
+      "italian": "Prendiamoci un caffè, offro io.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826666"
+    },
+    {
+      "english": "What's the damage, how much?",
+      "italian": "Quanto viene, quanto costa?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826668"
+    },
+    {
+      "english": "It's a bit pricey, isn't it?",
+      "italian": "È un po' caro, vero?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826670"
+    },
+    {
+      "english": "Can we split the bill?",
+      "italian": "Possiamo dividerci il conto?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826671"
+    },
+    {
+      "english": "Excuse me, where's the restroom?",
+      "italian": "Scusi, dov'è il bagno?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826673"
+    },
+    {
+      "english": "Do you speak English, a little?",
+      "italian": "Parli inglese, un pochino?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-25T05:40:48.826676"
     }
   ],
-  "last_updated": "2026-10-24T05:24:21.613717"
+  "last_updated": "2026-10-25T05:40:48.826678"
 }
