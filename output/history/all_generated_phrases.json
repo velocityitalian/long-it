@@ -6479,7 +6479,727 @@
       "italian": "Parli inglese, un pochino?",
       "category": "Common Native Slang",
       "generated_at": "2026-10-25T05:40:48.826676"
+    },
+    {
+      "english": "Just a moment, please.",
+      "italian": "Un attimo, per favore.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074926"
+    },
+    {
+      "english": "Take your time.",
+      "italian": "Prenditi il tuo tempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074941"
+    },
+    {
+      "english": "Don't rush.",
+      "italian": "Non avere fretta.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074944"
+    },
+    {
+      "english": "We'll get there, eventually.",
+      "italian": "Ci arriveremo, alla fine.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074947"
+    },
+    {
+      "english": "It takes time, you know.",
+      "italian": "Ci vuole tempo, lo sai.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074950"
+    },
+    {
+      "english": "Almost there.",
+      "italian": "Quasi fatto.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074952"
+    },
+    {
+      "english": "Just a little longer.",
+      "italian": "Ancora un po'.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074954"
+    },
+    {
+      "english": "Hold on a second.",
+      "italian": "Aspetta un secondo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074958"
+    },
+    {
+      "english": "We just need to wait.",
+      "italian": "Dobbiamo solo aspettare.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074961"
+    },
+    {
+      "english": "It's worth the wait.",
+      "italian": "Ne vale la pena.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074963"
+    },
+    {
+      "english": "Slowly, slowly.",
+      "italian": "Piano, piano.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074966"
+    },
+    {
+      "english": "No need to hurry.",
+      "italian": "Non c'è bisogno di correre.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074968"
+    },
+    {
+      "english": "Let me finish.",
+      "italian": "Lasciami finire.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074970"
+    },
+    {
+      "english": "Be patient with me.",
+      "italian": "Sii paziente con me.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074972"
+    },
+    {
+      "english": "It will happen.",
+      "italian": "Succederà.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074975"
+    },
+    {
+      "english": "Let's not rush things.",
+      "italian": "Non affrettiamo le cose.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074977"
+    },
+    {
+      "english": "Just breathe.",
+      "italian": "Respira.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074978"
+    },
+    {
+      "english": "We're almost there, keep going.",
+      "italian": "Siamo quasi arrivati, continua.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074981"
+    },
+    {
+      "english": "Give it a moment.",
+      "italian": "Dagli un momento.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074985"
+    },
+    {
+      "english": "Don't get impatient.",
+      "italian": "Non perdere la pazienza.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074987"
+    },
+    {
+      "english": "It's a process.",
+      "italian": "È un processo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074989"
+    },
+    {
+      "english": "Just a little patience.",
+      "italian": "Solo un po' di pazienza.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074993"
+    },
+    {
+      "english": "We'll see.",
+      "italian": "Vedremo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074995"
+    },
+    {
+      "english": "Let's wait and see.",
+      "italian": "Aspettiamo e vediamo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.074997"
+    },
+    {
+      "english": "It's coming.",
+      "italian": "Sta arrivando.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075000"
+    },
+    {
+      "english": "Bear with me.",
+      "italian": "Abbi pazienza con me.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075002"
+    },
+    {
+      "english": "Everything in its time.",
+      "italian": "Tutto a tempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075004"
+    },
+    {
+      "english": "Could you explain that, slowly?",
+      "italian": "Potresti spiegarlo, lentamente?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075007"
+    },
+    {
+      "english": "What do you think, we should do now?",
+      "italian": "Cosa pensi, dovremmo fare ora?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075009"
+    },
+    {
+      "english": "Is there another way, perhaps?",
+      "italian": "C'è un altro modo, per caso?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075012"
+    },
+    {
+      "english": "How long will this take, roughly?",
+      "italian": "Quanto tempo ci vorrà, più o meno?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075014"
+    },
+    {
+      "english": "Can we discuss this later?",
+      "italian": "Possiamo parlarne più tardi?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075017"
+    },
+    {
+      "english": "What's the next step, please?",
+      "italian": "Qual è il prossimo passo, per favore?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075020"
+    },
+    {
+      "english": "Can I ask for your advice?",
+      "italian": "Posso chiederti un consiglio?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075022"
+    },
+    {
+      "english": "Let's think about it, calmly.",
+      "italian": "Pensiamoci, con calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075024"
+    },
+    {
+      "english": "How do you handle delays?",
+      "italian": "Come gestisci i ritardi?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075027"
+    },
+    {
+      "english": "Is it complicated, this process?",
+      "italian": "È complicato, questo processo?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075029"
+    },
+    {
+      "english": "What if we try again?",
+      "italian": "E se riprovassimo?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075031"
+    },
+    {
+      "english": "What's the reason for the wait?",
+      "italian": "Qual è il motivo dell'attesa?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075034"
+    },
+    {
+      "english": "Shall we pause for a minute?",
+      "italian": "Facciamo una pausa, un minuto?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075036"
+    },
+    {
+      "english": "What's the plan, moving forward?",
+      "italian": "Qual è il piano, andando avanti?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075038"
+    },
+    {
+      "english": "How do you stay calm?",
+      "italian": "Come fai a rimanere calmo/a?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075040"
+    },
+    {
+      "english": "Can you show me, how?",
+      "italian": "Puoi mostrarmi, come?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075042"
+    },
+    {
+      "english": "Could we review this later?",
+      "italian": "Potremmo rivedere questo, più tardi?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075044"
+    },
+    {
+      "english": "What's the situation, now?",
+      "italian": "Qual è la situazione, adesso?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075046"
+    },
+    {
+      "english": "Do you need more time?",
+      "italian": "Hai bisogno di più tempo?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075050"
+    },
+    {
+      "english": "Let's consider the options.",
+      "italian": "Consideriamo le opzioni.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075052"
+    },
+    {
+      "english": "What's the best approach, do you think?",
+      "italian": "Qual è l'approccio migliore, secondo te?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075055"
+    },
+    {
+      "english": "How do you manage, when things are slow?",
+      "italian": "Come ti organizzi, quando le cose sono lente?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075057"
+    },
+    {
+      "english": "Should we wait, or proceed?",
+      "italian": "Dobbiamo aspettare, o procedere?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075059"
+    },
+    {
+      "english": "Keep your focus, stay strong.",
+      "italian": "Mantieni la concentrazione, resta forte.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075061"
+    },
+    {
+      "english": "Good job, take your time.",
+      "italian": "Bravo/a, prenditi il tuo tempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075063"
+    },
+    {
+      "english": "This effort, will pay off.",
+      "italian": "Questo sforzo, sarà ripagato.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075066"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "italian": "Fidati del processo, funziona.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075068"
+    },
+    {
+      "english": "Your calm, is impressive.",
+      "italian": "La tua calma, è impressionante.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075070"
+    },
+    {
+      "english": "Don't give up, just yet.",
+      "italian": "Non mollare, ancora non è finita.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075074"
+    },
+    {
+      "english": "Every step, matters greatly.",
+      "italian": "Ogni passo, conta molto.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075078"
+    },
+    {
+      "english": "You have the strength, believe it.",
+      "italian": "Hai la forza, credici.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075081"
+    },
+    {
+      "english": "Progress, is progress, always.",
+      "italian": "Il progresso, è progresso, sempre.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075084"
+    },
+    {
+      "english": "Focus on the next move.",
+      "italian": "Concentrati sulla prossima mossa.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075086"
+    },
+    {
+      "english": "Let's keep this momentum.",
+      "italian": "Manteniamo questo slancio.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075088"
+    },
+    {
+      "english": "Your dedication, is clear.",
+      "italian": "La tua dedizione, è evidente.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075090"
+    },
+    {
+      "english": "One thing, at a time.",
+      "italian": "Una cosa, alla volta.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075092"
+    },
+    {
+      "english": "This requires, thoughtful action.",
+      "italian": "Ci vuole, un'azione ponderata.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075095"
+    },
+    {
+      "english": "Your persistence, is admirable.",
+      "italian": "La tua perseveranza, è ammirevole.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075097"
+    },
+    {
+      "english": "Be proud, of your journey.",
+      "italian": "Sii fiero/a, del tuo percorso.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075099"
+    },
+    {
+      "english": "We are learning, together.",
+      "italian": "Stiamo imparando, insieme.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075102"
+    },
+    {
+      "english": "The reward, will be sweet.",
+      "italian": "La ricompensa, sarà dolce.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075104"
+    },
+    {
+      "english": "This is a good sign.",
+      "italian": "Questo è un buon segno.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075106"
+    },
+    {
+      "english": "You are capable, of this.",
+      "italian": "Sei capace, di questo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075108"
+    },
+    {
+      "english": "Patience leads, to wisdom.",
+      "italian": "La pazienza porta, alla saggezza.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075110"
+    },
+    {
+      "english": "Let's focus, on solutions.",
+      "italian": "Concentriamoci, sulle soluzioni.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075112"
+    },
+    {
+      "english": "This is building character.",
+      "italian": "Questo sta formando il carattere.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075116"
+    },
+    {
+      "english": "Keep faith, in the outcome.",
+      "italian": "Mantieni la fede, nel risultato.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075118"
+    },
+    {
+      "english": "You handle this, very well.",
+      "italian": "Gestisci questo, molto bene.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075120"
+    },
+    {
+      "english": "Don't rush, the good things.",
+      "italian": "Non affrettare, le cose belle.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075123"
+    },
+    {
+      "english": "This patience, is key.",
+      "italian": "Questa pazienza, è fondamentale.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075125"
+    },
+    {
+      "english": "Think positively, achieve more.",
+      "italian": "Pensa positivo, raggiungi di più.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075127"
+    },
+    {
+      "english": "Your calm approach, is best.",
+      "italian": "Il tuo approccio calmo, è il migliore.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075129"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "italian": "Roma non fu costruita, in un giorno.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075132"
+    },
+    {
+      "english": "Slowly, slowly, goes far.",
+      "italian": "Lentamente, lentamente, si va lontano.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075134"
+    },
+    {
+      "english": "He who waits, gets the best.",
+      "italian": "Chi aspetta, ottiene il meglio.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075136"
+    },
+    {
+      "english": "Take it easy, the pace.",
+      "italian": "Prendila con calma, il passo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075138"
+    },
+    {
+      "english": "The right moment, will come.",
+      "italian": "Il momento giusto, arriverà.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075140"
+    },
+    {
+      "english": "Don't hurry, good things take time.",
+      "italian": "Non avere fretta, le cose buone richiedono tempo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075143"
+    },
+    {
+      "english": "Little by little, the bird builds its nest.",
+      "italian": "Goccia a goccia, si riempie il vaso.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075145"
+    },
+    {
+      "english": "Let's breathe, before acting.",
+      "italian": "Respiriamo, prima di agire.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075148"
+    },
+    {
+      "english": "Calm down, let's see.",
+      "italian": "Calmati, vediamo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075150"
+    },
+    {
+      "english": "Have patience, it's a virtue.",
+      "italian": "Abbi pazienza, è una virtù.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075154"
+    },
+    {
+      "english": "Let's take our time, on this.",
+      "italian": "Prendiamoci il tempo, su questo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075164"
+    },
+    {
+      "english": "No rush, my friend.",
+      "italian": "Nessuna fretta, amico mio.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075167"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "italian": "Le cose buone, arrivano a chi sa aspettare.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075169"
+    },
+    {
+      "english": "Let's not be hasty.",
+      "italian": "Non facciamoci prendere dalla fretta.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075171"
+    },
+    {
+      "english": "Let's proceed, with care.",
+      "italian": "Procediamo, con attenzione.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075174"
+    },
+    {
+      "english": "We'll manage, it will work.",
+      "italian": "Ce la faremo, funzionerà.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075176"
+    },
+    {
+      "english": "Just be patient, a little longer.",
+      "italian": "Sii solo paziente, ancora un po'.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075178"
+    },
+    {
+      "english": "Let's wait, for the right moment.",
+      "italian": "Aspettiamo, il momento propizio.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075180"
+    },
+    {
+      "english": "This requires, a steady hand.",
+      "italian": "Ci vuole, una mano ferma.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075183"
+    },
+    {
+      "english": "Let's stay, composed.",
+      "italian": "Restiamo, composti.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075185"
+    },
+    {
+      "english": "We must be, persistent.",
+      "italian": "Dobbiamo essere, tenaci.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075187"
+    },
+    {
+      "english": "Slowly, but surely.",
+      "italian": "Piano, piano, si arriva.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075191"
+    },
+    {
+      "english": "Don't lose, your calm.",
+      "italian": "Non perdere, la calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075193"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "italian": "È una maratona, non uno sprint.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075195"
+    },
+    {
+      "english": "Let's let it mature.",
+      "italian": "Lasciamo che maturi.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075197"
+    },
+    {
+      "english": "This takes, time and dedication.",
+      "italian": "Questo richiede, tempo e dedizione.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075199"
+    },
+    {
+      "english": "Let's try a different approach.",
+      "italian": "Proviamo un approccio diverso.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075201"
+    },
+    {
+      "english": "We need to be more organized.",
+      "italian": "Dobbiamo essere più organizzati.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075204"
+    },
+    {
+      "english": "Take a deep breath, before deciding.",
+      "italian": "Fai un respiro profondo, prima di decidere.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075206"
+    },
+    {
+      "english": "It's okay, we can fix this.",
+      "italian": "Va bene, possiamo risolvere.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075208"
+    },
+    {
+      "english": "Let's break it down, into steps.",
+      "italian": "Scomponiamolo, in passaggi.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075211"
+    },
+    {
+      "english": "What is the real problem here?",
+      "italian": "Qual è il vero problema?",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075213"
+    },
+    {
+      "english": "Let's re-evaluate, the situation.",
+      "italian": "Rivalutiamo, la situazione.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075215"
+    },
+    {
+      "english": "Let's gather all the facts.",
+      "italian": "Raccogliamo tutti i fatti.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075217"
+    },
+    {
+      "english": "We can learn, from this mistake.",
+      "italian": "Possiamo imparare, da questo errore.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075220"
+    },
+    {
+      "english": "Don't get frustrated, just adjust.",
+      "italian": "Non ti frustrare, adatta solo.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075222"
+    },
+    {
+      "english": "This is a learning process.",
+      "italian": "Questo è un processo di apprendimento.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075224"
+    },
+    {
+      "english": "Let's focus, on the next action.",
+      "italian": "Concentriamoci, sulla prossima azione.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075226"
+    },
+    {
+      "english": "Slow down, and observe carefully.",
+      "italian": "Rallenta, e osserva attentamente.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075228"
+    },
+    {
+      "english": "Let's wait, for better conditions.",
+      "italian": "Aspettiamo, condizioni migliori.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075230"
+    },
+    {
+      "english": "This requires, a calm mindset.",
+      "italian": "Ci vuole, una mentalità calma.",
+      "category": "Patience",
+      "generated_at": "2026-10-26T07:41:10.075234"
     }
   ],
-  "last_updated": "2026-10-25T05:40:48.826678"
+  "last_updated": "2026-10-26T07:41:10.075236"
 }
