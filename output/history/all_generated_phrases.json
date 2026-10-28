@@ -7919,7 +7919,727 @@
       "italian": "L'autocompassione, è una forma di forza.",
       "category": "Perseverance",
       "generated_at": "2026-10-27T05:59:07.622021"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "italian": "Inspira, espira.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229604"
+    },
+    {
+      "english": "Be present, right now.",
+      "italian": "Sii presente, adesso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229618"
+    },
+    {
+      "english": "Just observe, no judgment.",
+      "italian": "Osserva e basta, senza giudicare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229622"
+    },
+    {
+      "english": "Calm your mind, gently.",
+      "italian": "Calma la tua mente, piano.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229625"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "italian": "Senti il momento, completamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229628"
+    },
+    {
+      "english": "Let go of worry.",
+      "italian": "Lascia andare le preoccupazioni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229630"
+    },
+    {
+      "english": "What do you feel, inside?",
+      "italian": "Cosa senti, dentro?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229632"
+    },
+    {
+      "english": "Stillness speaks volumes.",
+      "italian": "Il silenzio dice molto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229637"
+    },
+    {
+      "english": "A moment of peace.",
+      "italian": "Un momento di pace.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229640"
+    },
+    {
+      "english": "Ground yourself, deeply.",
+      "italian": "Radicati, profondamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229642"
+    },
+    {
+      "english": "Just be, right here.",
+      "italian": "Stai solo qui, ora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229644"
+    },
+    {
+      "english": "Listen to your breath.",
+      "italian": "Ascolta il tuo respiro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229646"
+    },
+    {
+      "english": "Find your center, now.",
+      "italian": "Trova il tuo centro, adesso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229648"
+    },
+    {
+      "english": "Accept what is.",
+      "italian": "Accetta ciò che è.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229650"
+    },
+    {
+      "english": "Notice the sensations.",
+      "italian": "Nota le sensazioni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229652"
+    },
+    {
+      "english": "Slow down, take it easy.",
+      "italian": "Rallenta, prendila con calma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229654"
+    },
+    {
+      "english": "What is, is okay.",
+      "italian": "Quello che c'è, va bene.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229657"
+    },
+    {
+      "english": "Focus on your body.",
+      "italian": "Concentrati sul tuo corpo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229659"
+    },
+    {
+      "english": "Release the tension.",
+      "italian": "Rilascia la tensione.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229661"
+    },
+    {
+      "english": "Mindful, step by step.",
+      "italian": "Consapevole, passo dopo passo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229662"
+    },
+    {
+      "english": "Inhale peace, exhale stress.",
+      "italian": "Inspira pace, espira stress.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229664"
+    },
+    {
+      "english": "This moment is all.",
+      "italian": "Questo momento è tutto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229666"
+    },
+    {
+      "english": "Feel your feet, grounded.",
+      "italian": "Senti i tuoi piedi, a terra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229668"
+    },
+    {
+      "english": "Just notice, without thinking.",
+      "italian": "Solo nota, senza pensare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229670"
+    },
+    {
+      "english": "Find quiet, within.",
+      "italian": "Trova la quiete, dentro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229672"
+    },
+    {
+      "english": "One breath, at a time.",
+      "italian": "Un respiro, alla volta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229674"
+    },
+    {
+      "english": "Observe your thoughts, drift.",
+      "italian": "Osserva i pensieri, andare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229676"
+    },
+    {
+      "english": "Open your awareness.",
+      "italian": "Apri la tua consapevolezza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229678"
+    },
+    {
+      "english": "Embrace the stillness.",
+      "italian": "Abbraccia la quiete.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229680"
+    },
+    {
+      "english": "Can you guide me, please?",
+      "italian": "Puoi guidarmi, per favore?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229683"
+    },
+    {
+      "english": "How can I start, today?",
+      "italian": "Come posso iniziare, oggi?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229685"
+    },
+    {
+      "english": "Could you explain, that more?",
+      "italian": "Potresti spiegarmi, meglio?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229687"
+    },
+    {
+      "english": "What's your experience, with this?",
+      "italian": "Qual è la tua esperienza, con questo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229690"
+    },
+    {
+      "english": "Shall we try, something new?",
+      "italian": "Proviamo, qualcosa di nuovo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229692"
+    },
+    {
+      "english": "Are you ready, to begin?",
+      "italian": "Sei pronto/a, per iniziare?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229694"
+    },
+    {
+      "english": "What helps you, to relax?",
+      "italian": "Cosa ti aiuta, a rilassarti?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229696"
+    },
+    {
+      "english": "What should I focus, on now?",
+      "italian": "Su cosa dovrei concentrarmi, ora?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229698"
+    },
+    {
+      "english": "Do you find, this peaceful?",
+      "italian": "Trovi, questo pacifico?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229699"
+    },
+    {
+      "english": "Tell me more, about that.",
+      "italian": "Dimmi di più, su quello.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229701"
+    },
+    {
+      "english": "How do you, handle stress?",
+      "italian": "Come gestisci, lo stress?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229705"
+    },
+    {
+      "english": "What is, your intention?",
+      "italian": "Qual è, la tua intenzione?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229707"
+    },
+    {
+      "english": "Can we sit, together?",
+      "italian": "Possiamo sederci, insieme?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229708"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "italian": "A cosa stai pensando?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229710"
+    },
+    {
+      "english": "Is there, a technique?",
+      "italian": "C'è, una tecnica?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229712"
+    },
+    {
+      "english": "How do you, feel now?",
+      "italian": "Come ti senti, ora?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229714"
+    },
+    {
+      "english": "Are you finding, peace?",
+      "italian": "Stai trovando, pace?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229716"
+    },
+    {
+      "english": "Can I ask, a question?",
+      "italian": "Posso fare, una domanda?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229718"
+    },
+    {
+      "english": "Is this, helping you?",
+      "italian": "Ti sta aiutando, questo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229720"
+    },
+    {
+      "english": "What's your favorite, part?",
+      "italian": "Qual è la tua parte, preferita?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229723"
+    },
+    {
+      "english": "Shall we pause, a moment?",
+      "italian": "Facciamo una pausa, un momento?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229725"
+    },
+    {
+      "english": "How do you, connect?",
+      "italian": "Come ti connetti?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229727"
+    },
+    {
+      "english": "What's new, with you?",
+      "italian": "Cosa c'è di nuovo, con te?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229729"
+    },
+    {
+      "english": "That's a great step, forward.",
+      "italian": "È un ottimo passo, avanti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229731"
+    },
+    {
+      "english": "Trust the process, gently.",
+      "italian": "Fidati del processo, dolcemente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229733"
+    },
+    {
+      "english": "Every little bit, counts.",
+      "italian": "Ogni piccolo passo, conta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229735"
+    },
+    {
+      "english": "You're doing wonderfully, really.",
+      "italian": "Stai andando benissimo, davvero.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229739"
+    },
+    {
+      "english": "Your progress, is beautiful.",
+      "italian": "Il tuo progresso, è bellissimo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229741"
+    },
+    {
+      "english": "Believe in your own power.",
+      "italian": "Credi nel tuo potere.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229743"
+    },
+    {
+      "english": "You are capable, of much.",
+      "italian": "Sei capace, di molto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229745"
+    },
+    {
+      "english": "Let go, of what hinders.",
+      "italian": "Lascia andare, ciò che ostacola.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229747"
+    },
+    {
+      "english": "Embrace this growth, moment.",
+      "italian": "Abbraccia questa crescita, momento.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229749"
+    },
+    {
+      "english": "You're exactly, where you need to be.",
+      "italian": "Sei esattamente, dove devi essere.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229751"
+    },
+    {
+      "english": "Your inner calm, shines through.",
+      "italian": "La tua calma interiore, traspare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229753"
+    },
+    {
+      "english": "Feel that gentle, energy.",
+      "italian": "Senti quella gentile, energia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229755"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "italian": "Stai facendo benissimo, veramente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229757"
+    },
+    {
+      "english": "This positive change, is yours.",
+      "italian": "Questo cambiamento positivo, è tuo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229760"
+    },
+    {
+      "english": "Allow yourself, to be proud.",
+      "italian": "Permettiti, di essere orgoglioso/a.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229762"
+    },
+    {
+      "english": "You are creating, good vibes.",
+      "italian": "Stai creando, buone vibrazioni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229764"
+    },
+    {
+      "english": "Let your light, shine bright.",
+      "italian": "Lascia che la tua luce, brilli.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229765"
+    },
+    {
+      "english": "Focus on your strengths.",
+      "italian": "Concentrati sui tuoi punti di forza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229767"
+    },
+    {
+      "english": "You are more than enough.",
+      "italian": "Sei più che abbastanza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229769"
+    },
+    {
+      "english": "Embrace your unique path.",
+      "italian": "Abbraccia il tuo percorso unico.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229771"
+    },
+    {
+      "english": "Trust your intuition, always.",
+      "italian": "Fidati della tua intuizione, sempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229773"
+    },
+    {
+      "english": "You are growing, beautifully.",
+      "italian": "Stai crescendo, splendidamente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229775"
+    },
+    {
+      "english": "Your inner peace, is growing.",
+      "italian": "La tua pace interiore, cresce.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229777"
+    },
+    {
+      "english": "You are worthy, of joy.",
+      "italian": "Sei degno/a di gioia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229779"
+    },
+    {
+      "english": "Take it easy, breathe deep.",
+      "italian": "Prendila con calma, respira a fondo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229782"
+    },
+    {
+      "english": "A moment for myself, yes?",
+      "italian": "Un momento per me, vero?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229784"
+    },
+    {
+      "english": "Let the worries go, float away.",
+      "italian": "Lascia andare i pensieri, galleggiano via.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229786"
+    },
+    {
+      "english": "Just be here, now.",
+      "italian": "Stai solo qui, ora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229787"
+    },
+    {
+      "english": "Listen to your heart, beating.",
+      "italian": "Ascolta il tuo cuore, che batte.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229790"
+    },
+    {
+      "english": "Little by little, finds its way.",
+      "italian": "Piano piano, trova la sua strada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229793"
+    },
+    {
+      "english": "This is, a good space.",
+      "italian": "Questo è un bel posto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229796"
+    },
+    {
+      "english": "Feel the calm, inside.",
+      "italian": "Senti la calma, dentro.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229798"
+    },
+    {
+      "english": "What does your gut say?",
+      "italian": "Cosa ti dice l'istinto?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229800"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "italian": "Rallenta, goditi l'attimo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229804"
+    },
+    {
+      "english": "It's okay, to just be.",
+      "italian": "Va bene, semplicemente essere.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229806"
+    },
+    {
+      "english": "My mind, is quiet now.",
+      "italian": "La mia mente, è tranquilla ora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229808"
+    },
+    {
+      "english": "Find your center, quickly.",
+      "italian": "Trova il tuo centro, presto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229810"
+    },
+    {
+      "english": "A little peace, goes far.",
+      "italian": "Un po' di pace, fa molta strada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229812"
+    },
+    {
+      "english": "Surrender, to the present.",
+      "italian": "Arrenditi, al presente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229814"
+    },
+    {
+      "english": "Is this, feeling right?",
+      "italian": "Ti sembra giusto, questo?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229816"
+    },
+    {
+      "english": "Just observe, without judgment.",
+      "italian": "Osserva e basta, senza giudizio.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229818"
+    },
+    {
+      "english": "Let it be, what it is.",
+      "italian": "Lascia che sia, ciò che è.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229820"
+    },
+    {
+      "english": "Inhale peace, exhale calm.",
+      "italian": "Inspira pace, espira calma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229822"
+    },
+    {
+      "english": "What a lovely, quiet moment.",
+      "italian": "Che bel momento, di quiete.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229824"
+    },
+    {
+      "english": "Trust your journey, gently.",
+      "italian": "Fidati del tuo percorso, piano.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229826"
+    },
+    {
+      "english": "This stillness, is precious.",
+      "italian": "Questa quiete, è preziosa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229827"
+    },
+    {
+      "english": "Just be yourself, always.",
+      "italian": "Sii te stesso, sempre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229829"
+    },
+    {
+      "english": "Find your breath, easily.",
+      "italian": "Trova il tuo respiro, facilmente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229831"
+    },
+    {
+      "english": "Everything flows, naturally.",
+      "italian": "Tutto scorre, naturalmente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229833"
+    },
+    {
+      "english": "Can you feel, this energy?",
+      "italian": "Senti questa energia?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229835"
+    },
+    {
+      "english": "Your inner peace, matters.",
+      "italian": "La tua pace interiore, conta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229837"
+    },
+    {
+      "english": "Be present, truly.",
+      "italian": "Sii presente, davvero.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229840"
+    },
+    {
+      "english": "It's a good feeling, right?",
+      "italian": "È una bella sensazione, vero?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229842"
+    },
+    {
+      "english": "Plan ahead, stay calm.",
+      "italian": "Pianifica prima, stai calmo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229844"
+    },
+    {
+      "english": "Ask for help, if needed.",
+      "italian": "Chiedi aiuto, se serve.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229846"
+    },
+    {
+      "english": "What needs, doing now?",
+      "italian": "Cosa va fatto, ora?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229849"
+    },
+    {
+      "english": "Simplify your tasks.",
+      "italian": "Semplifica i tuoi compiti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229851"
+    },
+    {
+      "english": "Is this, truly necessary?",
+      "italian": "È davvero, necessario?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229853"
+    },
+    {
+      "english": "Let it go, if it's stuck.",
+      "italian": "Lascia andare, se si blocca.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229855"
+    },
+    {
+      "english": "Listen, before you speak.",
+      "italian": "Ascolta, prima di parlare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229857"
+    },
+    {
+      "english": "Take a pause, reset your mind.",
+      "italian": "Fai una pausa, riavvia la mente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229861"
+    },
+    {
+      "english": "What is working, well?",
+      "italian": "Cosa sta funzionando, bene?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229863"
+    },
+    {
+      "english": "Share your progress, kindly.",
+      "italian": "Condividi i tuoi progressi, gentilmente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229864"
+    },
+    {
+      "english": "Breathe through, the difficulty.",
+      "italian": "Respira attraverso, la difficoltà.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229867"
+    },
+    {
+      "english": "Learn from, your mistakes.",
+      "italian": "Impara dai, tuoi errori.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229868"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "italian": "Celebra le piccole vittorie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229870"
+    },
+    {
+      "english": "Choose your battles.",
+      "italian": "Scegli le tue battaglie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229872"
+    },
+    {
+      "english": "Take a break, now.",
+      "italian": "Prenditi una pausa, adesso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T06:38:01.229874"
     }
   ],
-  "last_updated": "2026-10-27T05:59:07.622023"
+  "last_updated": "2026-10-28T06:38:01.229876"
 }
