@@ -9359,7 +9359,727 @@
       "italian": "Sii aperto a nuove esperienze.",
       "category": "Wisdom",
       "generated_at": "2026-10-29T06:46:12.241831"
+    },
+    {
+      "english": "Excuse me, where is the station?",
+      "italian": "Scusi, dov'è la stazione?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745039"
+    },
+    {
+      "english": "Can you help me, please?",
+      "italian": "Mi può aiutare, per favore?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745054"
+    },
+    {
+      "english": "I'm looking for the pharmacy.",
+      "italian": "Cerco la farmacia.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745057"
+    },
+    {
+      "english": "How do I get to the square?",
+      "italian": "Come arrivo alla piazza?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745060"
+    },
+    {
+      "english": "Is it far from here?",
+      "italian": "È lontano da qui?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745063"
+    },
+    {
+      "english": "Which way is the museum?",
+      "italian": "Qual è la strada per il museo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745066"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "italian": "Mi sono perso/a un po'.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745068"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "italian": "Dove trovo un taxi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745074"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "italian": "C'è una fermata dell'autobus qui vicino?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745077"
+    },
+    {
+      "english": "What's the address, please?",
+      "italian": "Qual è l'indirizzo, per favore?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745080"
+    },
+    {
+      "english": "I need to go to the train station.",
+      "italian": "Devo andare alla stazione dei treni.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745082"
+    },
+    {
+      "english": "Is it on the left or right?",
+      "italian": "È a sinistra o a destra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745085"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "italian": "Può mostrarmelo sulla mappa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745087"
+    },
+    {
+      "english": "I'm trying to find this street.",
+      "italian": "Sto cercando questa via.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745090"
+    },
+    {
+      "english": "How far is it, roughly?",
+      "italian": "Quanto dista, all'incirca?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745092"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "italian": "Dov'è il bancomat più vicino?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745094"
+    },
+    {
+      "english": "Is there a toilet around here?",
+      "italian": "C'è un bagno da queste parti?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745097"
+    },
+    {
+      "english": "Can I walk there?",
+      "italian": "Posso andarci a piedi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745099"
+    },
+    {
+      "english": "Which bus goes downtown?",
+      "italian": "Quale autobus va in centro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745101"
+    },
+    {
+      "english": "I'm looking for a good restaurant.",
+      "italian": "Cerco un buon ristorante.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745104"
+    },
+    {
+      "english": "How long does it take to get there?",
+      "italian": "Quanto tempo ci vuole per arrivare?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745106"
+    },
+    {
+      "english": "Is it past the bridge?",
+      "italian": "È dopo il ponte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745109"
+    },
+    {
+      "english": "Could you point me in the right direction?",
+      "italian": "Potrebbe indicarmi la direzione giusta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745111"
+    },
+    {
+      "english": "Where's the nearest metro station?",
+      "italian": "Dov'è la stazione della metropolitana più vicina?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745114"
+    },
+    {
+      "english": "I need directions to the Colosseum.",
+      "italian": "Mi servono indicazioni per il Colosseo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745118"
+    },
+    {
+      "english": "Is this the way to the river?",
+      "italian": "Questa è la strada per il fiume?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745128"
+    },
+    {
+      "english": "Can you tell me how to get there?",
+      "italian": "Mi sa dire come ci arrivo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745130"
+    },
+    {
+      "english": "Just straight ahead, right?",
+      "italian": "Sempre dritto, vero?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745133"
+    },
+    {
+      "english": "Thank you for your help!",
+      "italian": "Grazie per il suo aiuto!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745135"
+    },
+    {
+      "english": "Scusi, a destra o sinistra?",
+      "italian": "Scusi, a destra o sinistra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745138"
+    },
+    {
+      "english": "Mi sa dire, per favore?",
+      "italian": "Mi sa dire, per favore?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745141"
+    },
+    {
+      "english": "È lontano questo posto?",
+      "italian": "È lontano questo posto?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745146"
+    },
+    {
+      "english": "Potrei chiederLe un'informazione?",
+      "italian": "Potrei chiederLe un'informazione?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745148"
+    },
+    {
+      "english": "Mi sono perso, aiuto!",
+      "italian": "Mi sono perso, aiuto!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745153"
+    },
+    {
+      "english": "Dove posso trovare un bagno?",
+      "italian": "Dove posso trovare un bagno?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745156"
+    },
+    {
+      "english": "Questa è la via giusta?",
+      "italian": "Questa è la via giusta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745159"
+    },
+    {
+      "english": "Mi serve un taxi, sa dove?",
+      "italian": "Mi serve un taxi, sa dove?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745161"
+    },
+    {
+      "english": "Quanto dista, indicativamente?",
+      "italian": "Quanto dista, indicativamente?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745181"
+    },
+    {
+      "english": "C'è una fermata qui vicino?",
+      "italian": "C'è una fermata qui vicino?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745186"
+    },
+    {
+      "english": "A che ora apre il museo?",
+      "italian": "A che ora apre il museo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745190"
+    },
+    {
+      "english": "È permesso andare a piedi?",
+      "italian": "È permesso andare a piedi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745195"
+    },
+    {
+      "english": "Quale autobus va in centro?",
+      "italian": "Quale autobus va in centro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745209"
+    },
+    {
+      "english": "Mi indica sulla mappa?",
+      "italian": "Mi indica sulla mappa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745211"
+    },
+    {
+      "english": "Dov'è la stazione più vicina?",
+      "italian": "Dov'è la stazione più vicina?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745215"
+    },
+    {
+      "english": "Sto cercando questa via.",
+      "italian": "Sto cercando questa via.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745217"
+    },
+    {
+      "english": "È dall'altra parte, vero?",
+      "italian": "È dall'altra parte, vero?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745221"
+    },
+    {
+      "english": "Mi aiuta a orientarmi?",
+      "italian": "Mi aiuta a orientarmi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745223"
+    },
+    {
+      "english": "Dove trovo un bancomat?",
+      "italian": "Dove trovo un bancomat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745225"
+    },
+    {
+      "english": "Ha un consiglio, per favore?",
+      "italian": "Ha un consiglio, per favore?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745227"
+    },
+    {
+      "english": "Come arrivo alla piazza?",
+      "italian": "Come arrivo alla piazza?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745230"
+    },
+    {
+      "english": "C'è un posto dove mangiare?",
+      "italian": "C'è un posto dove mangiare?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745233"
+    },
+    {
+      "english": "È un tragitto lungo?",
+      "italian": "È un tragitto lungo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745238"
+    },
+    {
+      "english": "Mi serve la farmacia.",
+      "italian": "Mi serve la farmacia.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745240"
+    },
+    {
+      "english": "La strada è dritta?",
+      "italian": "La strada è dritta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745243"
+    },
+    {
+      "english": "Può indicare la direzione?",
+      "italian": "Può indicare la direzione?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745246"
+    },
+    {
+      "english": "È vicino al fiume?",
+      "italian": "È vicino al fiume?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745251"
+    },
+    {
+      "english": "Quanto tempo ci vuole?",
+      "italian": "Quanto tempo ci vuole?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745253"
+    },
+    {
+      "english": "La metropolitana è qui?",
+      "italian": "La metropolitana è qui?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745256"
+    },
+    {
+      "english": "You got this, just ask!",
+      "italian": "Ce la fai, chiedi e basta!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745258"
+    },
+    {
+      "english": "Every step is progress, don't worry.",
+      "italian": "Ogni passo è un progresso, non temere.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745261"
+    },
+    {
+      "english": "Asking is brave, you're doing great!",
+      "italian": "Chiedere è da coraggiosi, stai andando benissimo!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745265"
+    },
+    {
+      "english": "Confidence, my friend, builds directions.",
+      "italian": "La sicurezza, amico mio, crea indicazioni.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745267"
+    },
+    {
+      "english": "One question, one answer, simple!",
+      "italian": "Una domanda, una risposta, semplice!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745270"
+    },
+    {
+      "english": "You're learning, that's the main goal.",
+      "italian": "Stai imparando, questo è l'obiettivo principale.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745273"
+    },
+    {
+      "english": "Breathe, smile, and make them understand.",
+      "italian": "Respira, sorridi, e fatti capire.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745276"
+    },
+    {
+      "english": "Don't be shy, the locals are friendly.",
+      "italian": "Non essere timido, la gente del posto è gentile.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745283"
+    },
+    {
+      "english": "Each conversation, a victory.",
+      "italian": "Ogni conversazione, una vittoria.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745286"
+    },
+    {
+      "english": "Your Italian is improving, nice!",
+      "italian": "Il tuo italiano migliora, bene!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745288"
+    },
+    {
+      "english": "A little effort, a lot of discovery.",
+      "italian": "Un piccolo sforzo, tante scoperte.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745291"
+    },
+    {
+      "english": "You're navigating like a pro!",
+      "italian": "Ti stai muovendo come un professionista!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745294"
+    },
+    {
+      "english": "Keep that positive vibe going.",
+      "italian": "Mantieni viva questa energia positiva.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745296"
+    },
+    {
+      "english": "Asking is an adventure, enjoy it.",
+      "italian": "Chiedere è un'avventura, goditela.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745299"
+    },
+    {
+      "english": "Soon you'll know Rome like your pocket.",
+      "italian": "Presto conoscerai Roma come le tue tasche.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745302"
+    },
+    {
+      "english": "Great job, you made yourself clear!",
+      "italian": "Ottimo lavoro, ti sei fatto capire!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745304"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "italian": "Non pensare troppo, parla e basta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745307"
+    },
+    {
+      "english": "Each interaction makes you stronger.",
+      "italian": "Ogni interazione ti rende più forte.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745309"
+    },
+    {
+      "english": "You're embracing the culture, beautiful!",
+      "italian": "Stai abbracciando la cultura, bellissimo!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745312"
+    },
+    {
+      "english": "Your effort is truly commendable.",
+      "italian": "Il tuo impegno è davvero lodevole.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745315"
+    },
+    {
+      "english": "Stay curious, keep exploring.",
+      "italian": "Rimani curioso, continua a esplorare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745317"
+    },
+    {
+      "english": "You are doing wonderfully, keep it up.",
+      "italian": "Stai facendo benissimo, continua così.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745320"
+    },
+    {
+      "english": "Learning Italian, one street at a time.",
+      "italian": "Imparare l'italiano, una strada alla volta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745322"
+    },
+    {
+      "english": "Trust your instincts, you know more.",
+      "italian": "Fidati del tuo istinto, sai di più.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745325"
+    },
+    {
+      "english": "Every correct phrase, a little triumph.",
+      "italian": "Ogni frase corretta, un piccolo trionfo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745328"
+    },
+    {
+      "english": "You're connecting with people, amazing!",
+      "italian": "Ti stai connettendo con le persone, fantastico!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745330"
+    },
+    {
+      "english": "Think positive, the way will appear.",
+      "italian": "Pensa positivo, la via apparirà.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745333"
+    },
+    {
+      "english": "This experience is invaluable.",
+      "italian": "Questa esperienza è preziosissima.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745335"
+    },
+    {
+      "english": "You're getting bolder, good for you!",
+      "italian": "Diventi più audace, bravo/a!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745338"
+    },
+    {
+      "english": "Your journey, your pace, your Italian.",
+      "italian": "Il tuo viaggio, il tuo ritmo, il tuo italiano.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745343"
+    },
+    {
+      "english": "This is harder than I thought, huh?",
+      "italian": "È più difficile del previsto, vero?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745346"
+    },
+    {
+      "english": "Could you show me again, please?",
+      "italian": "Potrebbe mostrarmi ancora, per favore?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745349"
+    },
+    {
+      "english": "I appreciate your patience, truly.",
+      "italian": "Apprezzo la sua pazienza, davvero.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745351"
+    },
+    {
+      "english": "It makes me think about my journey.",
+      "italian": "Mi fa pensare al mio viaggio.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745354"
+    },
+    {
+      "english": "Just a moment, let me process.",
+      "italian": "Solo un attimo, fammi elaborare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745357"
+    },
+    {
+      "english": "This reminds me of home, oddly.",
+      "italian": "Questo mi ricorda casa, stranamente.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745359"
+    },
+    {
+      "english": "I feel a bit overwhelmed, honestly.",
+      "italian": "Mi sento un po' sopraffatto, onestamente.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745362"
+    },
+    {
+      "english": "Your kindness is very touching.",
+      "italian": "La sua gentilezza è molto toccante.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745365"
+    },
+    {
+      "english": "Let me rephrase that, if possible.",
+      "italian": "Posso riformularlo, se possibile?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745367"
+    },
+    {
+      "english": "It's a personal challenge, you know.",
+      "italian": "È una sfida personale, sai.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745371"
+    },
+    {
+      "english": "This moment, I feel connected.",
+      "italian": "In questo momento, mi sento connesso.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745373"
+    },
+    {
+      "english": "I hope I'm not bothering you.",
+      "italian": "Spero di non disturbarla.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745376"
+    },
+    {
+      "english": "What a beautiful day for exploring.",
+      "italian": "Che bella giornata per esplorare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745379"
+    },
+    {
+      "english": "My internal compass is spinning.",
+      "italian": "La mia bussola interiore gira.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745381"
+    },
+    {
+      "english": "This requires some concentration.",
+      "italian": "Ci vuole un po' di concentrazione.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745383"
+    },
+    {
+      "english": "I'm reflecting on my route.",
+      "italian": "Sto riflettendo sul mio percorso.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745386"
+    },
+    {
+      "english": "This is quite the mental exercise.",
+      "italian": "Questo è un bell'esercizio mentale.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745388"
+    },
+    {
+      "english": "Can you speak a little slower?",
+      "italian": "Può parlare un po' più lentamente?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745391"
+    },
+    {
+      "english": "I'm trying to truly understand.",
+      "italian": "Sto cercando di capire davvero.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745393"
+    },
+    {
+      "english": "My confidence grows with each try.",
+      "italian": "La mia sicurezza cresce ad ogni tentativo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745395"
+    },
+    {
+      "english": "This makes me feel more capable.",
+      "italian": "Questo mi fa sentire più capace.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745397"
+    },
+    {
+      "english": "It's a moment of honest searching.",
+      "italian": "È un momento di ricerca onesta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745400"
+    },
+    {
+      "english": "I value your clear explanation.",
+      "italian": "Apprezzo la sua chiara spiegazione.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745402"
+    },
+    {
+      "english": "This helps me think differently.",
+      "italian": "Questo mi aiuta a pensare diversamente.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745405"
+    },
+    {
+      "english": "Just a bit more clarity, please.",
+      "italian": "Ancora un po' di chiarezza, per favore.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745407"
+    },
+    {
+      "english": "I'm soaking in the atmosphere.",
+      "italian": "Sto assorbendo l'atmosfera.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745410"
+    },
+    {
+      "english": "Your guidance is invaluable.",
+      "italian": "La sua guida è preziosa.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745412"
+    },
+    {
+      "english": "It's a learning curve, slowly climbing.",
+      "italian": "È una curva di apprendimento, salendo piano.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745415"
+    },
+    {
+      "english": "Excuse me, where's the nearest ATM?",
+      "italian": "Mi scusi, dov'è il Bancomat più vicino?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745419"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "italian": "Come arrivo alla stazione dei treni?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745421"
+    },
+    {
+      "english": "Can you point me in that direction?",
+      "italian": "Può indicarmi quella direzione?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745424"
+    },
+    {
+      "english": "I'm looking for Piazza Navona.",
+      "italian": "Cerco Piazza Navona.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-30T06:47:58.745428"
     }
   ],
-  "last_updated": "2026-10-29T06:46:12.241833"
+  "last_updated": "2026-10-30T06:47:58.745430"
 }
