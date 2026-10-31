@@ -10079,7 +10079,727 @@
       "italian": "Cerco Piazza Navona.",
       "category": "Asking for Directions",
       "generated_at": "2026-10-30T06:47:58.745428"
+    },
+    {
+      "english": "Happy birthday, dear!",
+      "italian": "Buon compleanno, caro!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098799"
+    },
+    {
+      "english": "Let's celebrate tonight!",
+      "italian": "Festeggiamo stasera!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098814"
+    },
+    {
+      "english": "What a great party!",
+      "italian": "Che bella festa!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098817"
+    },
+    {
+      "english": "Are you coming to the party?",
+      "italian": "Vieni alla festa?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098820"
+    },
+    {
+      "english": "Congratulations on your success!",
+      "italian": "Congratulazioni per il tuo successo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098823"
+    },
+    {
+      "english": "It's time for a toast!",
+      "italian": "È ora di un brindisi!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098826"
+    },
+    {
+      "english": "Many happy returns!",
+      "italian": "Auguri!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098828"
+    },
+    {
+      "english": "Let's have some fun!",
+      "italian": "Divertiamoci un po'!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098834"
+    },
+    {
+      "english": "This cake is delicious!",
+      "italian": "Questa torta è deliziosa!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098846"
+    },
+    {
+      "english": "Thank you for the invitation!",
+      "italian": "Grazie per l'invito!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098849"
+    },
+    {
+      "english": "Cheers, everyone!",
+      "italian": "Salute, a tutti!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098851"
+    },
+    {
+      "english": "What are we celebrating?",
+      "italian": "Cosa festeggiamo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098853"
+    },
+    {
+      "english": "I'm so happy for you!",
+      "italian": "Sono così felice per te!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098857"
+    },
+    {
+      "english": "Let's dance!",
+      "italian": "Balla!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098860"
+    },
+    {
+      "english": "This is wonderful!",
+      "italian": "È meraviglioso!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098862"
+    },
+    {
+      "english": "Happy anniversary!",
+      "italian": "Buon anniversario!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098864"
+    },
+    {
+      "english": "We're having a party!",
+      "italian": "Stiamo facendo una festa!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098866"
+    },
+    {
+      "english": "Enjoy the evening!",
+      "italian": "Goditi la serata!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098868"
+    },
+    {
+      "english": "Can I help?",
+      "italian": "Posso aiutare?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098870"
+    },
+    {
+      "english": "It's a surprise!",
+      "italian": "È una sorpresa!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098872"
+    },
+    {
+      "english": "Let's make a wish!",
+      "italian": "Facciamo un desiderio!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098874"
+    },
+    {
+      "english": "Happy New Year!",
+      "italian": "Felice Anno Nuovo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098876"
+    },
+    {
+      "english": "A toast to friendship!",
+      "italian": "Un brindisi all'amicizia!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098880"
+    },
+    {
+      "english": "This is unforgettable!",
+      "italian": "Questo è indimenticabile!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098882"
+    },
+    {
+      "english": "Let's open the presents!",
+      "italian": "Apriamo i regali!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098885"
+    },
+    {
+      "english": "Welcome everyone!",
+      "italian": "Benvenuti a tutti!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098887"
+    },
+    {
+      "english": "Let's sing together!",
+      "italian": "Cantiamo insieme!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098889"
+    },
+    {
+      "english": "Have a wonderful time!",
+      "italian": "Passa un bel momento!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098891"
+    },
+    {
+      "english": "What's the occasion, exactly?",
+      "italian": "Qual è l'occasione, esattamente?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098893"
+    },
+    {
+      "english": "When does the fun begin?",
+      "italian": "Quando inizia il divertimento?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098896"
+    },
+    {
+      "english": "Who else is coming?",
+      "italian": "Chi altro viene?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098898"
+    },
+    {
+      "english": "Do you have any plans for tonight?",
+      "italian": "Hai programmi per stasera?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098901"
+    },
+    {
+      "english": "What should I wear?",
+      "italian": "Cosa dovrei indossare?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098903"
+    },
+    {
+      "english": "Can you tell me more?",
+      "italian": "Mi puoi dire di più?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098906"
+    },
+    {
+      "english": "Is there a dress code?",
+      "italian": "C'è un dress code?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098908"
+    },
+    {
+      "english": "What time should we arrive?",
+      "italian": "A che ora dovremmo arrivare?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098910"
+    },
+    {
+      "english": "Is it a seated dinner?",
+      "italian": "È una cena seduti?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098913"
+    },
+    {
+      "english": "Will there be music?",
+      "italian": "Ci sarà musica?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098915"
+    },
+    {
+      "english": "Do I need to bring anything?",
+      "italian": "Devo portare qualcosa?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098917"
+    },
+    {
+      "english": "How do we get there?",
+      "italian": "Come ci arriviamo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098919"
+    },
+    {
+      "english": "Is parking available?",
+      "italian": "C'è parcheggio?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098921"
+    },
+    {
+      "english": "What kind of food will be served?",
+      "italian": "Che tipo di cibo serviranno?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098923"
+    },
+    {
+      "english": "Are we meeting someone new?",
+      "italian": "Incontreremo qualcuno di nuovo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098925"
+    },
+    {
+      "english": "Can you recommend a gift?",
+      "italian": "Puoi consigliarmi un regalo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098932"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "italian": "Qual è il modo migliore per arrivare?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098934"
+    },
+    {
+      "english": "Are we celebrating something special?",
+      "italian": "Festeggiamo qualcosa di speciale?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098936"
+    },
+    {
+      "english": "What time is the event?",
+      "italian": "A che ora è l'evento?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098938"
+    },
+    {
+      "english": "Is there a theme?",
+      "italian": "C'è un tema?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098940"
+    },
+    {
+      "english": "Can I bring a plus one?",
+      "italian": "Posso portare un accompagnatore?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098944"
+    },
+    {
+      "english": "What's the surprise?",
+      "italian": "Qual è la sorpresa?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098946"
+    },
+    {
+      "english": "How long will it last?",
+      "italian": "Quanto durerà?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098948"
+    },
+    {
+      "english": "Are we doing karaoke?",
+      "italian": "Facciamo karaoke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098950"
+    },
+    {
+      "english": "Can we get some fresh air?",
+      "italian": "Possiamo prendere una boccata d'aria?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098952"
+    },
+    {
+      "english": "Did you enjoy yourself?",
+      "italian": "Ti sei divertito?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098954"
+    },
+    {
+      "english": "What's next on the agenda?",
+      "italian": "Cos'altro c'è in programma?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098957"
+    },
+    {
+      "english": "Are there any games planned?",
+      "italian": "Sono previsti dei giochi?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098959"
+    },
+    {
+      "english": "Can I get you a drink?",
+      "italian": "Posso offrirti da bere?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098961"
+    },
+    {
+      "english": "You've got this, celebrate big!",
+      "italian": "Ce la puoi fare, festeggia alla grande!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098963"
+    },
+    {
+      "english": "Believe in yourself, tonight's your night.",
+      "italian": "Credi in te stesso, stanotte è la tua serata.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098966"
+    },
+    {
+      "english": "Every moment counts, savor it.",
+      "italian": "Ogni momento conta, assaporalo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098969"
+    },
+    {
+      "english": "You deserve this joy, truly.",
+      "italian": "Ti meriti questa gioia, davvero.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098971"
+    },
+    {
+      "english": "Let your worries go, just dance.",
+      "italian": "Lascia andare i pensieri, balla e basta.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098974"
+    },
+    {
+      "english": "Fantastic effort, well done!",
+      "italian": "Sforzo fantastico, ben fatto!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098977"
+    },
+    {
+      "english": "You shine so bright, darling.",
+      "italian": "Brilli così tanto, tesoro.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098979"
+    },
+    {
+      "english": "You make everything better, always.",
+      "italian": "Tu rendi tutto migliore, sempre.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098981"
+    },
+    {
+      "english": "What a brilliant idea, bravo!",
+      "italian": "Che idea geniale, bravo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098984"
+    },
+    {
+      "english": "Let's embrace this happy moment.",
+      "italian": "Abbracciamo questo momento felice.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098986"
+    },
+    {
+      "english": "Your energy is contagious, love it.",
+      "italian": "La tua energia è contagiosa, mi piace.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098989"
+    },
+    {
+      "english": "Keep pushing forward, you're amazing.",
+      "italian": "Continua ad andare avanti, sei fantastico/a.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098991"
+    },
+    {
+      "english": "This is a success, celebrate it!",
+      "italian": "Questo è un successo, festeggialo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098994"
+    },
+    {
+      "english": "You handled that perfectly, great job.",
+      "italian": "Hai gestito la cosa perfettamente, ottimo lavoro.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098996"
+    },
+    {
+      "english": "Never doubt your own sparkle.",
+      "italian": "Non dubitare mai della tua luce.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.098998"
+    },
+    {
+      "english": "This vibe is everything, seriously.",
+      "italian": "Questa atmosfera è tutto, seriamente.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099001"
+    },
+    {
+      "english": "You inspire so many people.",
+      "italian": "Ispiri così tante persone.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099003"
+    },
+    {
+      "english": "Let's make memories, lasting ones.",
+      "italian": "Creiamo ricordi, duraturi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099006"
+    },
+    {
+      "english": "Your efforts are noticed, truly.",
+      "italian": "I tuoi sforzi sono notati, davvero.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099009"
+    },
+    {
+      "english": "Feel the happiness, embrace it.",
+      "italian": "Senti la felicità, accoglila.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099012"
+    },
+    {
+      "english": "This moment is pure magic.",
+      "italian": "Questo momento è pura magia.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099015"
+    },
+    {
+      "english": "Let's raise a glass to us!",
+      "italian": "Alziamo un bicchiere a noi!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099017"
+    },
+    {
+      "english": "This is a fantastic achievement.",
+      "italian": "Questo è un risultato fantastico.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099019"
+    },
+    {
+      "english": "Your contribution is valuable.",
+      "italian": "Il tuo contributo è prezioso.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099021"
+    },
+    {
+      "english": "Feel the good energy around.",
+      "italian": "Senti l'energia positiva intorno.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099023"
+    },
+    {
+      "english": "You bring so much light here.",
+      "italian": "Porti tanta luce qui.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099026"
+    },
+    {
+      "english": "What are you feeling inside?",
+      "italian": "Cosa provi dentro?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099028"
+    },
+    {
+      "english": "This memory, I'll keep it.",
+      "italian": "Questo ricordo, me lo tengo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099030"
+    },
+    {
+      "english": "Deep down, I'm truly happy.",
+      "italian": "Nel profondo, sono felice.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099033"
+    },
+    {
+      "english": "Let's reflect on this journey.",
+      "italian": "Riflettiamo su questo viaggio.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099035"
+    },
+    {
+      "english": "My heart is full, truly.",
+      "italian": "Il mio cuore è pieno, davvero.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099037"
+    },
+    {
+      "english": "This moment, it means a lot.",
+      "italian": "Questo momento, significa molto.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099040"
+    },
+    {
+      "english": "We grew a lot, didn't we?",
+      "italian": "Siamo cresciuti tanto, vero?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099042"
+    },
+    {
+      "english": "What lessons did we learn?",
+      "italian": "Quali lezioni abbiamo imparato?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099044"
+    },
+    {
+      "english": "Honestly, I'm so grateful.",
+      "italian": "Onestamente, sono molto grato.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099047"
+    },
+    {
+      "english": "This feeling, it's lasting.",
+      "italian": "Questa sensazione, è duratura.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099049"
+    },
+    {
+      "english": "It's okay to feel this way.",
+      "italian": "Va bene sentirsi così.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099052"
+    },
+    {
+      "english": "Slow down, enjoy the calm.",
+      "italian": "Rallenta, goditi la calma.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099054"
+    },
+    {
+      "english": "Thinking back, it was good.",
+      "italian": "Ripensandoci, è stato bello.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099056"
+    },
+    {
+      "english": "What's truly important now?",
+      "italian": "Cosa è davvero importante ora?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099059"
+    },
+    {
+      "english": "This sincerity, I appreciate it.",
+      "italian": "Questa sincerità, la apprezzo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099061"
+    },
+    {
+      "english": "Let's be honest with ourselves.",
+      "italian": "Siamo onesti con noi stessi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099063"
+    },
+    {
+      "english": "Your truth is important.",
+      "italian": "La tua verità è importante.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099065"
+    },
+    {
+      "english": "It took patience to get here.",
+      "italian": "Ci è voluta pazienza per arrivare.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099067"
+    },
+    {
+      "english": "Let's share our inner thoughts.",
+      "italian": "Condividiamo i nostri pensieri intimi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099070"
+    },
+    {
+      "english": "What are you reflecting on?",
+      "italian": "Su cosa stai riflettendo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099073"
+    },
+    {
+      "english": "This feeling is very real.",
+      "italian": "Questa emozione è molto reale.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099075"
+    },
+    {
+      "english": "Cherish this quiet moment.",
+      "italian": "Apprezza questo momento tranquillo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099078"
+    },
+    {
+      "english": "Let's be open and honest.",
+      "italian": "Siamo aperti e sinceri.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099080"
+    },
+    {
+      "english": "This outcome, it feels right.",
+      "italian": "Questo risultato, sembra giusto.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099082"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "italian": "Qual è la tua opinione sincera?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099086"
+    },
+    {
+      "english": "We've come so far, wow.",
+      "italian": "Siamo arrivati così lontani, wow.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099088"
+    },
+    {
+      "english": "This shared feeling, it's precious.",
+      "italian": "Questo sentimento condiviso, è prezioso.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099097"
+    },
+    {
+      "english": "Let's embrace the present feeling.",
+      "italian": "Abbracciamo la sensazione presente.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099100"
+    },
+    {
+      "english": "Bring a dish, if you can.",
+      "italian": "Porta qualcosa, se puoi.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099102"
+    },
+    {
+      "english": "Ask about dietary needs first.",
+      "italian": "Chiedi allergie, prima di tutto.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099104"
+    },
+    {
+      "english": "Don't show up empty-handed.",
+      "italian": "Non arrivare a mani vuote.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099107"
+    },
+    {
+      "english": "Offer to help with cleanup.",
+      "italian": "Offriti per aiutare a pulire.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099109"
+    },
+    {
+      "english": "Make sure to RSVP promptly.",
+      "italian": "Rispondi all'invito, per favore.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099111"
+    },
+    {
+      "english": "Is it a potluck or catered?",
+      "italian": "È un buffet o è servito?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099113"
+    },
+    {
+      "english": "How many people are coming?",
+      "italian": "Quante persone verranno?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099115"
+    },
+    {
+      "english": "Let's bring a nice bottle.",
+      "italian": "Portiamo una bella bottiglia.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099117"
+    },
+    {
+      "english": "Who else is invited?",
+      "italian": "Chi altro è invitato?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-31T06:37:42.099120"
     }
   ],
-  "last_updated": "2026-10-30T06:47:58.745430"
+  "last_updated": "2026-10-31T06:37:42.099121"
 }
