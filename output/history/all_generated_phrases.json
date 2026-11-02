@@ -11519,7 +11519,727 @@
       "italian": "Chiedi aiuto, se serve.",
       "category": "Positive Life",
       "generated_at": "2026-11-01T07:08:35.855387"
+    },
+    {
+      "english": "I don't feel well, doctor.",
+      "italian": "Non mi sento bene, dottore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140021"
+    },
+    {
+      "english": "Where is the pharmacy, please?",
+      "italian": "Dov'è la farmacia, per favore?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140037"
+    },
+    {
+      "english": "I have a headache.",
+      "italian": "Ho mal di testa.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140041"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "italian": "Avete questa medicina?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140043"
+    },
+    {
+      "english": "I need a doctor.",
+      "italian": "Ho bisogno di un dottore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140046"
+    },
+    {
+      "english": "What are the symptoms?",
+      "italian": "Quali sono i sintomi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140048"
+    },
+    {
+      "english": "It hurts here.",
+      "italian": "Fa male qui.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140051"
+    },
+    {
+      "english": "I need a prescription.",
+      "italian": "Mi serve una ricetta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140056"
+    },
+    {
+      "english": "Is it serious?",
+      "italian": "È grave?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140060"
+    },
+    {
+      "english": "I need some bandages.",
+      "italian": "Mi servono delle bende.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140062"
+    },
+    {
+      "english": "When can I see the doctor?",
+      "italian": "Quando posso vedere il dottore?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140064"
+    },
+    {
+      "english": "I feel a bit sick.",
+      "italian": "Mi sento un po' malato.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140066"
+    },
+    {
+      "english": "What do you recommend?",
+      "italian": "Cosa mi consiglia?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140068"
+    },
+    {
+      "english": "I have a fever.",
+      "italian": "Ho la febbre.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140071"
+    },
+    {
+      "english": "Can I pay by card?",
+      "italian": "Posso pagare con la carta?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140073"
+    },
+    {
+      "english": "I have a sore throat.",
+      "italian": "Ho mal di gola.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140075"
+    },
+    {
+      "english": "Is there a chemist nearby?",
+      "italian": "C'è una farmacia qui vicino?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140077"
+    },
+    {
+      "english": "I need to make an appointment.",
+      "italian": "Devo prendere un appuntamento.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140079"
+    },
+    {
+      "english": "I have a cough.",
+      "italian": "Ho la tosse.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140081"
+    },
+    {
+      "english": "What time does it open?",
+      "italian": "A che ora apre?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140084"
+    },
+    {
+      "english": "I need something for pain.",
+      "italian": "Mi serve qualcosa per il dolore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140086"
+    },
+    {
+      "english": "Are you allergic to anything?",
+      "italian": "È allergico/a a qualcosa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140089"
+    },
+    {
+      "english": "I have stomach ache.",
+      "italian": "Ho mal di stomaco.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140094"
+    },
+    {
+      "english": "Do you have any vitamins?",
+      "italian": "Avete delle vitamine?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140096"
+    },
+    {
+      "english": "I feel dizzy.",
+      "italian": "Mi sento stordito/a.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140098"
+    },
+    {
+      "english": "I have a cold.",
+      "italian": "Ho il raffreddore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140100"
+    },
+    {
+      "english": "I need to buy some cream.",
+      "italian": "Devo comprare una crema.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140102"
+    },
+    {
+      "english": "How often should I take it?",
+      "italian": "Ogni quanto devo prenderlo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140104"
+    },
+    {
+      "english": "Could you explain that, please?",
+      "italian": "Potrebbe spiegarmi, per favore?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140107"
+    },
+    {
+      "english": "Is there an alternative?",
+      "italian": "C'è un'alternativa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140110"
+    },
+    {
+      "english": "How long will it take?",
+      "italian": "Quanto tempo ci vorrà?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140112"
+    },
+    {
+      "english": "Can I get a refill?",
+      "italian": "Posso avere una ricarica?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140114"
+    },
+    {
+      "english": "What are the side effects?",
+      "italian": "Quali sono gli effetti collaterali?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140117"
+    },
+    {
+      "english": "When should I come back?",
+      "italian": "Quando dovrei tornare?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140119"
+    },
+    {
+      "english": "Do you have something natural?",
+      "italian": "Avete qualcosa di naturale?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140121"
+    },
+    {
+      "english": "Could you write that down?",
+      "italian": "Potrebbe scriverlo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140124"
+    },
+    {
+      "english": "Is this contagious?",
+      "italian": "È contagioso?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140126"
+    },
+    {
+      "english": "What dosage do you suggest?",
+      "italian": "Che dosaggio suggerisce?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140128"
+    },
+    {
+      "english": "Can I speak to the pharmacist?",
+      "italian": "Posso parlare con il farmacista?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140130"
+    },
+    {
+      "english": "Do you accept my insurance?",
+      "italian": "Accettate la mia assicurazione?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140132"
+    },
+    {
+      "english": "Is there a waiting room?",
+      "italian": "C'è una sala d'attesa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140135"
+    },
+    {
+      "english": "What time is your lunch break?",
+      "italian": "A che ora è la pausa pranzo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140137"
+    },
+    {
+      "english": "Can I get a discount?",
+      "italian": "Posso avere uno sconto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140139"
+    },
+    {
+      "english": "Does this need refrigeration?",
+      "italian": "Va tenuto in frigorifero?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140141"
+    },
+    {
+      "english": "How do I take this?",
+      "italian": "Come devo prenderlo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140143"
+    },
+    {
+      "english": "Could I have a second opinion?",
+      "italian": "Potrei avere un secondo parere?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140145"
+    },
+    {
+      "english": "Are there any generics?",
+      "italian": "Ci sono generici?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140148"
+    },
+    {
+      "english": "What is this symptom called?",
+      "italian": "Come si chiama questo sintomo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140150"
+    },
+    {
+      "english": "Should I avoid certain foods?",
+      "italian": "Devo evitare certi cibi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140152"
+    },
+    {
+      "english": "Can I get it without a prescription?",
+      "italian": "Posso averlo senza ricetta?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140155"
+    },
+    {
+      "english": "Is there a doctor on call?",
+      "italian": "C'è un medico reperibile?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140157"
+    },
+    {
+      "english": "What are the opening hours?",
+      "italian": "Quali sono gli orari di apertura?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140159"
+    },
+    {
+      "english": "Can you help me understand?",
+      "italian": "Può aiutarmi a capire?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140163"
+    },
+    {
+      "english": "I need to renew my prescription.",
+      "italian": "Devo rinnovare la mia ricetta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140166"
+    },
+    {
+      "english": "What's the active ingredient?",
+      "italian": "Qual è il principio attivo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140169"
+    },
+    {
+      "english": "Every little step counts.",
+      "italian": "Ogni piccolo passo conta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140171"
+    },
+    {
+      "english": "Focus on healing, one day at a time.",
+      "italian": "Concentrati sulla guarigione, un giorno alla volta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140173"
+    },
+    {
+      "english": "Believe in your recovery.",
+      "italian": "Credi nella tua guarigione.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140176"
+    },
+    {
+      "english": "This is a temporary challenge.",
+      "italian": "Questa è una sfida temporanea.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140178"
+    },
+    {
+      "english": "Take it easy, be patient.",
+      "italian": "Prenditi il tuo tempo, sii paziente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140180"
+    },
+    {
+      "english": "Small progress is still progress.",
+      "italian": "Il piccolo progresso è comunque progresso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140183"
+    },
+    {
+      "english": "Your body is resilient.",
+      "italian": "Il tuo corpo è resiliente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140185"
+    },
+    {
+      "english": "Breathe deeply, relax.",
+      "italian": "Respira profondamente, rilassati.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140188"
+    },
+    {
+      "english": "Sending you positive energy.",
+      "italian": "Ti mando energia positiva.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140190"
+    },
+    {
+      "english": "Don't give up, stay hopeful.",
+      "italian": "Non mollare, resta speranzoso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140193"
+    },
+    {
+      "english": "This is a learning experience.",
+      "italian": "Questa è un'esperienza di apprendimento.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140195"
+    },
+    {
+      "english": "You are taking good care.",
+      "italian": "Ti stai prendendo cura di te.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140197"
+    },
+    {
+      "english": "You're handling this well.",
+      "italian": "La stai gestendo bene.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140199"
+    },
+    {
+      "english": "Embrace the healing process.",
+      "italian": "Abbraccia il processo di guarigione.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140202"
+    },
+    {
+      "english": "You are not alone in this.",
+      "italian": "Non sei solo in questo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140204"
+    },
+    {
+      "english": "Stay positive, it helps.",
+      "italian": "Resta positivo, aiuta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140206"
+    },
+    {
+      "english": "You're doing a fantastic job.",
+      "italian": "Stai facendo un lavoro fantastico.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140208"
+    },
+    {
+      "english": "Recovery takes time, be kind.",
+      "italian": "La guarigione richiede tempo, sii gentile.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140211"
+    },
+    {
+      "english": "Trust the medical professionals.",
+      "italian": "Fidati dei professionisti medici.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140213"
+    },
+    {
+      "english": "Mind over matter, stay strong.",
+      "italian": "La mente sulla materia, resta forte.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140217"
+    },
+    {
+      "english": "You're doing exactly right.",
+      "italian": "Stai facendo esattamente la cosa giusta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140219"
+    },
+    {
+      "english": "This phase will pass.",
+      "italian": "Questa fase passerà.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140221"
+    },
+    {
+      "english": "You are capable of healing.",
+      "italian": "Sei capace di guarire.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140223"
+    },
+    {
+      "english": "Take it easy, don't push it.",
+      "italian": "Riposati, non sforzarti troppo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140226"
+    },
+    {
+      "english": "This medicine, it works wonders.",
+      "italian": "Questa medicina, fa miracoli.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140228"
+    },
+    {
+      "english": "Listen to your body, it speaks.",
+      "italian": "Ascolta il tuo corpo, ti parla.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140231"
+    },
+    {
+      "english": "A little pill, a big relief.",
+      "italian": "Un piccolo farmaco, un grande sollievo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140233"
+    },
+    {
+      "english": "Don't get worked up, stay calm.",
+      "italian": "Non agitarti, stai tranquillo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140235"
+    },
+    {
+      "english": "It's just a bug, it will pass.",
+      "italian": "È solo un'influenza, passerà.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140238"
+    },
+    {
+      "english": "This remedy, has ancient roots.",
+      "italian": "Questo rimedio, ha radici antiche.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140240"
+    },
+    {
+      "english": "Let's see what the doctor says.",
+      "italian": "Vediamo cosa dice il dottore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140244"
+    },
+    {
+      "english": "A bit of rest, can fix it.",
+      "italian": "Un po' di riposo, può risolvere.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140246"
+    },
+    {
+      "english": "This illness, it's a marathon.",
+      "italian": "Questa malattia, è una maratona.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140249"
+    },
+    {
+      "english": "Don't worry too much, breathe.",
+      "italian": "Non preoccuparti troppo, respira.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140251"
+    },
+    {
+      "english": "The pharmacy, a safe harbor.",
+      "italian": "La farmacia, un porto sicuro.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140253"
+    },
+    {
+      "english": "Follow the doctor's orders, precisely.",
+      "italian": "Segui le prescrizioni, precisamente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140256"
+    },
+    {
+      "english": "A little patience, goes a long way.",
+      "italian": "Un po' di pazienza, fa molta strada.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140258"
+    },
+    {
+      "english": "This pain, it's a passing cloud.",
+      "italian": "Questo dolore, è una nuvola passeggera.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140261"
+    },
+    {
+      "english": "Take the cure, and get better.",
+      "italian": "Prendi la cura, e guarisci.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140264"
+    },
+    {
+      "english": "It's normal to feel tired.",
+      "italian": "È normale sentirsi stanchi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140266"
+    },
+    {
+      "english": "This ache, it will fade.",
+      "italian": "Questo acciacco, svanirà.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140268"
+    },
+    {
+      "english": "The doctor's word, is a must.",
+      "italian": "La parola del dottore, è un obbligo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140271"
+    },
+    {
+      "english": "Keep your spirits up, always.",
+      "italian": "Tieni alto il morale, sempre.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140276"
+    },
+    {
+      "english": "This recovery, it's a journey.",
+      "italian": "Questa guarigione, è un viaggio.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140278"
+    },
+    {
+      "english": "Drink plenty of water, it helps.",
+      "italian": "Bevi molta acqua, aiuta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140280"
+    },
+    {
+      "english": "Don't self-medicate, ask first.",
+      "italian": "Non automedicarti, chiedi prima.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140284"
+    },
+    {
+      "english": "This symptom, is just a sign.",
+      "italian": "Questo sintomo, è solo un segnale.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140287"
+    },
+    {
+      "english": "Trust the process, it's working.",
+      "italian": "Fidati del processo, sta funzionando.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140289"
+    },
+    {
+      "english": "A good rest, is half the cure.",
+      "italian": "Un buon riposo, è metà cura.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140292"
+    },
+    {
+      "english": "Stay positive, it's contagious.",
+      "italian": "Resta positivo, è contagioso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140294"
+    },
+    {
+      "english": "This treatment, has great results.",
+      "italian": "Questa cura, ha ottimi risultati.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140296"
+    },
+    {
+      "english": "Listen to the pharmacist's advice.",
+      "italian": "Ascolta il consiglio del farmacista.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140299"
+    },
+    {
+      "english": "What are your symptoms, precisely?",
+      "italian": "Quali sono i tuoi sintomi, precisamente?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140301"
+    },
+    {
+      "english": "I need a prescription refill, please.",
+      "italian": "Mi serve una ricetta per un rinnovo, per favore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140303"
+    },
+    {
+      "english": "Do you have this medication, in stock?",
+      "italian": "Avete questa medicina, disponibile?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140306"
+    },
+    {
+      "english": "When should I take this, and how much?",
+      "italian": "Quando devo prenderlo, e quanto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140308"
+    },
+    {
+      "english": "Are there any side effects, I should know?",
+      "italian": "Ci sono effetti collaterali, da sapere?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140310"
+    },
+    {
+      "english": "I'm feeling a bit unwell, today.",
+      "italian": "Mi sento un po' indisposto, oggi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140313"
+    },
+    {
+      "english": "Could you recommend something, for a cough?",
+      "italian": "Può raccomandare qualcosa, per la tosse?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140315"
+    },
+    {
+      "english": "I have a terrible headache, right now.",
+      "italian": "Ho un mal di testa terribile, adesso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140319"
+    },
+    {
+      "english": "This pain, it's quite persistent.",
+      "italian": "Questo dolore, è piuttosto persistente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140322"
+    },
+    {
+      "english": "Should I rest, or keep moving?",
+      "italian": "Dovrei riposare, o continuare a muovermi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140324"
+    },
+    {
+      "english": "What's the dosage, for this tablet?",
+      "italian": "Qual è il dosaggio, per questa compressa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140328"
+    },
+    {
+      "english": "I need to buy some bandages, please.",
+      "italian": "Ho bisogno di comprare delle bende, per favore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140330"
+    },
+    {
+      "english": "This fever, is making me tired.",
+      "italian": "Questa febbre, mi sta stancando.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-02T07:12:58.140332"
     }
   ],
-  "last_updated": "2026-11-01T07:08:35.855389"
+  "last_updated": "2026-11-02T07:12:58.140334"
 }
