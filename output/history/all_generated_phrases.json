@@ -14399,7 +14399,727 @@
       "italian": "Al bar, chiedi acqua, per favore.",
       "category": "Growth",
       "generated_at": "2026-11-05T07:42:48.399294"
+    },
+    {
+      "english": "Hi there, how’s it going today?",
+      "italian": "Ciao, come va oggi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590580"
+    },
+    {
+      "english": "Good to see you again, really.",
+      "italian": "Che bello rivederti, davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590593"
+    },
+    {
+      "english": "Nice meeting you, I’m Marco.",
+      "italian": "Piacere, io sono Marco.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590597"
+    },
+    {
+      "english": "Hi, what’s your name?",
+      "italian": "Ciao, come ti chiami?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590601"
+    },
+    {
+      "english": "Where are you from, roughly?",
+      "italian": "Di dove sei, più o meno?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590604"
+    },
+    {
+      "english": "Really? That’s amazing, wow!",
+      "italian": "Davvero? Che figata, wow!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590610"
+    },
+    {
+      "english": "That’s cool, I like it.",
+      "italian": "Carino, mi piace.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590613"
+    },
+    {
+      "english": "No way, that’s crazy!",
+      "italian": "Impossibile, sei fuori!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590619"
+    },
+    {
+      "english": "Oh, I see, got it.",
+      "italian": "Ah, ok, ho capito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590624"
+    },
+    {
+      "english": "Nice, tell me more!",
+      "italian": "Bene, raccontami di più!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590628"
+    },
+    {
+      "english": "Wait, let me check quickly.",
+      "italian": "Aspetta, controllo al volo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590632"
+    },
+    {
+      "english": "How are you, are you okay?",
+      "italian": "Come stai, tutto bene?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590635"
+    },
+    {
+      "english": "I’m great, thanks, and you?",
+      "italian": "Io sto benissimo, e tu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590639"
+    },
+    {
+      "english": "Pleased to meet you, seriously.",
+      "italian": "Molto lieto di conoscerti, davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590642"
+    },
+    {
+      "english": "Don’t worry, it’s all fine.",
+      "italian": "Tranquillo, va tutto bene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590645"
+    },
+    {
+      "english": "Great, let’s do it then.",
+      "italian": "Perfetto, facciamo così.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590648"
+    },
+    {
+      "english": "That’s unexpected, but I like it.",
+      "italian": "Non me l’aspettavo, però mi piace.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590651"
+    },
+    {
+      "english": "Good morning, how’s your day?",
+      "italian": "Buongiorno, com’è la giornata?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590654"
+    },
+    {
+      "english": "Good evening, are you free now?",
+      "italian": "Buonasera, sei libero adesso?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590657"
+    },
+    {
+      "english": "Sorry, I’m a bit late, hey!",
+      "italian": "Scusa, arrivo un po’ tardi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590661"
+    },
+    {
+      "english": "No problem, take your time.",
+      "italian": "Nessun problema, fai con calma.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590663"
+    },
+    {
+      "english": "Excuse me, can I ask something?",
+      "italian": "Scusi, posso chiedere una cosa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590666"
+    },
+    {
+      "english": "Glad you’re here, finally!",
+      "italian": "Che bello che sei qui, finalmente!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590669"
+    },
+    {
+      "english": "Cool, so what do you do?",
+      "italian": "Ok, e tu che lavoro fai?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590672"
+    },
+    {
+      "english": "Are you local, or just visiting?",
+      "italian": "Sei del posto, o sei di passaggio?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590674"
+    },
+    {
+      "english": "I’m new here, be gentle please.",
+      "italian": "Sono nuovo qui, siate gentili.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590677"
+    },
+    {
+      "english": "That sounds great, let’s plan it.",
+      "italian": "Sembra fantastico, organizziamolo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590680"
+    },
+    {
+      "english": "Nice chatting with you, see you soon!",
+      "italian": "Piacere di parlare con te, a presto!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590683"
+    },
+    {
+      "english": "Thanks, really, talk to you later.",
+      "italian": "Grazie davvero, ci sentiamo dopo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590686"
+    },
+    {
+      "english": "Can I ask you a quick question?",
+      "italian": "Posso farti una domanda veloce?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590689"
+    },
+    {
+      "english": "What do you recommend around here?",
+      "italian": "Che cosa mi consigli qui vicino?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590691"
+    },
+    {
+      "english": "Is this your first time here?",
+      "italian": "È la tua prima volta qui?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590694"
+    },
+    {
+      "english": "Do you speak English, by chance?",
+      "italian": "Parli inglese, per caso?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590697"
+    },
+    {
+      "english": "Where should we go for coffee?",
+      "italian": "Dove andiamo a prendere un caffè?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590700"
+    },
+    {
+      "english": "How long have you been in town?",
+      "italian": "Da quanto tempo sei qui?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590702"
+    },
+    {
+      "english": "What brings you to this area today?",
+      "italian": "Cosa ti porta qui oggi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590705"
+    },
+    {
+      "english": "Are you free later this evening?",
+      "italian": "Stasera sei libero, magari?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590708"
+    },
+    {
+      "english": "Do you have any plans after this?",
+      "italian": "Hai programmi dopo, oppure no?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590712"
+    },
+    {
+      "english": "Could you help me, just for a minute?",
+      "italian": "Mi aiuti, per favore, un attimo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590717"
+    },
+    {
+      "english": "Do you know a good place to eat?",
+      "italian": "Conosci un posto carino dove mangiare?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590719"
+    },
+    {
+      "english": "How does this work, exactly?",
+      "italian": "Come funziona, esattamente?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590722"
+    },
+    {
+      "english": "Who should I talk to next?",
+      "italian": "Con chi devo parlare adesso?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590724"
+    },
+    {
+      "english": "Is it okay if I join you?",
+      "italian": "Va bene se mi unisco a voi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590727"
+    },
+    {
+      "english": "Can you tell me the main idea?",
+      "italian": "Mi spieghi l’idea principale?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590729"
+    },
+    {
+      "english": "What’s your suggestion for today?",
+      "italian": "Che mi consigli oggi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590732"
+    },
+    {
+      "english": "Do you mind if we speak Italian?",
+      "italian": "Ti dispiace se parliamo in italiano?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590735"
+    },
+    {
+      "english": "Would you like to go together?",
+      "italian": "Vuoi venire con me?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590737"
+    },
+    {
+      "english": "Are there any rules I should know?",
+      "italian": "Ci sono regole che devo sapere?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590740"
+    },
+    {
+      "english": "What time does it start, roughly?",
+      "italian": "A che ora comincia, più o meno?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590743"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "italian": "Puoi ripetere, per favore?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590745"
+    },
+    {
+      "english": "Do you have a moment to chat?",
+      "italian": "Hai un minuto per parlare?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590748"
+    },
+    {
+      "english": "What’s your vibe these days?",
+      "italian": "Che aria hai in questi giorni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590751"
+    },
+    {
+      "english": "How’s your day treating you so far?",
+      "italian": "Com’è la giornata finora?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590754"
+    },
+    {
+      "english": "Do you want to swap contact details?",
+      "italian": "Scambiamo i contatti, sì?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590756"
+    },
+    {
+      "english": "Should I call you later?",
+      "italian": "Ti chiamo più tardi, va bene?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590759"
+    },
+    {
+      "english": "What do you like doing on weekends?",
+      "italian": "Cosa ti piace fare nel weekend?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590761"
+    },
+    {
+      "english": "Can we get directions from you?",
+      "italian": "Ci dai indicazioni, per favore?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590764"
+    },
+    {
+      "english": "Thanks, I’ll remember that advice.",
+      "italian": "Grazie, terrò a mente il consiglio.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590767"
+    },
+    {
+      "english": "Great to meet you, keep the good energy.",
+      "italian": "Piacere di conoscerti, tieni alta l’energia.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590770"
+    },
+    {
+      "english": "Relax, you’re doing fine, we’re here.",
+      "italian": "Tranquillo, stai andando bene, siamo qui.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590774"
+    },
+    {
+      "english": "Nice to see you again, today feels easy.",
+      "italian": "Che bello rivederti, oggi sembra facile.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590777"
+    },
+    {
+      "english": "Thanks for the welcome, I appreciate it.",
+      "italian": "Grazie per l’accoglienza, la apprezzo davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590781"
+    },
+    {
+      "english": "No rush, your pace is perfect, really.",
+      "italian": "Nessuna fretta, il tuo ritmo va benissimo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590784"
+    },
+    {
+      "english": "Let’s start simple, you’ll get it.",
+      "italian": "Partiamo da semplice, poi capisci tutto.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590788"
+    },
+    {
+      "english": "I like your vibe, it’s super positive.",
+      "italian": "Mi piace la tua energia, è proprio positiva.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590791"
+    },
+    {
+      "english": "Good job introducing yourself, that helped a lot.",
+      "italian": "Bravə per la presentazione, hai aiutato tanto.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590794"
+    },
+    {
+      "english": "We’re in the same boat, don’t worry.",
+      "italian": "Siamo sulla stessa barca, non ti preoccupare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590798"
+    },
+    {
+      "english": "Speak up, ask anything, I’m listening.",
+      "italian": "Parla chiaro, chiedi pure, ti ascolto.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590801"
+    },
+    {
+      "english": "You’re not alone, we’ll figure it out.",
+      "italian": "Non sei solo, lo risolviamo insieme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590805"
+    },
+    {
+      "english": "That’s a good question, nice focus.",
+      "italian": "Bella domanda, che bella concentrazione.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590810"
+    },
+    {
+      "english": "Keep going, little steps count, seriously.",
+      "italian": "Continua, i piccoli passi contano, davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590814"
+    },
+    {
+      "english": "I’m glad we met, this is promising.",
+      "italian": "Sono felice che ci siamo incontrati, va bene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590817"
+    },
+    {
+      "english": "You learn fast, that’s awesome, keep it up.",
+      "italian": "Impari in fretta, che bello, continua così.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590822"
+    },
+    {
+      "english": "Respect, calm vibes, you’re doing great.",
+      "italian": "Rispetto, vibe tranquille, stai andando alla grande.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590828"
+    },
+    {
+      "english": "Let me help, no pressure, just ask.",
+      "italian": "Ti aiuto, senza pressione, basta chiedere.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590831"
+    },
+    {
+      "english": "You’re doing better than you think.",
+      "italian": "Stai facendo meglio di quanto credi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590834"
+    },
+    {
+      "english": "That’s it, you nailed it, nice!",
+      "italian": "Esatto, l’hai presa al volo, bravə.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590838"
+    },
+    {
+      "english": "First time is fine, relax, you’ll adjust.",
+      "italian": "È la prima volta? Va bene, rilassati.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590841"
+    },
+    {
+      "english": "Stay positive, we can keep it simple.",
+      "italian": "Resta positivo, possiamo tenerla semplice.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590844"
+    },
+    {
+      "english": "I’m here with you, we’ll make it work.",
+      "italian": "Sono con te, insieme la facciamo funzionare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590847"
+    },
+    {
+      "english": "That was smooth, thanks for starting.",
+      "italian": "Sei stato/a molto fluido, grazie per iniziare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590850"
+    },
+    {
+      "english": "You’re welcome here, feel comfortable.",
+      "italian": "Sei il benvenuto, qui stai comodo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590853"
+    },
+    {
+      "english": "Let’s keep it friendly, no stress at all.",
+      "italian": "Facciamola semplice e amichevole, zero stress.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590856"
+    },
+    {
+      "english": "Your effort shows, I really respect that.",
+      "italian": "Si vede lo sforzo, lo rispetto davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590859"
+    },
+    {
+      "english": "We’ll go step by step, you’re okay.",
+      "italian": "Andiamo passo passo, va tutto bene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590862"
+    },
+    {
+      "english": "Thanks for being open, it helps a lot.",
+      "italian": "Grazie per la tua disponibilità, aiuta tanto.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590865"
+    },
+    {
+      "english": "You’re improving, keep listening, don’t freeze.",
+      "italian": "Stai migliorando, ascolta ancora, non bloccarti.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590869"
+    },
+    {
+      "english": "I’m a bit nervous, but I’m here, really.",
+      "italian": "Sono un po’ nervoso, ma ci sono, davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590873"
+    },
+    {
+      "english": "I appreciate your honesty, it makes things easy.",
+      "italian": "Apprezzo la tua sincerità, rende tutto più facile.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590876"
+    },
+    {
+      "english": "Today I’m quiet, I just needed to meet.",
+      "italian": "Oggi sono più tranquillo, avevo bisogno di conoscerti.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590879"
+    },
+    {
+      "english": "I’m looking for good people, not small talk.",
+      "italian": "Cerco persone vere, non chiacchiere inutili.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590882"
+    },
+    {
+      "english": "Thanks for being patient, I’ll open up.",
+      "italian": "Grazie per la pazienza, mi apro poco a poco.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590886"
+    },
+    {
+      "english": "I trust your vibe, it feels safe.",
+      "italian": "Mi fido del tuo modo, sembra sicuro.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590889"
+    },
+    {
+      "english": "I don’t rush, I like building real connections.",
+      "italian": "Non ho fretta, mi piace costruire legami veri.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590892"
+    },
+    {
+      "english": "I’m glad to be here, even if I’m shy.",
+      "italian": "Sono felice di essere qui, anche se sono timido.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590895"
+    },
+    {
+      "english": "Let’s take it slow, I’m still learning.",
+      "italian": "Facciamo con calma, sto ancora imparando.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590898"
+    },
+    {
+      "english": "I feel comfortable talking with you.",
+      "italian": "Con te mi sento a mio agio.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590901"
+    },
+    {
+      "english": "I’m listening, tell me what matters most.",
+      "italian": "Ti ascolto, dimmi cosa conta davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590904"
+    },
+    {
+      "english": "I’m still figuring myself out, but I’m real.",
+      "italian": "Sto ancora capendo chi sono, però sono vero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590908"
+    },
+    {
+      "english": "I respect boundaries, I’ll keep it gentle.",
+      "italian": "Rispetto i confini, resto con delicatezza.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590911"
+    },
+    {
+      "english": "Your calm energy helps me relax.",
+      "italian": "La tua calma mi aiuta a rilassarmi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590914"
+    },
+    {
+      "english": "I’m grateful we crossed paths, truly.",
+      "italian": "Sono grato che ci siamo incontrati, davvero.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590919"
+    },
+    {
+      "english": "I don’t have the perfect words, just thoughts.",
+      "italian": "Non ho le parole perfette, ho solo pensieri.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590923"
+    },
+    {
+      "english": "If I pause, it’s just me thinking.",
+      "italian": "Se mi fermo, sto solo pensando.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590927"
+    },
+    {
+      "english": "I’m trying to be more open, little steps.",
+      "italian": "Sto cercando di aprirmi, piccoli passi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590930"
+    },
+    {
+      "english": "I’m here for real, not for the performance.",
+      "italian": "Sono qui per davvero, non per recitare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590933"
+    },
+    {
+      "english": "Your story moved me, thank you for sharing.",
+      "italian": "La tua storia mi ha toccato, grazie.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590936"
+    },
+    {
+      "english": "I’m learning to trust, and you help.",
+      "italian": "Sto imparando a fidarmi, e tu aiuti.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590940"
+    },
+    {
+      "english": "I’m keeping it honest, I needed this.",
+      "italian": "Te la dico franca, mi serviva questo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590943"
+    },
+    {
+      "english": "I’m not sure yet, but I feel safe here.",
+      "italian": "Non sono sicuro ancora, ma qui mi sento bene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590946"
+    },
+    {
+      "english": "I want a real hello, not a quick hello.",
+      "italian": "Voglio un saluto vero, non uno veloce.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590950"
+    },
+    {
+      "english": "I appreciate the space, it helps me breathe.",
+      "italian": "Apprezzo lo spazio, mi fa respirare.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590953"
+    },
+    {
+      "english": "I’m rooting for you, keep going.",
+      "italian": "Ti faccio il tifo, continua così.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590957"
+    },
+    {
+      "english": "I’m glad we connected, even briefly.",
+      "italian": "Sono felice che ci siamo incontrati, anche per poco.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590960"
+    },
+    {
+      "english": "I’m here to listen, and be respectful.",
+      "italian": "Sono qui per ascoltare, con rispetto.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590963"
+    },
+    {
+      "english": "I’m okay with silence, it can be warm.",
+      "italian": "Va bene anche il silenzio, può essere caldo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590966"
+    },
+    {
+      "english": "Let’s be real, I’m comfortable with you.",
+      "italian": "Facciamo i sinceri, con te mi trovo bene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590970"
+    },
+    {
+      "english": "Hi, I’m new here, what’s good today?",
+      "italian": "Ciao, sono nuovo qui, com’è oggi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590973"
+    },
+    {
+      "english": "Nice to meet you, how do you say it?",
+      "italian": "Piacere di conoscerti, come lo dici?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590979"
+    },
+    {
+      "english": "First, what do you do for work, really?",
+      "italian": "Allora, tu che lavoro fai, davvero?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-06T07:40:30.590982"
     }
   ],
-  "last_updated": "2026-11-05T07:42:48.399296"
+  "last_updated": "2026-11-06T07:40:30.590983"
 }
