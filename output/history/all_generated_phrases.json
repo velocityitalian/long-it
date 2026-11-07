@@ -15119,7 +15119,727 @@
       "italian": "Allora, tu che lavoro fai, davvero?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-06T07:40:30.590982"
+    },
+    {
+      "english": "Alright, keep going, you’ve got this",
+      "italian": "Dai, continua, ce la fai",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743284"
+    },
+    {
+      "english": "Let’s make it happen, step by step",
+      "italian": "Facciamolo, passo dopo passo",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743294"
+    },
+    {
+      "english": "Good timing, don’t overthink it, just go",
+      "italian": "Tempi giusti, non pensarci troppo, vai",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743297"
+    },
+    {
+      "english": "Yes, great idea, let’s try right now",
+      "italian": "Sì, ottima idea, proviamoci adesso",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743299"
+    },
+    {
+      "english": "No worries, tomorrow will be better",
+      "italian": "Nessun problema, domani sarà meglio",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743301"
+    },
+    {
+      "english": "Come on, ask, and you’ll get answers",
+      "italian": "Dai, chiedi, e avrai risposte",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743303"
+    },
+    {
+      "english": "Okay, focus now, one thing at a time",
+      "italian": "Va bene, concentrati ora, una cosa per volta",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743305"
+    },
+    {
+      "english": "That’s it, keep calm, move forward",
+      "italian": "Esatto, resta calmo, vai avanti",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743309"
+    },
+    {
+      "english": "Smart move, you’re doing better than before",
+      "italian": "Scelta intelligente, stai andando meglio",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743313"
+    },
+    {
+      "english": "Wait, don’t panic, we’ll sort it",
+      "italian": "Aspetta, non farti prendere dal panico, risolviamo",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743317"
+    },
+    {
+      "english": "Alright, I’m ready, let’s start",
+      "italian": "Bene, sono pronto, partiamo",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743319"
+    },
+    {
+      "english": "Deal, let’s go, I’ve got the plan",
+      "italian": "Affare fatto, andiamo, ho il piano",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743321"
+    },
+    {
+      "english": "Good job, you made it, keep going",
+      "italian": "Ottimo, ce l’hai fatta, continua",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743324"
+    },
+    {
+      "english": "Listen, be brave, ask for what you want",
+      "italian": "Ascolta, sii coraggioso, chiedi quello che vuoi",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743325"
+    },
+    {
+      "english": "Hold on, take a breath, then decide",
+      "italian": "Aspetta, respira, poi decidi",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743327"
+    },
+    {
+      "english": "Perfect, let’s schedule it, right away",
+      "italian": "Perfetto, fissiamolo, subito",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743329"
+    },
+    {
+      "english": "You’ve got time, don’t rush, do it right",
+      "italian": "Hai tempo, non avere fretta, fallalo bene",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743331"
+    },
+    {
+      "english": "That’s true, small steps, big results",
+      "italian": "È vero, piccoli passi, grandi risultati",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743333"
+    },
+    {
+      "english": "Great, let’s check it, step back and see",
+      "italian": "Ottimo, controlliamo, torna un attimo indietro",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743335"
+    },
+    {
+      "english": "Come on, you can do it, try again",
+      "italian": "Dai, puoi farcela, riprova",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743336"
+    },
+    {
+      "english": "Sure, no problem, I’ll help you",
+      "italian": "Certo, nessun problema, ti aiuto",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743338"
+    },
+    {
+      "english": "Nice one, that question is on point",
+      "italian": "Bella, quella domanda è centrata",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743340"
+    },
+    {
+      "english": "Okay then, let’s move fast, no excuses",
+      "italian": "Va bene, muoviamoci, niente scuse",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743341"
+    },
+    {
+      "english": "Alright, let’s wrap up, we’re done",
+      "italian": "D’accordo, chiudiamo, è finita",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743343"
+    },
+    {
+      "english": "Exactly, that’s the right answer, go ahead",
+      "italian": "Esattamente, è la risposta giusta, avanti",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743345"
+    },
+    {
+      "english": "Watch out, take your time, stay focused",
+      "italian": "Attento, prenditi il tempo, resta concentrato",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743346"
+    },
+    {
+      "english": "Let’s start simple, build up from there",
+      "italian": "Partiamo semplice, poi miglioriamo",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743348"
+    },
+    {
+      "english": "Good sign, you’re improving, keep it up",
+      "italian": "Bel segno, stai migliorando, continua così",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743350"
+    },
+    {
+      "english": "I get it, now act, don’t wait",
+      "italian": "Ho capito, adesso agisci, non aspettare",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743352"
+    },
+    {
+      "english": "How do I get started, really?",
+      "italian": "Da dove comincio, davvero?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743354"
+    },
+    {
+      "english": "Where should I focus first?",
+      "italian": "Su cosa devo concentrarmi prima?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743356"
+    },
+    {
+      "english": "Which option works best for you?",
+      "italian": "Quale opzione funziona meglio per te?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743357"
+    },
+    {
+      "english": "When is a good time to practice?",
+      "italian": "Quando è un buon momento per allenarmi?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743359"
+    },
+    {
+      "english": "Do you have any advice for me?",
+      "italian": "Hai qualche consiglio per me?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743361"
+    },
+    {
+      "english": "Can we talk about your goal?",
+      "italian": "Possiamo parlare del tuo obiettivo?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743362"
+    },
+    {
+      "english": "What’s the easiest way to improve?",
+      "italian": "Qual è il modo più facile per migliorare?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743364"
+    },
+    {
+      "english": "Should I do it now, or later?",
+      "italian": "Devo farlo adesso, o più tardi?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743367"
+    },
+    {
+      "english": "What happens if I try today?",
+      "italian": "Cosa succede se provo oggi?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743369"
+    },
+    {
+      "english": "What’s your plan if it gets tough?",
+      "italian": "Qual è il tuo piano se si fa dura?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743371"
+    },
+    {
+      "english": "How can I stay consistent, honestly?",
+      "italian": "Come faccio a restare costante, davvero?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743372"
+    },
+    {
+      "english": "Do you want to practice together?",
+      "italian": "Vuoi esercitarci insieme?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743374"
+    },
+    {
+      "english": "Can we make a quick check-in?",
+      "italian": "Facciamo un check veloce?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743377"
+    },
+    {
+      "english": "What’s one small win for today?",
+      "italian": "Qual è una piccola vittoria oggi?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743381"
+    },
+    {
+      "english": "Which mistake should I avoid first?",
+      "italian": "Quale errore devo evitare prima?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743382"
+    },
+    {
+      "english": "Can I get your honest feedback?",
+      "italian": "Mi dai un feedback sincero?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743384"
+    },
+    {
+      "english": "How did you improve last month?",
+      "italian": "Come hai migliorato lo scorso mese?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743386"
+    },
+    {
+      "english": "What if I’m not ready yet?",
+      "italian": "E se non sono pronto ancora?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743387"
+    },
+    {
+      "english": "Can you help me choose wisely?",
+      "italian": "Puoi aiutarmi a scegliere bene?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743389"
+    },
+    {
+      "english": "Where can I find a good routine?",
+      "italian": "Dove posso trovare una routine?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743390"
+    },
+    {
+      "english": "Would you mind checking my answer?",
+      "italian": "Ti va di controllare la mia risposta?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743392"
+    },
+    {
+      "english": "Should I ask, or just try?",
+      "italian": "Devo chiedere, o provare e basta?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743393"
+    },
+    {
+      "english": "What’s the next step you’d take?",
+      "italian": "Qual è il prossimo passo per te?",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743395"
+    },
+    {
+      "english": "You’re building momentum, day by day, keep going.",
+      "italian": "Stai costruendo slancio, giorno dopo giorno, vai avanti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743397"
+    },
+    {
+      "english": "Small wins count, your effort matters a lot.",
+      "italian": "Le piccole vittorie contano, il tuo impegno conta molto.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743399"
+    },
+    {
+      "english": "Trust your pace, progress is still progress.",
+      "italian": "Fidati del tuo ritmo, anche così stai migliorando.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743401"
+    },
+    {
+      "english": "Say it clearly, I can handle this.",
+      "italian": "Dillo chiaro, posso gestirla io.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743402"
+    },
+    {
+      "english": "Stay curious, success loves smart questions.",
+      "italian": "Resta curioso, il successo ama le buone domande.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743404"
+    },
+    {
+      "english": "Your mindset is your engine, use it.",
+      "italian": "La tua mentalità è il tuo motore, usalo.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743406"
+    },
+    {
+      "english": "One more attempt, that’s how you grow.",
+      "italian": "Un’altra prova, così cresci davvero.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743408"
+    },
+    {
+      "english": "Confidence starts now, not when it’s easy.",
+      "italian": "La sicurezza comincia adesso, non quando è facile.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743410"
+    },
+    {
+      "english": "Choose the next good move, then repeat.",
+      "italian": "Scegli la prossima buona mossa, poi ripeti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743412"
+    },
+    {
+      "english": "Every day counts, even quiet progress.",
+      "italian": "Ogni giorno conta, anche i progressi tranquilli.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743413"
+    },
+    {
+      "english": "Don’t chase luck, practice beats it.",
+      "italian": "Non inseguire la fortuna, l’allenamento batte tutto.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743415"
+    },
+    {
+      "english": "You’re learning fast, because you show up.",
+      "italian": "Stai imparando velocemente, perché ti presenti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743417"
+    },
+    {
+      "english": "Celebrate effort, results will follow naturally.",
+      "italian": "Festeggia l’impegno, i risultati arrivano da soli.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743419"
+    },
+    {
+      "english": "When it’s hard, stay steady, you’re close.",
+      "italian": "Quando è difficile, resta saldo, sei vicino.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743421"
+    },
+    {
+      "english": "Your future self is cheering, keep the habit.",
+      "italian": "Il tuo futuro ti sostiene, mantieni la costanza.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743423"
+    },
+    {
+      "english": "Be consistent, not perfect, that’s the trick.",
+      "italian": "Sii costante, non perfetto, è questo il segreto.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743425"
+    },
+    {
+      "english": "Act first, motivation comes right after.",
+      "italian": "Agisci prima, la motivazione arriva subito.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743427"
+    },
+    {
+      "english": "Say thanks to yourself, you’re doing it.",
+      "italian": "Ringraziati, stai facendo sul serio.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743429"
+    },
+    {
+      "english": "Keep your eyes on goals, not excuses.",
+      "italian": "Tieni lo sguardo sui traguardi, non sulle scuse.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743431"
+    },
+    {
+      "english": "Believe in the process, trust every repetition.",
+      "italian": "Credi nel processo, fidati di ogni ripetizione.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743433"
+    },
+    {
+      "english": "You’ve got skills, start using them today.",
+      "italian": "Hai delle abilità, comincia a usarle oggi.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743435"
+    },
+    {
+      "english": "Turn doubts into fuel, then move forward.",
+      "italian": "Trasforma i dubbi in carburante, poi vai avanti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743436"
+    },
+    {
+      "english": "Stay positive, your effort will show.",
+      "italian": "Resta positivo, il tuo impegno si vede.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743439"
+    },
+    {
+      "english": "Give yourself credit, you earned this moment.",
+      "italian": "Datti merito, te lo sei guadagnato.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743442"
+    },
+    {
+      "english": "Focus on what works, drop what drains you.",
+      "italian": "Concentrati su ciò che funziona, lascia ciò che ti svuota.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743444"
+    },
+    {
+      "english": "Set a goal, then build confidence around it.",
+      "italian": "Stabilisci un obiettivo, poi costruisci fiducia.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743445"
+    },
+    {
+      "english": "Your next step is enough, begin now.",
+      "italian": "Il prossimo passo basta, comincia adesso.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743447"
+    },
+    {
+      "english": "Even mistakes teach, learn fast and reset.",
+      "italian": "Anche gli errori insegnano, impara e riparti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743449"
+    },
+    {
+      "english": "Keep it simple, belief grows through action.",
+      "italian": "Tieni tutto semplice, la fiducia cresce con l’azione.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743450"
+    },
+    {
+      "english": "You’re not behind, you’re on your way.",
+      "italian": "Non sei indietro, sei sulla tua strada.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743452"
+    },
+    {
+      "english": "I’m scared, but I’m moving anyway.",
+      "italian": "Ho paura, ma mi muovo lo stesso.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743455"
+    },
+    {
+      "english": "I need time, and that’s okay.",
+      "italian": "Mi serve tempo, e va bene così.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743456"
+    },
+    {
+      "english": "Today, I choose honesty over performance.",
+      "italian": "Oggi scelgo la sincerità, non la performance.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743459"
+    },
+    {
+      "english": "I’ll be patient, even with myself.",
+      "italian": "Sarò paziente, anche con me stesso.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743461"
+    },
+    {
+      "english": "When I doubt, I slow down.",
+      "italian": "Quando dubito, rallento.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743463"
+    },
+    {
+      "english": "It’s not perfect, but it’s real.",
+      "italian": "Non è perfetto, ma è vero.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743465"
+    },
+    {
+      "english": "I listen to my feelings, then decide.",
+      "italian": "Ascolto quello che sento, poi decido.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743466"
+    },
+    {
+      "english": "Small progress, I can feel it.",
+      "italian": "Piccoli passi, lo sento.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743468"
+    },
+    {
+      "english": "I don’t need hype, I need consistency.",
+      "italian": "Non mi serve l’entusiasmo, mi serve costanza.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743470"
+    },
+    {
+      "english": "I’m proud I showed up today.",
+      "italian": "Sono fiero di esserci oggi.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743471"
+    },
+    {
+      "english": "I forgive myself, then I continue.",
+      "italian": "Mi perdono, poi continuo.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743473"
+    },
+    {
+      "english": "I talk to myself with kindness.",
+      "italian": "Parlo con me stesso con gentilezza.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743475"
+    },
+    {
+      "english": "I can be tired, still I persist.",
+      "italian": "Posso essere stanco, ma insisto.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743477"
+    },
+    {
+      "english": "I’m learning the hard parts, not escaping.",
+      "italian": "Sto imparando le parti difficili, non scappo.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743478"
+    },
+    {
+      "english": "I reset gently, no drama.",
+      "italian": "Riparto con calma, senza drammi.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743480"
+    },
+    {
+      "english": "I breathe, then choose the next action.",
+      "italian": "Respira, poi scegli il prossimo passo.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743482"
+    },
+    {
+      "english": "I’m not behind, I’m recalibrating.",
+      "italian": "Non sono indietro, sto ricalibrando.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743485"
+    },
+    {
+      "english": "I reflect, then I get back to work.",
+      "italian": "Rifletto, poi torno al lavoro.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743487"
+    },
+    {
+      "english": "I respect my limits, and I plan.",
+      "italian": "Rispetto i miei limiti, e organizzo.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743488"
+    },
+    {
+      "english": "Even my fear has a message.",
+      "italian": "Anche la mia paura ha un messaggio.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743490"
+    },
+    {
+      "english": "I’m steady, because I mean it.",
+      "italian": "Sono costante, perché lo voglio davvero.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743492"
+    },
+    {
+      "english": "I don’t quit when emotions get loud.",
+      "italian": "Non mollo quando le emozioni urlano.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743494"
+    },
+    {
+      "english": "I turn regret into a gentle lesson.",
+      "italian": "Trasformo il rimpianto in una lezione dolce.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743495"
+    },
+    {
+      "english": "I want growth, not just results.",
+      "italian": "Voglio crescita, non solo risultati.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743498"
+    },
+    {
+      "english": "I’m honest about what’s hard today.",
+      "italian": "Sono sincero su ciò che oggi è difficile.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743500"
+    },
+    {
+      "english": "I keep going, even slowly, calmly.",
+      "italian": "Vado avanti, anche piano, ma con calma.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743502"
+    },
+    {
+      "english": "I trust myself, but I stay alert.",
+      "italian": "Mi fido di me, ma resto attento.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743503"
+    },
+    {
+      "english": "I notice progress, then I celebrate quietly.",
+      "italian": "Vedo i progressi, poi festeggio in silenzio.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743505"
+    },
+    {
+      "english": "Success is calm courage, not noise.",
+      "italian": "Il successo è coraggio tranquillo, non rumore.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743506"
+    },
+    {
+      "english": "Wake up early, drink water, then plan.",
+      "italian": "Alzati presto, bevi acqua, poi pianifica.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743508"
+    },
+    {
+      "english": "Keep your promises, even the small ones.",
+      "italian": "Mantieni le promesse, anche quelle piccole.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743510"
+    },
+    {
+      "english": "Ask for help, you’re allowed to.",
+      "italian": "Chiedi aiuto, hai tutto il diritto.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743511"
+    },
+    {
+      "english": "Say it clearly, then move on.",
+      "italian": "Dillo chiaramente, poi vai avanti.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743513"
+    },
+    {
+      "english": "Before you react, take one breath.",
+      "italian": "Prima di reagire, fai un respiro.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743514"
+    },
+    {
+      "english": "In conversations, listen first, then respond.",
+      "italian": "Nelle conversazioni, ascolta prima, poi rispondi.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743516"
+    },
+    {
+      "english": "If it’s messy, start with one task.",
+      "italian": "Se è un caos, parti con un solo compito.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743519"
+    },
+    {
+      "english": "Turn meetings into action, not just talk.",
+      "italian": "Trasforma le riunioni in azione, non solo parole.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743521"
+    },
+    {
+      "english": "When plans change, stay flexible, not stressed.",
+      "italian": "Quando cambia il piano, resta flessibile, non stressato.",
+      "category": "Success",
+      "generated_at": "2026-11-07T06:50:30.743523"
     }
   ],
-  "last_updated": "2026-11-06T07:40:30.590983"
+  "last_updated": "2026-11-07T06:50:30.743524"
 }
