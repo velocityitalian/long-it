@@ -15839,7 +15839,727 @@
       "italian": "Quando cambia il piano, resta flessibile, non stressato.",
       "category": "Success",
       "generated_at": "2026-11-07T06:50:30.743523"
+    },
+    {
+      "english": "Home sweet home, I’m home, finally",
+      "italian": "Casa dolce casa, sono a casa, finalmente",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866689"
+    },
+    {
+      "english": "Kids are asleep, please be quiet, shh",
+      "italian": "I bambini dormono, per favore, silenzio, shh",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866711"
+    },
+    {
+      "english": "Where’s the remote, I can’t find it",
+      "italian": "Dov’è il telecomando, non lo trovo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866714"
+    },
+    {
+      "english": "Just a sec, I’ll grab it for you",
+      "italian": "Aspetta un attimo, lo prendo io per te",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866716"
+    },
+    {
+      "english": "Dinner’s ready, come to the table now",
+      "italian": "La cena è pronta, venite a tavola, adesso",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866719"
+    },
+    {
+      "english": "Is anyone here, hello, we’re home",
+      "italian": "C’è qualcuno, ciao, siamo a casa",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866721"
+    },
+    {
+      "english": "I’ll call you, right after I finish",
+      "italian": "Ti chiamo, subito dopo che finisco",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866723"
+    },
+    {
+      "english": "Watch out, the floor is slippery, careful",
+      "italian": "Attento, il pavimento è scivoloso, occhio",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866728"
+    },
+    {
+      "english": "Thanks for helping, you’re a lifesaver",
+      "italian": "Grazie per l’aiuto, sei un vero toccasana",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866731"
+    },
+    {
+      "english": "No worries, it happens, we’ll fix it",
+      "italian": "Non preoccuparti, succede, lo sistemiamo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866733"
+    },
+    {
+      "english": "Can you open the window, it’s stuffy",
+      "italian": "Puoi aprire la finestra, fa caldo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866736"
+    },
+    {
+      "english": "I’m exhausted, I need rest, please",
+      "italian": "Sono stanco, mi serve riposo, per favore",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866738"
+    },
+    {
+      "english": "Kids, shoes off, please, inside only",
+      "italian": "Bambini, via le scarpe, per favore, dentro",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866740"
+    },
+    {
+      "english": "I’m locked out, I forgot my key",
+      "italian": "Sono fuori, ho dimenticato la chiave",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866742"
+    },
+    {
+      "english": "Wait, I’ll check first, one moment",
+      "italian": "Aspetta, controllo prima, un attimo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866744"
+    },
+    {
+      "english": "That smells great, what are you cooking?",
+      "italian": "Che buon profumo, cosa stai cucinando?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866747"
+    },
+    {
+      "english": "Let’s clean up, everything has a place",
+      "italian": "Sistemiamo, ogni cosa ha il suo posto",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866749"
+    },
+    {
+      "english": "Where’s the bathroom, I need it now",
+      "italian": "Dov’è il bagno, mi serve subito",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866752"
+    },
+    {
+      "english": "Be careful, it’s hot, don’t touch",
+      "italian": "Attento, è caldo, non toccare",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866754"
+    },
+    {
+      "english": "Oh no, it’s broken, we need help",
+      "italian": "Oh no, è rotto, serve aiuto",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866756"
+    },
+    {
+      "english": "Just leave it here, I’ll pick it up",
+      "italian": "Lasci a qui, lo prendo io dopo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866758"
+    },
+    {
+      "english": "Who’s at the door, let me see",
+      "italian": "Chi è alla porta, fammi guardare",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866760"
+    },
+    {
+      "english": "Come in, make yourself at home",
+      "italian": "Entra, mettiti a tuo agio",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866762"
+    },
+    {
+      "english": "Tell me the truth, what happened?",
+      "italian": "Dimmi la verità, cosa è successo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866764"
+    },
+    {
+      "english": "I’m on my way, wait for me",
+      "italian": "Arrivo, aspetta un attimo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866767"
+    },
+    {
+      "english": "Thanks, that was so kind, davvero",
+      "italian": "Grazie, sei stato gentilissimo, davvero",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866769"
+    },
+    {
+      "english": "All good, we’re fine, don’t stress",
+      "italian": "Tutto bene, stiamo bene, niente stress",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866771"
+    },
+    {
+      "english": "I need diapers, where’s the drawer?",
+      "italian": "Mi servono i pannolini, dov’è il cassetto?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866773"
+    },
+    {
+      "english": "Let’s do laundry, then we relax",
+      "italian": "Facciamo il bucato, poi ci rilassiamo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866775"
+    },
+    {
+      "english": "Family first, home is where we recharge",
+      "italian": "Prima la famiglia, casa è dove ricarichiamo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866777"
+    },
+    {
+      "english": "Where do we keep the extra blankets?",
+      "italian": "Dove teniamo le coperte in più?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866780"
+    },
+    {
+      "english": "Can I ask you something, really quick?",
+      "italian": "Posso chiederti una cosa, veloce?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866782"
+    },
+    {
+      "english": "What time does school start for kids?",
+      "italian": "A che ora comincia la scuola per i bambini?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866784"
+    },
+    {
+      "english": "Which room is best for guests?",
+      "italian": "Quale stanza è meglio per gli ospiti?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866786"
+    },
+    {
+      "english": "Do we need to book a plumber?",
+      "italian": "Serve chiamare un idraulico, o no?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866788"
+    },
+    {
+      "english": "How do you say this in Italian?",
+      "italian": "Come si dice questo in italiano?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866790"
+    },
+    {
+      "english": "Can you recommend a good supermarket nearby?",
+      "italian": "Mi consigli un supermercato vicino, per favore?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866791"
+    },
+    {
+      "english": "Is dinner okay if we eat later?",
+      "italian": "Va bene se mangiamo più tardi, per cena?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866793"
+    },
+    {
+      "english": "What should I do with these boxes?",
+      "italian": "Cosa faccio con queste scatole?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866795"
+    },
+    {
+      "english": "Where do I plug in this charger?",
+      "italian": "Dove collego questo caricatore?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866796"
+    },
+    {
+      "english": "Do you want coffee, or tea instead?",
+      "italian": "Ti va un caffè, o preferisci il tè?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866798"
+    },
+    {
+      "english": "Should I call you when I arrive?",
+      "italian": "Quando arrivo, ti chiamo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866800"
+    },
+    {
+      "english": "What’s the plan for the weekend at home?",
+      "italian": "Qual è il piano per il weekend in casa?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866802"
+    },
+    {
+      "english": "Can you help me sort the laundry?",
+      "italian": "Mi aiuti a separare la biancheria?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866804"
+    },
+    {
+      "english": "Which shelf holds the dishes, usually?",
+      "italian": "In quale ripiano ci sono i piatti?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866806"
+    },
+    {
+      "english": "Why is the heating not working?",
+      "italian": "Perché il riscaldamento non funziona?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866807"
+    },
+    {
+      "english": "Would it be easier if we order food?",
+      "italian": "Ti sembra meglio ordinare qualcosa da mangiare?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866809"
+    },
+    {
+      "english": "Can I borrow your keys for a moment?",
+      "italian": "Posso prendere le tue chiavi per un attimo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866810"
+    },
+    {
+      "english": "Where do we keep the cleaning products?",
+      "italian": "Dove teniamo i prodotti per pulire?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866812"
+    },
+    {
+      "english": "How do I set the washing machine?",
+      "italian": "Come imposto la lavatrice?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866814"
+    },
+    {
+      "english": "What’s the Wi‑Fi password, please?",
+      "italian": "Qual è la password del Wi‑Fi, per favore?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866817"
+    },
+    {
+      "english": "Do we have enough soap at home?",
+      "italian": "Abbiamo abbastanza sapone, qui?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866819"
+    },
+    {
+      "english": "Can we talk, I need your advice?",
+      "italian": "Possiamo parlare, ho bisogno del tuo consiglio?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866821"
+    },
+    {
+      "english": "What time should we pick up the kids?",
+      "italian": "A che ora dobbiamo prendere i bambini?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866822"
+    },
+    {
+      "english": "Which parent handles homework questions?",
+      "italian": "Chi si occupa dei compiti, di solito?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866824"
+    },
+    {
+      "english": "How’s your day going, in real life?",
+      "italian": "Come va la giornata, tutto bene?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866827"
+    },
+    {
+      "english": "Do you have any tips for moving?",
+      "italian": "Hai qualche consiglio per traslocare?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866830"
+    },
+    {
+      "english": "Can you check the smoke alarm batteries?",
+      "italian": "Puoi controllare le batterie dell’allarme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866831"
+    },
+    {
+      "english": "Should we take shoes off inside here?",
+      "italian": "Qui si tolgono le scarpe all’interno?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866833"
+    },
+    {
+      "english": "What can I do to help right now?",
+      "italian": "Cosa posso fare per aiutarti adesso?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866834"
+    },
+    {
+      "english": "Home is where the heart is, capisci?",
+      "italian": "La casa è dove batte il cuore, capisci?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866836"
+    },
+    {
+      "english": "At home, we do it our way.",
+      "italian": "A casa, si fa come piace a noi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866838"
+    },
+    {
+      "english": "Family, first, poi tutto il resto.",
+      "italian": "La famiglia prima, poi il resto viene.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866841"
+    },
+    {
+      "english": "It’s not a big deal, tranquillo.",
+      "italian": "Non è niente di che, tranquillo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866843"
+    },
+    {
+      "english": "Make yourself useful, help without asking.",
+      "italian": "Datti una mano, senza troppe parole.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866845"
+    },
+    {
+      "english": "We’ll fix it later, no panic.",
+      "italian": "Sistemiamo dopo, niente panico.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866847"
+    },
+    {
+      "english": "There’s always a spare room, dai.",
+      "italian": "C’è sempre spazio per qualcuno, dai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866849"
+    },
+    {
+      "english": "The kettle is always boiling at home.",
+      "italian": "A casa, c’è sempre un gran da fare.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866851"
+    },
+    {
+      "english": "If it’s messy, we’ll sort it.",
+      "italian": "Se è un caos, ci pensiamo noi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866853"
+    },
+    {
+      "english": "Walls have ears, keep it down.",
+      "italian": "Le pareti sentono, parla piano.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866856"
+    },
+    {
+      "english": "To each their own corner, ok?",
+      "italian": "Ognuno ha il suo posto, d’accordo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866857"
+    },
+    {
+      "english": "Clean as a whistle, looks perfect here.",
+      "italian": "Pulito come un fischio, che bella casa.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866859"
+    },
+    {
+      "english": "We’re like family here, davvero.",
+      "italian": "Qui siamo come in famiglia, davvero.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866862"
+    },
+    {
+      "english": "Home cooking always wins, anyway.",
+      "italian": "La cucina di casa batte tutto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866863"
+    },
+    {
+      "english": "Don’t start, or it becomes a mess.",
+      "italian": "Se inizi, poi diventa un casino.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866866"
+    },
+    {
+      "english": "Let’s keep it simple, as usual.",
+      "italian": "Facciamola semplice, come sempre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866868"
+    },
+    {
+      "english": "Old habits die hard, in families.",
+      "italian": "Le abitudini sono dure a morire, in famiglia.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866870"
+    },
+    {
+      "english": "Respect at home, that’s non-negotiable.",
+      "italian": "Il rispetto a casa, non si discute.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866872"
+    },
+    {
+      "english": "Don’t worry, it will work out.",
+      "italian": "Tranquillo, si sistemerà tutto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866875"
+    },
+    {
+      "english": "The door is open, drop by anytime.",
+      "italian": "La porta è sempre aperta, passa quando vuoi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866876"
+    },
+    {
+      "english": "This place has good vibes at night.",
+      "italian": "Qui c’è aria di casa, anche la sera.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866878"
+    },
+    {
+      "english": "You can count on us, always.",
+      "italian": "Puoi contare su di noi, sempre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866881"
+    },
+    {
+      "english": "Supper smells good, everyone is coming.",
+      "italian": "Si sente odore di cena, arrivano tutti.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866883"
+    },
+    {
+      "english": "Family dinner, no excuses today.",
+      "italian": "Cena in famiglia, oggi non si scappa.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866885"
+    },
+    {
+      "english": "We keep peace at home, always.",
+      "italian": "A casa teniamo la pace, sempre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866886"
+    },
+    {
+      "english": "Take it easy, we have time.",
+      "italian": "Rilassati, abbiamo tempo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866888"
+    },
+    {
+      "english": "If you need help, call me.",
+      "italian": "Se serve qualcosa, chiamami.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866890"
+    },
+    {
+      "english": "This house runs on love and routine.",
+      "italian": "Questa casa va avanti con amore e routine.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866893"
+    },
+    {
+      "english": "We sort things out, step by step.",
+      "italian": "Le cose si aggiustano, passo dopo passo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866894"
+    },
+    {
+      "english": "I’m tired, but I’m staying calm, okay?",
+      "italian": "Sono stanco, ma resto calmo, va bene?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866897"
+    },
+    {
+      "english": "I feel understood here, honestly, grazie.",
+      "italian": "Mi sento capito qui, davvero, grazie.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866899"
+    },
+    {
+      "english": "I don’t want drama, let’s talk softly.",
+      "italian": "Non voglio drammi, parliamo piano.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866901"
+    },
+    {
+      "english": "Take your time, we can do it together.",
+      "italian": "Prenditi il tuo tempo, possiamo farlo insieme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866903"
+    },
+    {
+      "english": "I’m not okay right now, please be patient.",
+      "italian": "Non sto bene adesso, per favore, sii paziente.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866905"
+    },
+    {
+      "english": "Sometimes I need space, but I’m still here.",
+      "italian": "A volte ho bisogno di spazio, ma ci sono.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866908"
+    },
+    {
+      "english": "I’m grateful, even for small things, davvero.",
+      "italian": "Sono grato, anche per le piccole cose.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866910"
+    },
+    {
+      "english": "I don’t say much, but I feel everything.",
+      "italian": "Non dico molto, ma sento tutto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866913"
+    },
+    {
+      "english": "Let’s be honest, I missed you today.",
+      "italian": "Siamo onesti, oggi ti ho pensato.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866915"
+    },
+    {
+      "english": "I’m trying, slow steps still count, eh?",
+      "italian": "Ci provo, anche i passi lenti contano.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866917"
+    },
+    {
+      "english": "I’m scared to mess up, forgive me.",
+      "italian": "Ho paura di sbagliare, scusami.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866919"
+    },
+    {
+      "english": "When we listen, things get better, passo dopo passo.",
+      "italian": "Quando ci ascoltiamo, va meglio, passo dopo passo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866923"
+    },
+    {
+      "english": "I need reassurance, not more pressure, please.",
+      "italian": "Mi serve una rassicurazione, non più pressione.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866925"
+    },
+    {
+      "english": "I’m proud of you, even with mistakes.",
+      "italian": "Sono fiero di te, anche se sbagli.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866927"
+    },
+    {
+      "english": "It hurts, but I’ll handle it calmly.",
+      "italian": "Mi fa male, ma lo gestisco con calma.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866929"
+    },
+    {
+      "english": "Let’s reset, we can start again now.",
+      "italian": "Facciamo reset, ripartiamo da adesso.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866931"
+    },
+    {
+      "english": "I think we’re rushing, slow down a bit.",
+      "italian": "Secondo me stiamo correndo, rallenta un po’.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866934"
+    },
+    {
+      "english": "I’m not mad, I’m just overwhelmed.",
+      "italian": "Non sono arrabbiato, sono solo sopraffatto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866936"
+    },
+    {
+      "english": "I’d like peace at home, for real.",
+      "italian": "Vorrei pace in casa, sul serio.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866938"
+    },
+    {
+      "english": "Say what you feel, without attacking anyone.",
+      "italian": "Dì quello che provi, senza attaccare nessuno.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866941"
+    },
+    {
+      "english": "I’m doing my best, please don’t judge.",
+      "italian": "Sto facendo del mio meglio, non giudicarmi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866943"
+    },
+    {
+      "english": "We’ll get through it, step by step, together.",
+      "italian": "Ce la faremo, passo dopo passo, insieme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866946"
+    },
+    {
+      "english": "I need help, even if it’s small.",
+      "italian": "Mi serve aiuto, anche se è poco.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866948"
+    },
+    {
+      "english": "I’m grateful for your effort, not perfection.",
+      "italian": "Ti ringrazio per l’impegno, non per la perfezione.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866951"
+    },
+    {
+      "english": "I’m choosing kindness, even when I’m tense.",
+      "italian": "Scelgo la gentilezza, anche quando sono teso.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866953"
+    },
+    {
+      "english": "Let’s keep it real, I’m overwhelmed today.",
+      "italian": "Restiamo reali, oggi sono sopraffatto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866956"
+    },
+    {
+      "english": "I’m trying to understand you, not win.",
+      "italian": "Sto cercando di capirti, non di vincere.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866958"
+    },
+    {
+      "english": "Give me one minute, then we talk.",
+      "italian": "Dammi un minuto, poi parliamo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866959"
+    },
+    {
+      "english": "I feel safe when we handle things together.",
+      "italian": "Mi sento al sicuro quando gestiamo tutto insieme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866961"
+    },
+    {
+      "english": "It’s okay to be quiet, I get it.",
+      "italian": "Va bene stare in silenzio, ti capisco.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866964"
+    },
+    {
+      "english": "Quick check, kids, homework first, poi snack.",
+      "italian": "Ok veloce, ragazzi, prima i compiti, poi lo spuntino.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T06:57:12.866968"
     }
   ],
-  "last_updated": "2026-11-07T06:50:30.743524"
+  "last_updated": "2026-11-08T06:57:12.866970"
 }
