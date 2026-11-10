@@ -17279,7 +17279,727 @@
       "italian": "Se siamo in ritardo, mandiamo un messaggio, non spariamo.",
       "category": "Love",
       "generated_at": "2026-11-09T07:39:27.096953"
+    },
+    {
+      "english": "Breathe first, then answer calmly",
+      "italian": "Respira prima, poi rispondi con calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543100"
+    },
+    {
+      "english": "I’m good, just give me a second",
+      "italian": "Sto bene, dammi solo un secondo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543118"
+    },
+    {
+      "english": "Okay, no stress, we’ll handle it",
+      "italian": "Va bene, niente stress, ci pensiamo noi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543123"
+    },
+    {
+      "english": "Wait, let me think, slowly",
+      "italian": "Aspetta, fammi pensare, piano",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543126"
+    },
+    {
+      "english": "It’s fine, I’ll reset and go again",
+      "italian": "Va bene, mi rimetto e riparto",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543129"
+    },
+    {
+      "english": "Hold on, I need a quiet moment",
+      "italian": "Un attimo, mi serve un momento tranquillo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543132"
+    },
+    {
+      "english": "Sorry, I’m overwhelmed, give me space",
+      "italian": "Scusa, sono sopraffatto, dammi spazio",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543135"
+    },
+    {
+      "english": "No problem, take it easy, really",
+      "italian": "Nessun problema, prendila con calma, davvero",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543142"
+    },
+    {
+      "english": "Let it go, I’m not chasing that",
+      "italian": "Lascia perdere, non corro dietro",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543147"
+    },
+    {
+      "english": "I hear you, but I need rest",
+      "italian": "Ti capisco, ma ho bisogno di riposo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543150"
+    },
+    {
+      "english": "I’ll reply later, give me time",
+      "italian": "Rispondo dopo, dammi tempo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543153"
+    },
+    {
+      "english": "Calm down, we’re all on the same team",
+      "italian": "Calmati, siamo dalla stessa parte",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543156"
+    },
+    {
+      "english": "Pause, check in, then continue",
+      "italian": "Fermati, fai il check, poi vai avanti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543159"
+    },
+    {
+      "english": "I’m okay, I just need to center",
+      "italian": "Sto bene, mi serve ritrovare il centro",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543161"
+    },
+    {
+      "english": "Honestly, today I choose peace",
+      "italian": "Onestamente, oggi scelgo la pace",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543164"
+    },
+    {
+      "english": "Let’s talk after, when I’m calmer",
+      "italian": "Ne parliamo dopo, quando sono più calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543167"
+    },
+    {
+      "english": "I’m not fighting, I’m protecting my energy",
+      "italian": "Non litigo, proteggo la mia energia",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543170"
+    },
+    {
+      "english": "Keep your cool, it’ll pass",
+      "italian": "Tieniti tranquillo, passa",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543173"
+    },
+    {
+      "english": "I’m stepping back, I’ll come later",
+      "italian": "Mi tiro indietro, torno più tardi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543176"
+    },
+    {
+      "english": "Thanks, I needed that reassurance",
+      "italian": "Grazie, mi serviva quella conferma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543178"
+    },
+    {
+      "english": "It’s not personal, breathe",
+      "italian": "Non è personale, respira",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543182"
+    },
+    {
+      "english": "I’m doing my best, that’s enough",
+      "italian": "Sto facendo del mio meglio, basta così",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543185"
+    },
+    {
+      "english": "I’ll take a breather, no rush",
+      "italian": "Mi prendo una pausa, senza fretta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543187"
+    },
+    {
+      "english": "Right now, I’m choosing calm",
+      "italian": "Adesso scelgo la calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543190"
+    },
+    {
+      "english": "Let’s keep it light, okay?",
+      "italian": "Facciamola semplice, va bene?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543192"
+    },
+    {
+      "english": "I don’t have to react to everything",
+      "italian": "Non devo reagire a tutto",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543195"
+    },
+    {
+      "english": "I’m listening, but I need boundaries",
+      "italian": "Ascolto, ma ho bisogno di confini",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543199"
+    },
+    {
+      "english": "We’ll figure it out, step by step",
+      "italian": "La risolviamo, un passo alla volta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543202"
+    },
+    {
+      "english": "I’m staying mindful, not overthinking",
+      "italian": "Resto presente, non sto a pensarci troppo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543204"
+    },
+    {
+      "english": "No more loops, I’m switching focus",
+      "italian": "Basta giri, cambio focus",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543207"
+    },
+    {
+      "english": "Can we slow down, just for a minute?",
+      "italian": "Possiamo rallentare, solo un minuto?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543210"
+    },
+    {
+      "english": "What do you suggest, to feel steadier?",
+      "italian": "Cosa mi consigli, per sentirmi più stabile?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543213"
+    },
+    {
+      "english": "How can I answer without sounding harsh?",
+      "italian": "Come rispondo senza sembrare brusco?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543215"
+    },
+    {
+      "english": "Would you mind listening, before I explain?",
+      "italian": "Ti dispiacerebbe ascoltare, prima che spieghi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543218"
+    },
+    {
+      "english": "I’m not sure, what would you do here?",
+      "italian": "Non sono sicuro, cosa faresti tu qui?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543222"
+    },
+    {
+      "english": "Can we talk calmly, not in the heat?",
+      "italian": "Parliamo con calma, non durante la discussione?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543224"
+    },
+    {
+      "english": "How do you reset, when stress hits?",
+      "italian": "Come ti fai il reset, quando arriva lo stress?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543226"
+    },
+    {
+      "english": "What’s the best way to ask for space?",
+      "italian": "Qual è il modo migliore per chiedere spazio?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543229"
+    },
+    {
+      "english": "Do you want to talk now, or later?",
+      "italian": "Vuoi parlarne adesso, o più tardi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543231"
+    },
+    {
+      "english": "Can we agree, to pause and breathe?",
+      "italian": "Possiamo concordare, di fare una pausa e respirare?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543234"
+    },
+    {
+      "english": "What’s your take, on handling this peacefully?",
+      "italian": "Tu cosa ne pensi, su come gestirla con calma?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543237"
+    },
+    {
+      "english": "Can I ask something, quickly and honestly?",
+      "italian": "Posso farti una domanda, veloce e sincera?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543239"
+    },
+    {
+      "english": "How would you phrase it, more gently?",
+      "italian": "Come lo diresti, in modo più gentile?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543241"
+    },
+    {
+      "english": "What boundary should I keep, in this moment?",
+      "italian": "Quale confine dovrei tenere, in questo momento?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543244"
+    },
+    {
+      "english": "Do you think it’s worth discussing now?",
+      "italian": "Secondo te, vale la pena parlarne adesso?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543246"
+    },
+    {
+      "english": "Let me ask you, what matters most?",
+      "italian": "Te lo chiedo, cosa conta davvero?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543250"
+    },
+    {
+      "english": "Could we switch topics, for a calmer vibe?",
+      "italian": "Possiamo cambiare argomento, per stare più tranquilli?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543253"
+    },
+    {
+      "english": "When you feel triggered, what helps you?",
+      "italian": "Quando ti senti innescato, cosa ti aiuta?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543255"
+    },
+    {
+      "english": "Can I get your advice, step by step?",
+      "italian": "Mi dai un consiglio, passo dopo passo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543258"
+    },
+    {
+      "english": "What should I avoid, to stay grounded?",
+      "italian": "Cosa dovrei evitare, per restare centrato?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543260"
+    },
+    {
+      "english": "Do you want honesty, or gentle feedback?",
+      "italian": "Preferisci sincerità, o un feedback più gentile?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543262"
+    },
+    {
+      "english": "How do we handle disagreements, respectfully?",
+      "italian": "Come gestiamo i disaccordi, con rispetto?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543264"
+    },
+    {
+      "english": "Can you repeat that, I’m processing?",
+      "italian": "Puoi ripetere, sto elaborando?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543267"
+    },
+    {
+      "english": "What helps you pause, before reacting?",
+      "italian": "Cosa ti aiuta a fermarti, prima di reagire?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543271"
+    },
+    {
+      "english": "Can I say it differently, without pressure?",
+      "italian": "Posso dirla diversamente, senza pressione?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543273"
+    },
+    {
+      "english": "Do you want my opinion, or my support?",
+      "italian": "Vuoi il mio parere, o il mio supporto?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543276"
+    },
+    {
+      "english": "How can we make this easier for both?",
+      "italian": "Come facciamo a renderla più semplice per entrambi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543278"
+    },
+    {
+      "english": "What’s the calmest next step, in your view?",
+      "italian": "Qual è il prossimo passo più tranquillo, secondo te?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543281"
+    },
+    {
+      "english": "Can we check in, and reset together?",
+      "italian": "Facciamo un check-in, e ripartiamo insieme?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543284"
+    },
+    {
+      "english": "If I’m quiet, should I explain why?",
+      "italian": "Se sono in silenzio, devo spiegare il perché?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543287"
+    },
+    {
+      "english": "I’ll take it one thing at a time",
+      "italian": "Lo prendo, passo dopo passo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543290"
+    },
+    {
+      "english": "Keep your feet on the ground",
+      "italian": "Tieni i piedi per terra",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543293"
+    },
+    {
+      "english": "No need to force it, go with the flow",
+      "italian": "Non forzare, vai come viene",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543295"
+    },
+    {
+      "english": "Let it pass, don’t fight the storm",
+      "italian": "Lascia perdere, passa la tempesta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543298"
+    },
+    {
+      "english": "Less drama, more peace",
+      "italian": "Meno drammi, più pace",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543300"
+    },
+    {
+      "english": "When in doubt, breathe and smile",
+      "italian": "In dubbio, respira e sorridi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543303"
+    },
+    {
+      "english": "Mind your pace, not the noise",
+      "italian": "Conta il tuo ritmo, non il rumore",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543305"
+    },
+    {
+      "english": "Give yourself a little grace",
+      "italian": "Datti un po’ di respiro",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543307"
+    },
+    {
+      "english": "Let your heart speak softly",
+      "italian": "Fai parlare il cuore piano",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543309"
+    },
+    {
+      "english": "Slow down, the world keeps going",
+      "italian": "Rallenta, il mondo va avanti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543311"
+    },
+    {
+      "english": "Don’t take everything to heart",
+      "italian": "Non prenderla troppo a cuore",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543314"
+    },
+    {
+      "english": "Choose calm, even if it’s tiny",
+      "italian": "Scegli la calma, anche piccola",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543317"
+    },
+    {
+      "english": "Quiet is also an answer",
+      "italian": "Il silenzio è già una risposta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543319"
+    },
+    {
+      "english": "Everything will settle in time",
+      "italian": "Passa tutto, col tempo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543321"
+    },
+    {
+      "english": "Trust the moment, not the panic",
+      "italian": "Fidati del momento, non del panico",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543323"
+    },
+    {
+      "english": "Let go, it’s not the end",
+      "italian": "Molla tutto, non è la fine",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543326"
+    },
+    {
+      "english": "Keep it simple, keep it light",
+      "italian": "Semplifica, e respira",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543328"
+    },
+    {
+      "english": "Clear your mind, one breath at once",
+      "italian": "Svuota la testa, un respiro alla volta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543331"
+    },
+    {
+      "english": "Hold on to what matters",
+      "italian": "Aggrappati a ciò che conta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543333"
+    },
+    {
+      "english": "Stay steady, even when it’s messy",
+      "italian": "Stai saldo, anche se è caos",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543337"
+    },
+    {
+      "english": "Don’t spin it, just look at it",
+      "italian": "Non ingrandire, guarda soltanto",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543339"
+    },
+    {
+      "english": "Right now, keep your center",
+      "italian": "In questo momento, resta al centro",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543341"
+    },
+    {
+      "english": "Let them talk, you stay calm",
+      "italian": "Parlino pure, tu resta calmo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543344"
+    },
+    {
+      "english": "Turn the page, don’t reread the pain",
+      "italian": "Gira pagina, non rimuginare",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543346"
+    },
+    {
+      "english": "It’s okay, don’t make it worse",
+      "italian": "Va bene, non peggiorare",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543349"
+    },
+    {
+      "english": "Be kind to yourself, no bargains",
+      "italian": "Sii gentile con te, senza sconti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543352"
+    },
+    {
+      "english": "Keep your head up, step forward softly",
+      "italian": "Testa alta, avanti piano",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543354"
+    },
+    {
+      "english": "Choose peace, even with imperfect days",
+      "italian": "Scegli la pace, anche nei giorni stonati",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543356"
+    },
+    {
+      "english": "You can be okay without explaining",
+      "italian": "Va bene così, senza spiegare",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543359"
+    },
+    {
+      "english": "Small steps build real inner peace",
+      "italian": "Piccoli passi, grande serenità",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543362"
+    },
+    {
+      "english": "I admit I feel overwhelmed, and that’s okay",
+      "italian": "Ammetto che mi sento sopraffatto, e va bene",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543365"
+    },
+    {
+      "english": "I’m learning to speak from my real pace",
+      "italian": "Sto imparando a parlare col mio ritmo vero",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543368"
+    },
+    {
+      "english": "Sometimes I need patience, not solutions",
+      "italian": "A volte mi serve pazienza, non soluzioni",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543370"
+    },
+    {
+      "english": "I notice my thoughts, without obeying them",
+      "italian": "Osservo i miei pensieri, senza seguirli",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543372"
+    },
+    {
+      "english": "My feelings are signals, not disasters",
+      "italian": "Le mie emozioni sono segnali, non disastri",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543374"
+    },
+    {
+      "english": "I choose honesty, but I don’t attack",
+      "italian": "Scelgo l’onestà, ma non attacco",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543379"
+    },
+    {
+      "english": "I can be tender, even under stress",
+      "italian": "Posso essere gentile, anche sotto stress",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543381"
+    },
+    {
+      "english": "I slow down inside, before speaking",
+      "italian": "Rallento dentro, prima di parlare",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543383"
+    },
+    {
+      "english": "I trust my calm instincts, step by step",
+      "italian": "Fidandomi del mio istinto calmo, passo dopo passo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543386"
+    },
+    {
+      "english": "I don’t need to win, I need peace",
+      "italian": "Non devo vincere, devo pace",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543389"
+    },
+    {
+      "english": "I’m allowed to feel, and still choose calm",
+      "italian": "Posso sentire, e comunque scegliere calma",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543392"
+    },
+    {
+      "english": "When I get defensive, I pause and soften",
+      "italian": "Quando mi difendo, mi fermo e ammorbidisco",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543394"
+    },
+    {
+      "english": "I’m not my mood, I’m the witness",
+      "italian": "Non sono il mio umore, sono la coscienza",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543397"
+    },
+    {
+      "english": "I can say “I don’t know” peacefully",
+      "italian": "Posso dire “non lo so”, in modo tranquillo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543400"
+    },
+    {
+      "english": "I reflect, then I choose my next words",
+      "italian": "Rifletto, poi scelgo le mie parole",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543402"
+    },
+    {
+      "english": "My boundaries protect my peace, not my ego",
+      "italian": "I miei confini proteggono la mia pace",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543405"
+    },
+    {
+      "english": "I let guilt go, one breath at a time",
+      "italian": "Lascio andare il senso di colpa, un respiro alla volta",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543407"
+    },
+    {
+      "english": "I’m honest about pain, without living in it",
+      "italian": "Sono sincero col dolore, senza viverci dentro",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543410"
+    },
+    {
+      "english": "I don’t chase certainty, I practice clarity",
+      "italian": "Non rincorro la certezza, pratico la chiarezza",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543413"
+    },
+    {
+      "english": "I can feel anger, and still be respectful",
+      "italian": "Posso sentire rabbia, restando rispettoso",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543415"
+    },
+    {
+      "english": "I stop blaming, and start understanding",
+      "italian": "Smetto di dare colpa, e inizio a capire",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543418"
+    },
+    {
+      "english": "I choose calm, because I can respond",
+      "italian": "Scelgo la calma, perché posso rispondere",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543420"
+    },
+    {
+      "english": "I speak gently, even when I’m firm",
+      "italian": "Parlo con dolcezza, anche quando sono fermo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543423"
+    },
+    {
+      "english": "I check my inner story, and adjust",
+      "italian": "Controllo la mia storia interna, e la aggiusto",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543425"
+    },
+    {
+      "english": "Sometimes I need space, not more conversation",
+      "italian": "A volte mi serve spazio, non più conversazione",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543427"
+    },
+    {
+      "english": "I let my breath carry the hard feelings",
+      "italian": "Lascio che il respiro porti via i sentimenti pesanti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543429"
+    },
+    {
+      "english": "I’m learning to trust my quieter thoughts",
+      "italian": "Sto imparando a fidarmi dei pensieri più quieti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543432"
+    },
+    {
+      "english": "I forgive slowly, but I start today",
+      "italian": "Perdono piano, ma comincio oggi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543434"
+    },
+    {
+      "english": "My peace grows when I tell the truth",
+      "italian": "La mia pace cresce quando dico la verità",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543436"
+    },
+    {
+      "english": "Before you answer, pause, breathe, then decide",
+      "italian": "Prima di rispondere, fermati, respira, poi decidi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-10T08:01:15.543440"
     }
   ],
-  "last_updated": "2026-11-09T07:39:27.096955"
+  "last_updated": "2026-11-10T08:01:15.543442"
 }
