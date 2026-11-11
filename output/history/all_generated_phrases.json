@@ -17999,7 +17999,727 @@
       "italian": "Prima di rispondere, fermati, respira, poi decidi",
       "category": "Inner Peace",
       "generated_at": "2026-11-10T08:01:15.543440"
+    },
+    {
+      "english": "Okay, wait, I’m coming right now",
+      "italian": "Ok, aspetta, arrivo adesso",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310114"
+    },
+    {
+      "english": "Hold on, I need a second, please",
+      "italian": "Aspetta un attimo, mi serve un secondo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310128"
+    },
+    {
+      "english": "I got it, don’t worry, it’s fine",
+      "italian": "Ho capito, non ti preoccupare, va bene",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310132"
+    },
+    {
+      "english": "Stop, that’s too much, really",
+      "italian": "Basta, è troppo, davvero",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310135"
+    },
+    {
+      "english": "Wait a bit, we’re almost there",
+      "italian": "Aspetta ancora, siamo quasi arrivati",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310139"
+    },
+    {
+      "english": "Really? Wow, that’s surprising",
+      "italian": "Davvero? Wow, che sorpresa",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310142"
+    },
+    {
+      "english": "Calm down, everything is okay",
+      "italian": "Tranquillo, va tutto bene",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310145"
+    },
+    {
+      "english": "Look, I mean it, seriously",
+      "italian": "Guarda, lo dico sul serio",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310150"
+    },
+    {
+      "english": "Come on, let’s go, right now",
+      "italian": "Dai, andiamo, subito",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310154"
+    },
+    {
+      "english": "Okay then, I’ll handle it",
+      "italian": "Va bene, ci penso io",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310160"
+    },
+    {
+      "english": "Sorry, I didn’t mean that",
+      "italian": "Scusa, non volevo dire così",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310163"
+    },
+    {
+      "english": "Good idea, that makes sense",
+      "italian": "Ottima idea, ha senso",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310166"
+    },
+    {
+      "english": "Slow down, you’re rushing too much",
+      "italian": "Rallenta, stai andando troppo veloce",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310169"
+    },
+    {
+      "english": "I’m telling you, it’s worth it",
+      "italian": "Te lo dico, ne vale la pena",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310173"
+    },
+    {
+      "english": "Wait, let me think for a sec",
+      "italian": "Aspetta, fammi pensare un attimo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310175"
+    },
+    {
+      "english": "Nice, that’s exactly what I needed",
+      "italian": "Bene, è proprio quello che mi serviva",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310178"
+    },
+    {
+      "english": "That’s it, I’m done for today",
+      "italian": "Basta così, finisco per oggi",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310181"
+    },
+    {
+      "english": "Let’s see, what do we do now?",
+      "italian": "Vediamo, cosa facciamo adesso?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310186"
+    },
+    {
+      "english": "Oh no, that went wrong, somehow",
+      "italian": "Oh no, è andata male, per qualche motivo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310189"
+    },
+    {
+      "english": "Quick question, do you know this?",
+      "italian": "Domanda veloce, lo sai?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310191"
+    },
+    {
+      "english": "Yes, sure, I’m in, let’s do it",
+      "italian": "Sì, certo, ci sto, facciamolo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310195"
+    },
+    {
+      "english": "No, not like that, please listen",
+      "italian": "No, non così, ascolta",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310197"
+    },
+    {
+      "english": "Honestly, I don’t know what happened",
+      "italian": "Onestamente, non so cosa sia successo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310201"
+    },
+    {
+      "english": "Nice catch, you noticed that fast",
+      "italian": "Grande, l’hai notato subito",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310203"
+    },
+    {
+      "english": "Wait, that’s not what I meant",
+      "italian": "Aspetta, non intendevo quello",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310206"
+    },
+    {
+      "english": "Okay, deal, we’ll meet later",
+      "italian": "Va bene, d’accordo, ci vediamo dopo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310209"
+    },
+    {
+      "english": "I’m good, thanks, I’m all set",
+      "italian": "Sto bene, grazie, sono a posto",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310212"
+    },
+    {
+      "english": "Be careful, don’t rush, please",
+      "italian": "Attento, non correre, per favore",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310215"
+    },
+    {
+      "english": "Can you show me the right way, please?",
+      "italian": "Mi mostri la strada giusta, per favore?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310218"
+    },
+    {
+      "english": "What do you recommend for a balanced day?",
+      "italian": "Cosa mi consigli per una giornata in equilibrio?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310221"
+    },
+    {
+      "english": "Where should I start, step by step?",
+      "italian": "Da dove devo cominciare, passo dopo passo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310224"
+    },
+    {
+      "english": "Is it okay if I ask one more question?",
+      "italian": "Va bene se faccio un’altra domanda?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310227"
+    },
+    {
+      "english": "Do you have a minute, I need advice?",
+      "italian": "Hai un minuto, mi serve un consiglio?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310229"
+    },
+    {
+      "english": "When is the best time to plan ahead?",
+      "italian": "A che ora è meglio organizzarsi in anticipo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310234"
+    },
+    {
+      "english": "How do you keep things balanced, daily?",
+      "italian": "Come fai a tenere tutto in equilibrio, ogni giorno?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310237"
+    },
+    {
+      "english": "Can we talk about this, for a moment?",
+      "italian": "Possiamo parlare di questo, per un attimo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310240"
+    },
+    {
+      "english": "What’s the easiest way to slow down?",
+      "italian": "Qual è il modo più semplice per rallentare?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310243"
+    },
+    {
+      "english": "Do I say it like this, or not?",
+      "italian": "Si dice così, oppure no?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310246"
+    },
+    {
+      "english": "Can you clarify, what does that mean exactly?",
+      "italian": "Puoi chiarire, cosa significa davvero?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310248"
+    },
+    {
+      "english": "Would you mind repeating that, please?",
+      "italian": "Ti dispiace ripetere, per favore?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310251"
+    },
+    {
+      "english": "Should I choose A or B, in your opinion?",
+      "italian": "Secondo te, prendo A o B?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310254"
+    },
+    {
+      "english": "What’s your rule of thumb for balance?",
+      "italian": "Qual è la tua regola pratica per l’equilibrio?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310257"
+    },
+    {
+      "english": "Can I get your help, just for this?",
+      "italian": "Mi dai una mano, solo per questo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310260"
+    },
+    {
+      "english": "How do you handle stress without overdoing it?",
+      "italian": "Come gestisci lo stress senza esagerare?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310262"
+    },
+    {
+      "english": "Is this the right time to ask?",
+      "italian": "È questo il momento giusto per chiedere?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310266"
+    },
+    {
+      "english": "What should I do first, today?",
+      "italian": "Cosa faccio prima, oggi?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310269"
+    },
+    {
+      "english": "Do you prefer mornings, or evenings, for focus?",
+      "italian": "Preferisci mattina o sera, per concentrarti?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310272"
+    },
+    {
+      "english": "Can you tell me what you’d do?",
+      "italian": "Mi dici cosa faresti tu, al posto mio?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310275"
+    },
+    {
+      "english": "Is there anything I should avoid, exactly?",
+      "italian": "C’è qualcosa che dovrei evitare?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310279"
+    },
+    {
+      "english": "What if I change the plan, slightly?",
+      "italian": "E se cambio il piano, un po’?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310282"
+    },
+    {
+      "english": "Can you check this with me, please?",
+      "italian": "Controlli questo con me, per favore?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310285"
+    },
+    {
+      "english": "Do we have to decide today, or later?",
+      "italian": "Dobbiamo decidere oggi, o possiamo dopo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310287"
+    },
+    {
+      "english": "Which option keeps you calmer, honestly?",
+      "italian": "Quale scelta ti fa stare più tranquillo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310290"
+    },
+    {
+      "english": "Can you suggest a simple routine for me?",
+      "italian": "Mi consigli una routine semplice?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310292"
+    },
+    {
+      "english": "What do you mean by “balance” here?",
+      "italian": "Cosa intendi per “equilibrio” qui?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310295"
+    },
+    {
+      "english": "Do you think I should take it slower?",
+      "italian": "Secondo te, dovrei andare più piano?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310298"
+    },
+    {
+      "english": "Shall we set small goals, together?",
+      "italian": "Facciamo obiettivi piccoli, insieme?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310300"
+    },
+    {
+      "english": "Can we keep this short, and clear?",
+      "italian": "Possiamo farla breve, e chiara?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310305"
+    },
+    {
+      "english": "Small steps count, even on messy days",
+      "italian": "I piccoli passi contano, anche nei giorni storti",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310308"
+    },
+    {
+      "english": "Tell yourself, one thing at a time",
+      "italian": "Dillo a te stesso, una cosa alla volta",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310310"
+    },
+    {
+      "english": "You’ve got this, keep it simple",
+      "italian": "Ce la fai, tienilo semplice",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310314"
+    },
+    {
+      "english": "Your pace is yours, don’t compete today",
+      "italian": "Il tuo ritmo è tuo, non competere oggi",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310317"
+    },
+    {
+      "english": "Pause for a second, then choose again",
+      "italian": "Fermati un attimo, poi scegli di nuovo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310320"
+    },
+    {
+      "english": "Good job, you handled it calmly",
+      "italian": "Bravə, l’hai gestita con calma",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310322"
+    },
+    {
+      "english": "Balance comes back, don’t fight the reset",
+      "italian": "L’equilibrio torna, non lottare col reset",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310325"
+    },
+    {
+      "english": "Say it: I’m steady, I’m learning",
+      "italian": "Dì così, sono stabile, sto imparando",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310329"
+    },
+    {
+      "english": "You’re allowed to slow down, seriously",
+      "italian": "Ti puoi fermare, davvero",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310332"
+    },
+    {
+      "english": "Progress is progress, no matter the day",
+      "italian": "Fare progressi è progressi, a prescindere dal giorno",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310335"
+    },
+    {
+      "english": "Practice kindness, especially to yourself",
+      "italian": "Pratica la gentilezza, soprattutto con te stesso",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310337"
+    },
+    {
+      "english": "Make room for rest, it’s part of it",
+      "italian": "Dai spazio al riposo, fa parte del tutto",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310340"
+    },
+    {
+      "english": "Right now, focus on the next step",
+      "italian": "Adesso, pensa al passo successivo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310343"
+    },
+    {
+      "english": "You don’t have to be perfect today",
+      "italian": "Non devi essere perfetto oggi",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310346"
+    },
+    {
+      "english": "Let your mind relax, keep moving gently",
+      "italian": "Rilassa la mente, vai avanti con calma",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310348"
+    },
+    {
+      "english": "That choice was smart, you steadied yourself",
+      "italian": "Quella scelta era intelligente, ti sei rimesso in equilibrio",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310351"
+    },
+    {
+      "english": "Stay present, it balances everything",
+      "italian": "Resta nel presente, riequilibra tutto",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310354"
+    },
+    {
+      "english": "Not everything needs a reaction from you",
+      "italian": "Non tutto chiede una tua reazione",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310356"
+    },
+    {
+      "english": "You’re building a calmer life, step by step",
+      "italian": "Stai costruendo una vita più calma, passo dopo passo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310359"
+    },
+    {
+      "english": "If it’s too much, scale it down",
+      "italian": "Se è troppo, riduci",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310362"
+    },
+    {
+      "english": "Be proud, you showed up for yourself",
+      "italian": "Sii fiero, ti sei presentato per te",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310365"
+    },
+    {
+      "english": "Keep your thoughts friendly, not harsh",
+      "italian": "Tieniti pensieri gentili, non duri",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310367"
+    },
+    {
+      "english": "Balance is a habit, not a mood",
+      "italian": "L’equilibrio è un’abitudine, non un’umore",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310371"
+    },
+    {
+      "english": "Choose one priority, let others wait",
+      "italian": "Scegli una priorità, il resto aspetta",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310374"
+    },
+    {
+      "english": "Today you can handle the basics, easily",
+      "italian": "Oggi puoi gestire il necessario, con calma",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310377"
+    },
+    {
+      "english": "Reward yourself, you’re doing the work",
+      "italian": "Ricompensati, stai facendo il tuo lavoro",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310380"
+    },
+    {
+      "english": "You’re allowed to change course, calmly",
+      "italian": "Puoi cambiare rotta, con calma",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310384"
+    },
+    {
+      "english": "Keep going, your balance improves over time",
+      "italian": "Continua, il tuo equilibrio migliora col tempo",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310388"
+    },
+    {
+      "english": "Right now, I feel scattered, so I breathe.",
+      "italian": "Adesso, mi sento disperso, quindi respiro.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310391"
+    },
+    {
+      "english": "I’m learning to be honest with myself.",
+      "italian": "Sto imparando a essere onesto con me stesso.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310394"
+    },
+    {
+      "english": "Some days, my balance needs time.",
+      "italian": "Ci sono giorni, in cui mi serve tempo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310399"
+    },
+    {
+      "english": "I don’t rush feelings, I let them pass.",
+      "italian": "Non affretto i sentimenti, li lascio andare.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310402"
+    },
+    {
+      "english": "I notice tension, then I soften my jaw.",
+      "italian": "Sento la tensione, poi ammorbidisco la mascella.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310405"
+    },
+    {
+      "english": "Be patient, even when you feel off.",
+      "italian": "Sii paziente, anche quando ti senti stonato.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310407"
+    },
+    {
+      "english": "I choose calm, even if my thoughts race.",
+      "italian": "Scelgo la calma, anche se la mente corre.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310410"
+    },
+    {
+      "english": "I’m not behind, I’m just restoring.",
+      "italian": "Non sono indietro, sto solo riprendendo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310413"
+    },
+    {
+      "english": "Let it be messy, then return gently.",
+      "italian": "Lascia che sia un casino, poi torna piano.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310416"
+    },
+    {
+      "english": "I trust my pace, it’s getting steadier.",
+      "italian": "Fidati del tuo ritmo, sta diventando più stabile.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310419"
+    },
+    {
+      "english": "I admit it, I need a break.",
+      "italian": "Lo ammetto, ho bisogno di una pausa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310422"
+    },
+    {
+      "english": "Balance starts when I stop pretending.",
+      "italian": "L’equilibrio inizia quando smetto di fingere.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310425"
+    },
+    {
+      "english": "If I’m tired, I listen, not argue.",
+      "italian": "Se sono stanco, ascolto, non discuto.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310428"
+    },
+    {
+      "english": "I say how I feel, without blame.",
+      "italian": "Dico come mi sento, senza colpa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310431"
+    },
+    {
+      "english": "I come back to myself, slowly.",
+      "italian": "Torno a me stesso, lentamente.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310434"
+    },
+    {
+      "english": "Today, I choose kindness over pressure.",
+      "italian": "Oggi scelgo gentilezza, non pressione.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310436"
+    },
+    {
+      "english": "I don’t solve everything right now.",
+      "italian": "Non risolvo tutto adesso.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310439"
+    },
+    {
+      "english": "I can feel emotions, and still be steady.",
+      "italian": "Posso sentire emozioni, restando stabile.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310442"
+    },
+    {
+      "english": "What matters is how I respond.",
+      "italian": "Conta come reagisco io.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310444"
+    },
+    {
+      "english": "I let go of the perfect mood.",
+      "italian": "Lascio andare l’umore perfetto.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310447"
+    },
+    {
+      "english": "I check in, then I adjust gently.",
+      "italian": "Faccio un check, poi aggiusto piano.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310449"
+    },
+    {
+      "english": "Sometimes I’m quiet, and that’s enough.",
+      "italian": "A volte sono quieto, e basta.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310453"
+    },
+    {
+      "english": "I don’t need answers, I need space.",
+      "italian": "Non mi servono risposte, mi serve spazio.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310520"
+    },
+    {
+      "english": "I forgive myself, then I plan one thing.",
+      "italian": "Mi perdono, poi pianifico una cosa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310524"
+    },
+    {
+      "english": "Even inside stress, I can choose calm.",
+      "italian": "Anche nello stress, posso scegliere calma.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310526"
+    },
+    {
+      "english": "I say yes to rest, no guilt.",
+      "italian": "Dico sì al riposo, senza sensi di colpa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310529"
+    },
+    {
+      "english": "I honor my limits, they protect me.",
+      "italian": "Rispetto i miei limiti, mi proteggono.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310534"
+    },
+    {
+      "english": "I pause, then I speak from clarity.",
+      "italian": "Mi fermo, poi parlo con chiarezza.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310537"
+    },
+    {
+      "english": "I admit fear, and I keep going.",
+      "italian": "Ammetto la paura, e continuo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310539"
+    },
+    {
+      "english": "My heart needs honesty, not speed.",
+      "italian": "Il mio cuore ha bisogno di sincerità, non velocità.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310542"
+    },
+    {
+      "english": "Before meetings, breathe, then set one intention.",
+      "italian": "Prima delle riunioni, respira, poi imposta una intenzione.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310545"
+    },
+    {
+      "english": "At dinner, say no, politely, without excuses.",
+      "italian": "A cena, di’ di no, con gentilezza, senza scuse.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310550"
+    },
+    {
+      "english": "When plans change, keep calm, inform people.",
+      "italian": "Quando cambiano i piani, resta calmo, avvisa la gente.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310553"
+    },
+    {
+      "english": "If you’re stuck, tidy one corner first.",
+      "italian": "Se sei bloccato, sistema prima un angolo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T07:30:28.310556"
     }
   ],
-  "last_updated": "2026-11-10T08:01:15.543442"
+  "last_updated": "2026-11-11T07:30:28.310558"
 }
