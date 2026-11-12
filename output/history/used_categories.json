@@ -103,7 +103,39 @@
     {
       "category": "Balance",
       "date": "2020-01-26"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:23:15.212169"
+  "last_updated": "2026-11-12T18:26:45.197391"
 }

@@ -18719,7 +18719,399 @@
       "italian": "Se sei bloccato, sistema prima un angolo.",
       "category": "Balance",
       "generated_at": "2026-11-11T07:30:28.310556"
+    },
+    {
+      "english": "I can do it, step by step.",
+      "italian": "Ce la faccio, un passo alla volta.",
+      "transliteration": "CE la FACcio, un PASso alla VOLta.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Breathe, then send the message.",
+      "italian": "Respira, poi invia il messaggio.",
+      "transliteration": "reSPIra, POI inVIA il mesSAGgio.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’ll say it, even if I’m nervous.",
+      "italian": "Lo dico lo stesso, anche se sono in ansia.",
+      "transliteration": "lo DIco lo STESso, ANche se soNO in ANsia.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Let’s try, worst case we learn.",
+      "italian": "Proviamoci, nel peggiore dei casi impariamo.",
+      "transliteration": "proVIamoci, nel PEGgiore dei CAi imparIAmo.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m not perfect, but I’m brave.",
+      "italian": "Non sono perfetto, ma ho coraggio.",
+      "transliteration": "non soNO perFETto, ma ho CORagGIO.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Stop overthinking, move forward now.",
+      "italian": "Smettila di pensarci troppo, vai avanti adesso.",
+      "transliteration": "smeTTIla di penSARci TROpPo, vai avanTI Adesso.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’ll face it, one hard moment at a time.",
+      "italian": "Lo affronto, un momento difficile alla volta.",
+      "transliteration": "lo afFRONto, un MOmen to DIFficile alla VOLta.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I feel calm right now.",
+      "italian": "Mi sento calma proprio adesso.",
+      "transliteration": "Mi SENTO cal-ma pro-prio aDESS-o",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m nervous about tomorrow’s meeting.",
+      "italian": "Ho ansia per la riunione di domani.",
+      "transliteration": "o AN-sia per la ri-U-NIO-ne di DO-ma-ni",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "That news made me hopeful.",
+      "italian": "Quelle notizie mi hanno dato speranza.",
+      "transliteration": "quel-le NO-ti-zie mi han-no da-to spe-RA-Nza",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I feel proud of your progress.",
+      "italian": "Sono fiero dei tuoi progressi.",
+      "transliteration": "So-no FIE-ro dei tuo-i pro-GRES-si",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m getting annoyed with all this noise.",
+      "italian": "Mi sta dando fastidio tutto questo rumore.",
+      "transliteration": "mi sta dan-do fas-TI-di-o tut-to que-sto RU-mo-re",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m a little embarrassed, honestly.",
+      "italian": "Sono un po’ imbarazzato, sinceramente.",
+      "transliteration": "So-no un po im-ba-RAZ-za-to, sin-ce-RAMEN-te",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I feel relieved the pressure is off.",
+      "italian": "Mi sento sollevato, adesso la pressione è finita.",
+      "transliteration": "mi sen-to sol-LE-vat-o, aDESS-o la pres-SIO-ne è FINI-ta",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I think I’m having a stroke.",
+      "italian": "Penso di avere un ictus.",
+      "transliteration": "PEN-so di a-VE-re un IT-cus",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Call an ambulance right now, please.",
+      "italian": "Chiami subito un’ambulanza, per favore.",
+      "transliteration": "KIA-mi SU-bi-to un-am-BU-lan-tsa, per faVO-re",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "italian": "Dov’è la farmacia più vicina?",
+      "transliteration": "DO-ve la far-MA-chi-a PIÙ vi-CI-na",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "My chest hurts, it feels tight.",
+      "italian": "Mi fa male il petto, mi sento stretto.",
+      "transliteration": "MI fa MA-le il PET-to, mi SEN-to STRET-to",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I can’t breathe well, I’m scared.",
+      "italian": "Non riesco a respirare bene, ho paura.",
+      "transliteration": "NON RIE-sco a reSPI-ra-re BE-ne, ho PAU-ra",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m allergic to this medicine.",
+      "italian": "Sono allergico a questo medicinale.",
+      "transliteration": "SO-no al-ler-GI-ko a QUE-sto me-di-CHI-na-le",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I have severe pain in my stomach.",
+      "italian": "Ho un dolore forte allo stomaco.",
+      "transliteration": "ho un DO-lo-re FOR-te al-lo STO-ma-co",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I go for long walks on Sundays.",
+      "italian": "Io faccio lunghe passeggiate la domenica.",
+      "transliteration": "Io faccio lunghe PASSEGGIATE la domenica.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I brew coffee and try new beans.",
+      "italian": "Preparo il caffè e provo nuovi chicchi.",
+      "transliteration": "PREparo il CAFFÈ e PROvo nuovi chicchi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I paint watercolors in the evening.",
+      "italian": "Dipingo acquerelli la sera.",
+      "transliteration": "DIpingo acQUA relli la seRA.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I practice guitar for thirty minutes.",
+      "italian": "Faccio pratica con la chitarra per trenta minuti.",
+      "transliteration": "FAccio PRA tica con la chiTARRA per TREN ta MI nuti.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I read one chapter before bed.",
+      "italian": "Leggo un capitolo prima di dormire.",
+      "transliteration": "LEGgo un caPI tolo PRI ma di dorMIre.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m into cooking spicy meals lately.",
+      "italian": "Ultimamente mi piace cucinare piatti piccanti.",
+      "transliteration": "UlTIMamente mi PIace cuCINare PIATti PICcan ti.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I hit the gym after work.",
+      "italian": "Vado in palestra dopo il lavoro, mi svuoto la testa.",
+      "transliteration": "VADO in PAlestra DOpo il LAvoro, mi SVUoto la teSTA.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I booked a room for tonight.",
+      "italian": "Ho prenotato una camera per stasera.",
+      "transliteration": "o PREnotato una KAmera per stASEra",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Can I check in now, please?",
+      "italian": "Posso fare il check-in adesso, per favore?",
+      "transliteration": "POSso faRE il chek-IN aDESso, per faVOre",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "What time is breakfast served?",
+      "italian": "A che ora viene servita la colazione?",
+      "transliteration": "a che ORa VIEne serVITA la kOlaTSyoNE",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Is there free Wi-Fi in my room?",
+      "italian": "C'è Wi-Fi gratis in camera?",
+      "transliteration": "CE wi-fi GRAtis in KAmera",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Do you have parking for guests?",
+      "italian": "Avete parcheggio per gli ospiti?",
+      "transliteration": "aVEte parKHEGgio per li OSpiTi",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "The air conditioner isn't working.",
+      "italian": "L'aria condizionata non funziona.",
+      "transliteration": "laria kondiTSjoNAta non FUNtsyoNA",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Could I get an extra towel?",
+      "italian": "Posso avere un asciugamano in più?",
+      "transliteration": "POSso aVEre un askiuGAmano in Piu",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m in a meeting right now",
+      "italian": "Sono in riunione adesso, mi senti tra poco?",
+      "transliteration": "SO-no in riu-NIO-ne A-desso, mi SEN-ti tra PO-co?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Can you email that to me?",
+      "italian": "Puoi inviarmelo via email, per favore?",
+      "transliteration": "POI puoi in-viAR-me-lo via e-MAIL, per faVO-re?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I need this by end of day",
+      "italian": "Ho bisogno di questo entro la fine della giornata.",
+      "transliteration": "o BI-so-gnio di QUe-sto EN-tro la FI-ne del-la gior-NÁ-ta.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Where’s the printer, please?",
+      "italian": "Scusi, dov’è la stampante?",
+      "transliteration": "SCU-si, DOV-e la stam-PAN-te?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’ll join the call in five",
+      "italian": "Mi collego alla chiamata tra cinque minuti.",
+      "transliteration": "mi col-LE-go al-la chia-MA-ta tra CIN-que MI-nu-ti.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Let’s review the agenda together",
+      "italian": "Rivediamo l’agenda insieme, va bene?",
+      "transliteration": "ri-VI-dia-mo l’a-GEN-da in-SIE-me, va BEN-e?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I’m late, sorry, traffic again",
+      "italian": "Sono in ritardo, scusa, il traffico.",
+      "transliteration": "SO-no in ri-TAR-do, SCU-sa, il traf-FI-co.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I feel joy in little things.",
+      "italian": "Sento gioia nelle piccole cose.",
+      "transliteration": "SEN-to JO-ia nel-le pic-co-le co-SE",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Joy is in my morning coffee.",
+      "italian": "La gioia è nel mio caffè del mattino.",
+      "transliteration": "la JO-ia è nel mio CAF-fè del mat-TI-no",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Today feels bright, full of joy.",
+      "italian": "Oggi mi sento inondato di gioia.",
+      "transliteration": "OG-gi mi SEN-to i-on-da-to di JO-ia",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I found joy in a new song.",
+      "italian": "Ho trovato gioia in una canzone nuova.",
+      "transliteration": "o TRO-va-to JO-ia in u-na can-ZO-ne NUo-va",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "That call gave me so much joy.",
+      "italian": "Quel messaggio mi ha dato tanta gioia.",
+      "transliteration": "QUEL mes-SAG-gi-o mi ha DA-to TAN-ta JO-ia",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Joy shows up when I help.",
+      "italian": "La gioia arriva quando aiuto qualcuno.",
+      "transliteration": "la JO-ia AR-ri-va quan-do AIu-to QUAL-cu-no",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I dance, and my joy grows.",
+      "italian": "Danço, e la mia gioia cresce.",
+      "transliteration": "DAN-tso, e la mia JO-ia CRE-sce",
+      "category": "Joy",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Coffee in my favorite mug, yes.",
+      "italian": "Un caffè nella mia tazza preferita, sì.",
+      "transliteration": "Un CAFFÈ nella mia tAZZA preferita, sì.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Sunlight on my face feels great.",
+      "italian": "Il sole sul viso mi fa stare bene.",
+      "transliteration": "Il SOLE sul VISO mi fa staRE bene.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "A good joke fixes my whole day.",
+      "italian": "Una buona battuta mi sistema la giornata.",
+      "transliteration": "Una BUOna BATtuta mi SISteMA la giorNAta.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I cooked, and it tasted like home.",
+      "italian": "Ho cucinato, e sapeva di casa.",
+      "transliteration": "HO cuCINato, e saPEva di caSA.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Walking without rush makes me calm.",
+      "italian": "Camminare senza fretta mi calma.",
+      "transliteration": "CamMINARe senZA FRETta mi CALma.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I got a message from a friend.",
+      "italian": "Mi è arrivato un messaggio da un amico.",
+      "transliteration": "Mi è arRIvaTO un MESsaggio da un amiCO.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "I sleep well, and that changes everything.",
+      "italian": "Dormire bene cambia tutto.",
+      "transliteration": "DorMIre beNE camBIa TUTto.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T18:26:45.181442"
     }
   ],
-  "last_updated": "2026-11-11T07:30:28.310558"
+  "last_updated": "2026-11-12T18:26:45.181442"
 }
