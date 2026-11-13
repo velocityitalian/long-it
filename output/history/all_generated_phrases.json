@@ -19111,7 +19111,399 @@
       "transliteration": "DorMIre beNE camBIa TUTto.",
       "category": "Happiness",
       "generated_at": "2026-11-12T18:26:45.181442"
+    },
+    {
+      "english": "Where is the boarding gate number?",
+      "italian": "Dov'è il gate d'imbarco numero?",
+      "transliteration": "DOV-e il gATE d-imbar-co NUMero?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "My flight is delayed again, sorry.",
+      "italian": "Il mio volo è di nuovo in ritardo, scusi.",
+      "transliteration": "il mio vo-lo è di nuo-vo in RItar-do, scu-si.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can I get aisle seating, please?",
+      "italian": "Posso avere un posto in corridoio, per favore?",
+      "transliteration": "POSso ave-re un POsto in CORri-do-io, per FAvo-re?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I need to change my seat.",
+      "italian": "Devo cambiare il mio posto.",
+      "transliteration": "deVOh camBIAre il mio POSto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "How long does the passport line take?",
+      "italian": "Quanto ci vuole per la fila del passaporto?",
+      "transliteration": "QUANto ci vuo-le per la FIla del pas-saPORto?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Where do I pick up my luggage?",
+      "italian": "Dove ritiro il bagaglio?",
+      "transliteration": "DOve RIti-ro il ba-gaGLIO?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "My luggage didn't arrive, what now?",
+      "italian": "Il mio bagaglio non è arrivato, che faccio?",
+      "transliteration": "il mio ba-gaGLIO non è arri-VÁto, che FACcio?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "How much is this, please?",
+      "italian": "Quanto costa questo, per favore?",
+      "transliteration": "QuanTO cosTA queSTO, per FAvoRE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Is there a discount today?",
+      "italian": "C'è uno sconto oggi?",
+      "transliteration": "Che UNO sconTO OGGI?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can I try it on?",
+      "italian": "Posso provarlo, per favore?",
+      "transliteration": "POSso proVARlo, per FAvoRE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Do you have it in my size?",
+      "italian": "Ce l'avete nella mia taglia?",
+      "transliteration": "Ce l'AVEte nelLA mia TAGlia?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Do you take credit cards?",
+      "italian": "Accettate carte di credito?",
+      "transliteration": "acCETtaTE CARte di creDIto?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Is this price with tax included?",
+      "italian": "Il prezzo include l'IVA?",
+      "transliteration": "il PREZzo inCLUde l'Iva?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can I pay in cash or card?",
+      "italian": "Posso pagare in contanti o con carta?",
+      "transliteration": "POSso paGAre in conTANti o con CARta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I wake up and open the curtains",
+      "italian": "Mi sveglio e apro le tende",
+      "transliteration": "mi sveGLIO e aPRO le TENde",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I brush my teeth for two minutes",
+      "italian": "Mi lavo i denti per due minuti",
+      "transliteration": "mi laVO i DENti per due MI NUti",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I make coffee before I check my phone",
+      "italian": "Preparo il caffè prima di controllare il telefono",
+      "transliteration": "prePAro il CAFfè priMA di conTROLlaRE il teLEfono",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I take a quick shower, then go",
+      "italian": "Faccio una doccia veloce, poi esco",
+      "transliteration": "FACcio uNA DOCcia VEloce, poi ESco",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I get dressed while the kettle boils",
+      "italian": "Mi vesto mentre bolle il bollitore",
+      "transliteration": "mi VESTO menTRE bolLE il bolliTOre",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I eat yogurt and fruit most days",
+      "italian": "Mangio yogurt e frutta quasi tutti i giorni",
+      "transliteration": "manGIO YOgur e FRUTta quaSi TUTti i GIORni",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I pack my bag the night before",
+      "italian": "Preparo la borsa la sera prima",
+      "transliteration": "prePARo la BORsa la SEra priMA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I need to cash this check.",
+      "italian": "Devo incassare questo assegno.",
+      "transliteration": "DeVvo In-CAS-sa-re que-sto AS-se-gno",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can I withdraw cash from my card?",
+      "italian": "Posso prelevare contanti con la mia carta?",
+      "transliteration": "POS-so pre-Le-VÁ-re con TAN-ti con la mia CAR-ta",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "What is the exchange rate today?",
+      "italian": "A quanto è il cambio oggi?",
+      "transliteration": "A QUAN-to è il CAM-bio OGG-i",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Is there a fee for transfers?",
+      "italian": "Ci sono commissioni per i bonifici?",
+      "transliteration": "Ci SO-no com-MIS-sio-ni per i bo-NI-fi-chi",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I want to open a savings account.",
+      "italian": "Vorrei aprire un conto di risparmio.",
+      "transliteration": "VOR-rei A-Pri-re un CON-to di ri-SPAR-mio",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "My card was declined, what now?",
+      "italian": "La mia carta è stata rifiutata, e adesso?",
+      "transliteration": "La mia KAR-ta è sta-ta ri-FIU-ta-ta, e A-dès-so",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can you cancel the card right now?",
+      "italian": "Potete bloccare la carta subito?",
+      "transliteration": "PoTE-te BLOC-ca-re la KAR-ta SU-bi-to",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I need new ideas today, please",
+      "italian": "Mi servono idee nuove oggi, per favore",
+      "transliteration": "mi SERVE-no IDEE NUO-ve OG-gi, per FA-vo-re",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "That sparked my creativity instantly",
+      "italian": "Quella cosa mi ha acceso la creatività subito",
+      "transliteration": "quel-la CO-sa mi ha AC-Ce-so la cre-a-TI-vi-ta SU-bi-to",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Let’s brainstorm for ten minutes",
+      "italian": "Facciamo un brainstorming per dieci minuti",
+      "transliteration": "FAcci-a-mo un brain-STORM-ing per DIE-ci MI-nu-ti",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I make things with whatever I have",
+      "italian": "Creo cose usando quello che ho in casa",
+      "transliteration": "CRE-o co-se u-SAN-do quel-lo che ho in CA-sa",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Try it differently, just for fun",
+      "italian": "Provalo in modo diverso, solo per divertimento",
+      "transliteration": "pro-VA-lo in MO-do di-Ver-so, SO-lo per di-ver-TI-men-to",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "My sketchbook is my reset button",
+      "italian": "Il mio taccuino da schizzi è il mio pulsante di reset",
+      "transliteration": "il mio tac-CUI-no da SCHIZ-zi è il mio pul-SAN-te di RE-set",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I’m stuck, but I’ll keep going",
+      "italian": "Sono bloccato, però continuo a cercare",
+      "transliteration": "so-NO bloc-CA-to, però con-TI-nu-o a cer-CA-re",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "What time should we meet?",
+      "italian": "A che ora ci vediamo?",
+      "transliteration": "A che ORA ci VEDiamo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Let's pick a day that works.",
+      "italian": "Scegliamo un giorno che vada bene a tutti.",
+      "transliteration": "SCEgliamo un GIORno che vada BENE a TUTti.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I’ll call you to confirm.",
+      "italian": "Ti chiamo per confermare.",
+      "transliteration": "Ti CHIAmo per conFERmare.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "We should book tickets today.",
+      "italian": "Dobbiamo prenotare i biglietti oggi.",
+      "transliteration": "DOBbiamo preNOTare i BILlet ti OGGI.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Let’s check the weather first.",
+      "italian": "Facciamo prima un controllo del meteo.",
+      "transliteration": "FACciamo priMA un conTROLlo del METeo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I’m thinking of going Friday.",
+      "italian": "Stavo pensando di venire venerdì.",
+      "transliteration": "STAvo penSANdo di VEni re VEnerdì.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can we change the reservation?",
+      "italian": "Possiamo cambiare la prenotazione?",
+      "transliteration": "POSsiamo camBIAre la preNOTa zione?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I start small, then I build.",
+      "italian": "Inizio piccolo, poi costruisco passo dopo passo.",
+      "transliteration": "IN-zi-o pic-co-lo, poi co-STRU-isco pas-so do-PO do-po.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Today, I choose progress over comfort.",
+      "italian": "Oggi scelgo il progresso invece della comodità.",
+      "transliteration": "OG-gi scel-go il PRO-gres-so in-VEC-e del-la co-mo-DI-ta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I plan tomorrow, but live today.",
+      "italian": "Programmo domani, ma vivo bene oggi.",
+      "transliteration": "pro-GRAM-mo do-MA-ni, ma VI-vo be-ne OG-gi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I speak up, even if I shake.",
+      "italian": "Parlo chiaro, anche se mi tremano le mani.",
+      "transliteration": "par-LO chIA-ro, an-che se mi TRE-ma-no le ma-NI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I turn worries into focused action.",
+      "italian": "Trasformo le preoccupazioni in azioni concrete.",
+      "transliteration": "tra-SFOR-mo le pre-o-cu-PA-zio-ni in a-zio-NI con-CRE-te.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I set one goal for this evening.",
+      "italian": "Mi do un obiettivo per questa sera.",
+      "transliteration": "mi do un ob-BI-et-ti-vo per ques-ta SE-ra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I protect my time like it matters.",
+      "italian": "Difendo il mio tempo, perché è prezioso.",
+      "transliteration": "di-FEN-do il MI-o tem-po, per-CHE è pre-ZIO-so.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "italian": "Dove si trova la fermata dell’autobus più vicina?",
+      "transliteration": "Dove si troVA la ferMAta dell’autoBUS piu viCIna?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Is this the right bus for downtown?",
+      "italian": "Questo è l’autobus giusto per il centro?",
+      "transliteration": "QUES to e l’auTObus GIUsto per il CENtro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "How long until the next train?",
+      "italian": "Tra quanto passa il prossimo treno?",
+      "transliteration": "Tra quanTO pasSA il PROssimo TREno?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Does it stop near the museum?",
+      "italian": "Ferma vicino al museo?",
+      "transliteration": "FERma viCIno al MUseo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "I need a day ticket, please.",
+      "italian": "Mi serve un biglietto giornaliero, per favore.",
+      "transliteration": "Mi SERve un biGLIet to giorNalIEro, per faVOre.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Can I pay with contactless?",
+      "italian": "Posso pagare con il contactless?",
+      "transliteration": "POSso paGAre con il conTACTless?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Where do I validate my ticket?",
+      "italian": "Dove devo obliterare il biglietto?",
+      "transliteration": "Dove deVO obliTERare il biGLIetto?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T17:51:26.646169"
     }
   ],
-  "last_updated": "2026-11-12T18:26:45.181442"
+  "last_updated": "2026-11-13T17:51:26.646169"
 }
