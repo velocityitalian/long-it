@@ -19503,7 +19503,399 @@
       "transliteration": "Dove deVO obliTERare il biGLIetto?",
       "category": "Public Transportation",
       "generated_at": "2026-11-13T17:51:26.646169"
+    },
+    {
+      "english": "Hi, are you free right now?",
+      "italian": "Ciao, sei libero adesso?",
+      "transliteration": "CIAO, sei LI-be-ro aDESSO?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "italian": "Scusa, ho perso la tua chiamata.",
+      "transliteration": "SCU-sa, o PER-so la TUA chiaMAt-a.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’m calling to confirm the time.",
+      "italian": "Ti chiamo per confermare l’orario.",
+      "transliteration": "ti CHIA-mo per con-ferMA-re l’OR-a-rio.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "italian": "Puoi richiamarmi, per favore?",
+      "transliteration": "PUOI ri-CHI-a-mar-mi, per faVO-re?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’ll be there in ten minutes.",
+      "italian": "Arrivo tra dieci minuti.",
+      "transliteration": "ar-RI-vo tra DIE-ci MI-nu-ti.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thanks, I got your message.",
+      "italian": "Grazie, ho ricevuto il tuo messaggio.",
+      "transliteration": "GRA-tse, o ri-CE-vu-to il tuo MES-sag-gio.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’m stuck in traffic, sorry!",
+      "italian": "Sono bloccato nel traffico, scusa!",
+      "transliteration": "so-NO bloc-CA-to nel traf-FI-co, SCU-sa!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Today I need a spark",
+      "italian": "Oggi mi serve una scintilla.",
+      "transliteration": "OGgi mi SERve una scin-TIL-la.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I borrow ideas from everywhere",
+      "italian": "Prendo ispirazione da ogni parte.",
+      "transliteration": "PRENdo iSPI-ra-zio-ne da oGNi par-te.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "A walk clears my head",
+      "italian": "Una passeggiata mi schiarisce la mente.",
+      "transliteration": "u-na pas-seg-GIA-ta mi schia-RI-sce la MEN-te.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "My best ideas come in silence",
+      "italian": "Le idee migliori mi vengono nel silenzio.",
+      "transliteration": "le i-DEE mi-glio-ri mi VENgono nel siLEN-zio.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I save quotes for tough days",
+      "italian": "Salvo frasi per i giorni difficili.",
+      "transliteration": "sal-VO FRA-si per i GIORni dif-fi-CI-li.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Music turns my mood around",
+      "italian": "La musica mi rimette in carreggiata.",
+      "transliteration": "la MU-si-ca mi riMET-te in car-reg-GIA-ta.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I write, even when I’m unsure",
+      "italian": "Scrivo, anche quando non mi sento sicuro.",
+      "transliteration": "SCRI-vo, an-che quan-do NON mi SEN-to si-CU-ro.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "That was really thoughtful, grazie.",
+      "italian": "È stato davvero gentile, grazie.",
+      "transliteration": "E STATO davvero GENtile, GRAdie",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Go ahead, I’ll wait my turn.",
+      "italian": "Prego, ci penso io dopo, va bene?",
+      "transliteration": "PREgo, ci PEnso IO doPO, va BENE",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "No worries, take your time.",
+      "italian": "Tranquillo, prenditi pure il tuo tempo.",
+      "transliteration": "tranQUILlo, prenDITi puR e IL tuo TEMpo",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Can I help you with that?",
+      "italian": "Posso aiutarti con quello, per favore?",
+      "transliteration": "poSSO aIuTARti con QUELlo, per FAvoRe",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thanks for checking, that helps a lot.",
+      "italian": "Grazie per aver controllato, mi aiuta davvero.",
+      "transliteration": "GRAzie per aVER conTROlaTO, mi AIuTA davVERo",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’ll text you when I’m on my way.",
+      "italian": "Ti scrivo appena sono in strada.",
+      "transliteration": "ti SCrivo apPEna SOno IN STRAda",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Here, I’ll hold the door for you.",
+      "italian": "Prego, tengo io la porta.",
+      "transliteration": "PREgo, TENgo IO la PORta",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "We always laugh, no matter what.",
+      "italian": "Ridziamo sempre, qualunque cosa succeda.",
+      "transliteration": "rIDiaMO SEMpre, qualunQUE coSA succeDA.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thanks for showing up for me.",
+      "italian": "Grazie per esserci stato quando ne avevo bisogno.",
+      "transliteration": "GRAzie per eSSERci staTO quanDO ne avevo BIsoGNO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "You text me, and I feel better.",
+      "italian": "Mi scrivi, e io mi sento meglio.",
+      "transliteration": "mi SCrIvi, e io mi senTO MEglio.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Let’s grab coffee this weekend, please.",
+      "italian": "Facciamo un caffè questo weekend, per favore.",
+      "transliteration": "facCIAmo un CAFfè queSTO wenDEND, per faVOre.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Call me, even if it’s late.",
+      "italian": "Chiamami anche se è tardi.",
+      "transliteration": "chiaMAmi anCHE se è TARdi.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Friends don’t judge, they listen.",
+      "italian": "Gli amici non giudicano, ascoltano.",
+      "transliteration": "gli AmiCI non giuDIcaNo, aSCOltaNO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I trust you with my real thoughts.",
+      "italian": "Ti fido i miei pensieri veri.",
+      "transliteration": "ti FIdo i miei penSIeRI veRI.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "italian": "Ti perdono davvero.",
+      "transliteration": "Ti perDÓno DAVvero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Let it go, I choose peace.",
+      "italian": "Lascia perdere, scelgo la pace.",
+      "transliteration": "Lascia PERdere, scelGO la PAce.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "We can move forward together.",
+      "italian": "Possiamo andare avanti insieme.",
+      "transliteration": "posSIAMo anDÁre aVANTI inSIEMe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’m ready to forgive, today.",
+      "italian": "Sono pronto a perdonare, oggi.",
+      "transliteration": "soNO PROnto a perDONare, OGGI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "No more grudges between us.",
+      "italian": "Niente più rancore tra noi.",
+      "transliteration": "NienTE piÙ ranCÓre tra NOI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’ll heal, and I release you.",
+      "italian": "Guarisco io, e ti lascio andare.",
+      "transliteration": "guaRÍsco iO, e ti lascIO anDÁre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thank you for apologizing, really.",
+      "italian": "Grazie per le scuse, davvero.",
+      "transliteration": "graTSie per le SCuze, DAVvero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Absolutely, that makes perfect sense.",
+      "italian": "Certo, ha perfettamente senso.",
+      "transliteration": "Certo, ha perFETtamente SENso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I agree with you, for sure.",
+      "italian": "Sono d'accordo con te, sicuro.",
+      "transliteration": "SoNO dACcordo con TE, SIcuRO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Same here, I think exactly that.",
+      "italian": "La penso esattamente come te.",
+      "transliteration": "La penSO esatTAmen te coME te.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "You’re right, no doubt about it.",
+      "italian": "Hai ragione, non c'è dubbio.",
+      "transliteration": "hai RAgiOne, non c'E dubBIo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I get it, yes, that’s the point.",
+      "italian": "Ti capisco, sì, è proprio quello.",
+      "transliteration": "ti CApisco, sì, è proPRIO quelLO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Yes, let’s do it this way.",
+      "italian": "Sì, facciamolo così.",
+      "transliteration": "Sì, facciamOlo coSÌ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "That sounds good to me.",
+      "italian": "Mi sembra una buona idea.",
+      "transliteration": "mi semBRA uNa BUOna iDEA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Hi, can I see the menu?",
+      "italian": "Ciao, posso vedere il menu?",
+      "transliteration": "Ciao, poSso VedeRe il ME-nu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "italian": "Avete opzioni senza glutine?",
+      "transliteration": "A-VE-te op-ZIO-ni SEN-za glu-TI-ne?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’m allergic to peanuts.",
+      "italian": "Sono allergico alle arachidi.",
+      "transliteration": "So-no al-ler-GI-co al-le a-ra-KI-di.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "What do you recommend today?",
+      "italian": "Cosa mi consiglia oggi?",
+      "transliteration": "CO-sa mi con-siGLIA OGGI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "A table for two, please.",
+      "italian": "Un tavolo per due, per favore.",
+      "transliteration": "Un taVO-lo per DUE, per faVO-re.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Could we have water, please?",
+      "italian": "Possiamo avere dell’acqua, per favore?",
+      "transliteration": "Pos-SI-a-mo aVÈ-re dell’AC-qua, per faVO-re?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Is the house wine any good?",
+      "italian": "La vostra vino della casa è buono?",
+      "transliteration": "La vo-STra viNO del-la KA-sa è BUo-no?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thanks for checking on me today.",
+      "italian": "Grazie per avermi controllato oggi.",
+      "transliteration": "GRA-tsie per AV-er-mi con-TROL-la-to OGGI.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I really appreciate your help.",
+      "italian": "Apprezzo davvero il tuo aiuto.",
+      "transliteration": "ap-PREZ-zo DAV-ve-ro il TU-o AI-oo-to.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thank you for the quick reply.",
+      "italian": "Grazie per la risposta veloce.",
+      "transliteration": "GRA-tsie per la RIS-pos-ta VE-lo-ce.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "That was kind of you, really.",
+      "italian": "È stato davvero gentile da parte tua.",
+      "transliteration": "È sta-to dav-ve-ro JEN-ti-le da PAR-te tu-a.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I’m grateful for your patience.",
+      "italian": "Sono grato della tua pazienza.",
+      "transliteration": "SO-no gra-to del-la TU-a pa-ZIEN-za.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "Thanks for listening, I needed it.",
+      "italian": "Grazie per avermi ascoltato, mi serviva.",
+      "transliteration": "GRA-tsie per AV-er-mi a-sCOL-ta-to, mi SER-vi-va.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
+    },
+    {
+      "english": "I feel lucky to have you.",
+      "italian": "Mi sento fortunato ad averti.",
+      "transliteration": "mi SEN-to for-tu-NA-to ad AV-er-ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T16:40:51.135139"
     }
   ],
-  "last_updated": "2026-11-13T17:51:26.646169"
+  "last_updated": "2026-11-14T16:40:51.135139"
 }
