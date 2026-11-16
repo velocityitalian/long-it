@@ -20287,7 +20287,399 @@
       "transliteration": "QUE-sto LAT-te sem-bra BUON-is-si-mo.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-15T17:16:47.945714"
+    },
+    {
+      "english": "I m done arguing, honestly",
+      "italian": "Ho finito di litigare, davvero.",
+      "transliteration": "ho FINito di LI_tiGa_re, davVEro",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "That s sketchy, I m not buying it",
+      "italian": "Quella storia puzza, non ci casco.",
+      "transliteration": "quelLA stoRIA PUZza, non ci CASco",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Bro, chill, it s not that deep",
+      "italian": "Amico, rilassati, non è così profondo.",
+      "transliteration": "aMIco, rilASsa ti, non è coSì proFONdo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I m stressed but acting normal",
+      "italian": "Sono stressato, ma faccio finta di niente.",
+      "transliteration": "soNO stresSAto, ma FACcio FINta di NienTe",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Give me two minutes, I ll be back",
+      "italian": "Dammi due minuti, torno subito.",
+      "transliteration": "DÀmmi due MI_nuTi, TORno suBIto",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I m running late, sorry!",
+      "italian": "Sto arrivando tardi, scusami!",
+      "transliteration": "sto arRIvaNdo TARdi, scuSAmi",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Don t make me chase you",
+      "italian": "Non farmi rincorrerti, per favore.",
+      "transliteration": "non FARmi rin_COR_rer ti, per faVO_re",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Trust the process, step by step",
+      "italian": "Fidati del processo, passo dopo passo.",
+      "transliteration": "Fidati del PRO-CES-so, PAS-so do-po PAS-so.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Keep going, even if slow today",
+      "italian": "Continua, anche se oggi è lento.",
+      "transliteration": "Con-TI-nua, an-che se OGGI è len-to.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Wait your turn, no big deal",
+      "italian": "Aspetta il tuo turno, non è un problema.",
+      "transliteration": "AsPÈT-ta il tuo TUR-no, non è un PRO-ble-ma.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Don’t force it, let it unfold",
+      "italian": "Non forzarlo, lascialo evolvere.",
+      "transliteration": "Non for-ZAR-lo, la-scia-lo e-VOL-ve-re.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Give it time, the answer comes",
+      "italian": "Dagli tempo, la risposta arriva.",
+      "transliteration": "DAG-li tem-po, la RI-spo-sta a-RI-va.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Hold steady, Rome wasn’t built overnight",
+      "italian": "Resisti, Roma non è stata costruita in un giorno.",
+      "transliteration": "Re-SI-sti, RO-ma non è sta-ta co-stru-ì-ta in un GIOR-no.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Be patient, we’re figuring it out",
+      "italian": "Abbi pazienza, stiamo capendo.",
+      "transliteration": "Ab-bi pa-ZIEN-za, stia-mo ca-PEN-do.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Keep showing up, even on tough days.",
+      "italian": "Continua a presentarti, anche nei giorni difficili.",
+      "transliteration": "Continua a PRESENTAR-ti, AN-che nei GIOR-ni difFI-cili.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "One try today, then another tomorrow.",
+      "italian": "Un tentativo oggi, poi un altro domani.",
+      "transliteration": "Un ten-TA-ti-vo OGGI, poi un AL-tro do-MA-ni.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Turn frustration into fuel, not fog.",
+      "italian": "Trasforma la frustrazione in carburante, non in nebbia.",
+      "transliteration": "TRAsfor-ma la fru-stra-ZIO-ne in car-bu-RAN-te, non in NÈb-bia.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "You don’t need motivation, you need routine.",
+      "italian": "Non ti serve la motivazione, ti serve una routine.",
+      "transliteration": "Non ti SER-ve la mo-ti-VA-zio-ne, ti SER-ve u-na RU-ti-ne.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "When it’s messy, you’re still working.",
+      "italian": "Quando è un casino, stai comunque lavorando.",
+      "transliteration": "Quan-do è un CA-si-no, stai coMUN-que la-VOR-an-do.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Progress counts, even if it’s slow.",
+      "italian": "Conta il progresso, anche se è lento.",
+      "transliteration": "Con-ta il pro-GRÈ-so, an-che se è len-TO.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Keep your goal visible, every day.",
+      "italian": "Tieni il tuo obiettivo ben visibile, ogni giorno.",
+      "transliteration": "TIe-ni il tuo o-biet-TI-vo ben vi-SI-bi-le, O-gni GIOR-no.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Notice what you feel, right now",
+      "italian": "Nota quello che senti, proprio adesso",
+      "transliteration": "NO-ta QUEL-lo che SEN-ti, pro-PIO ad-AS-so",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Feel your shoulders drop, slowly",
+      "italian": "SentI le spalle scendere, lentamente",
+      "transliteration": "sen-ti le SPAL-le scen-DE-re, len-ta-MEN-te",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Return to your body, gently",
+      "italian": "Ritorna al tuo corpo, con gentilezza",
+      "transliteration": "ri-TOR-na al tuo COR-po, con gen-ti-lez-ZA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Let sounds be background, not a fight",
+      "italian": "Lascia che i suoni siano solo sottofondo",
+      "transliteration": "la-SCIA che i SUo-ni sia-no so-lo sot-to-FON-do",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Check in with your thoughts",
+      "italian": "Controlla come stanno i tuoi pensieri",
+      "transliteration": "con-TROL-la co-me stan-no i tuoi pen-SIE-ri",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Name the emotion, then breathe",
+      "italian": "Dai un nome alla emozione, poi respira",
+      "transliteration": "DAI un NA-me al-la e-mo-ZIO-ne, poi reSPI-ra",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Your attention is a choice",
+      "italian": "La tua attenzione è una scelta",
+      "transliteration": "la TUA at-ten-ZIO-ne è u-na SCEL-ta",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Choose progress, not perfection, today.",
+      "italian": "Scegli il progresso, non la perfezione, oggi.",
+      "transliteration": "Scegli il PRO-gres-so, non la per-FET-ta, OGGI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Act kindly, even when you're tired.",
+      "italian": "Agisci con gentilezza, anche quando sei stanco.",
+      "transliteration": "AG-i-sci con gen-ti-LEZ-za, AN-che quan-do sei STAN-co.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Set boundaries, then breathe and relax.",
+      "italian": "Metti dei confini, poi respira e rilassati.",
+      "transliteration": "MET-ti dei CON-fi-ni, poi re- SPI-ra e ri-LAS-sa-ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Let curiosity replace your fear.",
+      "italian": "Sostituisci la paura con la curiosità.",
+      "transliteration": "Sos-ti-TUI-sci la PAU-ra con la cu-ri-o-SI-TA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Ask why, then choose a better path.",
+      "italian": "Chiediti il perché, poi scegli una strada migliore.",
+      "transliteration": "CHIE-di-ti il PER-ché, poi SCE-gli u-na STRA-da mi- GLIO-re.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Small rituals can steady your mind.",
+      "italian": "I piccoli rituali possono stabilizzare la mente.",
+      "transliteration": "I PIC-co-li ri-TUA-li pos-so-no sta-bi-LIZ-za-re la MEN-te.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Sleep on it before making big decisions.",
+      "italian": "Dormici sopra prima di prendere decisioni importanti.",
+      "transliteration": "DOR-mi-ci SOP-ra pri-ma di pren-DE-re de-ci-SIO-ni im-POR-tan-ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "How do I get to the museum?",
+      "italian": "Come arrivo al museo?",
+      "transliteration": "COME arrivo al MUSE-o?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Is this the right street for Via Roma?",
+      "italian": "Questa è la strada giusta per Via Roma?",
+      "transliteration": "QUESTA e la STRA-da GIUs-ta per VIA RO-ma?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Which way is toward the main square?",
+      "italian": "Dove si va verso la piazza principale?",
+      "transliteration": "DOVE si VA verso la PIAZ-za prin-CI-pa-le?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Can you tell me the fastest route?",
+      "italian": "Mi dice la strada più veloce?",
+      "transliteration": "mi DICE la STRA-da piu VE-lo-ce?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Where should I turn after the pharmacy?",
+      "italian": "Dove devo girare dopo la farmacia?",
+      "transliteration": "DOVE devo GI-ra-re DO-po la FAR-ma-ci-a?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Do I walk or take bus 64?",
+      "italian": "Devo andare a piedi o prendere l’autobus 64?",
+      "transliteration": "deV O an-da-re a pie-di o pren-de-re l’au-to-bus SEI-quat-tro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "What landmark helps me find it?",
+      "italian": "Qual è un punto di riferimento vicino?",
+      "transliteration": "QUA-le e un pun-to di ri-fer-i-MEN-to VI-ci-no?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Tonight, we toast our best selves.",
+      "italian": "Stasera brindiamo ai nostri migliori sé.",
+      "transliteration": "stasera BRINDiamo ai nostri MIGLIORI se",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Come dance with us, don’t be shy.",
+      "italian": "Vieni a ballare con noi, non essere timido.",
+      "transliteration": "Vieni a BALLaRE con noi, NON essere TIMido",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I love the music, it lifts everything.",
+      "italian": "Mi piace la musica, ci solleva davvero.",
+      "transliteration": "mi PIACE la MU-sica, ci sol-le-va DA-ve-ro",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Let’s celebrate properly, starting with dessert.",
+      "italian": "Festeggiamo per davvero, cominciando dal dolce.",
+      "transliteration": "festeg-gIA-mo per DA-ve-ro, COMINCIANdo dal dolce",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "We’re doing a little party favor exchange.",
+      "italian": "Facciamo uno scambio di piccoli regali per la festa.",
+      "transliteration": "fac-ciA-mo uno SCAM-bio di pic-coli reGAli per la FES-ta",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Who’s bringing the cake, I’m curious?",
+      "italian": "Chi porta la torta, sono proprio curioso.",
+      "transliteration": "CHI PORta la TORta, sono pro-prIO cuRIo-so",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Thanks for inviting me, it means a lot.",
+      "italian": "Grazie per avermi invitato, significa molto per me.",
+      "transliteration": "GRA-zie per aVER-mi in-VI-ta-to, siGNI-fi-ca MOL-to per ME",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I choose hope, even today.",
+      "italian": "Scelgo la speranza, anche oggi.",
+      "transliteration": "Scelgo la SPERANza, an-che OGGi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Small wins count, say it.",
+      "italian": "Le piccole vittorie contano, dillo.",
+      "transliteration": "Le piccole vittò-rie CON-ta-no, dillo.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I let go of what hurts.",
+      "italian": "Lascio andare ciò che fa male.",
+      "transliteration": "LaSCIO an-da-re CIÒ che fa ma-le.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "My pace is my power.",
+      "italian": "Il mio ritmo è la mia forza.",
+      "transliteration": "Il mio RIT-mo è la mia FORza.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I speak kindly to myself now.",
+      "italian": "Parlo con gentilezza con me stesso, ora.",
+      "transliteration": "PAR-lo con gen-tiLÉZza con me stES-so, Ó-ra.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "One breath, one brave step.",
+      "italian": "Un respiro, un passo coraggioso.",
+      "transliteration": "Un reSPI-ro, un PAS-so co-ragGIò-so.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "I forgive quickly, move forward.",
+      "italian": "Perdono in fretta, vado avanti.",
+      "transliteration": "PerDÓ-no in FRÉT-ta, va-do a-vANTI.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-16T20:34:47.069688"
     }
   ],
-  "last_updated": "2026-11-15T17:16:47.945714"
+  "last_updated": "2026-11-16T20:34:47.069688"
 }

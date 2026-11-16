@@ -231,7 +231,39 @@
     {
       "category": "Coffee Shop & Bakery",
       "date": "2026-11-15"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-16"
     }
   ],
-  "last_updated": "2026-11-15T17:16:47.959926"
+  "last_updated": "2026-11-16T20:34:47.086778"
 }
