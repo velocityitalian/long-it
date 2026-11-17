@@ -20679,7 +20679,399 @@
       "transliteration": "PerDÓ-no in FRÉT-ta, va-do a-vANTI.",
       "category": "Positive Life",
       "generated_at": "2026-11-16T20:34:47.069688"
+    },
+    {
+      "english": "Can you check my dosage, please?",
+      "italian": "Puoi controllare il dosaggio, per favore?",
+      "transliteration": "PUOI conTROLlaRE il doSAgGIO, per faVORe?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Should I take it with food?",
+      "italian": "Lo devo prendere con il cibo?",
+      "transliteration": "LO deVYou prenDERe con il CIbo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Is this medicine safe for me?",
+      "italian": "Questa medicina è sicura per me?",
+      "transliteration": "QUEsta mediCINA è siCURA per me?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Are there any interactions to worry?",
+      "italian": "Ci sono interazioni con i miei farmaci?",
+      "transliteration": "CI soNO inTERAziOni con i miei farMAci?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "What’s the generic name for this?",
+      "italian": "Qual è il nome generico di questo?",
+      "transliteration": "QUA le il NOme geNERiCO di QUESto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Can I ask about alternatives?",
+      "italian": "Posso chiedere un'alternativa?",
+      "transliteration": "POsso CHIEdeRe uNAALterNATiVa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "How long will it take to work?",
+      "italian": "In quanto tempo inizierà a fare effetto?",
+      "transliteration": "IN quanTO temPO inIZieRA a faRE efFETto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I ask before taking photos.",
+      "italian": "Chiedo prima di scattare foto.",
+      "transliteration": "CHie-do pri-ma di scap-tà-re FO-to.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Let me help, if you want.",
+      "italian": "Posso aiutarti, se vuoi.",
+      "transliteration": "POS-so aiu-TAR-ti, se VUoi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I thank you for the invitation.",
+      "italian": "Grazie per l’invito, davvero.",
+      "transliteration": "GRA-tse per l’in-VI-to, ve-RAM-te.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "At the meal, I keep it simple.",
+      "italian": "A tavola, resto con il semplice.",
+      "transliteration": "A TA-vo-la, re-sto con il SEM-pli-che.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I greet everyone, even quickly.",
+      "italian": "Saluto tutti, anche solo per un attimo.",
+      "transliteration": "sa-LU-to TUT-ti, AN-che so-lo per un AT-ti-mo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I offer my seat with a smile.",
+      "italian": "Offro il mio posto con un sorriso.",
+      "transliteration": "Of-fro il MIO PO-sto con un SOS-si-ro.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I bring something small, not fancy.",
+      "italian": "Porto qualcosa di piccolo, non di elegante.",
+      "transliteration": "POR-to qual-co-sa di PIC-co-lo, non di e-LE-gan-te.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Make today your comeback, not your compromise.",
+      "italian": "Fai oggi il tuo ritorno, non il tuo compromesso.",
+      "transliteration": "fai OGGI il tuo RItorno, non il tuo comPROMESso",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Set one tiny goal, then start.",
+      "italian": "Imponi un obiettivo minuscolo, poi parti.",
+      "transliteration": "IMpoNI un oBBIettivo miNUScoLO, poi PARti",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I choose the next right action.",
+      "italian": "Scegliere la prossima azione giusta.",
+      "transliteration": "sceGLIere la prosSIMA aZIOne GIUsta",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Let discomfort teach you, not stop you.",
+      "italian": "Lascia che il disagio ti insegni, non ti fermi.",
+      "transliteration": "laSCIA che il diSAgio ti INsegni, non ti FERmi",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "My effort counts, even when unnoticed.",
+      "italian": "Il mio impegno conta, anche se non si vede.",
+      "transliteration": "il mio IMpeGNO CONta, anCHE se non si VEde",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Small steps now beat big plans later.",
+      "italian": "I piccoli passi adesso battono i grandi piani dopo.",
+      "transliteration": "i picCOLI PASsi AdesSO battono i GRANdi piaNI DOpo",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "When I stall, I simplify the task.",
+      "italian": "Quando mi blocco, semplifico il compito.",
+      "transliteration": "quanDO mi BLOCCo, semPLIfiCO il comPIto",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Small steps, big confidence building.",
+      "italian": "Piccoli passi, grande fiducia che cresce.",
+      "transliteration": "Piccoli PASSI, grande fiducia che CREsce.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I learn from mistakes, not shame.",
+      "italian": "Imparo dagli errori, non dalla vergogna.",
+      "transliteration": "Imparo DAGLI ERROri, non dalla VERgogna.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Today I say less, and mean it.",
+      "italian": "Oggi dico meno, ma lo dico davvero.",
+      "transliteration": "Oggi DIco MENO, ma lo DIco DAvero.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I ask one question, then breathe.",
+      "italian": "Faccio una sola domanda, poi respiro.",
+      "transliteration": "FAccio una SOla domanDA, poi reSPIro.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I celebrate effort, even when imperfect.",
+      "italian": "Festeggio l’impegno, anche quando non è perfetto.",
+      "transliteration": "FesTEggo l’imPEGno, ANche quanDO non è perFETto.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I keep going, even with a blank.",
+      "italian": "Continuo anche quando mi si blocca la mente.",
+      "transliteration": "conTINuo ANche quanDO mi si blocca la MENte.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I make room for new words.",
+      "italian": "Faccio spazio alle nuove parole, ogni giorno.",
+      "transliteration": "Faccio SPaZio alle NUove paROLE, OGni GIORno.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Hi, thanks for saying hello first.",
+      "italian": "Ciao, grazie per avermi salutato per primo.",
+      "transliteration": "CIAO, grazie per avermi salutato per PRIMO.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I’m really glad to meet you.",
+      "italian": "Sono davvero felice di conoscerti.",
+      "transliteration": "Sono DAVVERO felice di CONOSCERTI.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "What’s your day been like so far?",
+      "italian": "Com com’è andata la tua giornata finora?",
+      "transliteration": "Come com’è andata la TUA giornata FINORA?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "How do you like meeting new people?",
+      "italian": "Tu come ti trovi a conoscere nuove persone?",
+      "transliteration": "Tu come ti TROVI a CONOSCERE nuove PERSONE?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Do you prefer small talk or direct?",
+      "italian": "Preferisci il small talk, o sei più diretto?",
+      "transliteration": "Preferisci il small TALK, o sei più DIretto?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Let me introduce myself quickly.",
+      "italian": "Ti presento brevemente me stesso.",
+      "transliteration": "Ti PREsento brevemente ME stesso.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I’m here, so what can we talk about?",
+      "italian": "Sono qui, quindi di cosa vuoi parlare?",
+      "transliteration": "Sono QUI, quindi DI cosa vuoi PARLARE?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I do the next right thing.",
+      "italian": "Faccio la prossima cosa giusta.",
+      "transliteration": "FAccio la PROssima COsa GIUsta.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Today counts, even if it’s small.",
+      "italian": "Oggi conta, anche se è piccolo.",
+      "transliteration": "OGgi CONta, ANche se è PICcolo.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I finish what I start, gently.",
+      "italian": "Porto a termine quello che inizio, con gentilezza.",
+      "transliteration": "PORto a TERmine QUELlo che INizio, con GENtilezza.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I choose effort over perfection.",
+      "italian": "Scegliere lo sforzo invece della perfezione.",
+      "transliteration": "SceGLIEre lo SFORzo INvece della perFEZione.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I learn fast from real feedback.",
+      "italian": "Imparo in fretta dai feedback reali.",
+      "transliteration": "IMparo in FREtta dai feeDBACK REali.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I stay consistent, not stuck.",
+      "italian": "Resto costante, non fermo.",
+      "transliteration": "RESTo coSTANte, non FERmo.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I protect my focus like a treasure.",
+      "italian": "Proteggio la mia attenzione come un tesoro.",
+      "transliteration": "ProTEGgo la mia atTENzione come un TEsoRo.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Come, let’s set the table together.",
+      "italian": "Vieni, mettiamo la tavola insieme.",
+      "transliteration": "Vieni, mettiamo la TAVOla INsieme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Did you feed the kids yet?",
+      "italian": "Hai già dato da mangiare ai bambini?",
+      "transliteration": "Hai già DAto da MANgiare ai BAMBIni?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I’ll clean, you handle the laundry.",
+      "italian": "Io pulisco, tu fai il bucato.",
+      "transliteration": "Io PULiSCO, tu fai il buCÁto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "We need a calm family talk tonight.",
+      "italian": "Stasera abbiamo bisogno di una chiacchierata tranquilla in famiglia.",
+      "transliteration": "StaSÉra abBIamo biSOGno di una chiacCHIEraTA tranQUILla in faMÍglia.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Can we split chores fairly today?",
+      "italian": "Possiamo dividere le faccende in modo giusto oggi?",
+      "transliteration": "POSsiamo DIVIdere le faccÉnde in MÓdo giusto OGgi?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I miss home, let’s visit soon.",
+      "italian": "Mi manca casa, andiamo a trovarla presto.",
+      "transliteration": "Mi manCA caSA, anDIamo a troVARla PREsto.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Please knock before you come in.",
+      "italian": "Bussa prima di entrare, per favore.",
+      "transliteration": "BÙsSA priMA di enTRÁre, per faVóre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Tonight, stay close to my heart",
+      "italian": "Stasera, resta vicino al mio cuore,",
+      "transliteration": "stasera, resta VICINO al mio CUORE",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Your smile makes everything softer",
+      "italian": "Il tuo sorriso rende tutto più morbido,",
+      "transliteration": "il tuo sorRISO RENDE TUTTO più MORbiDO",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I want us to laugh more",
+      "italian": "Voglio che ridiamo di più insieme,",
+      "transliteration": "VOGLIO che riDIamo di più inSIeme",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I choose you, even on rough days",
+      "italian": "Ti scelgo anche quando è un giorno difficile,",
+      "transliteration": "ti SCELgo ANche quanDO è un giorNO DIfficiLE",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "When you feel lost, I anchor",
+      "italian": "Quando ti senti perso, io ti tengo fermo,",
+      "transliteration": "quanDO ti SENti PERso, io ti TENgo FERmo",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "Let’s talk, then let’s rest",
+      "italian": "Parliamo, poi riposiamo, insieme,",
+      "transliteration": "PARliamo, poi riPOSiamo, inSIeme",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
+    },
+    {
+      "english": "I love your patience with me",
+      "italian": "Amo la tua pazienza con me,",
+      "transliteration": "Amo la tua paZIENza con me",
+      "category": "Love",
+      "generated_at": "2026-11-17T19:15:58.289358"
     }
   ],
-  "last_updated": "2026-11-16T20:34:47.069688"
+  "last_updated": "2026-11-17T19:15:58.289358"
 }
