@@ -22247,7 +22247,399 @@
       "transliteration": "LasciA, te lo pOrtO io.",
       "category": "Kindness",
       "generated_at": "2026-11-20T18:40:54.187006"
+    },
+    {
+      "english": "I’m letting this misunderstanding go.",
+      "italian": "Sto lasciando andare questo malinteso.",
+      "transliteration": "Sto LASc iando anDAre queSTO maLINteSO.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "You hurt me, but I forgive.",
+      "italian": "Mi hai ferito, ma ti perdono.",
+      "transliteration": "Mi haI FErito, ma ti PERdono.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I choose mercy, not revenge.",
+      "italian": "Sceglio la misericordia, non la vendetta.",
+      "transliteration": "SCeglio la miseRicORDia, non la venDETta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I’m ready to start again.",
+      "italian": "Sono pronto a ricominciare.",
+      "transliteration": "SOno PRONto a riCOMinCIAre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Let’s talk, and I forgive you.",
+      "italian": "Parliamone, e ti perdono.",
+      "transliteration": "PARliamone, e ti PERdono.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I forgive you, no conditions.",
+      "italian": "Ti perdono, senza condizioni.",
+      "transliteration": "ti PERdono, SENza CONdiZIOni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "My heart is open to you.",
+      "italian": "Il mio cuore è aperto a te.",
+      "transliteration": "Il miO CUOre è aPERto a te.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Thanks for being there for me",
+      "italian": "Grazie per esserci per me, davvero.",
+      "transliteration": "GRAZ-ie per es-SER-ci per ME, dav-VE-ro.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I’m grateful you remembered my birthday",
+      "italian": "Sono grato",
+      "transliteration": "so-NO GRA-to/a che TU ti sia ri-COR-da-to/a del mio com-PLE-an-no.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Thank you for the ride home",
+      "italian": "Grazie per il passaggio fino a casa.",
+      "transliteration": "GRAZ-ie per il pasSAG-gio fi-no a CA-sa.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Thanks for helping me sort that out",
+      "italian": "Grazie per avermi aiutato a metterci ordine.",
+      "transliteration": "GRAZ-ie per a-ver-mi aiu-TA-to a met-ter-ci OR-di-ne.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I appreciate your thoughtful message",
+      "italian": "Apprezzo davvero il tuo messaggio pieno di pensiero.",
+      "transliteration": "ap-PREZ-zo DAV-ve-ro il TU-o MES-sag-gio PIE-no di PEN-sie-ro.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "You made my day, thank you",
+      "italian": "Mi hai reso la giornata più leggera, grazie.",
+      "transliteration": "mi hai reSO la gior-NA-ta più leg-GE-ra, GRA-zie.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I’m thankful for your honest advice",
+      "italian": "Ti sono grato",
+      "transliteration": "ti so-NO GRA-to/a per la TU-a sin-ce-RI-ta e il tuo con-si-GLIO.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Stand firm, but stay flexible",
+      "italian": "Stai fermo, ma resta flessibile.",
+      "transliteration": "STai FERmo, ma reSTA FLESsiBile.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Keep your promises to yourself",
+      "italian": "Mantieni le promesse che fai a te stesso.",
+      "transliteration": "manTieNI le PROMes se che FAi a te STESso.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Let fear pass, then move",
+      "italian": "Lascia che la paura passi, poi vai avanti.",
+      "transliteration": "laSCIA che la PAu ra PASsi, poi vai AVan ti.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Use discomfort as your compass",
+      "italian": "Usa il disagio come una bussola.",
+      "transliteration": "U sa il diSAgio coME u na BUSso la.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Work on the next small step",
+      "italian": "Lavora sul prossimo piccolo passo, adesso.",
+      "transliteration": "laVO ra sul pros SIMo PICco lo PASso, aDESSo.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Your effort counts, even quietly",
+      "italian": "Il tuo impegno conta, anche se è silenzioso.",
+      "transliteration": "il tuo IMpeGNO CONta, ANche se è siLENZio so.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Own your choices, no excuses",
+      "italian": "Assumi le tue scelte, senza scuse.",
+      "transliteration": "asSUmi le tue SCELte, SENza scu se.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "That wind is picking up, huh.",
+      "italian": "Quel vento sta aumentando, eh?",
+      "transliteration": "QUEL vento sta AUmentando, eh?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Feels like rain again, doesn't it?",
+      "italian": "Sembra che piova di nuovo, vero?",
+      "transliteration": "SEMBRA che PIEva di NUOVO, vero?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Sun’s out, but it’s still chilly.",
+      "italian": "Il sole c’è, ma fa ancora freddino.",
+      "transliteration": "il SOLE c’è, ma FA anCORA freddINO.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "My balcony smells like wet earth.",
+      "italian": "Il balcone sa di terra bagnata.",
+      "transliteration": "il BALcone SA di TERra baGNATA.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Traffic is slow, because it’s foggy.",
+      "italian": "Il traffico rallenta, perché c’è la nebbia.",
+      "transliteration": "il TRAffico rallENta, perCHé c’è la NEmbia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "The sky looks washed clean today.",
+      "italian": "Oggi il cielo sembra ripulito.",
+      "transliteration": "OGgi il CIElo SEMbra riPULito.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "It’s sunny now, so I’m happy.",
+      "italian": "Adesso c’è il sole, e mi va bene così.",
+      "transliteration": "ADesso c’è il SOLE, e mi VA beNE coSÌ.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Keep your reason close to you.",
+      "italian": "Tieni la tua ragione vicina a te.",
+      "transliteration": "TIeni la tua RA-GIO-ne VI-ci-na a te",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Choose one aim, then start now.",
+      "italian": "Scegli un obiettivo, e poi parti adesso.",
+      "transliteration": "SCe-gli un ob-bIet-ti-vo, e poi PAR-ti a-dE-sso",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Ask, what am I here for?",
+      "italian": "Chiediti, per cosa sono qui.",
+      "transliteration": "CHie-di-ti, per CÓ-sa SO-no QUI",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Match your calendar with your purpose.",
+      "italian": "Allinea il tuo calendario al tuo scopo.",
+      "transliteration": "al-LI-nea il tuo cal-EN-da-ri-o al tuo SCO-po",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Make your purpose visible, not secret.",
+      "italian": "Rendi visibile il tuo scopo, non segreto.",
+      "transliteration": "REN-di vi-SI-bi-le il tuo SCO-po, non se-GRÉ-to",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Let small actions prove your why.",
+      "italian": "Fai piccole azioni che confermano il tuo perché.",
+      "transliteration": "FAI piCCO-le a-ZI-o-ni che con-fer-MA-no il tuo per-CHE",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Decide what matters, then protect it.",
+      "italian": "Decidi cosa conta, e poi proteggilo.",
+      "transliteration": "de-CÍ-di co-sa CON-ta, e poi pro-TEG-gi-lo",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I trust myself to figure it out.",
+      "italian": "Mi fido di me, so risolverla.",
+      "transliteration": "mi FIDO di me, so ri-SOL-VER-la",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I can be scared and still move.",
+      "italian": "Posso avere paura, e comunque muovermi.",
+      "transliteration": "pos-SO a-vE-re pau-ra, e coMUN-que muo-ver-mi",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "My plans don't have to be perfect.",
+      "italian": "I miei piani non devono essere perfetti.",
+      "transliteration": "i miei pia-NI non de-vON-o eSSE-re per-FET-ti",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I keep my word to myself.",
+      "italian": "Mantengo le promesse che faccio a me.",
+      "transliteration": "man-TEN-go le pro-MES-se che FAC-cio a me",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I choose progress over proving myself.",
+      "italian": "Scelgo il progresso, non il bisogno di dimostrarmi.",
+      "transliteration": "SCEL-go il pro-GRES-so, non il biSO-gno di di-MO-straR-mi",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I will handle discomfort without panic.",
+      "italian": "Gestisco il disagio, senza andare in panico.",
+      "transliteration": "ge-STI-sco il di-SA-gio, SEN-za an-da-re in PA-ni-co",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I ask for clarity, not permission.",
+      "italian": "Chiedo chiarezza, non permesso.",
+      "transliteration": "CHIE-do chia-RÈZ-za, non per-MES-so",
+      "category": "Confidence",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Hope, even when plans fall apart",
+      "italian": "Speranza, anche quando i piani crollano",
+      "transliteration": "Speranza, anCHE quando i PIAni cROLLano",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I let hope come back slowly",
+      "italian": "Lascio tornare la speranza, con calma",
+      "transliteration": "LAScio torNAR e la speRANza, con CALma",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I choose optimism for tonight",
+      "italian": "Scelgo l’ottimismo per questa sera",
+      "transliteration": "SceLGO l’otTIMismo per QUEsta seRA",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Hope makes room for new choices",
+      "italian": "La speranza lascia spazio a nuove scelte",
+      "transliteration": "La speRANza laSCIA SPAzio a NuoVE SCELte",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I trust tomorrow a little more",
+      "italian": "Fiducia nel domani, un po’ di più",
+      "transliteration": "fiDUcia nel DOmani, un PO di PIÙ",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "My hope speaks softly, but clearly",
+      "italian": "La mia speranza parla piano, ma chiaro",
+      "transliteration": "La mia speRANza parLA PIANo, ma chiaRO",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I’m waiting with hope, not fear",
+      "italian": "Aspetto con speranza, non con paura",
+      "transliteration": "ASpetto con speRANza, non con PAUra",
+      "category": "Hope",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "What pastries are fresh today?",
+      "italian": "Quali pasticcini sono freschi oggi?",
+      "transliteration": "Quali pasticcini SONO freSCHI OGGI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "I’d like a double espresso, please.",
+      "italian": "Vorrei un doppio espresso, per favore.",
+      "transliteration": "VOR-rei un DOP-pio ES-press-o, per FA-vore.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Is the croissant butter or margarine?",
+      "italian": "Il cornetto è al burro o alla margarina?",
+      "transliteration": "Il COR-nèt-to è al BUR-ro o al-la mar-ga-RI-na?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Which cake is your bestseller?",
+      "italian": "Qual è la torta più venduta da voi?",
+      "transliteration": "Qual è la TOR-ta più ven-DU-ta da VOI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Could I taste one small sample?",
+      "italian": "Posso assaggiare un piccolo assaggio?",
+      "transliteration": "POS-so as-SAG-gia-re un PIC-colo as-SAG-gio?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "No sugar for me, thanks.",
+      "italian": "Senza zucchero per me, grazie.",
+      "transliteration": "Sen-za zuc-CHE-ro per ME, GRA-zie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
+    },
+    {
+      "english": "Can I have it with oat milk?",
+      "italian": "Può farmelo con latte di avena?",
+      "transliteration": "Può far-me-lo con lat-te di A-ve-na?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-21T17:38:51.525434"
     }
   ],
-  "last_updated": "2026-11-20T18:40:54.187006"
+  "last_updated": "2026-11-21T17:38:51.525434"
 }
