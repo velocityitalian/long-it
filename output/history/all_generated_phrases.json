@@ -23423,7 +23423,399 @@
       "transliteration": "AffronTO i conTRAtTEMpi con atTENzione,",
       "category": "Success",
       "generated_at": "2026-11-23T22:14:18.466448"
+    },
+    {
+      "english": "I grow, even when it's messy.",
+      "italian": "Cresco anche quando è tutto un po' disordinato.",
+      "transliteration": "CRESCO anCHE quanDO è tutTO un po' diSORDiNATO.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I set one goal for today.",
+      "italian": "Mi do un solo obiettivo per oggi.",
+      "transliteration": "mi dO uN soLO oBIETtivo per OGgi.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I repeat, and I improve quietly.",
+      "italian": "Ripeto, e miglioro senza far rumore.",
+      "transliteration": "riPEto, e migLIOro senZA faR ruMOre.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "My confidence comes after practice.",
+      "italian": "La fiducia arriva dopo la pratica.",
+      "transliteration": "la fiDUcia aRriVA doPO la praTICA.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I take notes, then I move on.",
+      "italian": "Prendo appunti, poi vado avanti.",
+      "transliteration": "PREndo apPUNti, poi vAdo aVANti.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I listen for patterns, not perfection.",
+      "italian": "Ascolto i pattern, non la perfezione.",
+      "transliteration": "aSColto i patTERN, non la perFEZione.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Small wins, and I keep going.",
+      "italian": "Piccole vittorie, e continuo.",
+      "transliteration": "PICcole vitTOrie, e conTInuo.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Do I need a checkup first?",
+      "italian": "Ho bisogno di una visita prima?",
+      "transliteration": "o BIsoGNo di una VISIta PRIMA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "My symptoms started after a new pill.",
+      "italian": "I miei sintomi sono iniziati dopo una nuova compressa.",
+      "transliteration": "i miei SINToMI soNO iNIZiaTI DOpo una NUoVA comPRESsa",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Is this prescription already active?",
+      "italian": "Questa prescrizione è già valida?",
+      "transliteration": "QUEsta preSCRITtoNE è gIA vaLIda",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Can you explain the dosage clearly?",
+      "italian": "Mi spiega chiaramente come prendere la dose?",
+      "transliteration": "mi SPEga chiaRaMENte coME PRENdeRE la DOse",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "What should I do if I miss a dose?",
+      "italian": "Cosa devo fare se dimentico una dose?",
+      "transliteration": "COsa deVÓ faRE se diMENtIco uNA DOse",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Should I stop if I feel worse?",
+      "italian": "Devo interrompere se sto peggio?",
+      "transliteration": "deVÓ inTERromPERE se STO PEGgio",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Can the pharmacist help me today?",
+      "italian": "Il farmacista può aiutarmi oggi?",
+      "transliteration": "il farmaCIsta puÒ aIuTARmi OGgi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I breathe, then I choose my next move",
+      "italian": "Respìro, poi scelgo la mia prossima mossa",
+      "transliteration": "Respiro, poi SCELgo la mia pros-sima MOSsa",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Settle first, speak second",
+      "italian": "Prima mi sistemo, poi parlo",
+      "transliteration": "PRIma mi SIstemo, poi PARlo",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I unclench my jaw and soften",
+      "italian": "Sblocco la mascella, poi mi ammorbidisco",
+      "transliteration": "Sbloc-co la MAScel-la, poi mi am-mor-bi-disCO",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Slow down my hands, steady my mind",
+      "italian": "Rallento le mani, stabilizzo la mente",
+      "transliteration": "Rallen-to le maNI, sta-bilIZzo la MENte",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I let the urge pass through",
+      "italian": "Lasciò che l impulso passi",
+      "transliteration": "laSCIO che l IMpulso pas-si",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I check my body, not just thoughts",
+      "italian": "Controllo il corpo, non solo i pensieri",
+      "transliteration": "Con-trol-lo il CORpo, non SOlo i penSIe-ri",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Today I balance effort with rest",
+      "italian": "Oggi bilancio impegno e riposo",
+      "transliteration": "OGgi biLANcio im-PEGno e riPO-so",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I need a quick status update",
+      "italian": "Mi serve un aggiornamento veloce, per favore.",
+      "transliteration": "mi SER-ve un ag-gior-na-men-to VE-lo-che, per FAVore.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Can you share the file with me",
+      "italian": "Puoi condividere il file con me, grazie?",
+      "transliteration": "PO-i con-diVIDE-re il FILE con me, GRA-zie?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I think we should prioritize this",
+      "italian": "Secondo me, dovremmo dare priorità a questo.",
+      "transliteration": "se- DAN-do me, dov-rem-mo dare pri-o-ri-TÀ a QUES-to.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "What time is check-in for guests?",
+      "italian": "A che ora è il check-in per gli ospiti?",
+      "transliteration": "A CHE O-ra è il check-IN per gli O-spi-ti?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I will take notes in the meeting",
+      "italian": "Prendo io gli appunti durante la riunione.",
+      "transliteration": "PREN-do IO gli ap-PUN-ti du-ran-te la riu-NIO-ne.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Is there Wi‑Fi in this office?",
+      "italian": "C'è il Wi‑Fi in questo ufficio?",
+      "transliteration": "C E il WI-FI in ques-to UF-fi-cio?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Where can I find the supply cabinet?",
+      "italian": "Dove si trova l'armadietto delle forniture?",
+      "transliteration": "DO-ve si TRO-va l'ar-ma-DI-et-to del-le for-NI-tu-re?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I cook new pasta sauces on weekends.",
+      "italian": "Cucino nuovi sughi per la pasta nel weekend.",
+      "transliteration": "KUK-ino NOU-vi SOU-ghi per la PAS-ta nel WEEK-end",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I take my camera to the market.",
+      "italian": "Porto la macchina fotografica al mercato.",
+      "transliteration": "POR-to la mak-ki-na fo-to-GRA-fi-ka al MER-ka-to",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I try rock climbing once a month.",
+      "italian": "Provo l’arrampicata sportiva una volta al mese.",
+      "transliteration": "PRO-vo larram-PIC-a-ta spor-TI-va u-na VOL-ta al ME-se",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I go for a late-night run, solo.",
+      "italian": "Faccio una corsa notturna tardi, da solo.",
+      "transliteration": "FAS-cio u-na KOR-sa not-TUR-na TAR-di da SO-lo",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I sketch people on a café napkin.",
+      "italian": "Sullo al volo, schizzo persone su un tovagliolo di caffè.",
+      "transliteration": "SUL-lo al VO-lo SHIZ-zo PER-so-ne su un to-va-GLI-o-lo di KAF-fè",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I organize my bookshelf by color sometimes.",
+      "italian": "A volte metto in ordine la mia libreria per colore.",
+      "transliteration": "A VOL-te MET-to in OR-di-ne la MI-a LIB-re-ria per KO-lo-re",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I make dumplings with a friend tonight.",
+      "italian": "Stasera facciamo i ravioli cinesi insieme.",
+      "transliteration": "STA-se-ra FAT-cha-mo i ra-vi-O-li CI-nesi in-SI-e-me",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I feel excited to start.",
+      "italian": "Ho una voglia pazzesca di iniziare.",
+      "transliteration": "HO una VOGLIA PAZZESCA di INIZIARE.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I’m frustrated, I can’t focus.",
+      "italian": "Sono frustrato, non riesco a concentrarmi.",
+      "transliteration": "soNO FRUSTRATO, non RIESCO a conCENTRARMI.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I feel lonely when you’re away.",
+      "italian": "Mi sento solo quando non ci sei.",
+      "transliteration": "mi SENTo SOlo quanDO non CI sei.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "That compliment made me smile.",
+      "italian": "Quel complimento mi ha fatto sorridere.",
+      "transliteration": "quel comPLIMENto mi ha FATto sorRIDere.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I’m scared of messing up again.",
+      "italian": "Ho paura di sbagliare di nuovo.",
+      "transliteration": "ho PAUra di sbaGLIAre di NUOvo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I feel tense before every call.",
+      "italian": "Sono teso prima di ogni chiamata.",
+      "transliteration": "sono TEso PRIma di OGni chiaMATA.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I’m touched by your kindness.",
+      "italian": "Mi hai commosso con la tua gentilezza.",
+      "transliteration": "mi hai comMOOsso con la TUA genTILEZza.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I’d like a quiet room, please.",
+      "italian": "Vorrei una camera tranquilla, per favore.",
+      "transliteration": "VO-ri-ei una KA-me-ra tran-QUIL-la, per fa-VO-re.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Is there a minibar in my room?",
+      "italian": "C’è un minibar in camera mia?",
+      "transliteration": "CE un mi-NI-bar in KA-me-ra mi-a?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "What’s included in the room rate?",
+      "italian": "Cosa è incluso nel prezzo della camera?",
+      "transliteration": "CO-sa è in-KLU-so nel PRE-zzo del-la KA-me-ra?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Can I have a fan instead?",
+      "italian": "Posso avere un ventilatore al posto dell’aria condizionata?",
+      "transliteration": "POS-so a-VE-re un ven-ti-la-TOR-e al PO-sto del-lA’ a-ri-a con-di-zio-NAn-ta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Do you have rooms for two adults?",
+      "italian": "Avete camere per due adulti?",
+      "transliteration": "a-VE-te KA-me-re per DUE ad-DUL-ti?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "How do I access the Wi‑Fi network?",
+      "italian": "Come posso accedere alla rete Wi‑Fi?",
+      "transliteration": "CO-me POS-so a-CCEdere al-la RETE Wi-Fi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Is late breakfast available on weekends?",
+      "italian": "Nel weekend c’è colazione più tardi?",
+      "transliteration": "nel WEE-kend CE co-lo-ZI-o-ne piu TAR-di?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Joy hits when I hear kindness",
+      "italian": "La gioia arriva quando sento gentilezza",
+      "transliteration": "la GIOIA ar-RI-va quan-do SEN-to gen-ti-lez-za",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I feel joy after a tough workout",
+      "italian": "Provo gioia dopo un allenamento tosto",
+      "transliteration": "pro-VO GIO-ia do-po un al-le-na-men-to TO-sto",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Joy blooms when I cook something simple",
+      "italian": "La gioia fiorisce quando cucino qualcosa di semplice",
+      "transliteration": "la GIO-ia FIO-ri-sce quan-do CU-ci-no qual-che-co-sa di sem-pli-ce",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I text a friend, joy follows fast",
+      "italian": "Scrivo a un amico, e la gioia arriva subito",
+      "transliteration": "SCRI-vo a un ami-co, e la GIO-ia ar-RI-va SU-bi-to",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Joy is my stubborn little hope",
+      "italian": "La gioia è la mia speranza ostinata",
+      "transliteration": "la GIO-ia è la mia spe-RAN-za o-STI-na-ta",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I walk outside, and my heart lifts",
+      "italian": "Esco fuori, e il cuore si solleva",
+      "transliteration": "eSCO FUO-ri, e il CUo-re si SOL-lev-a",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "Joy shows up in fresh clean laundry",
+      "italian": "La gioia c’è quando metto via la biancheria pulita",
+      "transliteration": "la GIO-ia cè quan-do met-to VIA la BIAN-che-ria PU-li-ta",
+      "category": "Joy",
+      "generated_at": "2026-11-24T20:43:53.657814"
     }
   ],
-  "last_updated": "2026-11-23T22:14:18.466448"
+  "last_updated": "2026-11-24T20:43:53.657814"
 }
