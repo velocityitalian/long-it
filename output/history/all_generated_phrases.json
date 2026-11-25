@@ -23815,7 +23815,399 @@
       "transliteration": "la GIO-ia cè quan-do met-to VIA la BIAN-che-ria PU-li-ta",
       "category": "Joy",
       "generated_at": "2026-11-24T20:43:53.657814"
+    },
+    {
+      "english": "I practice calm, even in small moments.",
+      "italian": "Pratico la calma, anche nei piccoli momenti.",
+      "transliteration": "Prátìco la CALma, ANche nei PICOli MomenTI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I don’t rush my heart, ever.",
+      "italian": "Non ho fretta al mio cuore, mai.",
+      "transliteration": "Non ho FRETta al mio CUOre, MAI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I let my worries float by.",
+      "italian": "Lascio che le mie preoccupazioni passino.",
+      "transliteration": "LaSCIO che le mie preOCcuPAZIoNI passino.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I choose one next kind action.",
+      "italian": "Scelgo una prossima azione gentile.",
+      "transliteration": "SCelgo uNA prosSIma aZIone GENtile.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "My inner home is safe.",
+      "italian": "Il mio mondo interiore è un posto sicuro.",
+      "transliteration": "Il mio MONdo inTeRIOre è un poSTO SIcuRO.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I speak less, and listen more.",
+      "italian": "Parlo meno, e ascolto di più.",
+      "transliteration": "PARlo meNO, e aScolto di PIÙ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I pause, then answer with respect.",
+      "italian": "Mi fermo, poi rispondo con rispetto.",
+      "transliteration": "Mi FERmo, poi riSPONdo con riSPETto.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Breathing slowly, I feel joy return.",
+      "italian": "Respirare piano, mi torna la gioia.",
+      "transliteration": "RESPIRARE piano, mi TORNA la GIOIA",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I set my phone down, and smile.",
+      "italian": "Mollare il telefono mi fa sorridere.",
+      "transliteration": "mOLLARE il telefono mi fa SORRIDERE",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I dance in the kitchen, alone.",
+      "italian": "Do due passi in cucina, da solo.",
+      "transliteration": "do DUE passi in CUcina, da SOLO",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "A green park walk resets my brain.",
+      "italian": "Una passeggiata in un parco verde mi rimette a posto.",
+      "transliteration": "una PASSEGGIATA in un PARCO verDE mi RIMette a poSTO",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I hang clean clothes, and it feels light.",
+      "italian": "Stendere il bucato pulito mi alleggerisce.",
+      "transliteration": "stenDERE il buCAto puLITO mi aLLEGgerisce",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I make tea, then I listen.",
+      "italian": "Preparo il tè, poi resto ad ascoltare.",
+      "transliteration": "prePARO il tè, poi reSTO ad aSCOltare",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I stop to watch birds for a minute.",
+      "italian": "Mi fermo a guardare gli uccelli per un minuto.",
+      "transliteration": "mi FERmo a GUARdaRE gli UCCELli per un MInoTO",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Is this the final price?",
+      "italian": "Questo è il prezzo finale?",
+      "transliteration": "QUESTO è il prezzo FINALE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "What materials is it made of?",
+      "italian": "Di che materiale è fatto?",
+      "transliteration": "Di che MATERIALE è FATTO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Is there any promo right now?",
+      "italian": "Avete una promozione in corso?",
+      "transliteration": "Avete una promoZIONE in CORSO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "italian": "Mi dà lo scontrino, per favore?",
+      "transliteration": "Mi da lo sconTRINO, per FAvore?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Can I pay contactless?",
+      "italian": "Posso pagare contactless?",
+      "transliteration": "POSSO pagare conTactless?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Does it come in different colors?",
+      "italian": "Ha altri colori?",
+      "transliteration": "Ha ALtri coLORI?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Where can I check the sizes?",
+      "italian": "Dove posso controllare le taglie?",
+      "transliteration": "Dove posso conTROLLare le TAGLIE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "How do I dispute a charge?",
+      "italian": "Come posso contestare un addebito?",
+      "transliteration": "Come posSO no CONtestare un ad-de-bi-to?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "My card is expiring, what now?",
+      "italian": "La mia carta sta per scadere, cosa faccio?",
+      "transliteration": "La mia CARta sta per SCAde-re, coSA fac-cio?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Can I change my PIN here?",
+      "italian": "Posso cambiare il PIN qui in banca?",
+      "transliteration": "POSso cam-bia-re il PIN qui in BANca?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Where can I withdraw without fee?",
+      "italian": "Dove posso prelevare senza commissioni?",
+      "transliteration": "Dove posSO pre-le-VARE sen-za com-mis-sio-ni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "italian": "Accettate pagamenti contactless?",
+      "transliteration": "Ac-CET-ta-te pa-ga-men-ti con-TACTless?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I need a bank draft for rent.",
+      "italian": "Mi serve un assegno circolare per l’affitto.",
+      "transliteration": "Mi SERve un as-seg-no ciRCO-la-re per l’af-fit-to.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Can I pay bills by QR code?",
+      "italian": "Posso pagare le bollette con il codice QR?",
+      "transliteration": "POSso pa-ga-re le bol-LÊT-te con il CO-dice QR?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I wash my face and moisturize",
+      "italian": "Mi lavo il viso e metto la crema",
+      "transliteration": "Mi lavo il VISO e metto la CREMA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I shave, then tie my hair back",
+      "italian": "Mi rado e poi mi lego i capelli",
+      "transliteration": "Mi RAdo e poi mi LEGO i CAPELLI",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I check my calendar before leaving",
+      "italian": "Controllo il calendario prima di uscire",
+      "transliteration": "ConTROLlo il CALendario PRIMA di uSCIRE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I grab my keys and headphones",
+      "italian": "Prendo le chiavi e le cuffie",
+      "transliteration": "PrenDO le CHIavi e le CUffie",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I lock the door twice",
+      "italian": "Controllo che la porta sia chiusa due volte",
+      "transliteration": "ConTROLlo che la PORta sia chiuSA DUe volTE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I take the stairs to wake up",
+      "italian": "Prendo le scale per svegliarmi",
+      "transliteration": "PrenDO le SCAle per sveGLIarmi",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "On the way, I listen to news",
+      "italian": "Per strada ascolto le notizie",
+      "transliteration": "Per STRAda aSCOlto le noTIzie",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I’m scared, and I’m still going.",
+      "italian": "Ho paura, e vado comunque.",
+      "transliteration": "Ho PAUra, e VÁdo comUNQUE.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Tonight I try, no matter what.",
+      "italian": "Stasera ci provo, qualunque cosa succeda.",
+      "transliteration": "StaSÉra ci PROvo, qualUNque CÓsa succeDA.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I can handle the awkward part.",
+      "italian": "Posso gestire anche la parte goffa.",
+      "transliteration": "POSso geSTÍre anCHE la PARte GOFfa.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Let me make the first move.",
+      "italian": "Fammi fare il primo passo.",
+      "transliteration": "FÀmmi faRE il PRÍmo PASSO.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I’ll be nervous, not stopped.",
+      "italian": "Sarò nervoso, non bloccato.",
+      "transliteration": "SaRÓ nerVÓso, non BLOCCato.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I’ll say it clearly, then breathe.",
+      "italian": "Lo dico chiaro, poi respiro.",
+      "transliteration": "Lo DÍco CHIaro, poi reSPÍro.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Small brave steps, one after another.",
+      "italian": "Piccoli passi coraggiosi, uno dopo l’altro.",
+      "transliteration": "PÍccoli PASSI coRagGÍoSI, uno DOpo l’ALtro.",
+      "category": "Courage",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Where is passport control, please?",
+      "italian": "Dove si trova il controllo passaporti, per favore?",
+      "transliteration": "DOVe si TROVA il conTROLlo PASsaporti, per FAVore?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Do I need a visa for Italy?",
+      "italian": "Serve un visto per andare in Italia?",
+      "transliteration": "SERVe un VISTo per anDAre in ITaLIA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Can I pay for extra baggage?",
+      "italian": "Posso pagare un extra per i bagagli?",
+      "transliteration": "POSso PAgaRE un EXtra per i BAgaGLI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Is there free Wi‑Fi here?",
+      "italian": "C’è il Wi-Fi gratuito qui?",
+      "transliteration": "CE il wi-FI graTUIto QUI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I need an adapter for my phone.",
+      "italian": "Mi serve un adattatore per il telefono.",
+      "transliteration": "MI SERve un adATtaTORe per il teLEFono.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "italian": "Dove posso comprare una SIM?",
+      "transliteration": "DOve posSO comPRAre uNA SIM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "Do you have a charging station nearby?",
+      "italian": "Ci sono prese per ricaricare qui vicino?",
+      "transliteration": "CI soNO PREse per riCAriCAre QUI viCIno?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I swallowed something and I can't breathe",
+      "italian": "Ho ingoiato qualcosa e non riesco a respirare",
+      "transliteration": "O ingOIato qualCOsa e non riesCO a respIRare",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I think I have food poisoning",
+      "italian": "Credo di avere un avvelenamento da cibo",
+      "transliteration": "CreDO di aVere un aVvelenamento da cIBo",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I have sudden severe dizziness",
+      "italian": "Ho una vertigine improvvisa e fortissima",
+      "transliteration": "O una verTIGine imPROvvIsa e fortiSSima",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "My throat is closing, please help",
+      "italian": "La mia gola si sta chiudendo, mi aiuti",
+      "transliteration": "La miA GOla si sta chiUdenDO, mi aiUti",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I lost my vision for a moment",
+      "italian": "Ho perso la vista per un attimo",
+      "transliteration": "O PERso la vISTA per un ATTimo",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "My speech is slurred, something is wrong",
+      "italian": "Parlo male, le parole non escono bene",
+      "transliteration": "ParlO male, le pARole non esCONo bene",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I have a bad fever and chills",
+      "italian": "Ho la febbre alta e i brividi",
+      "transliteration": "O la FEBbre alTA e i BRIVidi",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T20:00:23.465022"
     }
   ],
-  "last_updated": "2026-11-24T20:43:53.657814"
+  "last_updated": "2026-11-25T20:00:23.465022"
 }
