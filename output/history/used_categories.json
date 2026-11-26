@@ -551,7 +551,39 @@
     {
       "category": "Emergency & Health",
       "date": "2026-11-25"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-26"
     }
   ],
-  "last_updated": "2026-11-25T20:00:23.481744"
+  "last_updated": "2026-11-26T19:44:05.753731"
 }

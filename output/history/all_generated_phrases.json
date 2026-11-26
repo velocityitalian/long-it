@@ -24207,7 +24207,399 @@
       "transliteration": "O la FEBbre alTA e i BRIVidi",
       "category": "Emergency & Health",
       "generated_at": "2026-11-25T20:00:23.465022"
+    },
+    {
+      "english": "I want to lock in the plan",
+      "italian": "Voglio fissare il piano, subito.",
+      "transliteration": "Voglio fissare il PIANO, SUbito.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Let s decide the best meeting point",
+      "italian": "Decidiamo il punto d incontro migliore.",
+      "transliteration": "Decidiamo il punto d INconTro MIGliore.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Do we need tickets in advance?",
+      "italian": "Servono i biglietti, in anticipo?",
+      "transliteration": "SerVOnO i BIgliETti, in anTICiPO?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I m checking prices for tonight",
+      "italian": "Sto controllando i prezzi per stasera.",
+      "transliteration": "Sto conTROLlanDO i PREZzi per staseRA.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "What s our backup if it rains?",
+      "italian": "Qual è il piano B, se piove?",
+      "transliteration": "QuaLE è il piaNO B, se PIOve?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "We should plan a short first stop",
+      "italian": "Facciamo una prima tappa veloce.",
+      "transliteration": "FAcciamo una priMA tapPA VEloce.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I d like to start with lunch",
+      "italian": "Vorrei iniziare con il pranzo.",
+      "transliteration": "Vorei iniZIARe con il PRANzo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Which bus goes to the airport?",
+      "italian": "Quale autobus va all'aeroporto?",
+      "transliteration": "KWAL-eow OW-to-bus VA all-ae-ROP-por-to?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I missed my stop, what now?",
+      "italian": "Ho sbagliato fermata, cosa faccio ora?",
+      "transliteration": "OH sba-GLYA-to far-MA-ta, KO-sa FAT-tsho OR-a?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Does this tram take me downtown?",
+      "italian": "Questo tram passa per il centro?",
+      "transliteration": "KWES-to trAM passa per il CHEN-tro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Is there a direct route to Rome?",
+      "italian": "C'è un collegamento diretto per Roma?",
+      "transliteration": "CHE un kol-le-GA-men-to DEE-ret-to per RO-ma?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Can I bring a bicycle on board?",
+      "italian": "Posso portare la bici a bordo?",
+      "transliteration": "POS-so POR-ta-re la BIT-si a BOR-do?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Are there elevators for this metro?",
+      "italian": "Ci sono ascensori per questa metropolitana?",
+      "transliteration": "chee SO-no as-sen-SEE-ri per QUES-ta me-tro-po-lee-ta-na?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "How often does this bus run?",
+      "italian": "Ogni quanto passa questo autobus?",
+      "transliteration": "OG-nee QUAN-to PAS-sa KWES-to OW-to-bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I need a quick creative warm-up.",
+      "italian": "Mi serve un riscaldamento creativo veloce.",
+      "transliteration": "Mi serve un RIS-caLDA-men-to CRE-a-ti-vo VE-lo-ce.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "What if we start from one object?",
+      "italian": "E se partiamo da un solo oggetto?",
+      "transliteration": "E se parTI-a-mo da un SO-lo OG-get-to?",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Make it weird, then make it useful.",
+      "italian": "Rendilo strano, poi rendilo utile.",
+      "transliteration": "REN-di-lo STRA-no, poi REN-di-lo U-ti-le.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Switch medium, same idea.",
+      "italian": "Cambia mezzo, stessa idea.",
+      "transliteration": "CAM-bia MEZ-zo, STES-sa I-de-a.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Let silence give you better ideas.",
+      "italian": "Lascia che il silenzio ti dia idee migliori.",
+      "transliteration": "LaSCIA che il siLEN-zio ti DA i-DEE miG-LIO-ri.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Describe it like a movie scene.",
+      "italian": "Descrivilo come una scena di film.",
+      "transliteration": "De-SCRIV-i-lo co-me u-na SE-na di FILM.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Try a constraint, it frees you.",
+      "italian": "Prova con un vincolo, ti libera.",
+      "transliteration": "PRO-va con un VIN-co-lo, ti LI-be-ra.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I swap excuses for honest answers.",
+      "italian": "Sostituisco le scuse con risposte oneste.",
+      "transliteration": "soSTITuiSCO le SCUze con riSPoSTE oNESte.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I make one call I’m avoiding.",
+      "italian": "Faccio quella chiamata che evito.",
+      "transliteration": "FAcCHIO quelLA chiaMAta che eVIto.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I set boundaries, not barriers.",
+      "italian": "Metto confini, non muri.",
+      "transliteration": "METto conFINI, non MUri.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I choose the hard thing first.",
+      "italian": "Scelgo la cosa più difficile per prima.",
+      "transliteration": "sceLGO la coSA più diFFIciLE per PRIma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I stop scrolling and start creating.",
+      "italian": "Smetto di scorrere, e inizio a creare.",
+      "transliteration": "SMETto di scorREre, e INIZio a CREaRE.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I write it down, then release it.",
+      "italian": "Lo scrivo, poi lo lascio andare.",
+      "transliteration": "lo SCRIvo, poi lo laSCIO anDAre.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I celebrate small wins on purpose.",
+      "italian": "Celebro le piccole vittorie, apposta.",
+      "transliteration": "ceLEbro le picCOle vitTOrie, apPOSta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Hi, it s about the appointment.",
+      "italian": "Ciao, è per l appuntamento.",
+      "transliteration": "CIAO, è per l APPUNTAMENTO.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Can you add me to the chat?",
+      "italian": "Puoi aggiungermi al gruppo di chat?",
+      "transliteration": "PUOI aggiungermi al GRUPPO di CHAT?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I just sent you a voice note.",
+      "italian": "Ti ho appena inviato una nota vocale.",
+      "transliteration": "TI HO appena INVIATO una NOTA VOCALE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Please reply when you get this.",
+      "italian": "Rispondimi appena lo leggi, per favore.",
+      "transliteration": "RISPONDI-mi appena lo LEGGI, per FAVORE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Sorry, I m driving right now.",
+      "italian": "Scusa, sto guidando in questo momento.",
+      "transliteration": "SCUSA, sto GUIDANDO in questo MOMENTO.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I need to speak to you quickly.",
+      "italian": "Devo parlarti al volo, per favore.",
+      "transliteration": "DEVO PARLARTI al VOLO, per FAVORE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Do you want to call instead?",
+      "italian": "Preferisci che ti chiami?",
+      "transliteration": "PREFERISCI che ti CHIAMI?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I agree, that’s exactly right.",
+      "italian": "Sono d'accordo, hai proprio ragione.",
+      "transliteration": "sono d'ACCORDO, hai PROPRIO ragIOne.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Yes, I feel the same.",
+      "italian": "Sì, la penso come te.",
+      "transliteration": "si, la PENso COME te.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "You’ve convinced me, fair point.",
+      "italian": "Mi hai convinto, hai fatto un punto giusto.",
+      "transliteration": "mi HAI convinto, hai FATto un PUNto GIUSTO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "That’s a good idea, go for it.",
+      "italian": "È una buona idea, vai pure.",
+      "transliteration": "e UNA BUONA iDEA, vaI puRE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I’m totally with you on this.",
+      "italian": "Su questo sono totalmente dalla tua parte.",
+      "transliteration": "su QUEsto sono toTALmente dalLA tua PARte.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Agreed, we should do it today.",
+      "italian": "D'accordo, facciamolo oggi.",
+      "transliteration": "d'accordo, FACciamolo OGGI.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "That’s right, let’s keep it simple.",
+      "italian": "Hai ragione, teniamola semplice.",
+      "transliteration": "hai raGIOne, teNIamola semPliCE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I start messy, then refine fast.",
+      "italian": "Inizio in modo disordinato, poi affino in fretta.",
+      "transliteration": "INizIo in modo disORDINato, poi AFfino in FREtta.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I keep a voice memo for flashes.",
+      "italian": "Tengo un memo vocale per gli lampi d’idea.",
+      "transliteration": "tengo un MEMo VOcale per gli lamPI dI IDea.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I switch scenes, and the plot moves.",
+      "italian": "Cambio scena, e la storia si muove.",
+      "transliteration": "CAMbio SCENa, e la STOria si MUove.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I read the world like a book.",
+      "italian": "Leggo il mondo come fosse un libro.",
+      "transliteration": "LEGgo il MONdo coME fosse un LIbro.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "A single detail sparks my whole plan.",
+      "italian": "Un solo dettaglio accende tutto il mio piano.",
+      "transliteration": "un SOlo DETtaglio acCENde TUTo il mio PIano.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I let sunlight write in my head.",
+      "italian": "Lascio che il sole scriva nella mia testa.",
+      "transliteration": "laSCIO che il SOle SCRIvA nella mia TESTa.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I ask why, then I keep going.",
+      "italian": "Chiedo perché, poi continuo senza paura.",
+      "transliteration": "CHIEdo PERCHE, poi conTINuo SENza pauRA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "You show up for me, always.",
+      "italian": "Tu ci sei per me, sempre.",
+      "transliteration": "Tu ci SEI per me, SEM-pre.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I can be myself with you.",
+      "italian": "Con te posso essere me stesso.",
+      "transliteration": "Con te pos-so es-SE-re me stES-so.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "We pick each other up fast.",
+      "italian": "Ci tiriamo su a vicenda, subito.",
+      "transliteration": "Ci ti-ri-a-mo SU a vi-CEN-da, SU-bi-to.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Your advice always lands right.",
+      "italian": "Il tuo consiglio mi arriva sempre giusto.",
+      "transliteration": "Il tuo con-siGLIO mi AR-ri-va sem-pre GIU-sto.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "Let’s celebrate small wins together.",
+      "italian": "Facciamo festa anche alle piccole vittorie.",
+      "transliteration": "Fấc-ci-a-mo FES-ta an-che al-le pic-co-le vit-TÓ-rie.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "You make hard conversations easier.",
+      "italian": "Con te parlare è più facile, davvero.",
+      "transliteration": "Con te par-LA-re è più fa-CI-le, da-VER-o.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "I love our inside jokes.",
+      "italian": "Mi fai ridere con le nostre battute private.",
+      "transliteration": "Mi fai ri-DE-re con le nos-tre bat-TU-te pri-VÀ-te.",
+      "category": "Friendship",
+      "generated_at": "2026-11-26T19:44:05.736895"
     }
   ],
-  "last_updated": "2026-11-25T20:00:23.465022"
+  "last_updated": "2026-11-26T19:44:05.736895"
 }
