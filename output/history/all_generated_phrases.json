@@ -24599,7 +24599,399 @@
       "transliteration": "Mi fai ri-DE-re con le nos-tre bat-TU-te pri-VÀ-te.",
       "category": "Friendship",
       "generated_at": "2026-11-26T19:44:05.736895"
+    },
+    {
+      "english": "That was so kind of you, davvero",
+      "italian": "È stato così gentile da parte tua, davvero",
+      "transliteration": "e STATO cosi genTile da PARTE tua, DAVVERO",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Please, go ahead, I really mean it",
+      "italian": "Prego, vai pure avanti, lo dico davvero",
+      "transliteration": "PRE-go, vai PURe aVAN-ti, lo dico DAV-ve-ro",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "You’re welcome, thanks for being patient",
+      "italian": "Di niente, grazie per la tua pazienza",
+      "transliteration": "di Nien-te, GRA-zie per la TUA paZIENT-sa",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I appreciate how you handled that",
+      "italian": "Apprezzo molto come hai gestito la situazione",
+      "transliteration": "apPREZ-zo MOL-to coME hai gesTI-to la siTU-a-ZIO-ne",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Want to sit there? I’m fine here",
+      "italian": "Vuoi sederti lì, io sto bene qui",
+      "transliteration": "VOI seDER-ti LI, io STO be-ne QUI",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Could you repeat that, please? No rush",
+      "italian": "Puoi ripetermi, per favore, senza fretta",
+      "transliteration": "PUO-i riPE-ter-mi, per faVO-re, SEN-za FRET-ta",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Thanks for waiting, I’m almost ready",
+      "italian": "Grazie per aver aspettato, ci sono quasi",
+      "transliteration": "GRA-zie per aVER aSSET-ta-to, ci soNO qua-si",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "What time is dinner served?",
+      "italian": "A che ora si serve la cena?",
+      "transliteration": "A CHE ORA SI SERVE la CENA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Do you have any local dishes?",
+      "italian": "Avete piatti tipici della zona?",
+      "transliteration": "AVETE PIATTI TIPICI della ZONA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Is there a kids menu?",
+      "italian": "Avete un menu per bambini?",
+      "transliteration": "AVETE un MENU per BAMBINI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I would like the tasting menu.",
+      "italian": "Vorrei il menu degustazione, per favore.",
+      "transliteration": "VORREI il MENU DEGUSTAZIONE, per FAVORE.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Do you have fried or grilled?",
+      "italian": "Avete opzioni fritte o grigliate?",
+      "transliteration": "AVETE OPZIONI FRITTE O GRIGLIATE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Can I get it without sauce?",
+      "italian": "Posso averlo senza salsa?",
+      "transliteration": "POSSO AVE RLO SENZA SALSA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I prefer mild, not spicy.",
+      "italian": "Preferisco non piccante, grazie.",
+      "transliteration": "PREFERISCO non PICCANTE, GRAZIE.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Thanks for making time for me",
+      "italian": "Grazie per aver trovato tempo per me",
+      "transliteration": "Grazie per AVERe trovato TEM-po per me",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I owe you one, really",
+      "italian": "Te lo devo, davvero",
+      "transliteration": "Te lo DE-vo, da-VER-o",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Your support means a lot to me",
+      "italian": "Il tuo supporto per me conta molto",
+      "transliteration": "Il tuo sup-por-to per ME con-ta MOL-to",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I’m grateful for your steady help",
+      "italian": "Ti sono grato per il tuo aiuto costante",
+      "transliteration": "Ti so-no gra-to per il tuo AIu-to co-STAN-te",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Thank you for calming me down",
+      "italian": "Grazie per avermi calmato",
+      "transliteration": "Grazie per aVER-mi cal-ma-to",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I appreciate the little things you do",
+      "italian": "Apprezzo le piccole cose che fai",
+      "transliteration": "Ap-prez-zo le pic-co-le CO-se che fai",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Thanks for walking me through it",
+      "italian": "Grazie per avermi guidato passo passo",
+      "transliteration": "Grazie per aVER-mi gui-da-to pas-so pas-so",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I forgive you, for real this time.",
+      "italian": "Io ti perdono, davvero questa volta.",
+      "transliteration": "Io ti PER-dò-no, DAV-ve-ro QUE-sta VOL-ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I’m not keeping score anymore.",
+      "italian": "Non voglio più tenere il conto.",
+      "transliteration": "Non VO-glio più te-NÈ-re il CON-to.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "We can restart without blame.",
+      "italian": "Possiamo ricominciare senza colpa.",
+      "transliteration": "POS-sia-mo ri-com-IN-cia-re SEN-za COL-pa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Let’s reset, and breathe together.",
+      "italian": "Facciamo un reset, respiriamo insieme.",
+      "transliteration": "Fac-cIA-mo un RI-set, res-PÏ-a-mo in-sIÈ-me.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I release you from this pain.",
+      "italian": "Ti libero da questo dolore.",
+      "transliteration": "Ti LI-be-ro da QUE-sto DO-lo-re.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I understand, and I forgive.",
+      "italian": "Capisco, e ti perdono.",
+      "transliteration": "CA-pì-sco, e ti PER-dò-no.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I choose calm over anger.",
+      "italian": "Scelgo la calma invece dell’ira.",
+      "transliteration": "SCE-glio la CAL-ma in-ve-ce del-LI-ra.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I can start again, hopeful.",
+      "italian": "Posso ricominciare, con speranza.",
+      "transliteration": "POS so ri com IN cia re, con SPE ran za.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I m hopeful, not naive about it.",
+      "italian": "Sono speranzoso, senza essere ingenuo.",
+      "transliteration": "SO no spe ran zo SO, SEN za es se re in GE nuo.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Small signs still feel like hope.",
+      "italian": "Anche i piccoli segnali mi danno speranza.",
+      "transliteration": "AN che i PIC co li SEG na li mi DAN no spe ran za.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Tonight, I choose a gentler hope.",
+      "italian": "Stasera scelgo una speranza più gentile.",
+      "transliteration": "STA se ra SCEL go u NA spe ran za più GEN ti le.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Hope makes room for honest action.",
+      "italian": "La speranza mi lascia spazio per agire davvero.",
+      "transliteration": "La SPE ran za mi LA scia SPA zio per a GI re DA ve ro.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I hear hope in my own voice.",
+      "italian": "Sento la speranza nella mia voce.",
+      "transliteration": "SEN to la spe ran za nel la MI a VO ce.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I won t give up on possibility.",
+      "italian": "Non rinuncio alla possibilità.",
+      "transliteration": "NON ri NUN cio al la pos SI bi li tà.",
+      "category": "Hope",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "How fresh are the pastries today?",
+      "italian": "Quanto sono fresche le paste di oggi?",
+      "transliteration": "QUAN-to SO-no FRES-che le PAS-te di OGGI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "What kind of bread do you suggest?",
+      "italian": "Che tipo di pane mi consigli?",
+      "transliteration": "Che TI-po di PA-ne mi CON-si?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Can I get a slice to go?",
+      "italian": "Posso prendere una fetta da portare via?",
+      "transliteration": "POS-so PREN-de-re u-na FET-ta da POR-ta-re VIA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Do you have anything gluten-free?",
+      "italian": "Avete qualcosa senza glutine?",
+      "transliteration": "AV-e-te QUAL-co-sa SEN-za GLU-ti-ne?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "This smells amazing, thank you.",
+      "italian": "Ha un profumo meraviglioso, grazie.",
+      "transliteration": "A-ha un pro-FU-mo me-ra-VI-glio-so, GRA-zie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Could I try a pistachio tart?",
+      "italian": "Posso assaggiare una crostata al pistacchio?",
+      "transliteration": "POS-so as-SAG-gia-re u-na CRO-sta-ta al pis-taC-chio?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "I’ll take it with sugar-free syrup.",
+      "italian": "Lo prendo con uno sciroppo senza zucchero.",
+      "transliteration": "LO PREn-do con u-no SCI-roP-po SEN-za zuc-CHE-ro.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Pick one value to live by",
+      "italian": "Scegli un valore da seguire oggi, e vivi lì.",
+      "transliteration": "SCHEgli uN VALORe da SEGUire OGgi, e VIvi lì.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Make your days mean something",
+      "italian": "Rendi i tuoi giorni significativi, senza rimandare.",
+      "transliteration": "RENdi i TOI GIORni signiFICAativi, SENza rimANdare.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Choose effort, not perfect results",
+      "italian": "Scegli di impegnarti, non la perfezione dei risultati.",
+      "transliteration": "SCEgli di imPEGnarTI, non la perFeZIOne dei RISULTATI.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Let your purpose show up first",
+      "italian": "Fai arrivare il tuo scopo prima, nelle scelte quotidiane.",
+      "transliteration": "FAI arriVARe il tuo SCOpo PRIma, nelLE SCELte quoTIdiAne.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Say no to distractive detours",
+      "italian": "Dì no alle deviazioni che ti portano lontano.",
+      "transliteration": "DI no alLE deVIaZIOni che ti porTANo LONtano.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Turn your why into action now",
+      "italian": "Trasforma il tuo perché in un’azione concreta, oggi.",
+      "transliteration": "traSFORma il tuo perCHÉ in un’azioNE CONCreta, OGgi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Ask what energizes you most",
+      "italian": "Chiediti cosa ti dà energia, e scegli da lì.",
+      "transliteration": "chieDIti coSA ti dà ENERgia, e SCEgli da LÌ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Strength grows when you show up",
+      "italian": "La forza cresce quando ti presenti",
+      "transliteration": "La FOR-za cre-sce quan-do ti PRE-sen-ti",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Choose effort over excuses, today",
+      "italian": "Scegli lo sforzo invece delle scuse, oggi",
+      "transliteration": "SCE-gli lo SFOR-zo in-VE-ce del-le SCU-se, O-ggi",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Do one thing, even afraid",
+      "italian": "Fai una cosa, anche se hai paura",
+      "transliteration": "FAI u-na CO-sa, AN-che se hai PAU-ra",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Say it clearly, and move",
+      "italian": "Dillo chiaro, e poi vai avanti",
+      "transliteration": "DIL-lo CHIA-ro, e poi VAI a-van-ti",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "You can rest without giving up",
+      "italian": "Puoi riposarti senza mollare",
+      "transliteration": "PUOI ri-po-sar-ti SEN-za MOL-la-re",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Turn doubt into a small plan",
+      "italian": "Trasforma il dubbio in un piano piccolo",
+      "transliteration": "Tras-FOR-ma il DUB-bio in un PIA-no PIC-colo",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
+    },
+    {
+      "english": "Let your body lead, gently",
+      "italian": "Lascia che il corpo ti guidi, con dolcezza",
+      "transliteration": "LaSCIA che il COR-po ti GUID-i, con dol-CEZ-za",
+      "category": "Strength",
+      "generated_at": "2026-11-27T19:32:11.399496"
     }
   ],
-  "last_updated": "2026-11-26T19:44:05.736895"
+  "last_updated": "2026-11-27T19:32:11.399496"
 }
